@@ -2,17 +2,22 @@ name: Atualizador de Tarifas
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Roda todo dia às 03:00 da manhã
-  workflow_dispatch: # Permite que você rode o botão manualmente para testar
+    - cron: '0 3 * * *'
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Garante que a permissão de escrita seja aplicada a este job específico
     permissions:
-      contents: write # Permite que o robô salve o arquivo no seu git
+      contents: write
+      
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          # Isso é importante para permitir o push de volta
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -29,7 +34,12 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add dados_tarifas.json
-          # O comando abaixo garante que o commit ocorra mesmo se o git estiver "teimoso"
-          git commit -m "Atualizacao: $(date +'%d-%m-%Y %H:%M:%S')" || exit 0
-          git push
+          
+          # Força a adição do arquivo mesmo que ele pareça igual
+          git add -f dados_tarifas.json
+          
+          # O 'date' garante que o commit seja ÚNICO, forçando a atualização
+          git commit -m "Atualizacao manual: $(date +'%d-%m-%Y %H:%M:%S')" || echo "Sem mudanças"
+          
+          # Faz o push para a branch main
+          git push origin main
