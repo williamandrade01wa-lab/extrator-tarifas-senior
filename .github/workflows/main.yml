@@ -29,7 +29,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          # O comando abaixo adiciona o arquivo, e o '|| true' evita que a Action quebre se não houver mudanças
           git add dados_tarifas.json
-          git commit -m "Tarifas atualizadas: $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
-          git push origin main
+          # O comando abaixo garante que o commit ocorra mesmo se o git estiver "teimoso"
+          git commit -m "Atualizacao: $(date +'%d-%m-%Y %H:%M:%S')" || exit 0
+          git push
