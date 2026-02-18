@@ -11,11 +11,10 @@ def extrair():
     try:
         response = requests.get(url, headers=headers, timeout=30)
         
-        # Se o site usa ISO-8859-1, convertemos explicitamente aqui
-        # Isso corrige MaceiÃ³ -> Maceió
-        texto_corrigido = response.content.decode('iso-8859-1')
+        # 1. Pegamos o conteúdo bruto e forçamos a decodificação ISO-8859-1 (Latin-1)
+        html_content = response.content.decode('iso-8859-1')
         
-        soup = BeautifulSoup(texto_corrigido, 'html.parser')
+        soup = BeautifulSoup(html_content, 'html.parser')
         tabelas = soup.find_all('table')
         
         lista_tarifas = []
@@ -26,6 +25,10 @@ def extrair():
                     cols = linha.find_all('td')
                     if len(cols) >= 4 and cols[0].text.strip().isdigit():
                         
+                        # Função para limpar espaços e garantir que o Python trate como string limpa
+                        def limpar(texto):
+                            return " ".join(texto.strip().split())
+
                         valor_texto = cols[3].text.strip().replace('.', '').replace(',', '.')
                         try:
                             valor_num = float(valor_texto)
@@ -33,19 +36,19 @@ def extrair():
                             valor_num = 0.0
 
                         lista_tarifas.append({
-                            "codigo": cols[0].text.strip(),
-                            "nome": cols[1].text.strip(),
-                            "fornecedor": cols[2].text.strip(),
+                            "codigo": limpar(cols[0].text),
+                            "nome": limpar(cols[1].text),
+                            "fornecedor": limpar(cols[2].text),
                             "valor": valor_num,
-                            "uf": cols[7].text.strip() if len(cols) > 7 else "",
-                            "cidade": cols[8].text.strip() if len(cols) > 8 else ""
+                            "uf": limpar(cols[7].text) if len(cols) > 7 else "",
+                            "cidade": limpar(cols[8].text) if len(cols) > 8 else ""
                         })
         
-        # Salvamos com UTF-8 explícito
+        # 2. Salvamos com UTF-8 real e indentação para o Git ver a mudança
         with open('dados_tarifas.json', 'w', encoding='utf-8') as f:
-            json.dump(lista_tarifas, f, ensure_ascii=False, indent=4)
+            json.dump(lista_tarifas, f, ensure_ascii=False, indent=2) # mudei indent para 2
         
-        print(f"Sucesso: {len(lista_tarifas)} itens.")
+        print(f"Sucesso: {len(lista_tarifas)} itens processados.")
             
     except Exception as e:
         print(f"Erro: {e}")
