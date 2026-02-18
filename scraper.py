@@ -9,14 +9,13 @@ def extrair():
     }
     
     try:
-        session = requests.Session()
-        response = session.get(url, headers=headers, timeout=30)
+        response = requests.get(url, headers=headers, timeout=30)
         
-        # SOLUÇÃO PARA OS ACENTOS:
-        # Primeiro, pegamos o conteúdo bruto (content) e decodificamos ignorando erros
-        html_decodificado = response.content.decode('iso-8859-1', errors='ignore')
+        # Se o site usa ISO-8859-1, convertemos explicitamente aqui
+        # Isso corrige MaceiÃ³ -> Maceió
+        texto_corrigido = response.content.decode('iso-8859-1')
         
-        soup = BeautifulSoup(html_decodificado, 'html.parser')
+        soup = BeautifulSoup(texto_corrigido, 'html.parser')
         tabelas = soup.find_all('table')
         
         lista_tarifas = []
@@ -27,16 +26,6 @@ def extrair():
                     cols = linha.find_all('td')
                     if len(cols) >= 4 and cols[0].text.strip().isdigit():
                         
-                        # Limpeza extra para remover caracteres invisíveis
-                        def limpar_texto(txt):
-                            return txt.strip().encode('latin-1', 'ignore').decode('utf-8', 'ignore') if txt else ""
-
-                        # Se a conversão acima falhar, usamos esta mais simples:
-                        nome = cols[1].text.strip()
-                        fornecedor = cols[2].text.strip()
-                        cidade = cols[8].text.strip() if len(cols) > 8 else ""
-
-                        # Tratamento do valor (6,90 -> 6.9)
                         valor_texto = cols[3].text.strip().replace('.', '').replace(',', '.')
                         try:
                             valor_num = float(valor_texto)
@@ -45,18 +34,18 @@ def extrair():
 
                         lista_tarifas.append({
                             "codigo": cols[0].text.strip(),
-                            "nome": nome,
-                            "fornecedor": fornecedor,
+                            "nome": cols[1].text.strip(),
+                            "fornecedor": cols[2].text.strip(),
                             "valor": valor_num,
                             "uf": cols[7].text.strip() if len(cols) > 7 else "",
-                            "cidade": cidade
+                            "cidade": cols[8].text.strip() if len(cols) > 8 else ""
                         })
         
-        # Gravação final em UTF-8 real
+        # Salvamos com UTF-8 explícito
         with open('dados_tarifas.json', 'w', encoding='utf-8') as f:
             json.dump(lista_tarifas, f, ensure_ascii=False, indent=4)
         
-        print(f"Sucesso: {len(lista_tarifas)} itens processados.")
+        print(f"Sucesso: {len(lista_tarifas)} itens.")
             
     except Exception as e:
         print(f"Erro: {e}")
