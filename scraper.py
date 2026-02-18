@@ -11,10 +11,20 @@ def extrair():
     try:
         response = requests.get(url, headers=headers, timeout=30)
         
-        # 1. Pegamos o conteúdo bruto e forçamos a decodificação ISO-8859-1 (Latin-1)
-        html_content = response.content.decode('iso-8859-1')
-        
-        soup = BeautifulSoup(html_content, 'html.parser')
+        # --- SOLUÇÃO ATÓMICA PARA ACENTOS ---
+        # Forçamos o conteúdo para latin-1 e depois corrigimos para utf-8
+        # Se o Maceió vira MaceiÃ³, é porque ele foi lido como UTF-8 quando era Latin-1
+        try:
+            texto_corrigido = response.content.decode('utf-8')
+        except:
+            texto_corrigido = response.content.decode('iso-8859-1')
+            
+        # Reforço extra: se o erro MaceiÃ³ aparecer, nós "desfazemos" ele
+        if "Ã³" in texto_corrigido or "Ã£" in texto_corrigido:
+            texto_corrigido = texto_corrigido.encode('cp1252').decode('utf-8')
+        # -------------------------------------
+
+        soup = BeautifulSoup(texto_corrigido, 'html.parser')
         tabelas = soup.find_all('table')
         
         lista_tarifas = []
@@ -25,7 +35,6 @@ def extrair():
                     cols = linha.find_all('td')
                     if len(cols) >= 4 and cols[0].text.strip().isdigit():
                         
-                        # Função para limpar espaços e garantir que o Python trate como string limpa
                         def limpar(texto):
                             return " ".join(texto.strip().split())
 
@@ -44,9 +53,9 @@ def extrair():
                             "cidade": limpar(cols[8].text) if len(cols) > 8 else ""
                         })
         
-        # 2. Salvamos com UTF-8 real e indentação para o Git ver a mudança
+        # Salvamos com indentação 4 para garantir que o Git veja como algo novo de novo
         with open('dados_tarifas.json', 'w', encoding='utf-8') as f:
-            json.dump(lista_tarifas, f, ensure_ascii=False, indent=2) # mudei indent para 2
+            json.dump(lista_tarifas, f, ensure_ascii=False, indent=4)
         
         print(f"Sucesso: {len(lista_tarifas)} itens processados.")
             
