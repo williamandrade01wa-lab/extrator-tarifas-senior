@@ -78,7 +78,7 @@ def extrair():
                     ])
 
         # Gravação do CSV Final
-        with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='') as f:
+        with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='', errors='replace') as f:
             writer = csv.writer(f, delimiter=';')
             writer.writerow([
                 'Cod.', 'Nome', 'Fornecedor', 'Valor Unit.', 'Prazo recarga', 
