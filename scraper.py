@@ -1,16 +1,19 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
-from datetime import datetime
 
 def extrair():
-    url = "https://app.beneficiofacil.com.br/apbprodutos.asp"
+    # URL parametrizada para retornar todos os registros
+    url = "https://app.beneficiofacil.com.br/apbprodutos.asp?acao=pesquisar&nome=&fornecedor=0&tipo=0&uf="
+    
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Referer': 'https://app.beneficiofacil.com.br/apbprodutos.asp'
     }
     
     try:
-        response = requests.get(url, headers=headers, timeout=30)
+        session = requests.Session()
+        response = session.get(url, headers=headers, timeout=30)
         
         try:
             texto_corrigido = response.content.decode('utf-8')
@@ -21,25 +24,24 @@ def extrair():
             texto_corrigido = texto_corrigido.encode('cp1252').decode('utf-8')
 
         soup = BeautifulSoup(texto_corrigido, 'html.parser')
-        
         lista_tarifas = []
-        # Pegamos TODAS as linhas da página
-        linhas = soup.find_all('tr')
+        todas_as_linhas = soup.find_all('tr')
         
         def limpar(texto):
             return " ".join(texto.strip().split())
 
-        for linha in linhas:
+        for linha in todas_as_linhas:
             cols = linha.find_all('td')
             
-            # Verificamos se a primeira coluna é um número (Código)
+            # Verificamos se tem colunas suficientes e se a primeira é o código (número)
             if len(cols) >= 10:
                 codigo_txt = limpar(cols[0].text)
                 if codigo_txt.isdigit():
                     
-                    valor_txt = limpar(cols[3].text).replace('.', '').replace(',', '.')
+                    # Tratamento do valor para o padrão Senior (vírgula decimal)
+                    valor_original = limpar(cols[3].text).replace('.', '').replace(',', '.')
                     try:
-                        valor_num = valor_txt.replace('.', ',') # Mantém formato Senior
+                        valor_num = valor_original.replace('.', ',') 
                     except:
                         valor_num = "0,00"
 
@@ -56,10 +58,9 @@ def extrair():
                         limpar(cols[9].text)        # Data Tarifa
                     ])
 
-        # Gravação do CSV com a nova ordem de colunas
+        # Gravação do CSV
         with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='') as f:
             writer = csv.writer(f, delimiter=';')
-            # Cabeçalho solicitado
             writer.writerow([
                 'Cod.', 'Nome', 'Fornecedor', 'Valor Unit.', 'Prazo recarga', 
                 'Prazo cartão novo', 'Tipo', 'UF', 'Cidade', 'Data Tarifa'
