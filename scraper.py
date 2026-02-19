@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import csv  # 1. Movido para o topo
+import csv
 
 def extrair():
     url = "https://app.beneficiofacil.com.br/apbprodutos.asp"
@@ -12,7 +12,7 @@ def extrair():
     try:
         response = requests.get(url, headers=headers, timeout=30)
         
-        # Lógica de correção de acentos que funcionou
+        # Lógica de correção de acentos
         try:
             texto_corrigido = response.content.decode('utf-8')
         except:
@@ -50,23 +50,18 @@ def extrair():
                             "cidade": limpar(cols[8].text) if len(cols) > 8 else ""
                         })
 
-        # SALVAR EM CSV (Com Cabeçalho para facilitar conferência)
+        # SALVAR EM CSV (Com Cabeçalho)
         with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='') as f:
             writer = csv.writer(f, delimiter=';')
-            
-            # Escreve o cabeçalho
             writer.writerow(['codigo', 'valor', 'nome', 'fornecedor', 'uf', 'cidade'])
-            
             for t in lista_tarifas:
-                # Valor com vírgula para o padrão brasileiro da Senior G5
                 valor_formatado = str(t['valor']).replace('.', ',')
-                writer.writerow([
-                    t['codigo'], 
-                    valor_formatado, 
-                    t['nome'], 
-                    t['fornecedor'], 
-                    t['uf'], 
-                    t['cidade']
-                ])
+                writer.writerow([t['codigo'], valor_formatado, t['nome'], t['fornecedor'], t['uf'], t['cidade']])
         
         print(f"Sucesso: {len(lista_tarifas)} itens processados com cabeçalho.")
+
+    except Exception as e:
+        print(f"Erro na execução: {e}")
+
+if __name__ == "__main__":
+    extrair()
