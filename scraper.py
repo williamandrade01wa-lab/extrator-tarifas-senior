@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import csv  # 1. Movido para o topo
 
 def extrair():
     url = "https://app.beneficiofacil.com.br/apbprodutos.asp"
@@ -11,18 +12,14 @@ def extrair():
     try:
         response = requests.get(url, headers=headers, timeout=30)
         
-        # --- SOLUÇÃO ATÓMICA PARA ACENTOS ---
-        # Forçamos o conteúdo para latin-1 e depois corrigimos para utf-8
-        # Se o Maceió vira MaceiÃ³, é porque ele foi lido como UTF-8 quando era Latin-1
+        # Lógica de correção de acentos que funcionou
         try:
             texto_corrigido = response.content.decode('utf-8')
         except:
             texto_corrigido = response.content.decode('iso-8859-1')
             
-        # Reforço extra: se o erro MaceiÃ³ aparecer, nós "desfazemos" ele
         if "Ã³" in texto_corrigido or "Ã£" in texto_corrigido:
             texto_corrigido = texto_corrigido.encode('cp1252').decode('utf-8')
-        # -------------------------------------
 
         soup = BeautifulSoup(texto_corrigido, 'html.parser')
         tabelas = soup.find_all('table')
@@ -53,9 +50,17 @@ def extrair():
                             "cidade": limpar(cols[8].text) if len(cols) > 8 else ""
                         })
         
-        # Salvamos com indentação 4 para garantir que o Git veja como algo novo de novo
+        # SALVAR EM JSON
         with open('dados_tarifas.json', 'w', encoding='utf-8') as f:
             json.dump(lista_tarifas, f, ensure_ascii=False, indent=4)
+        
+        # SALVAR EM CSV (Alinhado com o with de cima)
+        with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='') as f:
+            writer = csv.writer(f, delimiter=';')
+            for t in lista_tarifas:
+                # Formatando valor com vírgula para a Senior G5
+                valor_formatado = str(t['valor']).replace('.', ',')
+                writer.writerow([t['codigo'], valor_formatado, t['nome'], t['fornecedor'], t['uf'], t['cidade']])
         
         print(f"Sucesso: {len(lista_tarifas)} itens processados.")
             
@@ -64,18 +69,3 @@ def extrair():
 
 if __name__ == "__main__":
     extrair()
-
-# Gerar o CSV formatado para o SGI da Senior
-        import csv
-        with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='') as f:
-            writer = csv.writer(f, delimiter=';')
-            # Escreve os dados (sem cabeçalho para facilitar o SGI)
-            for t in lista_tarifas:
-                writer.writerow([
-                    t['codigo'], 
-                    str(t['valor']).replace('.', ','), # Senior G5 costuma preferir vírgula em CSV
-                    t['nome'], 
-                    t['fornecedor'], 
-                    t['uf'], 
-                    t['cidade']
-                ])
