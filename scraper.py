@@ -97,22 +97,32 @@ if __name__ == "__main__":
 
 import ftplib
 
-def subir_ftp(arquivo_local):
-    # Substitua pelos seus dados
-    ftp_host = "seu_ftp_ou_ip"
-    ftp_user = "seu_usuario"
-    ftp_pass = "sua_senha"
-    
-    try:
-        print(f"Conectando ao FTP {ftp_host}...")
-        with ftplib.FTP(ftp_host) as ftp:
-            ftp.login(user=ftp_user, passwd=ftp_pass)
-            with open(arquivo_local, 'rb') as f:
-                # O comando STOR grava o arquivo no servidor
-                ftp.storbinary(f'STOR {arquivo_local}', f)
-        print("Arquivo enviado ao FTP com sucesso!")
-    except Exception as e:
-        print(f"Erro no FTP: {e}")
+import os
+import ftplib
 
-# Chame a função no final do seu script principal
-# subir_ftp('tarifas_senior.csv')
+def subir_ftp(arquivo_local):
+    # Puxa as variáveis que o GitHub Actions vai injetar
+    host = os.getenv('FTP_SERVER')
+    user = os.getenv('FTP_USERNAME')
+    passwd = os.getenv('FTP_PASSWORD')
+    
+    if not all([host, user, passwd]):
+        print("❌ Erro: Secrets do FTP não foram carregados corretamente.")
+        return
+
+    try:
+        print(f"📡 Conectando ao FTP: {host}...")
+        with ftplib.FTP(host, timeout=30) as ftp:
+            ftp.login(user=user, passwd=passwd)
+            ftp.set_pasv(True)  # Ativa modo passivo para atravessar firewalls
+            
+            with open(arquivo_local, 'rb') as f:
+                ftp.storbinary(f'STOR {arquivo_local}', f)
+        print(f"✅ Sucesso! Arquivo '{arquivo_local}' enviado ao servidor FTP.")
+    except Exception as e:
+        print(f"❌ Erro ao subir para o FTP: {e}")
+
+# --- No final do seu código principal, chame a função ---
+if __name__ == "__main__":
+    extrair()
+    subir_ftp('tarifas_senior.csv')
