@@ -45,17 +45,22 @@ jobs:
           git push origin main
 
 
-      - name: Enviar para Senior Cloud
+      - name: Enviar para Senior Cloud (Porta 21)
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          # Senior Cloud geralmente exige FTPS (seguro)
-          protocol: ftps
           port: 21
+          protocol: ftps
+          # Força o uso de SSL para não dar erro de segurança na Senior Cloud
+          security: loose
+          # Local onde o arquivo está na raiz do GitHub
           local-dir: ./
-          server-dir: ./Tarifas_BeneficioFacil/ # Verifique se essa pasta existe lá
-          include: |
-            *.csv
-            *.json
+          # Caminho no servidor (certifique-se que a pasta existe)
+          server-dir: ./Tarifas_BeneficioFacil/
+          # Exclui tudo e depois inclui só o que queremos (contorna o erro do 'include')
+          exclude: |
+            **
+            !tarifas_senior.csv
+            !dados_tarifas.json
