@@ -1,54 +1,37 @@
-name: Atualizador de Tarifas
+name: Atualizar Tarifas no Repositorio
 
 on:
   schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch: 
+    - cron: '0 4 * * *' # Roda todo dia às 04:00 da manhã
+  workflow_dispatch: # Permite que você rode manualmente agora para testar
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Garante que a permissão de escrita seja aplicada a este job específico
     permissions:
-      contents: write
-      
+      contents: write # Dá permissão para o robô salvar o arquivo no seu projeto
+
     steps:
-      - name: Checkout
+      - name: Checkout do código
         uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
         with:
-          # Isso é importante para permitir o push de volta
-          fetch-depth: 0
+          python-version: '3.10'
 
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
+      - name: Instalar dependências
+        run: |
+          pip install requests beautifulsoup4
 
-      - name: Instalar Dependencias
-        run: pip install requests beautifulsoup4
-
-      - name: Rodar Script
+      - name: Executar Scraper
         run: python scraper.py
 
-      - name: Salvar Mudancas
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
-          # Força a adição do arquivo mesmo que ele pareça igual
-          git add -f dados_tarifas.json
-          
-          # O 'date' garante que o commit seja ÚNICO, forçando a atualização
-          git commit -m "Atualizacao manual: $(date +'%d-%m-%Y %H:%M:%S')" || echo "Sem mudanças"
-          
-          # Faz o push para a branch main
-          git push origin main
-
-
-      - name: Salvar arquivos no repositório
+      - name: Salvar arquivos no GitHub
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add dados_tarifas.json tarifas_senior.csv
-          git commit -m "Atualização automática de tarifas: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git add tarifas_senior.csv
+          # O comando abaixo evita erro se o arquivo não tiver mudado nada
+          git commit -m "Atualização automática de tarifas: $(date +'%d/%m/%Y %H:%M')" || echo "Sem mudanças"
           git push
