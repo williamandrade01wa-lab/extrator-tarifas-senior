@@ -52,5 +52,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./ # Pasta onde está o arquivo no GitHub
-          server-dir: ./importacao/ # Pasta de destino no seu FTP
+          server-dir: ./Tarifas_BeneficioFacil # Pasta de destino no seu FTP
           dangerous-clean-slate: false # Para não apagar o que já existe lá
