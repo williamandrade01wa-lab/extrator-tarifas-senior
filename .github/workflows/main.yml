@@ -43,3 +43,14 @@ jobs:
           
           # Faz o push para a branch main
           git push origin main
+
+
+          - name: Enviar para o FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./ # Pasta onde está o arquivo no GitHub
+          server-dir: ./importacao/ # Pasta de destino no seu FTP
+          dangerous-clean-slate: false # Para não apagar o que já existe lá
