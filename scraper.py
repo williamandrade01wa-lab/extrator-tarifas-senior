@@ -93,3 +93,26 @@ def extrair():
 
 if __name__ == "__main__":
     extrair()
+
+
+import ftplib
+
+def subir_ftp(arquivo_local):
+    # Substitua pelos seus dados
+    ftp_host = "seu_ftp_ou_ip"
+    ftp_user = "seu_usuario"
+    ftp_pass = "sua_senha"
+    
+    try:
+        print(f"Conectando ao FTP {ftp_host}...")
+        with ftplib.FTP(ftp_host) as ftp:
+            ftp.login(user=ftp_user, passwd=ftp_pass)
+            with open(arquivo_local, 'rb') as f:
+                # O comando STOR grava o arquivo no servidor
+                ftp.storbinary(f'STOR {arquivo_local}', f)
+        print("Arquivo enviado ao FTP com sucesso!")
+    except Exception as e:
+        print(f"Erro no FTP: {e}")
+
+# Chame a função no final do seu script principal
+# subir_ftp('tarifas_senior.csv')
