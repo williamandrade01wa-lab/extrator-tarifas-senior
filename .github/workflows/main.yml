@@ -54,8 +54,8 @@ jobs:
           # Senior Cloud geralmente exige FTPS (seguro)
           protocol: ftps
           port: 21
-          local-dir: ./Tarifas_BeneficioFacil/
-          server-dir: ./sua_pasta/ # Verifique se essa pasta existe lá
+          local-dir: ./
+          server-dir: ./Tarifas_BeneficioFacil/ # Verifique se essa pasta existe lá
           include: |
             *.csv
             *.json
