@@ -64,3 +64,18 @@ def extrair():
 
 if __name__ == "__main__":
     extrair()
+
+# Gerar o CSV formatado para o SGI da Senior
+        import csv
+        with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='') as f:
+            writer = csv.writer(f, delimiter=';')
+            # Escreve os dados (sem cabeçalho para facilitar o SGI)
+            for t in lista_tarifas:
+                writer.writerow([
+                    t['codigo'], 
+                    str(t['valor']).replace('.', ','), # Senior G5 costuma preferir vírgula em CSV
+                    t['nome'], 
+                    t['fornecedor'], 
+                    t['uf'], 
+                    t['cidade']
+                ])
