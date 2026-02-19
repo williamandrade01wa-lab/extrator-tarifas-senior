@@ -49,23 +49,24 @@ def extrair():
                             "uf": limpar(cols[7].text) if len(cols) > 7 else "",
                             "cidade": limpar(cols[8].text) if len(cols) > 8 else ""
                         })
-        
-        # SALVAR EM JSON
-        with open('dados_tarifas.json', 'w', encoding='utf-8') as f:
-            json.dump(lista_tarifas, f, ensure_ascii=False, indent=4)
-        
-        # SALVAR EM CSV (Alinhado com o with de cima)
+
+        # SALVAR EM CSV (Com Cabeçalho para facilitar conferência)
         with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='') as f:
             writer = csv.writer(f, delimiter=';')
-            for t in lista_tarifas:
-                # Formatando valor com vírgula para a Senior G5
-                valor_formatado = str(t['valor']).replace('.', ',')
-                writer.writerow([t['codigo'], valor_formatado, t['nome'], t['fornecedor'], t['uf'], t['cidade']])
-        
-        print(f"Sucesso: {len(lista_tarifas)} itens processados.")
             
-    except Exception as e:
-        print(f"Erro: {e}")
-
-if __name__ == "__main__":
-    extrair()
+            # Escreve o cabeçalho
+            writer.writerow(['codigo', 'valor', 'nome', 'fornecedor', 'uf', 'cidade'])
+            
+            for t in lista_tarifas:
+                # Valor com vírgula para o padrão brasileiro da Senior G5
+                valor_formatado = str(t['valor']).replace('.', ',')
+                writer.writerow([
+                    t['codigo'], 
+                    valor_formatado, 
+                    t['nome'], 
+                    t['fornecedor'], 
+                    t['uf'], 
+                    t['cidade']
+                ])
+        
+        print(f"Sucesso: {len(lista_tarifas)} itens processados com cabeçalho.")
