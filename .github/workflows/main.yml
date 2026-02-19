@@ -22,7 +22,7 @@ jobs:
 
       - name: Instalar dependências
         run: |
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 lxml
 
       - name: Executar Scraper
         run: python scraper.py
