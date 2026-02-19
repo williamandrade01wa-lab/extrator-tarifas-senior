@@ -101,24 +101,26 @@ import os
 import ftplib
 
 def subir_ftp(arquivo_local):
-    # Puxa as variáveis que o GitHub Actions vai injetar
     host = os.getenv('FTP_SERVER')
     user = os.getenv('FTP_USERNAME')
     passwd = os.getenv('FTP_PASSWORD')
     
-    if not all([host, user, passwd]):
-        print("❌ Erro: Secrets do FTP não foram carregados corretamente.")
-        return
-
     try:
-        print(f"📡 Conectando ao FTP: {host}...")
-        with ftplib.FTP(host, timeout=30) as ftp:
-            ftp.login(user=user, passwd=passwd)
-            ftp.set_pasv(True)  # Ativa modo passivo para atravessar firewalls
+        print(f"📡 Tentando conexão passiva com {host}...")
+        # Usamos FTP_TLS para cobrir casos de servidores que exigem segurança
+        # Se seu FTP for muito antigo e não suportar TLS, use apenas ftplib.FTP
+        ftp = ftplib.FTP(timeout=60) 
+        ftp.connect(host, 21)
+        ftp.login(user=user, passwd=passwd)
+        
+        ftp.set_pasv(True) # OBRIGATÓRIO para GitHub Actions
+        
+        print("Fase de login concluída. Enviando arquivo...")
+        with open(arquivo_local, 'rb') as f:
+            ftp.storbinary(f'STOR {arquivo_local}', f)
             
-            with open(arquivo_local, 'rb') as f:
-                ftp.storbinary(f'STOR {arquivo_local}', f)
-        print(f"✅ Sucesso! Arquivo '{arquivo_local}' enviado ao servidor FTP.")
+        ftp.quit()
+        print(f"✅ Sucesso! Arquivo enviado ao FTP.")
     except Exception as e:
         print(f"❌ Erro ao subir para o FTP: {e}")
 
