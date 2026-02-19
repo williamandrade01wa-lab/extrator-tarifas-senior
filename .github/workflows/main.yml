@@ -45,22 +45,10 @@ jobs:
           git push origin main
 
 
-      - name: Enviar para Senior Cloud (Porta 21)
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
-        with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          port: 21
-          protocol: ftps
-          # Força o uso de SSL para não dar erro de segurança na Senior Cloud
-          security: loose
-          # Local onde o arquivo está na raiz do GitHub
-          local-dir: ./
-          # Caminho no servidor (certifique-se que a pasta existe)
-          server-dir: ./Tarifas_BeneficioFacil/
-          # Exclui tudo e depois inclui só o que queremos (contorna o erro do 'include')
-          exclude: |
-            **
-            !tarifas_senior.csv
-            !dados_tarifas.json
+      - name: Salvar arquivos no repositório
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add dados_tarifas.json tarifas_senior.csv
+          git commit -m "Atualização automática de tarifas: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git push
