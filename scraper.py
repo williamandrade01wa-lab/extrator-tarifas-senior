@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
-import json
 import csv
+from datetime import datetime
 
 def extrair():
     url = "https://app.beneficiofacil.com.br/apbprodutos.asp"
@@ -12,7 +12,6 @@ def extrair():
     try:
         response = requests.get(url, headers=headers, timeout=30)
         
-        # Lógica de correção de acentos
         try:
             texto_corrigido = response.content.decode('utf-8')
         except:
@@ -24,47 +23,53 @@ def extrair():
         soup = BeautifulSoup(texto_corrigido, 'html.parser')
         
         lista_tarifas = []
-        # Em vez de filtrar tabelas, pegamos todas as linhas do documento
-        todas_as_linhas = soup.find_all('tr')
+        # Pegamos TODAS as linhas da página
+        linhas = soup.find_all('tr')
         
-        for linha in todas_as_linhas:
+        def limpar(texto):
+            return " ".join(texto.strip().split())
+
+        for linha in linhas:
             cols = linha.find_all('td')
             
-            # Verificamos se a linha tem colunas e se a primeira coluna é um código numérico
-            if len(cols) >= 4:
-                codigo_limpo = cols[0].text.strip()
-                
-                if codigo_limpo.isdigit():
-                    def limpar(texto):
-                        return " ".join(texto.strip().split())
-
-                    valor_texto = cols[3].text.strip().replace('.', '').replace(',', '.')
+            # Verificamos se a primeira coluna é um número (Código)
+            if len(cols) >= 10:
+                codigo_txt = limpar(cols[0].text)
+                if codigo_txt.isdigit():
+                    
+                    valor_txt = limpar(cols[3].text).replace('.', '').replace(',', '.')
                     try:
-                        valor_num = float(valor_texto)
+                        valor_num = valor_txt.replace('.', ',') # Mantém formato Senior
                     except:
-                        valor_num = 0.0
+                        valor_num = "0,00"
 
-                    lista_tarifas.append({
-                        "codigo": codigo_limpo,
-                        "nome": limpar(cols[1].text),
-                        "fornecedor": limpar(cols[2].text),
-                        "valor": valor_num,
-                        "uf": limpar(cols[7].text) if len(cols) > 7 else "",
-                        "cidade": limpar(cols[8].text) if len(cols) > 8 else ""
-                    })
+                    lista_tarifas.append([
+                        codigo_txt,                 # Cod.
+                        limpar(cols[1].text),       # Nome
+                        limpar(cols[2].text),       # Fornecedor
+                        valor_num,                  # Valor Unit.
+                        limpar(cols[4].text),       # Prazo recarga
+                        limpar(cols[5].text),       # Prazo cartão novo
+                        limpar(cols[6].text),       # Tipo
+                        limpar(cols[7].text),       # UF
+                        limpar(cols[8].text),       # Cidade
+                        limpar(cols[9].text)        # Data Tarifa
+                    ])
 
-        # SALVAR EM CSV (Com Cabeçalho)
+        # Gravação do CSV com a nova ordem de colunas
         with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='') as f:
             writer = csv.writer(f, delimiter=';')
-            writer.writerow(['codigo', 'valor', 'nome', 'fornecedor', 'uf', 'cidade'])
-            for t in lista_tarifas:
-                valor_formatado = str(t['valor']).replace('.', ',')
-                writer.writerow([t['codigo'], valor_formatado, t['nome'], t['fornecedor'], t['uf'], t['cidade']])
+            # Cabeçalho solicitado
+            writer.writerow([
+                'Cod.', 'Nome', 'Fornecedor', 'Valor Unit.', 'Prazo recarga', 
+                'Prazo cartão novo', 'Tipo', 'UF', 'Cidade', 'Data Tarifa'
+            ])
+            writer.writerows(lista_tarifas)
         
-        print(f"Sucesso: {len(lista_tarifas)} itens processados com cabeçalho.")
+        print(f"Sucesso: {len(lista_tarifas)} itens processados.")
 
     except Exception as e:
-        print(f"Erro na execução: {e}")
+        print(f"Erro: {e}")
 
 if __name__ == "__main__":
     extrair()
