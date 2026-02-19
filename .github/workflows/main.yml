@@ -24,10 +24,15 @@ jobs:
         run: |
           pip install requests beautifulsoup4 lxml
 
-      - name: Executar Scraper
+      - name: Executar Scraper e Enviar para o FTP
+        # Aqui injetamos os Secrets que você criou no repositório
+        env:
+          FTP_SERVER: ${{ secrets.FTP_SERVER }}
+          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         run: python scraper.py
 
-      - name: Salvar arquivos no GitHub
+      - name: Salvar histórico no GitHub
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
