@@ -22,33 +22,36 @@ def extrair():
             texto_corrigido = texto_corrigido.encode('cp1252').decode('utf-8')
 
         soup = BeautifulSoup(texto_corrigido, 'html.parser')
-        tabelas = soup.find_all('table')
         
         lista_tarifas = []
-        for tab in tabelas:
-            linhas = tab.find_all('tr')
-            if len(linhas) > 5:
-                for linha in linhas:
-                    cols = linha.find_all('td')
-                    if len(cols) >= 4 and cols[0].text.strip().isdigit():
-                        
-                        def limpar(texto):
-                            return " ".join(texto.strip().split())
+        # Em vez de filtrar tabelas, pegamos todas as linhas do documento
+        todas_as_linhas = soup.find_all('tr')
+        
+        for linha in todas_as_linhas:
+            cols = linha.find_all('td')
+            
+            # Verificamos se a linha tem colunas e se a primeira coluna é um código numérico
+            if len(cols) >= 4:
+                codigo_limpo = cols[0].text.strip()
+                
+                if codigo_limpo.isdigit():
+                    def limpar(texto):
+                        return " ".join(texto.strip().split())
 
-                        valor_texto = cols[3].text.strip().replace('.', '').replace(',', '.')
-                        try:
-                            valor_num = float(valor_texto)
-                        except:
-                            valor_num = 0.0
+                    valor_texto = cols[3].text.strip().replace('.', '').replace(',', '.')
+                    try:
+                        valor_num = float(valor_texto)
+                    except:
+                        valor_num = 0.0
 
-                        lista_tarifas.append({
-                            "codigo": limpar(cols[0].text),
-                            "nome": limpar(cols[1].text),
-                            "fornecedor": limpar(cols[2].text),
-                            "valor": valor_num,
-                            "uf": limpar(cols[7].text) if len(cols) > 7 else "",
-                            "cidade": limpar(cols[8].text) if len(cols) > 8 else ""
-                        })
+                    lista_tarifas.append({
+                        "codigo": codigo_limpo,
+                        "nome": limpar(cols[1].text),
+                        "fornecedor": limpar(cols[2].text),
+                        "valor": valor_num,
+                        "uf": limpar(cols[7].text) if len(cols) > 7 else "",
+                        "cidade": limpar(cols[8].text) if len(cols) > 8 else ""
+                    })
 
         # SALVAR EM CSV (Com Cabeçalho)
         with open('tarifas_senior.csv', 'w', encoding='iso-8859-1', newline='') as f:
