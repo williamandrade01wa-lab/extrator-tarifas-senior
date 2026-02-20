@@ -26,14 +26,6 @@ jobs:
       - name: Executar Scraper
         run: python scraper.py
 
-      - name: Salvar no GitHub
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add tarifas_senior.txt
-          git commit -m "Atualização TXT: $(date +'%d/%m/%Y %H:%M')" || echo "Sem mudanças"
-          git push
-
       - name: Commit e Push
         run: |
           git config --global user.name "GitHub Action"
