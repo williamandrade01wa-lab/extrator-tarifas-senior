@@ -131,22 +131,31 @@ if __name__ == "__main__":
 
 
 import requests
+import sys
 
-def subir_transfer_sh(arquivo_local):
+def subir_arquivo(arquivo_local):
+    print(f"📡 Preparando upload do arquivo: {arquivo_local}")
     try:
-        print(f"📡 Enviando {arquivo_local} para Transfer.sh...")
+        # Usando o file.io (expira após o primeiro download ou 1 dia)
+        # É excelente para testar se o Senior consegue baixar sem 403
         with open(arquivo_local, 'rb') as f:
-            # O upload é feito via PUT ou POST direto para a URL
-            response = requests.post(f'https://transfer.sh/{arquivo_local}', data=f)
+            files = {'file': f}
+            response = requests.post('https://file.io', files=files)
         
         if response.status_code == 200:
-            link_direto = response.text.strip()
-            print(f"✅ Arquivo disponível em: {link_direto}")
-            # DICA: Salve este link para usar no Senior!
+            dados = response.json()
+            link_direto = dados.get('link')
+            print("\n" + "="*50)
+            print(f"LINK PARA O SENIOR: {link_direto}")
+            print("="*50 + "\n")
+            # Força o Python a mostrar o que está no buffer
+            sys.stdout.flush()
         else:
-            print(f"❌ Erro no upload: {response.status_code}")
+            print(f"❌ Erro no servidor de upload: {response.status_code}")
     except Exception as e:
-        print(f"❌ Falha técnica: {e}")
+        print(f"❌ Falha técnica no upload: {e}")
 
-# Chame no final do script
-# subir_transfer_sh('tarifas_senior.csv')
+# No final do script
+if __name__ == "__main__":
+    # ... sua lógica de extração ...
+    subir_arquivo('tarifas_senior.csv')
