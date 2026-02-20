@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import csv
 
 def extrair():
-    # URL de busca completa
     url = "https://app.beneficiofacil.com.br/apbprodutos.asp?acao=pesquisar&nome=&fornecedor=0&tipo=0&uf="
     
     headers = {
@@ -16,17 +15,12 @@ def extrair():
         session = requests.Session()
         print("Iniciando conexão com stream... Aguardando resposta do servidor.")
         
-        # stream=True mantém a porta aberta para o servidor "cuspir" as 80k linhas sem pressa
-        # Aumentamos o timeout para 180 segundos caso o servidor seja lento
         response = session.get(url, headers=headers, timeout=180, stream=True)
-        
-        # Forçamos o download completo do conteúdo antes de fechar a conexão
         response.raise_for_status() 
         conteudo_bruto = response.content
         
         print(f"Download concluído. Tamanho do arquivo: {len(conteudo_bruto) / 1024:.2f} KB")
 
-        # Tratamento de encoding (ISO-8859-1 é comum em sites ASP)
         try:
             texto_html = conteudo_bruto.decode('utf-8')
         except:
@@ -35,12 +29,9 @@ def extrair():
         if "Ã³" in texto_html or "Ã£" in texto_html:
             texto_html = texto_html.encode('cp1252').decode('utf-8')
 
-        # Usamos o parser 'lxml' se estiver disponível, por ser muito mais rápido para HTMLs gigantes
-        # Se não, o soup usará o 'html.parser' padrão.
         soup = BeautifulSoup(texto_html, 'html.parser')
         
         lista_tarifas = []
-        # Encontramos todas as linhas (tr) da página
         todas_as_linhas = soup.find_all('tr')
         
         def limpar(texto):
@@ -51,24 +42,25 @@ def extrair():
         for linha in todas_as_linhas:
             cols = linha.find_all('td')
             
-            # Verificamos se a linha tem o mínimo de colunas e se a primeira é código numérico
             if len(cols) >= 10:
                 codigo_txt = limpar(cols[0].text)
                 if codigo_txt.isdigit():
                     
-                    # Tratamento do valor (Substituindo ponto por nada e vírgula por ponto para o float, 
-                    # depois voltando para vírgula para o padrão Senior)
-                    valor_original = limpar(cols[3].text).replace('.', '').replace(',', '.')
+                    # --- AJUSTE VALOR UNITÁRIO (Garante padrão 0,00) ---
+                    # Limpa R$, pontos de milhar e converte para float usando ponto
+                    v_raw = limpar(cols[3].text).replace('R$', '').replace('.', '').replace(',', '.').strip()
                     try:
-                        valor_num = valor_original.replace('.', ',') 
+                        # Força 2 casas decimais (ex: 12.00) e depois troca para vírgula (12,00)
+                        valor_num = "{:.2f}".format(float(v_raw)).replace('.', ',')
                     except:
                         valor_num = "0,00"
 
+                    # Mantendo todas as colunas conforme o seu código original
                     lista_tarifas.append([
                         codigo_txt,                 # Cod.
                         limpar(cols[1].text),       # Nome
-                        limpar(cols[2].text),       # Fornecedor
-                        valor_num,                  # Valor Unit.
+                        limpar(cols[2].text),       # Fornecedor (MANTIDO)
+                        valor_num,                  # Valor Unit. (FORMATADO 2 CASAS)
                         limpar(cols[4].text),       # Prazo recarga
                         limpar(cols[5].text),       # Prazo cartão novo
                         limpar(cols[7].text),       # UF
@@ -90,7 +82,5 @@ def extrair():
     except Exception as e:
         print(f"Erro crítico durante o scraping: {e}")
 
-# --- No final do seu código principal, chame a função ---
 if __name__ == "__main__":
     extrair()
-    subir_ftp('tarifas_senior.csv')
