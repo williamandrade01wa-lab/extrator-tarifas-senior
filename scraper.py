@@ -90,71 +90,7 @@ def extrair():
     except Exception as e:
         print(f"Erro crítico durante o scraping: {e}")
 
-if __name__ == "__main__":
-    extrair()
-
-
-import ftplib
-
-import os
-import ftplib
-
-def subir_ftp(arquivo_local):
-    host = os.getenv('FTP_SERVER')
-    user = os.getenv('FTP_USERNAME')
-    passwd = os.getenv('FTP_PASSWORD')
-    
-    try:
-        print(f"📡 Tentando conexão passiva com {host}...")
-        # Usamos FTP_TLS para cobrir casos de servidores que exigem segurança
-        # Se seu FTP for muito antigo e não suportar TLS, use apenas ftplib.FTP
-        ftp = ftplib.FTP(timeout=60) 
-        ftp.connect(host, 21)
-        ftp.login(user=user, passwd=passwd)
-        
-        ftp.set_pasv(True) # OBRIGATÓRIO para GitHub Actions
-        
-        print("Fase de login concluída. Enviando arquivo...")
-        with open(arquivo_local, 'rb') as f:
-            ftp.storbinary(f'STOR {arquivo_local}', f)
-            
-        ftp.quit()
-        print(f"✅ Sucesso! Arquivo enviado ao FTP.")
-    except Exception as e:
-        print(f"❌ Erro ao subir para o FTP: {e}")
-
 # --- No final do seu código principal, chame a função ---
 if __name__ == "__main__":
     extrair()
     subir_ftp('tarifas_senior.csv')
-
-
-import requests
-import sys
-
-def subir_arquivo(arquivo_local):
-    print(f"📡 Preparando upload do arquivo: {arquivo_local}")
-    try:
-        # Usando o file.io (expira após o primeiro download ou 1 dia)
-        # É excelente para testar se o Senior consegue baixar sem 403
-        with open(arquivo_local, 'rb') as f:
-            files = {'file': f}
-            response = requests.post('https://file.io', files=files)
-        
-        if response.status_code == 200:
-            dados = response.json()
-            link_direto = dados.get('link')
-            print("\n" + "="*50)
-            print(f"LINK PARA O SENIOR: {link_direto}")
-            print("="*50 + "\n")
-            # Força o Python a mostrar o que está no buffer
-            sys.stdout.flush()
-        else:
-            print(f"❌ Erro no servidor de upload: {response.status_code}")
-    except Exception as e:
-        print(f"❌ Falha técnica no upload: {e}")
-
-# No final do script
-if __name__ == "__main__":
-    # ... sua lógica de extração ...
-    subir_arquivo('tarifas_senior.csv')
