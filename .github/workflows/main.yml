@@ -33,3 +33,11 @@ jobs:
           git add tarifas_senior.txt
           git commit -m "Atualização TXT: $(date +'%d/%m/%Y %H:%M')" || echo "Sem mudanças"
           git push
+
+      - name: Commit e Push
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add tarifas_senior.txt tarifas_senior.json
+          git commit -m "Atualizacao de dados $(date +'%d/%m/%Y')" || echo "Sem mudanças"
+          git push
