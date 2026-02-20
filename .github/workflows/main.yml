@@ -1,19 +1,15 @@
 name: Atualizar Tarifas no Repositorio
 
-
-
 on:
   schedule:
     - cron: '0 4 * * *' # Roda todo dia às 04:00 da manhã
-  workflow_dispatch: # Permite que você rode manualmente agora para testar
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pages: write
-      id-token: write # Dá permissão para o robô salvar o arquivo no seu projeto
 
     steps:
       - name: Checkout do código
@@ -25,22 +21,15 @@ jobs:
           python-version: '3.10'
 
       - name: Instalar dependências
-        run: |
-          pip install requests beautifulsoup4 lxml
+        run: pip install requests beautifulsoup4 lxml
 
-      - name: Executar Scraper e Enviar para o FTP
-        # Aqui injetamos os Secrets que você criou no repositório
-        env:
-          FTP_SERVER: ${{ secrets.FTP_SERVER }}
-          FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
-          FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+      - name: Executar Scraper
         run: python scraper.py
 
-      - name: Salvar histórico no GitHub
+      - name: Salvar no GitHub
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add tarifas_senior.csv
-          # O comando abaixo evita erro se o arquivo não tiver mudado nada
-          git commit -m "Atualização automática de tarifas: $(date +'%d/%m/%Y %H:%M')" || echo "Sem mudanças"
+          git commit -m "Tarifas atualizadas: $(date +'%d/%m/%Y %H:%M')" || echo "Sem mudanças"
           git push
