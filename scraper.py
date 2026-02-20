@@ -128,3 +128,25 @@ def subir_ftp(arquivo_local):
 if __name__ == "__main__":
     extrair()
     subir_ftp('tarifas_senior.csv')
+
+
+import requests
+
+def subir_transfer_sh(arquivo_local):
+    try:
+        print(f"📡 Enviando {arquivo_local} para Transfer.sh...")
+        with open(arquivo_local, 'rb') as f:
+            # O upload é feito via PUT ou POST direto para a URL
+            response = requests.post(f'https://transfer.sh/{arquivo_local}', data=f)
+        
+        if response.status_code == 200:
+            link_direto = response.text.strip()
+            print(f"✅ Arquivo disponível em: {link_direto}")
+            # DICA: Salve este link para usar no Senior!
+        else:
+            print(f"❌ Erro no upload: {response.status_code}")
+    except Exception as e:
+        print(f"❌ Falha técnica: {e}")
+
+# Chame no final do script
+# subir_transfer_sh('tarifas_senior.csv')
