@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add tarifas_senior.csv
-          git commit -m "Tarifas atualizadas: $(date +'%d/%m/%Y %H:%M')" || echo "Sem mudanças"
+          git add tarifas_senior.txt
+          git commit -m "Atualização TXT: $(date +'%d/%m/%Y %H:%M')" || echo "Sem mudanças"
           git push
