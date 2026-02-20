@@ -16,10 +16,8 @@ def extrair():
         response = session.get(url, headers=headers, timeout=180, stream=True)
         response.raise_for_status() 
         
-        # Lendo o conteúdo bruto
         conteudo = response.content
         
-        # Tenta decodificar o que vem do site (geralmente latin-1 ou utf-8)
         try:
             texto_html = conteudo.decode('utf-8')
         except:
@@ -33,12 +31,24 @@ def extrair():
         def limpar(texto):
             return " ".join(texto.strip().split())
 
+        print(f"Analisando {len(todas_as_linhas)} linhas...")
+
         for linha in todas_as_linhas:
             cols = linha.find_all('td')
+            
+            # Verificamos se a linha tem as colunas necessárias
             if len(cols) >= 10:
                 codigo_txt = limpar(cols[0].text)
+                
                 if codigo_txt.isdigit():
-                    # Formatacao do valor (12,50)
+                    # --- NOVO FILTRO: TIPO "P" ---
+                    # cols[6] costuma ser a coluna 'Tipo' no layout desse site
+                    tipo_produto = limpar(cols[6].text).upper()
+                    
+                    if tipo_produto == "p":
+                        continue # Pula esta linha e vai para a próxima
+                    
+                    # --- SE PASSOU PELO FILTRO, CONTINUA O PROCESSAMENTO ---
                     v_raw = limpar(cols[3].text).replace('R$', '').replace('.', '').replace(',', '.').strip()
                     try:
                         valor_num = "{:.2f}".format(float(v_raw)).replace('.', ',')
@@ -52,19 +62,18 @@ def extrair():
                         valor_num, 
                         limpar(cols[4].text), 
                         limpar(cols[5].text), 
-                        limpar(cols[7].text), 
-                        limpar(cols[8].text), 
-                        limpar(cols[9].text)
+                        limpar(cols[7].text), # UF
+                        limpar(cols[8].text), # Cidade
+                        limpar(cols[9].text)  # Data Tarifa
                     ])
 
-        # GRAVACAO EM TXT COM ENCODING ANSI (Windows-1252)
-        # Removi o emoji do print para evitar erros no console do Linux
+        # GRAVACAO EM TXT (ANSI/Windows-1252)
         with open('tarifas_senior.txt', 'w', encoding='cp1252', newline='', errors='replace') as f:
             writer = csv.writer(f, delimiter=';')
             writer.writerow(['Cod.', 'Nome', 'Fornecedor', 'Valor Unit.', 'Prazo recarga', 'Prazo cartão novo', 'UF', 'Cidade', 'Data Tarifa'])
             writer.writerows(lista_tarifas)
         
-        print("Arquivo TXT gerado com sucesso em ANSI.")
+        print(f"Sucesso! {len(lista_tarifas)} itens gravados (Filtro Tipo P aplicado).")
 
     except Exception as e:
         print(f"Erro: {e}")
