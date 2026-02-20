@@ -1,5 +1,7 @@
 name: Atualizar Tarifas no Repositorio
 
+
+
 on:
   schedule:
     - cron: '0 4 * * *' # Roda todo dia às 04:00 da manhã
@@ -9,7 +11,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Dá permissão para o robô salvar o arquivo no seu projeto
+      contents: write
+      pages: write
+      id-token: write # Dá permissão para o robô salvar o arquivo no seu projeto
 
     steps:
       - name: Checkout do código
