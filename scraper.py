@@ -44,13 +44,16 @@ def extrair():
                     ])
 
         # GRAVAÇÃO EM TXT
-        with open('tarifas_senior.txt', 'w', encoding='iso-8859-1', newline='') as f:
-            # Mantemos o delimitador ; pois o importador da Senior aceita em TXT
+        with open('tarifas_senior.txt', 'w', encoding='cp1252', newline='', errors='replace') as f:
             writer = csv.writer(f, delimiter=';')
+            
+            # Cabeçalho
             writer.writerow(['Cod.', 'Nome', 'Fornecedor', 'Valor Unit.', 'Prazo recarga', 'Prazo cartão novo', 'UF', 'Cidade', 'Data Tarifa'])
+            
+            # Dados
             writer.writerows(lista_tarifas)
         
-        print(f"✅ TXT gerado com {len(lista_tarifas)} linhas!")
+        print(f"✅ TXT gerado com sucesso em ANSI (Windows-12
 
     except Exception as e:
         print(f"Erro: {e}")
