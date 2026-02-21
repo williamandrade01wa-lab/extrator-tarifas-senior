@@ -4416,6 +4416,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15677;STU - Cartão Municipal Santana do Livramento;STU;5,00;5;10;RS;Santana do Livramento;04/02/2026
 1042;Toda Hora - Cartão Santa Rosa Municipal;Toda Hora;5,50;5;10;RS;Santa Rosa;14/01/2025
 6084;Torrescar - Cartão Torres Municipal;Torrescar (Torres);5,00;5;10;RS;Torres;07/03/2022
+19523;Torrescar - Arroio do Sal - Cartão Municipal Arroio do Sal;Torrescar - Arroio do Sal;6,00;5;10;RS;Torres;20/02/2026
 5321;Transfatima - Cartão Municipal de Vacaria;Transfatima;5,00;5;10;RS;Vacaria;18/04/2023
 6856;Transnorte - Cartão Travessia Aquaviária de São José do Norte;Transnorte;6,50;5;10;RS;São José do Norte;23/09/2025
 10703;Transpar - Eletrônico - Cartão Municipal Taquara;Transpar - Eletrônico;3,95;5;10;RS;Taquara;28/11/2023
