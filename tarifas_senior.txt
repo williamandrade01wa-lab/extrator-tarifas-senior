@@ -46,7 +46,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9533;Metropasse - Cartão A0842 - Vilas do Atlantico X Praca da Se;Metropasse;5,20;5;10;BA;Salvador;01/04/2024
 9534;Metropasse - Cartão 138 URB Praia do Forte x Terminal Aeroporto;Metropasse;10,40;5;10;BA;Salvador;01/04/2024
 9535;Metropasse - Cartão 869I Urb - Simões Filho x Terminal Retiro;Metropasse;4,80;5;10;BA;Salvador;10/06/2022
-9543;Metropasse - Cartão 879.Urb - Lauro de Freitas X Terminal Rodoviária via Stiep;Metropasse;5,20;5;10;BA;Salvador;01/04/2024
+9543;Metropasse - Cartão 879.Urb - Lauro de Freitas X Itapuã via BA 099 (Expresso Luxo Vitória);Metropasse;5,20;5;10;BA;Salvador;01/04/2024
 9544;Metropasse - Cartão 884 A Urb - Estação Barroquinha X Jauá via AV Vasco da Gama;Metropasse;5,20;5;10;BA;Salvador;01/04/2024
 9545;Metropasse - Cartão 884 Urb - Vila de Abrantes X Estação da Lapa via Itapuã;Metropasse;5,20;5;10;BA;Salvador;01/04/2024
 9548;Metropasse - Cartão 885 Urb - Vila de Abrantes X Terminal da França via Paralela;Metropasse;5,20;5;10;BA;Salvador;01/04/2024
@@ -157,7 +157,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15733;Catedral - Cartão Gama X Jardim Ingá;Catedral - Eletrônico;5,90;5;10;DF;Brasília;03/10/2025
 15734;Catedral - Cartão Taguatinga X Jardim Ingá;Catedral - Eletrônico;10,40;5;10;DF;Brasília;03/10/2025
 15738;Catedral - Cartão Jardim Ingá X Lago Sul;Catedral - Eletrônico;9,05;5;10;DF;Brasília;03/10/2025
-15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;10,60;5;11;DF;Brasília;26/09/2025
+15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;11,00;5;11;DF;Brasília;23/02/2026
 10308;Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas;Taguatur - Águas Lindas de Goiás;11,15;5;10;DF;Brasília;26/09/2025
 10309;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga;Taguatur - Águas Lindas de Goiás;6,75;5;10;DF;Brasília;15/08/2023
 10310;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Ceilândia;Taguatur - Águas Lindas de Goiás;5,15;5;10;DF;Brasília;15/08/2023
@@ -836,7 +836,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2509;Bem Fácil Cabo (Setago) - Cartão Bem Fácil (Anel 4);Bem Fácil Cabo (Setago);7,00;5;10;PE;Cabo de Santo Agostinho;26/03/2024
 7538;Bem Fácil Cabo (Setago) - Cartão Bem Fácil (Anel 5);Bem Fácil Cabo (Setago);10,00;5;10;PE;Cabo de Santo Agostinho;26/03/2024
 10458;Bem Fácil Cabo (Setago) - Cartão Bem Fácil;Bem Fácil Cabo (Setago);0,01;5;10;PE;Cabo de Santo Agostinho;10/10/2023
-5243;Borborema - Cartão Escada X Cabo;Borborema;11,00;5;10;PE;Recife;19/02/2025
+5243;Borborema - Cartão Escada X Cabo;Borborema;12,00;5;10;PE;Recife;23/02/2026
 16043;Borborema - Ribeirão X Palmeiras (Linha 1101.0);Borborema;12,00;5;10;PE;Recife;27/08/2025
 8240;Borborema - Cartão Bezerros X Gravatá (Linha 0803);Borborema (Bezerros X Gravatá (Linha 0803);6,00;5;10;PE;Recife;03/10/2024
 9823;Borborema - Cartão Bonança X Vitória (Via BR232);Borborema - Bonança/Vitória (Via BR232);10,00;5;10;PE;Recife;20/02/2026
@@ -4267,7 +4267,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2519;Atu Santa Maria - Cartão Santa Maria Urbano;Atu Santa Maria;5,90;5;10;RS;Santa Maria;08/07/2025
 10175;Atu Santa Maria - Cartão Integração Santa Maria;Atu Santa Maria;3,82;5;10;RS;Santa Maria;08/07/2025
 2300;Auto Viação Vale do Sol - Cartão Santa Cruz X Vera Cruz;Auto Viação Vale do Sol;7,15;5;10;RS;Santa Cruz do Sul;09/12/2024
-6580;Bento Transportes (Farroupilha) - Cartão Urbano Farroupilha;Bento Transportes - Farroupilha;5,50;5;10;RS;Farroupilha;20/02/2025
+6580;Bento Transportes (Farroupilha) - Cartão Urbano Farroupilha;Bento Transportes - Farroupilha;6,00;5;10;RS;Farroupilha;23/02/2026
 8960;Bento Transportes (Farroupilha) - Cartão Farroupilha X Carlos Barbosa;Bento Transportes - Farroupilha;8,50;5;10;RS;Farroupilha;05/11/2025
 8961;Bento Transportes (Farroupilha) - Cartão Nova Sardenha X Carlos Barbosa;Bento Transportes - Farroupilha;8,50;5;10;RS;Farroupilha;05/11/2025
 15556;Caiense - Cartão Municipal São Sebastião do Caí;Caiense;5,25;5;10;RS;São Sebastião do Caí;14/01/2025
@@ -4295,7 +4295,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15352;Comur - Esteio - Cartão Municipal Esteio;Comur - Esteio;4,00;5;10;RS;Esteio;12/09/2024
 15131;Comur - Cartão Municipal Novo Hamburgo;Comur - Novo Hamburgo;5,20;5;10;RS;Novo Hamburgo;10/06/2024
 2295;CSC Santa Cruz do Sul - Cartão Santa Cruz do Sul;CSC Santa Cruz do Sul;5,50;5;10;RS;Santa Cruz do Sul;04/04/2025
-5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,40;5;10;RS;Bagé;13/01/2025
+5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,40;5;10;RS;Bagé;23/02/2026
 8646;CTCP Capão do Leão - Cartão Pelotas X Capão do Leão;CTCP - Capão do Leão;7,40;5;10;RS;Pelotas;07/11/2025
 8647;CTCP Capão do Leão - Cartão Pelotas X Jardim América;CTCP - Capão do Leão;6,05;5;10;RS;Pelotas;07/11/2025
 2348;CTCP Coletivo de Pelotas - Cartão Prati - Pelotas;CTCP - Coletivo de Pelotas;6,00;5;10;RS;Pelotas;26/03/2025
@@ -4853,12 +4853,12 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19461;Repasse BB Turismo - Cartão Itapevi Integração (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026
 15512;BB Turismo - Cartão Municipal Jandira;BB Turismo (Benfácil) - Jandira;5,80;5;10;SP;Barueri;02/01/2025
 15567;BB Turismo - Cartão Jandira Integração;BB Turismo (Benfácil) - Jandira;9,00;5;10;SP;Barueri;17/01/2025
-15782;Bem Caieiras - Cartão Municipal Caieiras;Bem - Caieiras - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;19/02/2026
 15793;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
+19526;Bem Caieiras - Cartão Municipal Caieiras;Bem - Caieiras - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
 15781;Bem Cajamar - Cartão Municipal Cajamar;Bem - Cajamar - Novo Sistema;4,60;5;10;SP;São Bernardo do Campo;23/06/2025
 15794;Repasse Bem Cajamar - Cartão Municipal Cajamar (Blacklist);Bem - Cajamar - Novo Sistema;6,90;5;10;SP;São Bernardo do Campo;24/06/2025
 15801;Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist);Bem - Cajamar - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
-15783;Bem Franco da Rocha - Cartão Municipal Franco da Rocha;Bem - Franco da Rocha - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;19/02/2026
+19527;Bem Franco da Rocha - Cartão Municipal Franco da Rocha;Bem - Franco da Rocha - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
 15832;Repasse Bem Osasco - Cartão Municipal Osasco (Blacklist);Bem - Osasco - Novo Sistema;8,70;5;10;SP;Osasco;24/06/2025
 19448;Bem Osasco - Cartão Municipal Osasco;Bem - Osasco - Novo Sistema;6,10;5;10;SP;Osasco;05/01/2026
 19453;Repasse Bem Osasco - Cartão Municipal Osasco (Blacklist);Bem - Osasco - Novo Sistema;9,15;5;10;SP;Osasco;06/01/2026

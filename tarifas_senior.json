@@ -377,7 +377,7 @@
     },
     {
         "codigo": "9543",
-        "nome": "Metropasse - Cartão 879.Urb - Lauro de Freitas X Terminal Rodoviária via Stiep",
+        "nome": "Metropasse - Cartão 879.Urb - Lauro de Freitas X Itapuã via BA 099 (Expresso Luxo Vitória)",
         "fornecedor": "Metropasse",
         "valor": "5,20",
         "uf": "BA",
@@ -1267,7 +1267,7 @@
         "codigo": "15432",
         "nome": "Rota do Sol - Cartão Lago Azul X Brasília",
         "fornecedor": "Rota do Sol - Eletrônico",
-        "valor": "10,60",
+        "valor": "11,00",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -6699,7 +6699,7 @@
         "codigo": "5243",
         "nome": "Borborema - Cartão Escada X Cabo",
         "fornecedor": "Borborema",
-        "valor": "11,00",
+        "valor": "12,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -34147,7 +34147,7 @@
         "codigo": "6580",
         "nome": "Bento Transportes (Farroupilha) - Cartão Urbano Farroupilha",
         "fornecedor": "Bento Transportes - Farroupilha",
-        "valor": "5,50",
+        "valor": "6,00",
         "uf": "RS",
         "cidade": "Farroupilha"
     },
@@ -38832,18 +38832,18 @@
         "cidade": "Barueri"
     },
     {
-        "codigo": "15782",
-        "nome": "Bem Caieiras - Cartão Municipal Caieiras",
-        "fornecedor": "Bem - Caieiras - Novo Sistema",
-        "valor": "6,00",
-        "uf": "SP",
-        "cidade": "São Bernardo do Campo"
-    },
-    {
         "codigo": "15793",
         "nome": "Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist)",
         "fornecedor": "Bem - Caieiras - Novo Sistema",
         "valor": "8,25",
+        "uf": "SP",
+        "cidade": "São Bernardo do Campo"
+    },
+    {
+        "codigo": "19526",
+        "nome": "Bem Caieiras - Cartão Municipal Caieiras",
+        "fornecedor": "Bem - Caieiras - Novo Sistema",
+        "valor": "6,00",
         "uf": "SP",
         "cidade": "São Bernardo do Campo"
     },
@@ -38872,7 +38872,7 @@
         "cidade": "São Bernardo do Campo"
     },
     {
-        "codigo": "15783",
+        "codigo": "19527",
         "nome": "Bem Franco da Rocha - Cartão Municipal Franco da Rocha",
         "fornecedor": "Bem - Franco da Rocha - Novo Sistema",
         "valor": "6,00",
