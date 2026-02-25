@@ -1531,7 +1531,7 @@
         "codigo": "15092",
         "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília",
         "fornecedor": "Viação Planaltina",
-        "valor": "11,35",
+        "valor": "11,60",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1539,7 +1539,7 @@
         "codigo": "15093",
         "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina",
         "fornecedor": "Viação Planaltina",
-        "valor": "6,05",
+        "valor": "6,20",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1547,7 +1547,7 @@
         "codigo": "15094",
         "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho",
         "fornecedor": "Viação Planaltina",
-        "valor": "7,45",
+        "valor": "7,60",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1555,7 +1555,7 @@
         "codigo": "15095",
         "nome": "Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina",
         "fornecedor": "Viação Planaltina",
-        "valor": "8,00",
+        "valor": "8,20",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -6523,7 +6523,7 @@
         "codigo": "10910",
         "nome": "Viação São José - QR-Code - Cartão Campina Grande X Cidade Esperança",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "8,50",
+        "valor": "9,00",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6531,7 +6531,7 @@
         "codigo": "10911",
         "nome": "Viação São José - QR-Code - Cartão Cidade Esperança X Campina Grande",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "8,50",
+        "valor": "9,00",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6539,7 +6539,7 @@
         "codigo": "10912",
         "nome": "Viação São José - QR-Code - Cartão Campina Grande X Lagoa Nova",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "8,00",
+        "valor": "8,50",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6547,7 +6547,7 @@
         "codigo": "10913",
         "nome": "Viação São José - QR-Code - Cartão Lagoa Nova X Campina Grande",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "8,00",
+        "valor": "8,50",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6555,7 +6555,7 @@
         "codigo": "10914",
         "nome": "Viação São José - QR-Code - Cartão Campina Grande X Lagoa Seca",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "4,65",
+        "valor": "5,00",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6563,7 +6563,7 @@
         "codigo": "10915",
         "nome": "Viação São José - QR-Code - Cartão Lagoa Seca X Campina Grande",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "4,65",
+        "valor": "5,00",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6571,7 +6571,7 @@
         "codigo": "10916",
         "nome": "Viação São José - QR-Code - Cartão Guarabira X João Pessoa",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "25,25",
+        "valor": "26,50",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6579,7 +6579,7 @@
         "codigo": "10917",
         "nome": "Viação São José - QR-Code - Cartão João Pessao X Guarabira",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "25,25",
+        "valor": "26,50",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6587,7 +6587,7 @@
         "codigo": "10918",
         "nome": "Viação São José - QR-Code - Cartão Guarabira X Sapé",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "11,25",
+        "valor": "11,80",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6595,7 +6595,7 @@
         "codigo": "10919",
         "nome": "Viação São José - QR-Code - Cartão Sapé X Guarabira",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "11,25",
+        "valor": "11,80",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6603,7 +6603,7 @@
         "codigo": "10920",
         "nome": "Viação São José - QR-Code - Cartão Nova Floresta X Cuité",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "4,50",
+        "valor": "4,70",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -6611,7 +6611,7 @@
         "codigo": "10921",
         "nome": "Viação São José - QR-Code - Cartão Cuité X Nova Floresta",
         "fornecedor": "Viação São José - QR-Code",
-        "valor": "4,50",
+        "valor": "4,70",
         "uf": "PB",
         "cidade": "Campina Grande"
     },
@@ -34923,7 +34923,7 @@
         "codigo": "8680",
         "nome": "Fátima Transportes - Cartão Triunfo Polo Municipal (sem seguro) (Metroplan)",
         "fornecedor": "Fátima Transportes",
-        "valor": "7,75",
+        "valor": "8,80",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -35435,7 +35435,7 @@
         "codigo": "10449",
         "nome": "Tri Porto Alegre - Cartão Integração com ônibus",
         "fornecedor": "TRI Porto Alegre",
-        "valor": "2,50",
+        "valor": "2,65",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -35451,7 +35451,7 @@
         "codigo": "10451",
         "nome": "Tri Porto Alegre - Cartão Integração com trem (sem desconto)",
         "fornecedor": "TRI Porto Alegre",
-        "valor": "9,50",
+        "valor": "10,30",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -38848,6 +38848,14 @@
         "cidade": "São Bernardo do Campo"
     },
     {
+        "codigo": "19530",
+        "nome": "Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist)",
+        "fornecedor": "Bem - Caieiras - Novo Sistema",
+        "valor": "9,00",
+        "uf": "SP",
+        "cidade": "São Bernardo do Campo"
+    },
+    {
         "codigo": "15781",
         "nome": "Bem Cajamar - Cartão Municipal Cajamar",
         "fornecedor": "Bem - Cajamar - Novo Sistema",
@@ -38876,6 +38884,14 @@
         "nome": "Bem Franco da Rocha - Cartão Municipal Franco da Rocha",
         "fornecedor": "Bem - Franco da Rocha - Novo Sistema",
         "valor": "6,00",
+        "uf": "SP",
+        "cidade": "São Bernardo do Campo"
+    },
+    {
+        "codigo": "19528",
+        "nome": "Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist)",
+        "fornecedor": "Bem - Franco da Rocha - Novo Sistema",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "São Bernardo do Campo"
     },

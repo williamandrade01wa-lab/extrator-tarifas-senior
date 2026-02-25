@@ -190,10 +190,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10049;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Executivo);UTB - Eletrônico;17,50;5;10;DF;Brasília;29/09/2025
 15431;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Linha 8250);UTB - Eletrônico;8,00;5;10;DF;Brasília;02/10/2025
 16221;UTB - Eletrônico - Cartão Águas Lindas X Brazlândia;UTB - Eletrônico;5,95;5;10;DF;Brasília;31/10/2025
-15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;Viação Planaltina;11,35;5;10;DF;Brasília;26/09/2025
-15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,05;5;10;DF;Brasília;26/09/2025
-15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Viação Planaltina;7,45;5;10;DF;Brasília;26/09/2025
-15095;Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina;Viação Planaltina;8,00;5;10;DF;Brasília;26/09/2025
+15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;Viação Planaltina;11,60;5;10;DF;Brasília;24/02/2026
+15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,20;5;10;DF;Brasília;24/02/2026
+15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Viação Planaltina;7,60;5;10;DF;Brasília;24/02/2026
+15095;Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina;Viação Planaltina;8,20;5;10;DF;Brasília;24/02/2026
 10362;CCI - QR-Code - Cartão Setiba X Vila Velha;CCI - QR-Code;15,75;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
 10363;CCI - QR-Code - Cartão Setiba X Guarapari;CCI - QR-Code;4,70;5;10;ES;Cachoeiro de Itapemirim;16/09/2024
 10364;CCI - QR-Code - Cartão Ipiranga X Dom Bosco;CCI - QR-Code;16,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
@@ -814,18 +814,18 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19431;PB Rio - Cartão Taquara X Fazenda (Linha 0302);PB Rio;13,50;5;10;PB;Alhandra;16/12/2025
 19432;PB Rio - Cartão Caaporã X Fazenda (Linha 0302);PB Rio;11,00;5;10;PB;Alhandra;16/12/2025
 10466;Sitrans - Cartão Municipal Campina Grande;Sitrans;4,90;5;10;PB;Campina Grande;06/02/2026
-10910;Viação São José - QR-Code - Cartão Campina Grande X Cidade Esperança;Viação São José - QR-Code;8,50;5;10;PB;Campina Grande;04/02/2025
-10911;Viação São José - QR-Code - Cartão Cidade Esperança X Campina Grande;Viação São José - QR-Code;8,50;5;10;PB;Campina Grande;04/02/2025
-10912;Viação São José - QR-Code - Cartão Campina Grande X Lagoa Nova;Viação São José - QR-Code;8,00;5;10;PB;Campina Grande;02/01/2025
-10913;Viação São José - QR-Code - Cartão Lagoa Nova X Campina Grande;Viação São José - QR-Code;8,00;5;10;PB;Campina Grande;02/01/2025
-10914;Viação São José - QR-Code - Cartão Campina Grande X Lagoa Seca;Viação São José - QR-Code;4,65;5;10;PB;Campina Grande;13/01/2025
-10915;Viação São José - QR-Code - Cartão Lagoa Seca X Campina Grande;Viação São José - QR-Code;4,65;5;10;PB;Campina Grande;13/01/2025
-10916;Viação São José - QR-Code - Cartão Guarabira X João Pessoa;Viação São José - QR-Code;25,25;5;10;PB;Campina Grande;06/01/2025
-10917;Viação São José - QR-Code - Cartão João Pessao X Guarabira;Viação São José - QR-Code;25,25;5;10;PB;Campina Grande;06/01/2025
-10918;Viação São José - QR-Code - Cartão Guarabira X Sapé;Viação São José - QR-Code;11,25;5;10;PB;Campina Grande;06/01/2025
-10919;Viação São José - QR-Code - Cartão Sapé X Guarabira;Viação São José - QR-Code;11,25;5;10;PB;Campina Grande;06/01/2025
-10920;Viação São José - QR-Code - Cartão Nova Floresta X Cuité;Viação São José - QR-Code;4,50;5;10;PB;Campina Grande;02/01/2025
-10921;Viação São José - QR-Code - Cartão Cuité X Nova Floresta;Viação São José - QR-Code;4,50;5;10;PB;Campina Grande;02/01/2025
+10910;Viação São José - QR-Code - Cartão Campina Grande X Cidade Esperança;Viação São José - QR-Code;9,00;5;10;PB;Campina Grande;24/02/2026
+10911;Viação São José - QR-Code - Cartão Cidade Esperança X Campina Grande;Viação São José - QR-Code;9,00;5;10;PB;Campina Grande;24/02/2026
+10912;Viação São José - QR-Code - Cartão Campina Grande X Lagoa Nova;Viação São José - QR-Code;8,50;5;10;PB;Campina Grande;24/02/2026
+10913;Viação São José - QR-Code - Cartão Lagoa Nova X Campina Grande;Viação São José - QR-Code;8,50;5;10;PB;Campina Grande;24/02/2026
+10914;Viação São José - QR-Code - Cartão Campina Grande X Lagoa Seca;Viação São José - QR-Code;5,00;5;10;PB;Campina Grande;24/02/2026
+10915;Viação São José - QR-Code - Cartão Lagoa Seca X Campina Grande;Viação São José - QR-Code;5,00;5;10;PB;Campina Grande;24/02/2026
+10916;Viação São José - QR-Code - Cartão Guarabira X João Pessoa;Viação São José - QR-Code;26,50;5;10;PB;Campina Grande;24/02/2026
+10917;Viação São José - QR-Code - Cartão João Pessao X Guarabira;Viação São José - QR-Code;26,50;5;10;PB;Campina Grande;24/02/2026
+10918;Viação São José - QR-Code - Cartão Guarabira X Sapé;Viação São José - QR-Code;11,80;5;10;PB;Campina Grande;24/02/2026
+10919;Viação São José - QR-Code - Cartão Sapé X Guarabira;Viação São José - QR-Code;11,80;5;10;PB;Campina Grande;24/02/2026
+10920;Viação São José - QR-Code - Cartão Nova Floresta X Cuité;Viação São José - QR-Code;4,70;5;10;PB;Campina Grande;24/02/2026
+10921;Viação São José - QR-Code - Cartão Cuité X Nova Floresta;Viação São José - QR-Code;4,70;5;10;PB;Campina Grande;24/02/2026
 15915;Viação Sonho Dourado - Cartão Municipal Santa Rita;Viação Sonho Dourado;5,00;5;10;PB;Santa Rita;24/07/2025
 3954;AETPC - Cartão Municipal Caruaru;AETPC;4,80;5;10;PE;Caruaru;22/09/2023
 8131;Atlântico Transportes (Petrolina) - Cartão Urbano Petrolina;Atlântico Transportes - Petrolina;5,00;5;10;PE;Petrolina;06/02/2023
@@ -4364,7 +4364,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8677;Fátima Transportes - Cartão Taquari X Montenegro (sem seguro) (Daer);Fátima Transportes;18,30;5;10;RS;Nova Santa Rita;06/01/2025
 8678;Fátima Transportes - Cartão Taquari X Porto Alegre (sem seguro) (Daer);Fátima Transportes;39,00;5;10;RS;Nova Santa Rita;06/01/2025
 8679;Fátima Transportes - Cartão Taquari X Tabaí (sem seguro);Fátima Transportes;9,10;5;10;RS;Nova Santa Rita;06/01/2025
-8680;Fátima Transportes - Cartão Triunfo Polo Municipal (sem seguro) (Metroplan);Fátima Transportes;7,75;5;10;RS;Nova Santa Rita;01/07/2021
+8680;Fátima Transportes - Cartão Triunfo Polo Municipal (sem seguro) (Metroplan);Fátima Transportes;8,80;5;10;RS;Nova Santa Rita;24/02/2026
 8681;Fátima Transportes - Cartão Triunfo X Porto Alegre (Metroplan);Fátima Transportes;30,30;5;10;RS;Nova Santa Rita;15/07/2025
 8682;Fátima Transportes - Cartão Triunfo X Porto Garibaldi Interm. (sem seguro) (Metroplan);Fátima Transportes;15,15;5;10;RS;Nova Santa Rita;15/07/2025
 9039;Fátima Transportes - Cartão Vendinha X Porto Garibaldi;Fátima Transportes;9,10;5;10;RS;Nova Santa Rita;01/10/2025
@@ -4428,10 +4428,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10446;Tri Porto Alegre - Cartão Tri - Municipal / Porto Alegre e Região;TRI Porto Alegre;5,30;5;10;RS;Porto Alegre;19/02/2026
 10447;Tri Porto Alegre - Cartão Tri - Integração com Trem (Trensurb);TRI Porto Alegre;9,30;5;10;RS;Porto Alegre;09/10/2023
 10448;Tri Porto Alegre - Cartão Tri - Trem (Trensurb);TRI Porto Alegre;5,00;5;10;RS;Porto Alegre;04/07/2025
-10449;Tri Porto Alegre - Cartão Integração com ônibus;TRI Porto Alegre;2,50;5;10;RS;Porto Alegre;12/05/2025
+10449;Tri Porto Alegre - Cartão Integração com ônibus;TRI Porto Alegre;2,65;5;10;RS;Porto Alegre;24/02/2026
 10450;Tri Porto Alegre - Cartão Porto Alegre (Integra. 944) X Carris (B-23);TRI Porto Alegre;7,88;5;10;RS;Porto Alegre;09/10/2023
-10451;Tri Porto Alegre - Cartão Integração com trem (sem desconto);TRI Porto Alegre;9,50;5;10;RS;Porto Alegre;12/05/2025
-10452;Tri Porto Alegre - Cartão Integração com trem (com desconto);TRI Porto Alegre;8,55;5;10;RS;Porto Alegre;12/05/2025
+10451;Tri Porto Alegre - Cartão Integração com trem (sem desconto);TRI Porto Alegre;10,30;5;10;RS;Porto Alegre;24/02/2026
+10452;Tri Porto Alegre - Cartão Integração com trem (com desconto);TRI Porto Alegre;8,55;5;10;RS;Porto Alegre;24/02/2026
 16084;Unesul - Cartão Butiá X Divisa (sem seguro);Unesul - Eletrônico;15,50;5;10;RS;Porto Alegre;08/09/2025
 16085;Unesul - Cartão Butiá X Porto Alegre (sem seguro);Unesul - Eletrônico;33,05;5;10;RS;Porto Alegre;08/09/2025
 16086;Unesul - Cartão Alpestre X Planalto (sem seguro);Unesul - Eletrônico;11,00;5;10;RS;Porto Alegre;09/09/2025
@@ -4855,10 +4855,12 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15567;BB Turismo - Cartão Jandira Integração;BB Turismo (Benfácil) - Jandira;9,00;5;10;SP;Barueri;17/01/2025
 15793;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
 19526;Bem Caieiras - Cartão Municipal Caieiras;Bem - Caieiras - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
+19530;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;9,00;5;10;SP;São Bernardo do Campo;24/02/2026
 15781;Bem Cajamar - Cartão Municipal Cajamar;Bem - Cajamar - Novo Sistema;4,60;5;10;SP;São Bernardo do Campo;23/06/2025
 15794;Repasse Bem Cajamar - Cartão Municipal Cajamar (Blacklist);Bem - Cajamar - Novo Sistema;6,90;5;10;SP;São Bernardo do Campo;24/06/2025
 15801;Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist);Bem - Cajamar - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
 19527;Bem Franco da Rocha - Cartão Municipal Franco da Rocha;Bem - Franco da Rocha - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
+19528;Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist);Bem - Franco da Rocha - Novo Sistema;9,00;5;10;SP;São Bernardo do Campo;24/02/2026
 15832;Repasse Bem Osasco - Cartão Municipal Osasco (Blacklist);Bem - Osasco - Novo Sistema;8,70;5;10;SP;Osasco;24/06/2025
 19448;Bem Osasco - Cartão Municipal Osasco;Bem - Osasco - Novo Sistema;6,10;5;10;SP;Osasco;05/01/2026
 19453;Repasse Bem Osasco - Cartão Municipal Osasco (Blacklist);Bem - Osasco - Novo Sistema;9,15;5;10;SP;Osasco;06/01/2026
