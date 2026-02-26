@@ -7123,7 +7123,7 @@
         "codigo": "10126",
         "nome": "Expresso 1002 - Cartão Carpina X Timbaúba",
         "fornecedor": "Expresso 1002",
-        "valor": "15,50",
+        "valor": "17,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -29675,7 +29675,7 @@
         "codigo": "18908",
         "nome": "Riocard (Semove) - 0 - 100D - Niterói - Candelária - SA",
         "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
+        "valor": "10,40",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -43115,7 +43115,7 @@
         "codigo": "7500",
         "nome": "Guarupas - Cartão Guarulhos (Intermunicipal)",
         "fornecedor": "Guarupass - Intermunicipal",
-        "valor": "9,45",
+        "valor": "9,60",
         "uf": "SP",
         "cidade": "Guarulhos"
     },

@@ -889,7 +889,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9750;Expresso 1002 - Cartão Camaragibe X Nazaré da Mata;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
 9751;Expresso 1002 - Cartão Lagoa do Itaenga X Carpina;Expresso 1002;5,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
 9752;Expresso 1002 - Cartão Limoeiro X Paudalho;Expresso 1002;10,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-10126;Expresso 1002 - Cartão Carpina X Timbaúba;Expresso 1002;15,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
+10126;Expresso 1002 - Cartão Carpina X Timbaúba;Expresso 1002;17,50;5;10;PE;Jaboatão dos Guararapes;25/02/2026
 15076;Expresso 1002 - Cartão Paudalho X Camaragibe;Expresso 1002;9,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
 16029;Expresso 1002 - Cartão Recife X Nazaré da Mata (Linha 30);Expresso 1002;18,50;5;10;PE;Jaboatão dos Guararapes;26/08/2025
 16030;Expresso 1002 - Cartão Recife X São Lourenço da Mata;Expresso 1002;7,00;5;10;PE;Jaboatão dos Guararapes;26/08/2025
@@ -3708,7 +3708,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 18905;Riocard (Semove) - 0 - 2533D - Alcântara - Méier (via PPCS) - AC;Riocard (Semove);22,80;3;7;RJ;Rio de Janeiro;01/12/2025
 18906;Riocard (Semove) - 0 - Alcântara - Méier - SAC;Riocard (Semove);15,20;3;7;RJ;Rio de Janeiro;01/12/2025
 18907;Riocard (Semove) - 0 - 532M - Niterói - Alcântara (via Dr. March) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18908;Riocard (Semove) - 0 - 100D - Niterói - Candelária - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
+18908;Riocard (Semove) - 0 - 100D - Niterói - Candelária - SA;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;25/02/2026
 18909;Riocard (Semove) - 0 - 590M - Niterói - Amendoeira (via Tribobó) - SA;Riocard (Semove);8,10;3;7;RJ;Rio de Janeiro;01/12/2025
 18910;Riocard (Semove) - 0 - 590R - Candelária - Ponta Negra (via Boqueirão) - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18911;Riocard (Semove) - 0 - 2590R - Castelo - Ponta Negra (via Boqueirão) - AC;Riocard (Semove);48,95;3;7;RJ;Rio de Janeiro;01/12/2025
@@ -5388,7 +5388,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7497;Guarupas - Cartão Guarulhos (Intermunicipal);Guarupass - Intermunicipal;8,40;5;10;SP;Guarulhos;01/01/2000
 7498;Guarupas - Cartão Guarulhos (Intermunicipal);Guarupass - Intermunicipal;8,45;5;10;SP;Guarulhos;01/01/2000
 7499;Guarupas - Cartão Guarulhos (Intermunicipal);Guarupass - Intermunicipal;9,35;5;10;SP;Guarulhos;01/01/2000
-7500;Guarupas - Cartão Guarulhos (Intermunicipal);Guarupass - Intermunicipal;9,45;5;10;SP;Guarulhos;01/01/2000
+7500;Guarupas - Cartão Guarulhos (Intermunicipal);Guarupass - Intermunicipal;9,60;5;10;SP;Guarulhos;25/02/2026
 7501;Guarupas - Cartão Arujá Municipal;Guarupass - Intermunicipal;5,00;5;10;SP;Guarulhos;25/04/2023
 7502;Guarupas - Cartão Arujá Expressinho;Guarupass - Intermunicipal;5,00;5;10;SP;Guarulhos;16/05/2023
 7847;Guarupas - Cartão Guarulhos (Intermunicipal);Guarupass - Intermunicipal;7,40;5;10;SP;Guarulhos;02/03/2020
