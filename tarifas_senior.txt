@@ -153,12 +153,12 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7077;BRB Mobilidade DF Trans - Cartão Tarifa 1;BRB Mobilidade - (DF Trans);2,70;5;10;DF;Brasília;13/01/2020
 7078;BRB Mobilidade DF Trans - Cartão Tarifa 2;BRB Mobilidade - (DF Trans);3,80;5;10;DF;Brasília;13/01/2020
 7079;BRB Mobilidade DF Trans - Cartão Tarifa 3;BRB Mobilidade - (DF Trans);5,50;5;10;DF;Brasília;13/01/2020
-15732;Catedral - Cartão Brasilia X Jardim Ingá;Catedral - Eletrônico;9,05;5;10;DF;Brasília;03/10/2025
-15733;Catedral - Cartão Gama X Jardim Ingá;Catedral - Eletrônico;5,90;5;10;DF;Brasília;03/10/2025
-15734;Catedral - Cartão Taguatinga X Jardim Ingá;Catedral - Eletrônico;10,40;5;10;DF;Brasília;03/10/2025
-15738;Catedral - Cartão Jardim Ingá X Lago Sul;Catedral - Eletrônico;9,05;5;10;DF;Brasília;03/10/2025
+15732;Catedral - Cartão Brasilia X Jardim Ingá;Catedral - Eletrônico;9,30;5;10;DF;Brasília;26/02/2026
+15733;Catedral - Cartão Gama X Jardim Ingá;Catedral - Eletrônico;6,10;5;10;DF;Brasília;26/02/2026
+15734;Catedral - Cartão Taguatinga X Jardim Ingá;Catedral - Eletrônico;10,65;5;10;DF;Brasília;26/02/2026
+15738;Catedral - Cartão Jardim Ingá X Lago Sul;Catedral - Eletrônico;9,30;5;10;DF;Brasília;26/02/2026
 15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;11,00;5;11;DF;Brasília;23/02/2026
-10308;Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas;Taguatur - Águas Lindas de Goiás;11,15;5;10;DF;Brasília;26/09/2025
+10308;Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas;Taguatur - Águas Lindas de Goiás;11,45;5;10;DF;Brasília;26/02/2026
 10309;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga;Taguatur - Águas Lindas de Goiás;6,75;5;10;DF;Brasília;15/08/2023
 10310;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Ceilândia;Taguatur - Águas Lindas de Goiás;5,15;5;10;DF;Brasília;15/08/2023
 10311;Taguatur Águas Lindas de Goiás - Cartão Girassol X Brasília;Taguatur - Águas Lindas de Goiás;10,95;5;10;DF;Brasília;26/09/2025
@@ -169,27 +169,27 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10316;Taguatur Águas Lindas de Goiás - Cartão Novo Gama X Brasília;Taguatur - Águas Lindas de Goiás;7,85;5;10;DF;Brasília;16/08/2023
 10317;Taguatur Águas Lindas de Goiás - Cartão Lago Azul X Santa Maria;Taguatur - Águas Lindas de Goiás;3,80;5;10;DF;Brasília;15/08/2023
 10318;Taguatur Águas Lindas de Goiás - Cartão Gama X Taguatinga;Taguatur - Águas Lindas de Goiás;7,85;5;10;DF;Brasília;16/08/2023
-10319;Taguatur Santo Antonio do Descoberto - Cartão Santo Antônio X Brasília;Taguatur - Santo Antonio do Descoberto;10,45;5;10;DF;Brasília;07/10/2025
-10320;Taguatur Santo Antonio do Descoberto - Cartão Santo Antonio X Taguatinga;Taguatur - Santo Antonio do Descoberto;8,30;5;10;DF;Brasília;29/09/2025
-10321;Taguatur Santo Antonio do Descoberto - Cartão Brasília X Águas Claras;Taguatur - Santo Antonio do Descoberto;9,35;5;10;DF;Brasília;16/08/2023
-5860;UTB - Eletrônico - Cartão Águas Lindas X Brasília;UTB - Eletrônico;11,15;5;10;DF;Brasília;02/10/2025
-5975;UTB - Eletrônico - Cartão Monte Alto X Brasília;UTB - Eletrônico;10,10;5;10;DF;Brasília;29/09/2025
-5976;UTB - Eletrônico - Cartão Monte Alto X Brazilândia;UTB - Eletrônico;2,90;5;10;DF;Brasília;29/09/2025
-6637;UTB - Eletrônico - Cartão Valparaíso de Goiás X Brasília;UTB - Eletrônico;7,80;5;10;DF;Brasília;29/09/2025
-7059;UTB - Eletrônico - Cartão Monte Alto X Taguatinga Norte;UTB - Eletrônico;9,35;5;10;DF;Brasília;29/09/2025
-8202;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília;UTB - Eletrônico;8,65;5;10;DF;Brasília;29/09/2025
-8253;UTB - Eletrônico - Cartão Cidade Ocidental X Gama;UTB - Eletrônico;5,95;5;10;DF;Brasília;29/09/2025
-8260;UTB - Eletrônico - Cartão Valparaíso X Gama;UTB - Eletrônico;5,05;5;10;DF;Brasília;29/09/2025
-8269;UTB - Eletrônico - Cartão Céu Azul X Brasília;UTB - Eletrônico;7,20;5;10;DF;Brasília;29/09/2025
-8296;UTB - Eletrônico - Cartão Cidade Ocidental X Taguatinga;UTB - Eletrônico;10,00;5;10;DF;Brasília;29/09/2025
-8297;UTB - Eletrônico - Cartão Valparaíso X Taguatinga;UTB - Eletrônico;9,15;5;10;DF;Brasília;29/09/2025
-8580;UTB - Eletrônico - Cartão Novo Gama X Brasília;UTB - Eletrônico;10,10;5;10;DF;Brasília;29/09/2025
+10319;Taguatur Santo Antonio do Descoberto - Cartão Santo Antônio X Brasília;Taguatur - Santo Antonio do Descoberto;10,75;5;10;DF;Brasília;26/02/2026
+10320;Taguatur Santo Antonio do Descoberto - Cartão Santo Antonio X Taguatinga;Taguatur - Santo Antonio do Descoberto;8,60;5;10;DF;Brasília;26/02/2026
+10321;Taguatur Santo Antonio do Descoberto - Cartão Brasília X Águas Claras;Taguatur - Santo Antonio do Descoberto;10,75;5;10;DF;Brasília;26/02/2026
+5860;UTB - Eletrônico - Cartão Águas Lindas X Brasília;UTB - Eletrônico;11,45;5;10;DF;Brasília;26/02/2026
+5975;UTB - Eletrônico - Cartão Monte Alto X Brasília;UTB - Eletrônico;10,40;5;10;DF;Brasília;26/02/2026
+5976;UTB - Eletrônico - Cartão Monte Alto X Brazilândia;UTB - Eletrônico;3,00;5;10;DF;Brasília;26/02/2026
+6637;UTB - Eletrônico - Cartão Valparaíso de Goiás X Brasília;UTB - Eletrônico;8,00;5;10;DF;Brasília;26/02/2026
+7059;UTB - Eletrônico - Cartão Monte Alto X Taguatinga Norte;UTB - Eletrônico;9,60;5;10;DF;Brasília;26/02/2026
+8202;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília;UTB - Eletrônico;8,90;5;10;DF;Brasília;26/02/2026
+8253;UTB - Eletrônico - Cartão Cidade Ocidental X Gama;UTB - Eletrônico;6,05;5;10;DF;Brasília;26/02/2026
+8260;UTB - Eletrônico - Cartão Valparaíso X Gama;UTB - Eletrônico;5,15;5;10;DF;Brasília;26/02/2026
+8269;UTB - Eletrônico - Cartão Céu Azul X Brasília;UTB - Eletrônico;7,30;5;10;DF;Brasília;26/02/2026
+8296;UTB - Eletrônico - Cartão Cidade Ocidental X Taguatinga;UTB - Eletrônico;10,25;5;10;DF;Brasília;26/02/2026
+8297;UTB - Eletrônico - Cartão Valparaíso X Taguatinga;UTB - Eletrônico;9,35;5;10;DF;Brasília;26/02/2026
+8580;UTB - Eletrônico - Cartão Novo Gama X Brasília;UTB - Eletrônico;10,35;5;10;DF;Brasília;26/02/2026
 8622;UTB - Eletrônico - Cartão Pedregal X Brasília;UTB - Eletrônico;10,10;5;10;DF;Brasília;02/10/2025
 9033;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília;UTB - Eletrônico;8,65;5;10;DF;Brasília;29/09/2025
 9159;UTB - Eletrônico - Cartão Monte Alto X Esplanada;UTB - Eletrônico;10,10;5;10;DF;Brasília;02/10/2025
-10049;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Executivo);UTB - Eletrônico;17,50;5;10;DF;Brasília;29/09/2025
+10049;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Executivo);UTB - Eletrônico;18,00;5;10;DF;Brasília;26/02/2026
 15431;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Linha 8250);UTB - Eletrônico;8,00;5;10;DF;Brasília;02/10/2025
-16221;UTB - Eletrônico - Cartão Águas Lindas X Brazlândia;UTB - Eletrônico;5,95;5;10;DF;Brasília;31/10/2025
+16221;UTB - Eletrônico - Cartão Águas Lindas X Brazlândia;UTB - Eletrônico;6,15;5;10;DF;Brasília;26/02/2026
 15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;Viação Planaltina;11,60;5;10;DF;Brasília;24/02/2026
 15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,20;5;10;DF;Brasília;24/02/2026
 15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Viação Planaltina;7,60;5;10;DF;Brasília;24/02/2026
@@ -811,7 +811,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19477;Ferreira Costa;Ferreira Costa;0,01;5;10;PB;João Pessoa;16/01/2026
 6330;PB Rio - Cartão João Pessoa X Alhandra;PB Rio;13,00;5;10;PB;Alhandra;06/02/2026
 10211;PB Rio - Cartão Alhandra X Fazenda;PB Rio;6,80;5;10;PB;Alhandra;27/01/2026
-19431;PB Rio - Cartão Taquara X Fazenda (Linha 0302);PB Rio;13,50;5;10;PB;Alhandra;16/12/2025
+19431;PB Rio - Cartão Taquara X Fazenda (Linha 0302);PB Rio;14,00;5;10;PB;Alhandra;26/02/2026
 19432;PB Rio - Cartão Caaporã X Fazenda (Linha 0302);PB Rio;11,00;5;10;PB;Alhandra;16/12/2025
 10466;Sitrans - Cartão Municipal Campina Grande;Sitrans;4,90;5;10;PB;Campina Grande;06/02/2026
 10910;Viação São José - QR-Code - Cartão Campina Grande X Cidade Esperança;Viação São José - QR-Code;9,00;5;10;PB;Campina Grande;24/02/2026
@@ -4431,7 +4431,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10449;Tri Porto Alegre - Cartão Integração com ônibus;TRI Porto Alegre;2,65;5;10;RS;Porto Alegre;24/02/2026
 10450;Tri Porto Alegre - Cartão Porto Alegre (Integra. 944) X Carris (B-23);TRI Porto Alegre;7,88;5;10;RS;Porto Alegre;09/10/2023
 10451;Tri Porto Alegre - Cartão Integração com trem (sem desconto);TRI Porto Alegre;10,30;5;10;RS;Porto Alegre;24/02/2026
-10452;Tri Porto Alegre - Cartão Integração com trem (com desconto);TRI Porto Alegre;8,55;5;10;RS;Porto Alegre;24/02/2026
+10452;Tri Porto Alegre - Cartão Integração com trem (com desconto);TRI Porto Alegre;9,27;5;10;RS;Porto Alegre;26/02/2026
 16084;Unesul - Cartão Butiá X Divisa (sem seguro);Unesul - Eletrônico;15,50;5;10;RS;Porto Alegre;08/09/2025
 16085;Unesul - Cartão Butiá X Porto Alegre (sem seguro);Unesul - Eletrônico;33,05;5;10;RS;Porto Alegre;08/09/2025
 16086;Unesul - Cartão Alpestre X Planalto (sem seguro);Unesul - Eletrônico;11,00;5;10;RS;Porto Alegre;09/09/2025
@@ -5963,6 +5963,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15463;Viação Bragança - QR-Code - Cartão Socorro X São Paulo (Tietê);Viação Bragança - QR-Code - Grupo Vida;65,70;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
 16183;Viação Bragança - QR-Code - Cartão Bragança Paulista X São Paulo (com seguro);Viação Bragança - QR-Code - Grupo Vida;49,60;5;10;SP;Santa Rita do Passa Quatro;14/10/2025
 2153;Viação Calvip - Cartão Cerquilho X Tietê;Viação Calvip;5,80;5;10;SP;Laranjal paulista;05/01/2026
+19532;Viação Cidade das Artes - Cartão Municipal Embu das Artes;Viação Cidade das Artes - PIX;5,80;5;10;SP;Embu das Artes;26/02/2026
 9013;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;15,80;5;10;SP;Piracicaba;07/07/2025
 9014;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;14,60;5;10;SP;Piracicaba;07/07/2025
 9015;Viação Itaqueri - Cartão Águas de São Pedro X São Pedro (sem seguro);Viação Itaqueri - QR-Code;6,65;5;10;SP;Piracicaba;07/07/2025
