@@ -184,11 +184,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8296;UTB - Eletrônico - Cartão Cidade Ocidental X Taguatinga;UTB - Eletrônico;10,25;5;10;DF;Brasília;26/02/2026
 8297;UTB - Eletrônico - Cartão Valparaíso X Taguatinga;UTB - Eletrônico;9,35;5;10;DF;Brasília;26/02/2026
 8580;UTB - Eletrônico - Cartão Novo Gama X Brasília;UTB - Eletrônico;10,35;5;10;DF;Brasília;26/02/2026
-8622;UTB - Eletrônico - Cartão Pedregal X Brasília;UTB - Eletrônico;10,10;5;10;DF;Brasília;02/10/2025
+8622;UTB - Eletrônico - Cartão Pedregal X Brasília;UTB - Eletrônico;10,35;5;10;DF;Brasília;27/02/2026
 9033;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília;UTB - Eletrônico;8,65;5;10;DF;Brasília;29/09/2025
 9159;UTB - Eletrônico - Cartão Monte Alto X Esplanada;UTB - Eletrônico;10,10;5;10;DF;Brasília;02/10/2025
 10049;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Executivo);UTB - Eletrônico;18,00;5;10;DF;Brasília;26/02/2026
-15431;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Linha 8250);UTB - Eletrônico;8,00;5;10;DF;Brasília;02/10/2025
+15431;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Linha 8250);UTB - Eletrônico;8,20;5;10;DF;Brasília;27/02/2026
 16221;UTB - Eletrônico - Cartão Águas Lindas X Brazlândia;UTB - Eletrônico;6,15;5;10;DF;Brasília;26/02/2026
 15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;Viação Planaltina;11,60;5;10;DF;Brasília;24/02/2026
 15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,20;5;10;DF;Brasília;24/02/2026
@@ -265,6 +265,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10165;Plantur - (QR-Code) - Cartão Cachoeiro de Itapemirim X São José dos Frades (convencional dentro da rodoviária));Plantur - QR-Code;13,66;5;10;ES;Cariacica;09/01/2026
 15676;Plantur - (QR-Code) - Cartão Dom Bosco X Bairro Ipiranga (Executivo Parador);Plantur - QR-Code;26,49;5;10;ES;Cariacica;28/04/2025
 4971;Via Norte - Cartão Linhares Municipal (Linhas da Sede);Via Norte;4,95;5;10;ES;Linhares;19/02/2024
+19534;Via Norte - Cartão Linhares Metropolitano;Via Norte;8,10;5;10;ES;Linhares;27/02/2026
 15926;Viação Águia Branca - Cartão Águia Branca X Barra de São Francisco;Viação Águia Branca;16,67;5;10;ES;Cariacica;24/07/2025
 15918;Viação Lírio - Cartão Vitória X Fundão;Viação Lírio - QR-Code;10,92;5;10;ES;Santa Teresa;24/07/2025
 8965;Viação Real (QR-Code) - Cartão Cachoeira de Itapemirim X Santa Fé de Cima;Viação Real - QR-Code;10,70;5;10;ES;Cachoeiro de Itapemirim;08/01/2026
@@ -4151,7 +4152,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3812;Riocard (Semove) - Mais Empresarial 80;Riocard (Semove) - Expresso Empresarial 80;85,00;5;10;RJ;Rio de Janeiro;27/01/2026
 9912;Riocard (Semove) - Mais Empresarial 400;Riocard (Semove) - Expresso Empresarial 80;409,30;5;10;RJ;Rio de Janeiro;17/01/2023
 9916;Riocard (Semove) - Mais Empresarial 320 - Recarga;Riocard (Semove) - Expresso Empresarial 80;320,00;5;10;RJ;Rio de Janeiro;12/12/2022
-3811;Riocard (Semove) - Mais Expresso 50;Riocard (Semove) - Mais Expresso;54,70;5;10;RJ;Rio de Janeiro;08/01/2025
+3811;Riocard (Semove) - Mais Expresso 50;Riocard (Semove) - Mais Expresso;55,00;5;10;RJ;Rio de Janeiro;27/02/2026
 3813;Riocard (Semove) - Mais Expresso 150;Riocard (Semove) - Mais Expresso;155,00;5;10;RJ;Rio de Janeiro;27/01/2026
 2242;Setransol - Cartão Setransol Municipal Região dos Lagos;Setransol;4,30;5;10;RJ;Cabo Frio;26/09/2024
 2243;Setransol - Cartão Intermunicipal - Região dos Lagos;Setransol;8,35;5;10;RJ;Cabo Frio;18/02/2026
@@ -5452,7 +5453,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9363;Jodi - Cartão Itapeva X Nova Campina;Jodi;7,20;5;10;SP;Itapeva;19/02/2025
 9364;Jodi - Cartão Nova Campina X Taquariguaçu;Jodi;5,65;5;10;SP;Itapeva;19/02/2025
 9365;Jodi - Cartão Itapeva X Taquariguaçu;Jodi;8,50;5;10;SP;Itapeva;19/02/2025
-7544;JTP Transportes - Cartão Embu das Artes Municipal;JTP Transportes - (Embu das Artes);5,80;5;10;SP;Alphaville;05/01/2026
 8403;JTP Transportes - Cartão Urbano Bragança Paulista;JTP Transportes - Bragança Paulista;6,50;5;10;SP;Bragança Paulista;02/01/2026
 178;JTU Jacareí- Cartão Jacareí Urbano / Jacareí e Região;JTU Jacareí;6,83;5;10;SP;Jacareí;19/05/2025
 15367;JTU Jacareí - Cartão Jacareí Urbano Variável;JTU Jacareí;0,01;5;10;SP;Jacareí;20/09/2024

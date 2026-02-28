@@ -1483,7 +1483,7 @@
         "codigo": "8622",
         "nome": "UTB - Eletrônico - Cartão Pedregal X Brasília",
         "fornecedor": "UTB - Eletrônico",
-        "valor": "10,10",
+        "valor": "10,35",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1515,7 +1515,7 @@
         "codigo": "15431",
         "nome": "UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Linha 8250)",
         "fornecedor": "UTB - Eletrônico",
-        "valor": "8,00",
+        "valor": "8,20",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -2124,6 +2124,14 @@
         "nome": "Via Norte - Cartão Linhares Municipal (Linhas da Sede)",
         "fornecedor": "Via Norte",
         "valor": "4,95",
+        "uf": "ES",
+        "cidade": "Linhares"
+    },
+    {
+        "codigo": "19534",
+        "nome": "Via Norte - Cartão Linhares Metropolitano",
+        "fornecedor": "Via Norte",
+        "valor": "8,10",
         "uf": "ES",
         "cidade": "Linhares"
     },
@@ -33219,7 +33227,7 @@
         "codigo": "3811",
         "nome": "Riocard (Semove) - Mais Expresso 50",
         "fornecedor": "Riocard (Semove) - Mais Expresso",
-        "valor": "54,70",
+        "valor": "55,00",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -43622,14 +43630,6 @@
         "valor": "8,50",
         "uf": "SP",
         "cidade": "Itapeva"
-    },
-    {
-        "codigo": "7544",
-        "nome": "JTP Transportes - Cartão Embu das Artes Municipal",
-        "fornecedor": "JTP Transportes - (Embu das Artes)",
-        "valor": "5,80",
-        "uf": "SP",
-        "cidade": "Alphaville"
     },
     {
         "codigo": "8403",
