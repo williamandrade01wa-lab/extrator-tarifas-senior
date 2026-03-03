@@ -67,7 +67,7 @@
         "codigo": "245",
         "nome": "Sinetram - Cartão Municipal Manaus (Passafácil)",
         "fornecedor": "Sinetram - Novo Sistema",
-        "valor": "6,00",
+        "valor": "5,00",
         "uf": "AM",
         "cidade": "Manaus"
     },
@@ -1484,22 +1484,6 @@
         "nome": "UTB - Eletrônico - Cartão Pedregal X Brasília",
         "fornecedor": "UTB - Eletrônico",
         "valor": "10,35",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "9033",
-        "nome": "UTB - Eletrônico - Cartão Cidade Ocidental X Brasília",
-        "fornecedor": "UTB - Eletrônico",
-        "valor": "8,65",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "9159",
-        "nome": "UTB - Eletrônico - Cartão Monte Alto X Esplanada",
-        "fornecedor": "UTB - Eletrônico",
-        "valor": "10,10",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -4667,7 +4651,7 @@
         "codigo": "7257",
         "nome": "Cooperseltta - Cartão Municipal Sete Lagoas",
         "fornecedor": "Cooperseltta",
-        "valor": "5,20",
+        "valor": "5,45",
         "uf": "MG",
         "cidade": "Sete Lagoas"
     },
@@ -5499,7 +5483,7 @@
         "codigo": "1270",
         "nome": "Turi - Sete Lagoas - Cartão Municipal Sete Lagoas",
         "fornecedor": "Turi - Sete Lagoas",
-        "valor": "5,20",
+        "valor": "5,45",
         "uf": "MG",
         "cidade": "Sete Lagoas"
     },
@@ -7139,7 +7123,7 @@
         "codigo": "15076",
         "nome": "Expresso 1002 - Cartão Paudalho X Camaragibe",
         "fornecedor": "Expresso 1002",
-        "valor": "9,00",
+        "valor": "10,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -35424,14 +35408,6 @@
         "cidade": "Porto Alegre"
     },
     {
-        "codigo": "10447",
-        "nome": "Tri Porto Alegre - Cartão Tri - Integração com Trem (Trensurb)",
-        "fornecedor": "TRI Porto Alegre",
-        "valor": "9,30",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
         "codigo": "10448",
         "nome": "Tri Porto Alegre - Cartão Tri - Trem (Trensurb)",
         "fornecedor": "TRI Porto Alegre",
@@ -35444,14 +35420,6 @@
         "nome": "Tri Porto Alegre - Cartão Integração com ônibus",
         "fornecedor": "TRI Porto Alegre",
         "valor": "2,65",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "10450",
-        "nome": "Tri Porto Alegre - Cartão Porto Alegre (Integra. 944) X Carris (B-23)",
-        "fornecedor": "TRI Porto Alegre",
-        "valor": "7,88",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -47717,7 +47685,7 @@
         "fornecedor": "Viação Cidade das Artes - PIX",
         "valor": "5,80",
         "uf": "SP",
-        "cidade": "Embu das Artes"
+        "cidade": "Itapecerica da Serra"
     },
     {
         "codigo": "9013",
