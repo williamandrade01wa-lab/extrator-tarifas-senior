@@ -1931,7 +1931,7 @@
         "codigo": "9843",
         "nome": "Plantur - (QR-Code) - Cartão Barro Branco X Guarapari (com seguro) (convencional)",
         "fornecedor": "Plantur - QR-Code",
-        "valor": "4,97",
+        "valor": "5,17",
         "uf": "ES",
         "cidade": "Cariacica"
     },
@@ -1987,7 +1987,7 @@
         "codigo": "9850",
         "nome": "Plantur - (QR-Code) - Cartão Guarapari X Rodoshopping (convencional)",
         "fornecedor": "Plantur - QR-Code",
-        "valor": "4,97",
+        "valor": "5,17",
         "uf": "ES",
         "cidade": "Cariacica"
     },
@@ -2011,7 +2011,7 @@
         "codigo": "9853",
         "nome": "Plantur - (QR-Code) - Cartão Muquiçaba X Barro Branco (convencional)",
         "fornecedor": "Plantur - QR-Code",
-        "valor": "4,97",
+        "valor": "5,17",
         "uf": "ES",
         "cidade": "Cariacica"
     },
@@ -2019,7 +2019,7 @@
         "codigo": "9854",
         "nome": "Plantur - (QR-Code) - Cartão Neves X Ipiranga (com seguro) (convencional)",
         "fornecedor": "Plantur - QR-Code",
-        "valor": "4,97",
+        "valor": "5,17",
         "uf": "ES",
         "cidade": "Cariacica"
     },
@@ -2027,7 +2027,7 @@
         "codigo": "9855",
         "nome": "Plantur - (QR-Code) - Cartão Neves X Ipiranga (sem seguro) (convencional)",
         "fornecedor": "Plantur - QR-Code",
-        "valor": "4,90",
+        "valor": "5,10",
         "uf": "ES",
         "cidade": "Cariacica"
     },
@@ -4867,7 +4867,7 @@
         "codigo": "15717",
         "nome": "Moov - Pouso Alegre - Cartão Rural Pouso Alegre",
         "fornecedor": "Moov - Pouso Alegre",
-        "valor": "6,50",
+        "valor": "5,30",
         "uf": "MG",
         "cidade": "Pouso Alegre"
     },
@@ -6098,7 +6098,7 @@
     {
         "codigo": "19468",
         "nome": "Viação Pedra Negra - Cartão Municipal Itaúna",
-        "fornecedor": "Viação Pedra Negra - Itaúna - PIX",
+        "fornecedor": "Viação Pedra Negra - Itaúna",
         "valor": "4,90",
         "uf": "MG",
         "cidade": "Itaúna"
@@ -6947,7 +6947,7 @@
         "codigo": "6686",
         "nome": "Expresso 1002 - Cartão Paudalho X Recife",
         "fornecedor": "Expresso 1002",
-        "valor": "13,00",
+        "valor": "14,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -6955,7 +6955,7 @@
         "codigo": "7670",
         "nome": "Expresso 1002 - Cartão Carpina X Lagoa do Carro",
         "fornecedor": "Expresso 1002",
-        "valor": "4,50",
+        "valor": "5,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -6963,7 +6963,7 @@
         "codigo": "8226",
         "nome": "Expresso 1002 - Cartão Surubim X Toritama",
         "fornecedor": "Expresso 1002",
-        "valor": "11,50",
+        "valor": "12,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -6971,7 +6971,7 @@
         "codigo": "8279",
         "nome": "Expresso 1002 - Cartão Carpina X Limoeiro",
         "fornecedor": "Expresso 1002",
-        "valor": "6,50",
+        "valor": "7,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -6979,7 +6979,7 @@
         "codigo": "8280",
         "nome": "Expresso 1002 - Cartão Recife X Limeiro",
         "fornecedor": "Expresso 1002",
-        "valor": "23,00",
+        "valor": "25,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7003,7 +7003,7 @@
         "codigo": "8628",
         "nome": "Expresso 1002 - Cartão Recife X Lagoa de Itaenga",
         "fornecedor": "Expresso 1002",
-        "valor": "21,00",
+        "valor": "23,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7011,7 +7011,7 @@
         "codigo": "8638",
         "nome": "Expresso 1002 - Cartão Nazaré da Mata X Aliança",
         "fornecedor": "Expresso 1002",
-        "valor": "5,50",
+        "valor": "6,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7027,7 +7027,7 @@
         "codigo": "8640",
         "nome": "Expresso 1002 - Cartão Nazaré da Mata X Carpina",
         "fornecedor": "Expresso 1002",
-        "valor": "5,50",
+        "valor": "6,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7035,7 +7035,7 @@
         "codigo": "9117",
         "nome": "Expresso 1002 - Cartão Paudalho X Carpina",
         "fornecedor": "Expresso 1002",
-        "valor": "4,50",
+        "valor": "5,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7043,7 +7043,7 @@
         "codigo": "9141",
         "nome": "Expresso 1002 - Cartão Recife X Carpina",
         "fornecedor": "Expresso 1002",
-        "valor": "17,00",
+        "valor": "19,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7051,7 +7051,7 @@
         "codigo": "9259",
         "nome": "Expresso 1002 - Cartão Recife X Feira Nova",
         "fornecedor": "Expresso 1002",
-        "valor": "25,00",
+        "valor": "28,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7059,7 +7059,7 @@
         "codigo": "9280",
         "nome": "Expresso 1002 - Cartão Limoeiro X Surubim",
         "fornecedor": "Expresso 1002",
-        "valor": "13,00",
+        "valor": "14,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7067,7 +7067,7 @@
         "codigo": "9747",
         "nome": "Expresso 1002 - Cartão Camaragibe X Bar Chã",
         "fornecedor": "Expresso 1002",
-        "valor": "6,50",
+        "valor": "7,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7075,7 +7075,7 @@
         "codigo": "9748",
         "nome": "Expresso 1002 - Cartão São Lourenço da Mata X Paudalho",
         "fornecedor": "Expresso 1002",
-        "valor": "6,50",
+        "valor": "7,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7083,7 +7083,7 @@
         "codigo": "9749",
         "nome": "Expresso 1002 - Cartão São Lourenço da Mata X Carpina",
         "fornecedor": "Expresso 1002",
-        "valor": "10,00",
+        "valor": "11,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7091,7 +7091,7 @@
         "codigo": "9750",
         "nome": "Expresso 1002 - Cartão Camaragibe X Nazaré da Mata",
         "fornecedor": "Expresso 1002",
-        "valor": "14,50",
+        "valor": "15,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7107,7 +7107,7 @@
         "codigo": "9752",
         "nome": "Expresso 1002 - Cartão Limoeiro X Paudalho",
         "fornecedor": "Expresso 1002",
-        "valor": "10,00",
+        "valor": "11,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7131,7 +7131,7 @@
         "codigo": "16029",
         "nome": "Expresso 1002 - Cartão Recife X Nazaré da Mata (Linha 30)",
         "fornecedor": "Expresso 1002",
-        "valor": "18,50",
+        "valor": "20,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7139,7 +7139,7 @@
         "codigo": "16030",
         "nome": "Expresso 1002 - Cartão Recife X São Lourenço da Mata",
         "fornecedor": "Expresso 1002",
-        "valor": "7,00",
+        "valor": "7,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -8155,7 +8155,7 @@
         "codigo": "15069",
         "nome": "Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu",
         "fornecedor": "Viza Transportes - Eletrônico",
-        "valor": "6,55",
+        "valor": "6,75",
         "uf": "PR",
         "cidade": "Foz do Iguaçu"
     },
@@ -33872,6 +33872,14 @@
         "cidade": "Natal"
     },
     {
+        "codigo": "19537",
+        "nome": "Seturn - Cartão Seturn",
+        "fornecedor": "Seturn",
+        "valor": "0,01",
+        "uf": "RN",
+        "cidade": "Natal"
+    },
+    {
         "codigo": "1237",
         "nome": "Trampolim - Cartão Parnamirim X Natal (Petrópolis) Linha A",
         "fornecedor": "Trampolim",
@@ -38019,7 +38027,7 @@
         "codigo": "5591",
         "nome": "Viação Curitibanos - Cartão Ligadinho Curitibanos Urbano",
         "fornecedor": "Viação Curitibanos",
-        "valor": "4,50",
+        "valor": "5,00",
         "uf": "SC",
         "cidade": "Curitibanos"
     },
@@ -38195,7 +38203,7 @@
         "codigo": "10668",
         "nome": "Viação Praiana - Cartão Itapema X Itajaí",
         "fornecedor": "Viação Praiana",
-        "valor": "8,60",
+        "valor": "9,90",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -47332,6 +47340,14 @@
         "nome": "Valle Sul São Paulo - Cartão Iguape X Miracatu",
         "fornecedor": "Valle Sul São Paulo",
         "valor": "30,90",
+        "uf": "SP",
+        "cidade": "São Paulo"
+    },
+    {
+        "codigo": "19536",
+        "nome": "Valle Sul São Paulo - Cartão Cananéia X Pariquera-Açu",
+        "fornecedor": "Valle Sul São Paulo",
+        "valor": "21,20",
         "uf": "SP",
         "cidade": "São Paulo"
     },

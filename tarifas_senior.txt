@@ -240,19 +240,19 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9840;Plantur - (QR-Code) - Cartão Anchieta X Guarapari (sem seguro) (convencional);Plantur - QR-Code;12,80;5;10;ES;Cariacica;09/01/2026
 9841;Plantur - (QR-Code) - Cartão Anchieta X Ubu (com seguro) (convencional);Plantur - QR-Code;4,07;5;10;ES;Cariacica;09/01/2026
 9842;Plantur - (QR-Code) - Cartão Anchieta X Vila Velha (sem seguro) (convencional);Plantur - QR-Code;35,85;5;10;ES;Cariacica;09/01/2026
-9843;Plantur - (QR-Code) - Cartão Barro Branco X Guarapari (com seguro) (convencional);Plantur - QR-Code;4,97;5;10;ES;Cariacica;06/08/2025
+9843;Plantur - (QR-Code) - Cartão Barro Branco X Guarapari (com seguro) (convencional);Plantur - QR-Code;5,17;5;10;ES;Cariacica;03/03/2026
 9844;Plantur - (QR-Code) - Cartão Castelo X Venda Nova do Imigrante (com seguro) (convencional);Plantur - QR-Code;17,53;5;10;ES;Cariacica;09/01/2026
 9845;Plantur - (QR-Code) - Cartão Castelo X Venda Nova do Imigrante (sem seguro) (convencional);Plantur - QR-Code;17,46;5;10;ES;Cariacica;09/01/2026
 9846;Plantur - (QR-Code) - Cartão Guarapari X Cachoeiro (convencional);Plantur - QR-Code;46,21;5;10;ES;Cariacica;09/01/2026
 9847;Plantur - (QR-Code) - Cartão Guarapari X Itaperoroma (Trevo de Piúma) (convencional);Plantur - QR-Code;20,25;5;10;ES;Cariacica;09/01/2026
 9848;Plantur - (QR-Code) - Cartão Guarapari X Piúma (com seguro) (convencional);Plantur - QR-Code;17,59;5;10;ES;Cariacica;09/01/2026
 9849;Plantur - (QR-Code) - Cartão Guarapari X Piúma (sem seguro) (convencional);Plantur - QR-Code;17,52;5;10;ES;Cariacica;09/01/2026
-9850;Plantur - (QR-Code) - Cartão Guarapari X Rodoshopping (convencional);Plantur - QR-Code;4,97;5;10;ES;Cariacica;06/08/2025
+9850;Plantur - (QR-Code) - Cartão Guarapari X Rodoshopping (convencional);Plantur - QR-Code;5,17;5;10;ES;Cariacica;03/03/2026
 9851;Plantur - (QR-Code) - Cartão Itaipava X Ubu (com seguro) (convencional);Plantur - QR-Code;12,69;5;10;ES;Cariacica;09/01/2026
 9852;Plantur - (QR-Code) - Cartão Itaperoroma X Rodoshopping (convencional);Plantur - QR-Code;15,34;5;10;ES;Cariacica;09/01/2026
-9853;Plantur - (QR-Code) - Cartão Muquiçaba X Barro Branco (convencional);Plantur - QR-Code;4,97;5;10;ES;Cariacica;06/08/2025
-9854;Plantur - (QR-Code) - Cartão Neves X Ipiranga (com seguro) (convencional);Plantur - QR-Code;4,97;5;10;ES;Cariacica;06/08/2025
-9855;Plantur - (QR-Code) - Cartão Neves X Ipiranga (sem seguro) (convencional);Plantur - QR-Code;4,90;5;10;ES;Cariacica;06/08/2025
+9853;Plantur - (QR-Code) - Cartão Muquiçaba X Barro Branco (convencional);Plantur - QR-Code;5,17;5;10;ES;Cariacica;03/03/2026
+9854;Plantur - (QR-Code) - Cartão Neves X Ipiranga (com seguro) (convencional);Plantur - QR-Code;5,17;5;10;ES;Cariacica;03/03/2026
+9855;Plantur - (QR-Code) - Cartão Neves X Ipiranga (sem seguro) (convencional);Plantur - QR-Code;5,10;5;10;ES;Cariacica;03/03/2026
 9856;Plantur - (QR-Code) - Cartão Piuma X Ubu (com seguro) (convencional);Plantur - QR-Code;9,95;5;10;ES;Cariacica;09/01/2026
 9857;Plantur - (QR-Code) - Cartão Rodoshopping X Jabaquara (convencional);Plantur - QR-Code;11,50;5;10;ES;Cariacica;09/01/2026
 9858;Plantur - (QR-Code) - Cartão Vitória X Anchieta (sem seguro) (convencional);Plantur - QR-Code;40,56;5;10;ES;Cariacica;09/01/2026
@@ -607,7 +607,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15719;MocBus Montes Claros (Hipolabor);MocBus Montes Claros (Hipolabor);4,60;5;10;MG;MONTES CLAROS;30/05/2025
 15144;Moov - Juiz de Fora - Cartão Municipal Juiz de Fora;Moov - Juiz de Fora;3,75;5;10;MG;Juiz de Fora;26/06/2024
 15716;Moov - Pouso Alegre - Cartão Municipal Pouso Alegre;Moov - Pouso Alegre;4,00;5;10;MG;Pouso Alegre;06/02/2026
-15717;Moov - Pouso Alegre - Cartão Rural Pouso Alegre;Moov - Pouso Alegre;6,50;5;10;MG;Pouso Alegre;06/02/2026
+15717;Moov - Pouso Alegre - Cartão Rural Pouso Alegre;Moov - Pouso Alegre;5,30;5;10;MG;Pouso Alegre;03/03/2026
 19475;Mov Curvelo - Cartão Municipal Curvelo;Mov Curvelo;6,00;5;10;MG;Curvelo;16/01/2026
 10770;Nova Esperança - Cartão Antônio Carlos X Barbacena;Nova Esperança;5,75;5;10;MG;Barbacena;03/10/2025
 15161;Nova Esperança - Cartão Alfredo Vasconcelos X Barbacena;Nova Esperança;5,40;5;10;MG;Barbacena;03/10/2025
@@ -761,7 +761,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15919;Viação José Maria - Cartão Coronel Pacheco X Juiz de Fora;Viação José Maria - PIX;16,75;5;10;MG;Juiz de Fora;15/12/2025
 19484;Viação Oliveira - Eletrônico - Cartão Governador Valadares X Era Nova;Viação Oliveira - Eletrônico;6,10;5;10;MG;Governador Valadares;22/01/2026
 1269;Viação Pássaro Branco - Cartão Municipal Patos de Minas;Viação Pássaro Branco;3,00;5;10;MG;Patos de Minas;05/02/2025
-19468;Viação Pedra Negra - Cartão Municipal Itaúna;Viação Pedra Negra - Itaúna - PIX;4,90;5;10;MG;Itaúna;13/01/2026
+19468;Viação Pedra Negra - Cartão Municipal Itaúna;Viação Pedra Negra - Itaúna;4,90;5;10;MG;Itaúna;13/01/2026
 5523;Viação Rio Doce - Cartão Urbano Caratinga;Viação Rio Doce;4,15;5;10;MG;Caratinga;02/01/2023
 6842;Viação Sartasa - Cartão Municipal Santa Rita do Sapucaí;Viação Sartasa;6,59;5;10;MG;Santa Rita do Sapucaí;03/10/2025
 8387;Viação São Cristóvão - Cartão Lavras X Itumirim;Viação São Cristóvão - Eletrônico;9,75;5;10;MG;Divinópolis;07/10/2025
@@ -867,31 +867,31 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9459;Coletivos Viagens - Cartão Palmares X Água Preta;Coletivos Viagens;4,00;5;10;PE;Caruaru;06/03/2025
 10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;5,00;5;10;PE;Caruaru;06/03/2025
 15495;Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329);Coletivos Viagens;17,00;5;10;PE;Caruaru;06/03/2025
-6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;13,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;4,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-8226;Expresso 1002 - Cartão Surubim X Toritama;Expresso 1002;11,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-8279;Expresso 1002 - Cartão Carpina X Limoeiro;Expresso 1002;6,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-8280;Expresso 1002 - Cartão Recife X Limeiro;Expresso 1002;23,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
+6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;5,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+8226;Expresso 1002 - Cartão Surubim X Toritama;Expresso 1002;12,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+8279;Expresso 1002 - Cartão Carpina X Limoeiro;Expresso 1002;7,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+8280;Expresso 1002 - Cartão Recife X Limeiro;Expresso 1002;25,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 8281;Expresso 1002 - Cartão Timbaúba X Itambé;Expresso 1002;11,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
 8427;Expresso 1002 - Cartão Goiana X Timbaúba;Expresso 1002;13,00;5;10;PE;Jaboatão dos Guararapes;13/06/2024
-8628;Expresso 1002 - Cartão Recife X Lagoa de Itaenga;Expresso 1002;21,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-8638;Expresso 1002 - Cartão Nazaré da Mata X Aliança;Expresso 1002;5,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
+8628;Expresso 1002 - Cartão Recife X Lagoa de Itaenga;Expresso 1002;23,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+8638;Expresso 1002 - Cartão Nazaré da Mata X Aliança;Expresso 1002;6,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 8639;Expresso 1002 - Cartão Aliança X Goiana;Expresso 1002;8,50;5;10;PE;Jaboatão dos Guararapes;13/06/2024
-8640;Expresso 1002 - Cartão Nazaré da Mata X Carpina;Expresso 1002;5,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9117;Expresso 1002 - Cartão Paudalho X Carpina;Expresso 1002;4,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9141;Expresso 1002 - Cartão Recife X Carpina;Expresso 1002;17,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9259;Expresso 1002 - Cartão Recife X Feira Nova;Expresso 1002;25,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9280;Expresso 1002 - Cartão Limoeiro X Surubim;Expresso 1002;13,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9747;Expresso 1002 - Cartão Camaragibe X Bar Chã;Expresso 1002;6,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9748;Expresso 1002 - Cartão São Lourenço da Mata X Paudalho;Expresso 1002;6,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9749;Expresso 1002 - Cartão São Lourenço da Mata X Carpina;Expresso 1002;10,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9750;Expresso 1002 - Cartão Camaragibe X Nazaré da Mata;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
+8640;Expresso 1002 - Cartão Nazaré da Mata X Carpina;Expresso 1002;6,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+9117;Expresso 1002 - Cartão Paudalho X Carpina;Expresso 1002;5,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+9141;Expresso 1002 - Cartão Recife X Carpina;Expresso 1002;19,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+9259;Expresso 1002 - Cartão Recife X Feira Nova;Expresso 1002;28,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+9280;Expresso 1002 - Cartão Limoeiro X Surubim;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+9747;Expresso 1002 - Cartão Camaragibe X Bar Chã;Expresso 1002;7,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+9748;Expresso 1002 - Cartão São Lourenço da Mata X Paudalho;Expresso 1002;7,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+9749;Expresso 1002 - Cartão São Lourenço da Mata X Carpina;Expresso 1002;11,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+9750;Expresso 1002 - Cartão Camaragibe X Nazaré da Mata;Expresso 1002;15,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 9751;Expresso 1002 - Cartão Lagoa do Itaenga X Carpina;Expresso 1002;5,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9752;Expresso 1002 - Cartão Limoeiro X Paudalho;Expresso 1002;10,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
+9752;Expresso 1002 - Cartão Limoeiro X Paudalho;Expresso 1002;11,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 10126;Expresso 1002 - Cartão Carpina X Timbaúba;Expresso 1002;17,50;5;10;PE;Jaboatão dos Guararapes;25/02/2026
 15076;Expresso 1002 - Cartão Paudalho X Camaragibe;Expresso 1002;10,00;5;10;PE;Jaboatão dos Guararapes;02/03/2026
-16029;Expresso 1002 - Cartão Recife X Nazaré da Mata (Linha 30);Expresso 1002;18,50;5;10;PE;Jaboatão dos Guararapes;26/08/2025
-16030;Expresso 1002 - Cartão Recife X São Lourenço da Mata;Expresso 1002;7,00;5;10;PE;Jaboatão dos Guararapes;26/08/2025
+16029;Expresso 1002 - Cartão Recife X Nazaré da Mata (Linha 30);Expresso 1002;20,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+16030;Expresso 1002 - Cartão Recife X São Lourenço da Mata;Expresso 1002;7,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 5416;Rodotur Turismo - Cartão Goiana X Igarassu;Rodotur Turismo - Novo Sistema;8,50;5;10;PE;Olinda;14/07/2023
 5417;Rodotur Turismo - Cartão Goiana X Paulista;Rodotur Turismo - Novo Sistema;12,00;5;10;PE;Olinda;14/07/2023
 5418;Rodotur Turismo - Cartão Goiana X Recife;Rodotur Turismo - Novo Sistema;16,40;5;10;PE;Olinda;14/07/2023
@@ -1018,7 +1018,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2271;Viação Umuarama - Cartão Umuarama Municipal;Viação Umuarama;4,00;5;10;PR;Umuarama;30/09/2022
 3815;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
 6097;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
-15069;Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu;Viza Transportes - Eletrônico;6,55;5;10;PR;Foz do Iguaçu;05/05/2025
+15069;Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu;Viza Transportes - Eletrônico;6,75;5;10;PR;Foz do Iguaçu;03/03/2026
 15423;Bamonte - Cartão Municipal Barra do Piraí;Bamonte;3,60;5;10;RJ;Barra do Piraí;13/11/2024
 15191;Fênix RJ;Fênix RJ;0,01;5;10;RJ;Rio de Janeiro;14/08/2024
 15464;Jaé - Cartão Municipal Rio de Janeiro;Jaé;5,00;3;10;RJ;Rio de Janeiro;02/01/2026
@@ -4233,6 +4233,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10465;Expresso Oceano (PIX) - Cartão Bem Card - Ceará Mirim (Cidade das Dunas ou Oceano);Expresso Oceano - Transportes Guanabara - PIX;7,65;3;10;RN;São Gonçalo do Amarante;01/08/2025
 10869;Nubus - Cidadão - Cartão Municipal Natal;Nubus - Cidadão;4,90;5;10;RN;Natal;07/01/2025
 1243;Nubus (Seturn) - Cartão Natal Card Urbano;Seturn;4,90;5;10;RN;Natal;30/12/2024
+19537;Seturn - Cartão Seturn;Seturn;0,01;5;10;RN;Natal;03/03/2026
 1237;Trampolim - Cartão Parnamirim X Natal (Petrópolis) Linha A;Trampolim;5,80;5;10;RN;Natal;23/07/2025
 1238;Trampolim - Cartão Parnamirim X Natal (Via Passagem de Areia) Linha J;Trampolim;5,80;5;10;RN;Natal;23/07/2025
 1241;Trampolim - Cartão Natal - Rncard;Trampolim;0,01;5;10;RN;Natal;01/01/2000
@@ -4751,7 +4752,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9415;Transtusa - Cartão Aventureiro X Perine;Transtusa;7,00;5;10;SC;Joinville;14/10/2021
 2274;Transul - Cartão Bela Lages;Transul - PIX;4,90;5;10;SC;Lages;08/01/2026
 6270;Viação Cidade - Cartão Araranguá Intermunicipal;Viação Cidade - Novo Sistema;4,50;5;10;SC;Araranguá;24/08/2022
-5591;Viação Curitibanos - Cartão Ligadinho Curitibanos Urbano;Viação Curitibanos;4,50;5;10;SC;Curitibanos;13/06/2024
+5591;Viação Curitibanos - Cartão Ligadinho Curitibanos Urbano;Viação Curitibanos;5,00;5;10;SC;Curitibanos;03/03/2026
 2239;Viação Navegantes - Cartão Viação Navegantes;Viação Navegantes;4,60;5;10;SC;Navegantes;17/03/2023
 2444;Viação Navegantes - Cartão Viação Dentro de Piçarras;Viação Navegantes;2,85;5;10;SC;Navegantes;14/03/2023
 2445;Viação Navegantes - Cartão Viação Dentro de Penha;Viação Navegantes;3,95;5;10;SC;Navegantes;07/03/2023
@@ -4773,7 +4774,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6549;Viação Praiana - Cartão Itapema X Balneário Camboriú;Viação Praiana;4,55;5;10;SC;Itajaí;20/09/2022
 6552;Viação Praiana - Cartão Camboriú X Balneário Camboriú;Viação Praiana;7,15;5;10;SC;Itajaí;23/01/2026
 9650;Viação Praiana - Cartão Porto Belo x Tijucas;Viação Praiana;6,58;5;10;SC;Itajaí;13/01/2026
-10668;Viação Praiana - Cartão Itapema X Itajaí;Viação Praiana;8,60;5;10;SC;Itajaí;01/11/2023
+10668;Viação Praiana - Cartão Itapema X Itajaí;Viação Praiana;9,90;5;10;SC;Itajaí;03/03/2026
 15647;Viação Praiana - Cartão Itajaí X Balneário Camboriú (Bem Bom);Viação Praiana;8,00;5;10;SC;Itajaí;19/03/2025
 4863;Viação Verdes Mares - Cartão Enseada X Via Ubatuba (linha 100);Viação Verdes Mares;6,00;5;10;SC;Santa Catarina;10/09/2025
 4875;Viação Verdes Mares - Cartão Enseada via Forte (linha 102);Viação Verdes Mares;6,00;5;10;SC;Santa Catarina;10/09/2025
@@ -5916,6 +5917,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15415;Valle Sul São Paulo - Cartão Registro X Miracatu;Valle Sul São Paulo;21,45;5;10;SP;São Paulo;07/10/2025
 16066;Valle Sul São Paulo - Cartão São Paulo X Cajati;Valle Sul São Paulo;96,80;5;10;SP;São Paulo;03/09/2025
 19429;Valle Sul São Paulo - Cartão Iguape X Miracatu;Valle Sul São Paulo;30,90;5;10;SP;São Paulo;11/12/2025
+19536;Valle Sul São Paulo - Cartão Cananéia X Pariquera-Açu;Valle Sul São Paulo;21,20;5;10;SP;São Paulo;03/03/2026
 9706;VB Transportes - Cartão Circular Rio Claro X Itirapina;VB Transportes;12,75;5;10;SP;Campinas;07/07/2025
 9707;VB Transportes - Cartão Limeira X Cosmópolis;VB Transportes;8,95;5;10;SP;Campinas;07/07/2025
 9708;VB Transportes - Cartão Limeira X Iracemápolis;VB Transportes;7,25;5;10;SP;Campinas;07/07/2025
