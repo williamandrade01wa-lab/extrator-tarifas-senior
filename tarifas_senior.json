@@ -7587,7 +7587,7 @@
         "codigo": "9872",
         "nome": "Penha - (QR-Code) - Cartão Lapa X Araucária",
         "fornecedor": "Penha - QR-Code",
-        "valor": "8,20",
+        "valor": "8,50",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -7595,7 +7595,7 @@
         "codigo": "15591",
         "nome": "Penha - (QR-Code) - Cartão Xambre X Umuarama",
         "fornecedor": "Penha - QR-Code",
-        "valor": "9,66",
+        "valor": "9,07",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -8083,7 +8083,7 @@
         "codigo": "4844",
         "nome": "Viação Iapó - Cartão Ponta Grossa X Castro",
         "fornecedor": "Viação Iapó",
-        "valor": "8,25",
+        "valor": "8,55",
         "uf": "PR",
         "cidade": "Ponta Grossa"
     },
@@ -8091,7 +8091,7 @@
         "codigo": "5926",
         "nome": "Viação Iapó - Castro X Piraí do Sul",
         "fornecedor": "Viação Iapó",
-        "valor": "6,55",
+        "valor": "6,75",
         "uf": "PR",
         "cidade": "Ponta Grossa"
     },
@@ -38131,7 +38131,7 @@
         "codigo": "6543",
         "nome": "Viação Praiana - Cartão Itajaí X Camboriú",
         "fornecedor": "Viação Praiana",
-        "valor": "7,15",
+        "valor": "7,90",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -38139,7 +38139,7 @@
         "codigo": "6544",
         "nome": "Viação Praiana - Cartão Balneário Camboriú X Porto Belo",
         "fornecedor": "Viação Praiana",
-        "valor": "7,45",
+        "valor": "7,90",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -38147,7 +38147,7 @@
         "codigo": "6545",
         "nome": "Viação Praiana - Cartão Porto Belo X Itajaí",
         "fornecedor": "Viação Praiana",
-        "valor": "9,40",
+        "valor": "10,40",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -38179,7 +38179,7 @@
         "codigo": "6549",
         "nome": "Viação Praiana - Cartão Itapema X Balneário Camboriú",
         "fornecedor": "Viação Praiana",
-        "valor": "4,55",
+        "valor": "7,60",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -38187,7 +38187,7 @@
         "codigo": "6552",
         "nome": "Viação Praiana - Cartão Camboriú X Balneário Camboriú",
         "fornecedor": "Viação Praiana",
-        "valor": "7,15",
+        "valor": "7,90",
         "uf": "SC",
         "cidade": "Itajaí"
     },
