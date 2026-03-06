@@ -1827,7 +1827,7 @@
         "codigo": "2486",
         "nome": "Expresso Lorenzutti - Cartão Municipal Guarapari",
         "fornecedor": "Expresso Lorenzutti",
-        "valor": "4,90",
+        "valor": "5,10",
         "uf": "ES",
         "cidade": "Guarapari"
     },
@@ -2403,7 +2403,7 @@
         "codigo": "670",
         "nome": "Auto Omnibus Floramar - Cartão Municipal Poços de Caldas",
         "fornecedor": "Auto Omnibus Floramar",
-        "valor": "6,00",
+        "valor": "5,00",
         "uf": "MG",
         "cidade": "Poços de Caldas"
     },

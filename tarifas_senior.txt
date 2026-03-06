@@ -227,7 +227,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15587;Expresso Aracruz - Cartão Aracruz x Praia Formosa (Via Irajá);Cordial Transportes;16,35;5;10;ES;Aracruz;04/02/2025
 9736;Cordial Transportes (QR-Code) - Cartão Aracruz X João Neiva;Cordial Transportes - QR-Code;17,60;5;10;ES;Aracruz;07/01/2026
 15700;Cordial Transportes (QR-Code) - Cartão Ibiraçu X Aracruz;Cordial Transportes - QR-Code;9,30;5;10;ES;Aracruz;07/01/2026
-2486;Expresso Lorenzutti - Cartão Municipal Guarapari;Expresso Lorenzutti;4,90;5;10;ES;Guarapari;04/08/2025
+2486;Expresso Lorenzutti - Cartão Municipal Guarapari;Expresso Lorenzutti;5,10;5;10;ES;Guarapari;05/03/2026
 826;Flecha Branca - Cartão Urbano Cachoeiro de Itapemirim;Flecha Branca;5,10;5;10;ES;Cachoeiro de Itapemirim;17/02/2025
 309;GVBus Transcol - Cartão GVbus - Vale / Vitória;GVBus Transcol;5,10;5;10;ES;Vitória;13/01/2026
 310;GVBus Transcol - Cartão Municipal Vitória (Setpes);GVBus Transcol;5,10;5;10;ES;Vitória;13/01/2026
@@ -299,7 +299,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10110;Zanchettur - Cartão Linha Cumaru;Zanchettur;5,25;5;10;MA;Imperatriz;13/06/2024
 2955;Alfetur Alfenas - Cartão Urbano Alfenas;Alfetur;3,90;5;10;MG;Alfenas;18/05/2022
 6121;Auto Omnibus Circullare Bom Despacho - Cartão Municipal Bom Despacho;Auto Omnibus Circullare Bom Despacho;4,00;5;10;MG;Bom Despacho;17/12/2024
-670;Auto Omnibus Floramar - Cartão Municipal Poços de Caldas;Auto Omnibus Floramar;6,00;5;10;MG;Poços de Caldas;22/01/2024
+670;Auto Omnibus Floramar - Cartão Municipal Poços de Caldas;Auto Omnibus Floramar;5,00;5;10;MG;Poços de Caldas;05/03/2026
 1035;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;5,00;5;10;MG;Ipatinga;08/04/2025
 2614;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Timóteo;Autotrans (Buse) - Ipatinga/Timóteo;5,00;5;10;MG;Ipatinga;08/04/2025
 3808;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente;Autotrans (Buse) - Ipatinga/Timóteo;19,25;5;10;MG;Ipatinga;07/10/2025
