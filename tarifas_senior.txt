@@ -837,7 +837,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10458;Bem Fácil Cabo (Setago) - Cartão Bem Fácil;Bem Fácil Cabo (Setago);0,01;5;10;PE;Cabo de Santo Agostinho;10/10/2023
 5243;Borborema - Cartão Escada X Cabo;Borborema;12,00;5;10;PE;Recife;23/02/2026
 16043;Borborema - Ribeirão X Palmeiras (Linha 1101.0);Borborema;12,00;5;10;PE;Recife;27/08/2025
-8240;Borborema - Cartão Bezerros X Gravatá (Linha 0803);Borborema (Bezerros X Gravatá (Linha 0803);6,00;5;10;PE;Recife;03/10/2024
+8240;Borborema - Cartão Bezerros X Gravatá (Linha 0803);Borborema - Bezerros/Gravatá (Linha 0803);10,00;5;10;PE;Recife;06/03/2026
 9823;Borborema - Cartão Bonança X Vitória (Via BR232);Borborema - Bonança/Vitória (Via BR232);10,00;5;10;PE;Recife;20/02/2026
 9808;Borborema - Cartão Escada X Escada;Borborema - Escada/Escada;6,00;5;10;PE;Recife;20/02/2026
 5245;Borborema - Cartão Escada X Fontes dos Carvalhos;Borborema - Escada/Fontes dos Carvalhos;15,00;5;10;PE;Recife;20/02/2026
@@ -5332,6 +5332,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5631;Expresso Itamarati - Cartão Votuporanga Municipal;Expresso Itamarati - (Votuporanga);3,89;5;10;SP;Votuporanga;07/05/2025
 9331;Expresso Redenção - Cartão Taubaté X Natividade da Serra;Expresso Redenção - (Novo Sistema);15,00;5;10;SP;Taubaté;05/01/2026
 9332;Expresso Redenção - Cartão Taubaté X Redenção;Expresso Redenção - (Novo Sistema);9,20;5;10;SP;Taubaté;05/01/2026
+19538;Fernandópolis;Fernandópolis;0,01;5;10;SP;Fernandópolis;06/03/2026
 5453;Fênix Ilhabela - Cartão Ilhabela Municipal;Fênix Ilhabela;4,80;5;10;SP;Ilhabela;04/02/2026
 6861;Grecco Transportadora - Cartão Municipal Lençóis Paulista;Grecco;2,00;5;10;SP;Lençóis Paulista;22/06/2022
 10026;Grupo Tuga (São José do Rio Pardo) - Cartão Municipal São José do Rio Pardo;Grupo Tuga (São José do Rio Pardo);3,00;5;10;SP;São José do Rio Pardo;14/08/2025
@@ -6012,7 +6013,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15368;Viação Jacareí - Cartão Variável;Viação Jacareí;0,01;5;10;SP;São José dos Campos;20/09/2024
 2384;Viação Jauense - Cartão Jaú X Distrito de Potunduva;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 2385;Viação Jauense - Cartão Jaú;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
-2608;Viação Jauense - Cartão Fernandópolis Municipal;Viação Jauense - (Fernandópolis);5,00;5;10;SP;Fernandópolis;09/02/2026
 7422;Viação M M Souza - (Suburbano) - Cartão Capivari X Rafard (Suburbano);Viação M M Souza - (Suburbano);5,00;5;10;SP;Capivari;05/10/2023
 6633;Viação M M Souza - (Urbano) - Cartão Urbano de Capivari;Viação M M Souza - (Urbano);5,00;5;10;SP;Capivari;05/10/2023
 715;Viação Nardelli - Cartão Salto Municipal;Viação Nardelli - Sancetur;4,20;5;10;SP;Salto;16/08/2021

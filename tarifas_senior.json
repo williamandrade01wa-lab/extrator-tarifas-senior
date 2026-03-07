@@ -6706,8 +6706,8 @@
     {
         "codigo": "8240",
         "nome": "Borborema - Cartão Bezerros X Gravatá (Linha 0803)",
-        "fornecedor": "Borborema (Bezerros X Gravatá (Linha 0803)",
-        "valor": "6,00",
+        "fornecedor": "Borborema - Bezerros/Gravatá (Linha 0803)",
+        "valor": "10,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -42664,6 +42664,14 @@
         "cidade": "Taubaté"
     },
     {
+        "codigo": "19538",
+        "nome": "Fernandópolis",
+        "fornecedor": "Fernandópolis",
+        "valor": "0,01",
+        "uf": "SP",
+        "cidade": "Fernandópolis"
+    },
+    {
         "codigo": "5453",
         "nome": "Fênix Ilhabela - Cartão Ilhabela Municipal",
         "fornecedor": "Fênix Ilhabela",
@@ -48102,14 +48110,6 @@
         "valor": "5,00",
         "uf": "SP",
         "cidade": "Jaú"
-    },
-    {
-        "codigo": "2608",
-        "nome": "Viação Jauense - Cartão Fernandópolis Municipal",
-        "fornecedor": "Viação Jauense - (Fernandópolis)",
-        "valor": "5,00",
-        "uf": "SP",
-        "cidade": "Fernandópolis"
     },
     {
         "codigo": "7422",
