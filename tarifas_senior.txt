@@ -262,6 +262,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9875;Plantur - (QR-Code) - Cartão Vitória X Anchieta (com seguro) (convencional);Plantur - QR-Code;40,70;5;10;ES;Cariacica;09/01/2026
 10165;Plantur - (QR-Code) - Cartão Cachoeiro de Itapemirim X São José dos Frades (convencional dentro da rodoviária));Plantur - QR-Code;13,66;5;10;ES;Cariacica;09/01/2026
 15676;Plantur - (QR-Code) - Cartão Dom Bosco X Bairro Ipiranga (Executivo Parador);Plantur - QR-Code;26,49;5;10;ES;Cariacica;28/04/2025
+19539;Plantur - (QR-Code) - Cartão Brasperola X Ipiranga (Executivo Parador);Plantur - QR-Code;22,98;5;10;ES;Cariacica;09/03/2026
 4971;Via Norte - Cartão Linhares Municipal (Linhas da Sede);Via Norte;4,95;5;10;ES;Linhares;19/02/2024
 19534;Via Norte - Cartão Linhares Metropolitano;Via Norte;8,10;5;10;ES;Linhares;27/02/2026
 15926;Viação Águia Branca - Cartão Águia Branca X Barra de São Francisco;Viação Águia Branca;16,67;5;10;ES;Cariacica;24/07/2025
@@ -272,7 +273,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8968;Viação Real (QR-Code) - Cartão Morro Grande X Cachoeiro de Itapemirim;Viação Real - QR-Code;8,60;5;10;ES;Cachoeiro de Itapemirim;08/01/2026
 8969;Viação Real (QR-Code) - Cartão Muqui X Cachoeiro de Itapemirim;Viação Real - QR-Code;23,40;5;10;ES;Cachoeiro de Itapemirim;08/01/2026
 8970;Viação Real (QR-Code) - Cartão Muqui X Trevo de Atílio Vilacqua;Viação Real - QR-Code;17,80;5;10;ES;Cachoeiro de Itapemirim;08/01/2026
-10137;Viação Real (QR-Code) - Cartão Cachoeiro de Itapemirim X Jerônimo Monteiro;Viação Real - QR-Code;25,30;5;10;ES;Cachoeiro de Itapemirim;07/01/2025
+10137;Viação Real (QR-Code) - Cartão Cachoeiro de Itapemirim X Jerônimo Monteiro;Viação Real - QR-Code;28,20;5;10;ES;Cachoeiro de Itapemirim;09/03/2026
 15563;Viação Real - QR-Code - Cartão Cachoeiro X Atílio Vivacqua;Viação Real - QR-Code;7,60;5;10;ES;Cachoeiro de Itapemirim;08/01/2026
 5258;Viação São Gabriel - Cartão Municipal São Mateus;Viação São Gabriel;5,00;5;10;ES;São Mateus;18/10/2022
 5259;Viação São Gabriel - Cartão Bairro Aviação - Via Rodonaldo;Viação São Gabriel;5,00;5;10;ES;São Mateus;18/10/2022
@@ -729,8 +730,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10469;Viação Braulino Intermunicipal - Cartão Carmo do Cajuru X Divinópolis;Viação Braulino - Intermunicipal;6,25;5;10;MG;Divinópolis;03/10/2025
 10470;Viação Braulino Intermunicipal - Cartão Nova Serrana X Perdigão;Viação Braulino - Intermunicipal;6,75;5;10;MG;Divinópolis;03/10/2025
 9725;Viação Cambuí - Cartão Córrego do Bom Jesus X Cambuí;Viação Cambuí Turismo - Novo Sistema;5,40;5;10;MG;Cambuí;17/10/2025
-10803;Viação Cambuí - Cartão Extrema X Bragança;Viação Cambuí Turismo - Novo Sistema;7,80;5;10;MG;Cambuí;02/04/2025
-10804;Viação Cambuí - Cartão Bragança X Extrema;Viação Cambuí Turismo - Novo Sistema;7,25;5;10;MG;Cambuí;02/04/2025
+10803;Viação Cambuí - Cartão Extrema X Bragança;Viação Cambuí Turismo - Novo Sistema;8,00;5;10;MG;Cambuí;09/03/2026
+10804;Viação Cambuí - Cartão Bragança X Extrema;Viação Cambuí Turismo - Novo Sistema;7,50;5;10;MG;Cambuí;09/03/2026
 15354;Viação Cambuí - Cartão Pouso Alegre X Cambuí;Viação Cambuí Turismo - Novo Sistema;29,00;5;10;MG;Cambuí;17/10/2025
 15355;Viação Cambuí - Cartão Cambuí X Pouso Alegre;Viação Cambuí Turismo - Novo Sistema;29,00;5;10;MG;Cambuí;17/10/2025
 19515;Viação Cambuí - Cartão Cambuí X Extrema;Viação Cambuí Turismo - Novo Sistema;27,20;5;10;MG;Cambuí;13/02/2026
@@ -914,9 +915,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15997;Campo Largo - Cartão Terminal Campo Largo X Estação Ferrari;Campo Largo;5,50;5;10;PR;Campo Largo;19/08/2025
 16000;Castelo Branco - Cartão Eugênia Maria X Jardim Paulista;Castelo Branco;5,50;5;10;PR;Campina Grande do Sul;20/08/2025
 2188;Cidade de Castro - Cartão Urbano Cidade de Castro;Cidade de Castro;5,00;5;10;PR;Castro;24/10/2023
-2189;Cidade de Castro - Cartão Carambeí;Cidade de Castro;6,55;5;10;PR;Castro;05/05/2025
-2190;Cidade de Castro - Cartão Castro X Carambeí;Cidade de Castro;6,95;5;10;PR;Castro;05/05/2025
-2192;Cidade de Castro - Cartão Pg X Castro;Cidade de Castro;8,25;5;10;PR;Castro;05/05/2025
+2189;Cidade de Castro - Cartão Carambeí;Cidade de Castro;6,75;5;10;PR;Castro;09/03/2026
+2190;Cidade de Castro - Cartão Castro X Carambeí;Cidade de Castro;7,20;5;10;PR;Castro;09/03/2026
+2192;Cidade de Castro - Cartão Pg X Castro;Cidade de Castro;8,55;5;10;PR;Castro;09/03/2026
 2281;Cidade de Paranavaí - Cartão Municipal Cidade de Paranavaí;Cidade de Paranavaí;4,93;5;10;PR;Paranavaí;09/10/2025
 2279;Cidade Verde - Cartão Urbano Sarandi;Cidade Verde;6,20;5;10;PR;Maringá;18/02/2026
 2280;Cidade Verde - Cartão Urbano Paiçandu;Cidade Verde;6,20;5;10;PR;Maringá;18/02/2026
@@ -4156,7 +4157,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2243;Setransol - Cartão Intermunicipal - Região dos Lagos;Setransol;8,35;5;10;RJ;Cabo Frio;18/02/2026
 7848;Setransol - Cartão Municipal Araruama;Setransol;5,00;5;10;RJ;Cabo Frio;05/05/2025
 9900;Setransol - Cartão Municipal Cabo Frio;Setransol;5,00;5;10;RJ;Cabo Frio;05/05/2025
-10116;Setransol - Cartão Intermunicipal Ônibus (com ar-condicionado em funcionamento);Setransol;7,60;5;10;RJ;Cabo Frio;02/04/2025
+10116;Setransol - Cartão Intermunicipal Ônibus (com ar-condicionado em funcionamento);Setransol;8,35;5;10;RJ;Cabo Frio;09/03/2026
 1257;Sindpass - Cartão Itatiaia X Resende;Sindpass;5,80;5;10;RJ;Barra Mansa;09/04/2025
 1829;Sindpass - Cartão Barra do Piraí X Volta Redonda / Capital e Grande Rio;Sindpass;16,40;5;10;RJ;Barra Mansa;09/04/2025
 1835;Sindpass - Cartão Química X Centro - Barra Mansa / Capital e Grande Rio;Sindpass;3,60;5;10;RJ;Barra Mansa;12/07/2024
@@ -4193,7 +4194,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8363;Sindpass - Vassouras x Volta Redonda (Viação Progresso);Sindpass;22,30;5;10;RJ;Barra Mansa;06/02/2026
 9034;Sindpass - Santanesia X Volta Redonda;Sindpass;16,85;5;10;RJ;Barra Mansa;09/04/2025
 9036;Sindpass - São Geraldo X Jardim Primavera (via Volta Redonda);Sindpass;4,50;5;10;RJ;Barra Mansa;12/07/2024
-9110;Sindpass - Cartão Porto Real (BNH) X Resende;Sindpass;9,65;5;10;RJ;Barra Mansa;09/04/2025
+9110;Sindpass - Cartão Porto Real (BNH) X Resende;Sindpass;11,65;5;10;RJ;Barra Mansa;09/03/2026
 9114;Sindpass - Cartão Centro X Alto da Cotiara;Sindpass;6,00;5;10;RJ;Barra Mansa;08/01/2026
 9214;Sindpass - Cartão Quatis X Porto Real;Sindpass;2,30;5;10;RJ;Barra Mansa;13/03/2023
 9251;Sindpass - Cartão Paraty X Angra dos Reis (via Mambucaba);Sindpass;24,95;5;10;RJ;Barra Mansa;09/04/2025
@@ -4215,19 +4216,19 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9742;Sindpass - Cartão Centro X Santa Clara (Via Clube);Sindpass;6,00;5;10;RJ;Barra Mansa;08/01/2026
 10117;Sindpass - Cartão Vassouras X Massambara;Sindpass;5,00;5;10;RJ;Barra Mansa;06/02/2026
 10699;Sindpass - Cartão Conforto X Santa Cruz;Sindpass;5,90;5;10;RJ;Barra Mansa;06/02/2026
-10814;Sindpass - Cartão Quatis X Barra Mansa;Sindpass;11,15;5;10;RJ;Barra Mansa;09/04/2025
+10814;Sindpass - Cartão Quatis X Barra Mansa;Sindpass;12,65;5;10;RJ;Barra Mansa;09/03/2026
 10926;Sindpass - Cartão Mendes X Paracambi;Sindpass;30,75;5;10;RJ;Barra Mansa;09/04/2025
 10927;Sindpass - Cartão Vassouras X Paracambi;Sindpass;38,50;5;10;RJ;Barra Mansa;09/04/2025
 15078;Sindpass - Cartão Circular 15 X Vila Americana;Sindpass;5,90;5;10;RJ;Barra Mansa;06/02/2026
 19480;Sindpass - Cartão Corisco (Colitur);Sindpass;5,00;5;10;RJ;Barra Mansa;20/01/2026
-15589;Transa Transporte - Cartão Intermunicipal Levy Gasparian;Transa Transporte - Eletrônico;6,00;5;10;RJ;Três Rios;31/03/2025
+15589;Transa Transporte - Cartão Intermunicipal Levy Gasparian;Transa Transporte - Eletrônico;6,50;5;10;RJ;Três Rios;09/03/2026
 10929;Vancard - Cartão Municipal Armação de Búzios;Vancard;5,00;5;10;RJ;Armação de Búzios;25/04/2024
 15169;Viação Conecta - Cartão Municipal Paraíba do Sul;Viação Conecta;5,00;5;10;RJ;Paraíba do Sul;08/09/2025
 2169;Viação Itapetinga (Princesinha do Vale) - Cartão Municipal São Miguel de Resende;Viação Itapetinga Princesinha do Vale;4,40;5;10;RJ;Resende;06/06/2023
 9308;Viação Santa Lucia - Cartão Itaperuna Municipal;Viação Santa Lucia;5,00;5;10;RJ;Itaperuna;01/02/2024
-15491;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa A);Viação Senhor do Bonfim - PIX;5,40;3;10;RJ;Angra dos Reis;16/12/2024
-15492;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa B);Viação Senhor do Bonfim - PIX;6,50;3;10;RJ;Angra dos Reis;16/12/2024
-15493;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa C);Viação Senhor do Bonfim - PIX;8,50;3;10;RJ;Angra dos Reis;16/12/2024
+15491;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa A);Viação Senhor do Bonfim - PIX;5,80;3;10;RJ;Angra dos Reis;09/03/2026
+15492;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa B);Viação Senhor do Bonfim - PIX;7,00;3;10;RJ;Angra dos Reis;09/03/2026
+15493;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa C);Viação Senhor do Bonfim - PIX;9,15;3;10;RJ;Angra dos Reis;09/03/2026
 6837;Cidade do Sol - Cartão Mossoró Municipal;Cidade do Sol;3,30;5;10;RN;Mossoró;01/01/2017
 10464;Expresso Oceano (PIX) - Cartão Bem Card - Natal X Extremoz;Expresso Oceano - Transportes Guanabara - PIX;5,80;3;10;RN;São Gonçalo do Amarante;01/08/2025
 10465;Expresso Oceano (PIX) - Cartão Bem Card - Ceará Mirim (Cidade das Dunas ou Oceano);Expresso Oceano - Transportes Guanabara - PIX;7,65;3;10;RN;São Gonçalo do Amarante;01/08/2025
@@ -4264,8 +4265,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15762;JTP Transportes - Cartão Municipal Porto Velho;JTP Transportes - Porto Velho - Novo Sistema;3,00;5;10;RO;Porto Velho;12/06/2025
 10904;Boa Vista - Cartão Municipal Boa Vista;Boa Vista;5,50;5;10;RR;Boa Vista;28/03/2024
 9701;Agente de Turismo Santa Cruz - Cartão Zona Rural Pelotas;Agente de Turismo Santa Cruz;6,00;5;10;RS;Pelotas;15/04/2025
-2519;Atu Santa Maria - Cartão Santa Maria Urbano;Atu Santa Maria;5,90;5;10;RS;Santa Maria;08/07/2025
-10175;Atu Santa Maria - Cartão Integração Santa Maria;Atu Santa Maria;3,82;5;10;RS;Santa Maria;08/07/2025
+2519;Atu Santa Maria - Cartão Santa Maria Urbano;Atu Santa Maria;6,65;5;10;RS;Santa Maria;09/03/2026
+10175;Atu Santa Maria - Cartão Integração Santa Maria;Atu Santa Maria;5,00;5;10;RS;Santa Maria;09/03/2026
 2300;Auto Viação Vale do Sol - Cartão Santa Cruz X Vera Cruz;Auto Viação Vale do Sol;7,15;5;10;RS;Santa Cruz do Sul;09/12/2024
 6580;Bento Transportes (Farroupilha) - Cartão Urbano Farroupilha;Bento Transportes - Farroupilha;6,00;5;10;RS;Farroupilha;23/02/2026
 8960;Bento Transportes (Farroupilha) - Cartão Farroupilha X Carlos Barbosa;Bento Transportes - Farroupilha;8,50;5;10;RS;Farroupilha;05/11/2025

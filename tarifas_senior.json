@@ -2104,6 +2104,14 @@
         "cidade": "Cariacica"
     },
     {
+        "codigo": "19539",
+        "nome": "Plantur - (QR-Code) - Cartão Brasperola X Ipiranga (Executivo Parador)",
+        "fornecedor": "Plantur - QR-Code",
+        "valor": "22,98",
+        "uf": "ES",
+        "cidade": "Cariacica"
+    },
+    {
         "codigo": "4971",
         "nome": "Via Norte - Cartão Linhares Municipal (Linhas da Sede)",
         "fornecedor": "Via Norte",
@@ -2187,7 +2195,7 @@
         "codigo": "10137",
         "nome": "Viação Real (QR-Code) - Cartão Cachoeiro de Itapemirim X Jerônimo Monteiro",
         "fornecedor": "Viação Real - QR-Code",
-        "valor": "25,30",
+        "valor": "28,20",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
     },
@@ -5843,7 +5851,7 @@
         "codigo": "10803",
         "nome": "Viação Cambuí - Cartão Extrema X Bragança",
         "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
-        "valor": "7,80",
+        "valor": "8,00",
         "uf": "MG",
         "cidade": "Cambuí"
     },
@@ -5851,7 +5859,7 @@
         "codigo": "10804",
         "nome": "Viação Cambuí - Cartão Bragança X Extrema",
         "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
-        "valor": "7,25",
+        "valor": "7,50",
         "uf": "MG",
         "cidade": "Cambuí"
     },
@@ -7323,7 +7331,7 @@
         "codigo": "2189",
         "nome": "Cidade de Castro - Cartão Carambeí",
         "fornecedor": "Cidade de Castro",
-        "valor": "6,55",
+        "valor": "6,75",
         "uf": "PR",
         "cidade": "Castro"
     },
@@ -7331,7 +7339,7 @@
         "codigo": "2190",
         "nome": "Cidade de Castro - Cartão Castro X Carambeí",
         "fornecedor": "Cidade de Castro",
-        "valor": "6,95",
+        "valor": "7,20",
         "uf": "PR",
         "cidade": "Castro"
     },
@@ -7339,7 +7347,7 @@
         "codigo": "2192",
         "nome": "Cidade de Castro - Cartão Pg X Castro",
         "fornecedor": "Cidade de Castro",
-        "valor": "8,25",
+        "valor": "8,55",
         "uf": "PR",
         "cidade": "Castro"
     },
@@ -33259,7 +33267,7 @@
         "codigo": "10116",
         "nome": "Setransol - Cartão Intermunicipal Ônibus (com ar-condicionado em funcionamento)",
         "fornecedor": "Setransol",
-        "valor": "7,60",
+        "valor": "8,35",
         "uf": "RJ",
         "cidade": "Cabo Frio"
     },
@@ -33555,7 +33563,7 @@
         "codigo": "9110",
         "nome": "Sindpass - Cartão Porto Real (BNH) X Resende",
         "fornecedor": "Sindpass",
-        "valor": "9,65",
+        "valor": "11,65",
         "uf": "RJ",
         "cidade": "Barra Mansa"
     },
@@ -33731,7 +33739,7 @@
         "codigo": "10814",
         "nome": "Sindpass - Cartão Quatis X Barra Mansa",
         "fornecedor": "Sindpass",
-        "valor": "11,15",
+        "valor": "12,65",
         "uf": "RJ",
         "cidade": "Barra Mansa"
     },
@@ -33771,7 +33779,7 @@
         "codigo": "15589",
         "nome": "Transa Transporte - Cartão Intermunicipal Levy Gasparian",
         "fornecedor": "Transa Transporte - Eletrônico",
-        "valor": "6,00",
+        "valor": "6,50",
         "uf": "RJ",
         "cidade": "Três Rios"
     },
@@ -33811,7 +33819,7 @@
         "codigo": "15491",
         "nome": "Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa A)",
         "fornecedor": "Viação Senhor do Bonfim - PIX",
-        "valor": "5,40",
+        "valor": "5,80",
         "uf": "RJ",
         "cidade": "Angra dos Reis"
     },
@@ -33819,7 +33827,7 @@
         "codigo": "15492",
         "nome": "Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa B)",
         "fornecedor": "Viação Senhor do Bonfim - PIX",
-        "valor": "6,50",
+        "valor": "7,00",
         "uf": "RJ",
         "cidade": "Angra dos Reis"
     },
@@ -33827,7 +33835,7 @@
         "codigo": "15493",
         "nome": "Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa C)",
         "fornecedor": "Viação Senhor do Bonfim - PIX",
-        "valor": "8,50",
+        "valor": "9,15",
         "uf": "RJ",
         "cidade": "Angra dos Reis"
     },
@@ -34123,7 +34131,7 @@
         "codigo": "2519",
         "nome": "Atu Santa Maria - Cartão Santa Maria Urbano",
         "fornecedor": "Atu Santa Maria",
-        "valor": "5,90",
+        "valor": "6,65",
         "uf": "RS",
         "cidade": "Santa Maria"
     },
@@ -34131,7 +34139,7 @@
         "codigo": "10175",
         "nome": "Atu Santa Maria - Cartão Integração Santa Maria",
         "fornecedor": "Atu Santa Maria",
-        "valor": "3,82",
+        "valor": "5,00",
         "uf": "RS",
         "cidade": "Santa Maria"
     },
