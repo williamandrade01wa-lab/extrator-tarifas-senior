@@ -1046,7 +1046,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8843;Riocard (Semove) - Riocard VLT;Riocard (Semove);5,00;3;7;RJ;Rio de Janeiro;05/01/2026
 8844;Riocard (Semove) - Riocard Trem;Riocard (Semove);5,00;3;7;RJ;Rio de Janeiro;05/01/2026
 8845;Riocard (Semove) - Riocard Vans Municipais;Riocard (Semove);5,00;3;7;RJ;Rio de Janeiro;05/01/2026
-8846;Riocard (Semove) - Riocard Barcas;Riocard (Semove);4,70;3;7;RJ;Rio de Janeiro;15/04/2025
+8846;Riocard (Semove) - Riocard Barcas;Riocard (Semove);5,00;3;7;RJ;Rio de Janeiro;10/03/2026
 8847;Riocard (Semove) - Riocard Barcas (Charitas);Riocard (Semove);7,70;3;7;RJ;Rio de Janeiro;15/04/2025
 8848;Riocard (Semove) - Riocard Bilhete Único (Ônibus + Ônibus);Riocard (Semove);4,70;3;7;RJ;Rio de Janeiro;03/01/2025
 8849;Riocard (Semove) - Riocard Bilhete Único (Ônibus + BRT);Riocard (Semove);4,70;3;7;RJ;Rio de Janeiro;03/01/2025
@@ -1061,9 +1061,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8858;Riocard (Semove) - Riocard BUI Trem + Ônibus Municipal;Riocard (Semove);9,40;3;7;RJ;Rio de Janeiro;19/12/2025
 8859;Riocard (Semove) - Riocard BUI Ônibus Intermunicipal + Metrô ou Trem;Riocard (Semove);9,40;3;7;RJ;Rio de Janeiro;19/12/2025
 8860;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Micro-Ônibus;Riocard (Semove);4,30;3;7;RJ;Rio de Janeiro;06/01/2023
-8861;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Barcas (Araribóia);Riocard (Semove);5,15;3;7;RJ;Rio de Janeiro;15/04/2025
+8861;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Barcas (Araribóia);Riocard (Semove);5,45;3;7;RJ;Rio de Janeiro;10/03/2026
 8862;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Barcas (Praça XV);Riocard (Semove);5,45;3;7;RJ;Rio de Janeiro;20/02/2026
-8863;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Barcas (Charitas);Riocard (Semove);5,15;3;7;RJ;Rio de Janeiro;15/04/2025
+8863;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Barcas (Charitas);Riocard (Semove);8,15;3;7;RJ;Rio de Janeiro;10/03/2026
 9373;Riocard (Semove) - Riocard Bilhete Único (BRT + Metrô);Riocard (Semove);9,05;3;7;RJ;Rio de Janeiro;14/04/2025
 10041;Riocard (Semove) - Riocard Trem (Bui Não Habilitado);Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;31/01/2025
 10050;Riocard (Semove) - Ônibus Municipal Niterói + Ônibus Municipal Niterói;Riocard (Semove);4,45;3;7;RJ;Rio de Janeiro;23/02/2023
