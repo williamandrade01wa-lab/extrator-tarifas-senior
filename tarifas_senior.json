@@ -2259,7 +2259,7 @@
         "codigo": "15581",
         "nome": "CT Expresso - Cartão Luziânia X Brasília",
         "fornecedor": "CT Expresso",
-        "valor": "10,70",
+        "valor": "10,95",
         "uf": "GO",
         "cidade": "Luziânia"
     },
@@ -2267,7 +2267,7 @@
         "codigo": "15582",
         "nome": "CT Expresso - Cartão Luziânia X Taguatinga",
         "fornecedor": "CT Expresso",
-        "valor": "12,05",
+        "valor": "12,30",
         "uf": "GO",
         "cidade": "Luziânia"
     },
@@ -2275,7 +2275,7 @@
         "codigo": "15583",
         "nome": "CT Expresso - Cartão Luziânia X Gama",
         "fornecedor": "CT Expresso",
-        "valor": "7,95",
+        "valor": "8,15",
         "uf": "GO",
         "cidade": "Luziânia"
     },
@@ -5080,6 +5080,14 @@
         "cidade": "Belo Horizonte"
     },
     {
+        "codigo": "19541",
+        "nome": "Santos Dumont",
+        "fornecedor": "Santos Dumont",
+        "valor": "0,01",
+        "uf": "MG",
+        "cidade": "Santos Dumont"
+    },
+    {
         "codigo": "5179",
         "nome": "São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 2)",
         "fornecedor": "São Jorge Autobus",
@@ -6371,7 +6379,7 @@
         "codigo": "5251",
         "nome": "Setransbel - Cartão Mosqueiro X São Brás",
         "fornecedor": "Setransbel",
-        "valor": "7,40",
+        "valor": "4,60",
         "uf": "PA",
         "cidade": "Belém"
     },
@@ -33635,7 +33643,7 @@
         "codigo": "9320",
         "nome": "Sindpass - Cartão Barra Mansa x Volta Redonda (Via 33)",
         "fornecedor": "Sindpass",
-        "valor": "5,95",
+        "valor": "6,55",
         "uf": "RJ",
         "cidade": "Barra Mansa"
     },
@@ -33699,7 +33707,7 @@
         "codigo": "9740",
         "nome": "Sindpass - Cartão Barra Mansa X Volta Redonda (Via Retiro)",
         "fornecedor": "Sindpass",
-        "valor": "5,95",
+        "valor": "6,55",
         "uf": "RJ",
         "cidade": "Barra Mansa"
     },
@@ -38819,7 +38827,7 @@
         "codigo": "15567",
         "nome": "BB Turismo - Cartão Jandira Integração",
         "fornecedor": "BB Turismo (Benfácil) - Jandira",
-        "valor": "9,00",
+        "valor": "10,00",
         "uf": "SP",
         "cidade": "Barueri"
     },
@@ -41995,7 +42003,7 @@
         "codigo": "9056",
         "nome": "Dinatur - Cartão Mairiporã Municipal",
         "fornecedor": "Dinatur",
-        "valor": "5,45",
+        "valor": "6,00",
         "uf": "SP",
         "cidade": "Mairiporã"
     },
@@ -45139,7 +45147,7 @@
         "codigo": "6964",
         "nome": "Pevê Tur - Cartão Bady Bassit X Nova Aliança",
         "fornecedor": "Pevê Tur",
-        "valor": "5,95",
+        "valor": "6,60",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -45283,7 +45291,7 @@
         "codigo": "6982",
         "nome": "Pevê Tur - Cartão Nova Itapirema X Adolfo",
         "fornecedor": "Pevê Tur",
-        "valor": "7,95",
+        "valor": "8,95",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },

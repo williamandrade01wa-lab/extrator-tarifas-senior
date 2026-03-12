@@ -281,9 +281,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15795;Viação São Roque - Cartão Colatina X Triunfo;Viação São Roque - QR-Code - Espírito Santo;19,00;5;10;ES;Colatina;08/01/2026
 4016;Araguarina - Cartão Goiânia X Anápolis;Araguarina;14,70;5;10;GO;Goiânia;08/07/2025
 4906;Araguarina - Cartão Goiânia X Inhumas;Araguarina;12,45;5;10;GO;Goiânia;08/07/2025
-15581;CT Expresso - Cartão Luziânia X Brasília;CT Expresso;10,70;5;10;GO;Luziânia;26/09/2025
-15582;CT Expresso - Cartão Luziânia X Taguatinga;CT Expresso;12,05;5;10;GO;Luziânia;26/09/2025
-15583;CT Expresso - Cartão Luziânia X Gama;CT Expresso;7,95;5;10;GO;Luziânia;26/09/2025
+15581;CT Expresso - Cartão Luziânia X Brasília;CT Expresso;10,95;5;10;GO;Luziânia;11/03/2026
+15582;CT Expresso - Cartão Luziânia X Taguatinga;CT Expresso;12,30;5;10;GO;Luziânia;11/03/2026
+15583;CT Expresso - Cartão Luziânia X Gama;CT Expresso;8,15;5;10;GO;Luziânia;11/03/2026
 15584;CT Expresso - Cartão Luziânia X BRT (Santa Maria);CT Expresso;10,70;5;10;GO;Luziânia;08/12/2025
 1340;SITPASS - Cartão Municipal Goiânia;Sitpass;4,30;5;10;GO;Goiânia;19/04/2019
 5533;Transduarte Passaredo - Cartão Municipal Catalão;Transduarte;5,00;5;10;GO;Catalão;13/01/2023
@@ -634,6 +634,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9820;Santafé - (QR-Code) - Cartão Ouro Branco X Pires;Santafé - QR-Code;18,75;5;10;MG;Belo Horizonte;09/10/2025
 15452;Santafé - (QR-Code) - Cartão Formiga X Piumhi;Santafé - QR-Code;36,00;5;10;MG;Belo Horizonte;09/10/2025
 15980;Santafé - (QR-Code) - Cartão Ouro Branco X Belo Horizonte;Santafé - QR-Code;53,00;5;10;MG;Belo Horizonte;07/08/2025
+19541;Santos Dumont;Santos Dumont;0,01;5;10;MG;Santos Dumont;11/03/2026
 5179;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 2);São Jorge Autobus;8,70;5;10;MG;Ponte Nova;01/10/2025
 5180;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 1);São Jorge Autobus;2,50;5;10;MG;Ponte Nova;01/12/2021
 4876;Setelagoano - Cartão Belo Horizonte X Sete Lagoas;Setelagoano;31,25;5;10;MG;Sete Lagoas;10/09/2025
@@ -795,7 +796,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9643;Central Passe Bem - Cartão Municipal Barcarena;Central Passe Bem;4,60;5;10;PA;Barcarena;16/01/2026
 16054;Pra Já - BRT Metropolitano Belém;Pra Já;4,60;5;10;PA;Ananindeua;19/11/2025
 392;Setransbel - Cartão Municipal Belém do Pará;Setransbel;4,60;5;15;PA;Belém;14/04/2025
-5251;Setransbel - Cartão Mosqueiro X São Brás;Setransbel;7,40;5;15;PA;Belém;14/04/2025
+5251;Setransbel - Cartão Mosqueiro X São Brás;Setransbel;4,60;5;15;PA;Belém;11/03/2026
 15490;Sim - Cartão Municipal Castanhal;Sim;3,50;5;10;PA;Castanhal;11/12/2024
 10329;Startec - Cartão Municipal Santarém;Startec;4,80;5;10;PA;Santarém;09/01/2026
 10334;Startec - Cartão Intermunicipal Alter do chão;Startec;5,90;5;10;PA;Santarém;09/01/2026
@@ -4203,7 +4204,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9315;Sindpass - Cartão Vassouras X Barra do Pirai (Comercial);Sindpass;8,30;5;10;RJ;Barra Mansa;09/04/2025
 9316;Sindpass - Cartão Centro X Vila Independencia;Sindpass;6,00;5;10;RJ;Barra Mansa;08/01/2026
 9319;Sindpass - Cartão Siderlandia;Sindpass;5,90;5;10;RJ;Barra Mansa;06/02/2026
-9320;Sindpass - Cartão Barra Mansa x Volta Redonda (Via 33);Sindpass;5,95;5;10;RJ;Barra Mansa;09/04/2025
+9320;Sindpass - Cartão Barra Mansa x Volta Redonda (Via 33);Sindpass;6,55;5;10;RJ;Barra Mansa;11/03/2026
 9463;Sindpass - Cartão Piraí X Ipê;Sindpass;4,00;5;10;RJ;Barra Mansa;09/04/2025
 9644;Sindpass - Cartão Ursulino X Barra Mansa (Centro);Sindpass;6,00;5;10;RJ;Barra Mansa;08/01/2026
 9685;Sindpass - Cartão Resende X Barra Mansa;Sindpass;15,25;5;10;RJ;Barra Mansa;09/04/2025
@@ -4211,7 +4212,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9687;Sindpass - Cartão Centro X Vista Alegre;Sindpass;6,00;5;10;RJ;Barra Mansa;08/01/2026
 9712;Sindpass - Cartão Carmo X Jamapara;Sindpass;6,75;5;10;RJ;Barra Mansa;11/02/2025
 9733;Sindpass - Cartão Nova Primavera X Ponte Alta (Municipal);Sindpass;5,50;5;10;RJ;Barra Mansa;11/02/2025
-9740;Sindpass - Cartão Barra Mansa X Volta Redonda (Via Retiro);Sindpass;5,95;5;10;RJ;Barra Mansa;09/04/2025
+9740;Sindpass - Cartão Barra Mansa X Volta Redonda (Via Retiro);Sindpass;6,55;5;10;RJ;Barra Mansa;11/03/2026
 9741;Sindpass - Cartão Centro X Santa Clara;Sindpass;6,00;5;10;RJ;Barra Mansa;08/01/2026
 9742;Sindpass - Cartão Centro X Santa Clara (Via Clube);Sindpass;6,00;5;10;RJ;Barra Mansa;08/01/2026
 10117;Sindpass - Cartão Vassouras X Massambara;Sindpass;5,00;5;10;RJ;Barra Mansa;06/02/2026
@@ -4851,7 +4852,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19459;Repasse BB Turismo - Cartão Municipal Itapevi (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026
 19461;Repasse BB Turismo - Cartão Itapevi Integração (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026
 15512;BB Turismo - Cartão Municipal Jandira;BB Turismo (Benfácil) - Jandira;5,80;5;10;SP;Barueri;02/01/2025
-15567;BB Turismo - Cartão Jandira Integração;BB Turismo (Benfácil) - Jandira;9,00;5;10;SP;Barueri;17/01/2025
+15567;BB Turismo - Cartão Jandira Integração;BB Turismo (Benfácil) - Jandira;10,00;5;10;SP;Barueri;11/03/2026
 15793;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
 19526;Bem Caieiras - Cartão Municipal Caieiras;Bem - Caieiras - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
 19530;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;9,00;5;10;SP;São Bernardo do Campo;24/02/2026
@@ -5248,7 +5249,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2322;Dersa - Cartão Balsa - Santos X São Vicente;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
 2346;Dersa - Cartão Balsa Santos X Guarujá / São Paulo;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
 6598;Dersa - Cartão Balsa - Santos X Vicente de Carvalho;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
-9056;Dinatur - Cartão Mairiporã Municipal;Dinatur;5,45;5;10;SP;Mairiporã;09/01/2025
+9056;Dinatur - Cartão Mairiporã Municipal;Dinatur;6,00;5;10;SP;Mairiporã;11/03/2026
 1016;Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Centro);Empresa Cruz;7,95;5;10;SP;Araraquara;07/07/2025
 1886;Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Bairro);Empresa Cruz;6,95;5;10;SP;Araraquara;07/07/2025
 15655;ETM Mairiporã - Cartão Mairiporã X Nazaré Paulista (Bairro Ponte Alta) (Linha 9539A);ETM - Mairiporã;6,90;5;10;SP;Mairiporã;23/07/2025
@@ -5641,7 +5642,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6961;Pevê Tur - Cartão Bady Bassit X Adolfo;Pevê Tur;11,55;5;10;SP;São José do Rio Preto;07/07/2025
 6962;Pevê Tur - Cartão Bady Bassit X Fazenda Biroli;Pevê Tur;11,55;5;10;SP;São José do Rio Preto;07/07/2025
 6963;Pevê Tur - Cartão Bady Bassit X Mendonça;Pevê Tur;10,25;5;10;SP;São José do Rio Preto;07/07/2025
-6964;Pevê Tur - Cartão Bady Bassit X Nova Aliança;Pevê Tur;5,95;5;10;SP;São José do Rio Preto;07/07/2025
+6964;Pevê Tur - Cartão Bady Bassit X Nova Aliança;Pevê Tur;6,60;5;10;SP;São José do Rio Preto;11/03/2026
 6965;Pevê Tur - Cartão Bady Bassit X Nova Itapirema;Pevê Tur;7,55;5;10;SP;São José do Rio Preto;07/07/2025
 6966;Pevê Tur - Cartão Bady Bassit X Sales;Pevê Tur;15,50;5;10;SP;São José do Rio Preto;07/07/2025
 6967;Pevê Tur - Cartão Fazenda Biroli X Sales;Pevê Tur;7,25;5;10;SP;São José do Rio Preto;07/07/2025
@@ -5659,7 +5660,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6979;Pevê Tur - Cartão Nova Aliança X Mendonça;Pevê Tur;7,95;5;10;SP;São José do Rio Preto;07/07/2025
 6980;Pevê Tur - Cartão Nova Aliança X Nova Itapirema;Pevê Tur;5,60;5;10;SP;São José do Rio Preto;07/07/2025
 6981;Pevê Tur - Cartão Nova Aliança X Sales;Pevê Tur;12,90;5;10;SP;São José do Rio Preto;07/07/2025
-6982;Pevê Tur - Cartão Nova Itapirema X Adolfo;Pevê Tur;7,95;5;10;SP;São José do Rio Preto;07/07/2025
+6982;Pevê Tur - Cartão Nova Itapirema X Adolfo;Pevê Tur;8,95;5;10;SP;São José do Rio Preto;11/03/2026
 6983;Pevê Tur - Cartão Nova Itapirema X Fazenda Biroli;Pevê Tur;7,55;5;10;SP;São José do Rio Preto;07/07/2025
 6984;Pevê Tur - Cartão Nova Itapirema X Mendonça;Pevê Tur;6,60;5;10;SP;São José do Rio Preto;07/07/2025
 6985;Pevê Tur - Cartão Nova Itapirema X Sales;Pevê Tur;10,25;5;10;SP;São José do Rio Preto;07/07/2025
