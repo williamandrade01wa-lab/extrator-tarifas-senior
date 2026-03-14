@@ -303,8 +303,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 670;Auto Omnibus Floramar - Cartão Municipal Poços de Caldas;Auto Omnibus Floramar;5,00;5;10;MG;Poços de Caldas;05/03/2026
 1035;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;5,00;5;10;MG;Ipatinga;08/04/2025
 2614;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Timóteo;Autotrans (Buse) - Ipatinga/Timóteo;5,00;5;10;MG;Ipatinga;08/04/2025
-3808;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente;Autotrans (Buse) - Ipatinga/Timóteo;19,25;5;10;MG;Ipatinga;07/10/2025
-3809;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Cachoeira Escura;Autotrans (Buse) - Ipatinga/Timóteo;13,70;5;10;MG;Ipatinga;07/10/2025
+3808;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente;Autotrans (Buse) - Ipatinga/Timóteo;20,30;5;10;MG;Ipatinga;13/03/2026
+3809;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Cachoeira Escura;Autotrans (Buse) - Ipatinga/Timóteo;14,75;5;10;MG;Ipatinga;13/03/2026
 9661;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Mesquita X Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;17,60;5;10;MG;Ipatinga;05/01/2026
 668;Autotrans - Lavras (Buse) - Cartão Municipal Lavras;Autotrans (Buse) - Lavras;5,00;5;10;MG;Lavras;28/11/2023
 15775;Big - São João Del Rei - Tarifa Gratuita;Big - São João Del Rei;0,00;5;10;MG;São João Del Rei;17/09/2025
@@ -4265,7 +4265,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15674;Trampolim - Cartão Aeroporto (Linha 208 / Nível 12);Trampolim;4,00;5;10;RN;Natal;25/04/2025
 15762;JTP Transportes - Cartão Municipal Porto Velho;JTP Transportes - Porto Velho - Novo Sistema;3,00;5;10;RO;Porto Velho;12/06/2025
 10904;Boa Vista - Cartão Municipal Boa Vista;Boa Vista;5,50;5;10;RR;Boa Vista;28/03/2024
-9701;Agente de Turismo Santa Cruz - Cartão Zona Rural Pelotas;Agente de Turismo Santa Cruz;6,00;5;10;RS;Pelotas;15/04/2025
+9701;Agente de Turismo Santa Cruz - Cartão Zona Rural Pelotas;Agente de Turismo Santa Cruz;6,25;5;10;RS;Pelotas;13/03/2026
 2519;Atu Santa Maria - Cartão Santa Maria Urbano;Atu Santa Maria;6,65;5;10;RS;Santa Maria;09/03/2026
 10175;Atu Santa Maria - Cartão Integração Santa Maria;Atu Santa Maria;5,00;5;10;RS;Santa Maria;09/03/2026
 2300;Auto Viação Vale do Sol - Cartão Santa Cruz X Vera Cruz;Auto Viação Vale do Sol;7,15;5;10;RS;Santa Cruz do Sul;09/12/2024
@@ -4385,6 +4385,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15574;Fátima Transportes - Cartão Taquari x Triunfo (Com Seguro);Fátima Transportes;23,55;5;10;RS;Nova Santa Rita;29/01/2025
 15701;Fátima Transportes - Cartão Triunfo X Canoas;Fátima Transportes;23,70;5;10;RS;Nova Santa Rita;31/07/2025
 15763;Fátima Transportes - Cartão Municipal Nova Santa Rita;Fátima Transportes;5,26;5;10;RS;Nova Santa Rita;12/06/2025
+19542;Fátima Transportes - Cartão Municipal Triunfo;Fátima Transportes;5,70;5;10;RS;Nova Santa Rita;13/03/2026
 15170;Fátima Transportes - Cartão Mínima Intermunicipal;Fátima Transportes - Esteio;7,10;5;10;RS;Esteio;15/07/2025
 15172;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Esteio;8,45;5;10;RS;Esteio;15/07/2025
 15173;Fátima Transportes - Cartão Porto Alegre X Canoas;Fátima Transportes - Esteio;8,45;5;10;RS;Esteio;15/07/2025
@@ -4770,7 +4771,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6543;Viação Praiana - Cartão Itajaí X Camboriú;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
 6544;Viação Praiana - Cartão Balneário Camboriú X Porto Belo;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
 6545;Viação Praiana - Cartão Porto Belo X Itajaí;Viação Praiana;10,40;5;10;SC;Itajaí;04/03/2026
-6546;Viação Praiana - Cartão Porto Belo X Itapema;Viação Praiana;6,90;5;10;SC;Itajaí;15/01/2026
+6546;Viação Praiana - Cartão Porto Belo X Itapema;Viação Praiana;4,50;5;10;SC;Itajaí;13/03/2026
 6547;Viação Praiana - Cartão Balneário Camboriú X Meia Praia;Viação Praiana;8,95;5;10;SC;Itajaí;15/01/2026
 6548;Viação Praiana - Cartão Itapema X Itajaí (via Lojas Moellmann);Viação Praiana;7,65;5;10;SC;Itajaí;14/04/2022
 6549;Viação Praiana - Cartão Itapema X Balneário Camboriú;Viação Praiana;7,60;5;10;SC;Itajaí;04/03/2026
@@ -4976,7 +4977,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15066;BR Mobilidade - Itanhaém (Terminal Rodoviário de Itanhaém) X Santos (Linha 921);BR Mobilidade;24,10;5;10;SP;São Vicente;09/01/2026
 15600;BR Mobilidade - São Vicente (Vila Margarida) X Santos (Gonzaga) - Via Av. N. Sra. de Fatima/ Av. Ana Costa/ Pc Independencia (Linha 958);BR Mobilidade;6,00;5;10;SP;São Vicente;09/01/2026
 15601;BR Mobilidade - São Vicente (Vila Margarida) X Santos (Vila Matias) - Via Praias/ Av. Ana Costa/ Estação VLT (Linha 959);BR Mobilidade;6,00;5;10;SP;São Vicente;09/01/2026
-19497;BR Mobilidade - Praia Grande (Terminal Tatico) X Cubatão (Centro) - Via Praia Grande (Terminal Tude Bastos) e Santos (Av. N. Sra. De Fatima) - Linha: 970;BR Mobilidade;6,80;5;10;SP;São Vicente;30/01/2026
+19543;BR Mobilidade - Praia Grande (Terminal Tatico) X Cubatão (Centro) (Linha 970);BR Mobilidade;6,80;5;10;SP;São Vicente;13/03/2026
 16235;Bus Fácil - Ribeirão Pires - Cartão Municipal Ribeirão Pires;Bus Fácil - Ribeirão Pires - QR-Code;7,50;5;10;SP;São Paulo;05/01/2026
 5799;Cidade Natureza - Cartão Monteiro Lobato X São José dos Campos;Cidade Natureza;7,10;5;10;SP;São Paulo;08/01/2026
 7672;Cidade Natureza - Cartão São José dos Campos X Monteiro Lobato;Cidade Natureza;7,10;5;10;SP;São Paulo;08/01/2026

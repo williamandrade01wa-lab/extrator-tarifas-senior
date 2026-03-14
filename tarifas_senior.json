@@ -2435,7 +2435,7 @@
         "codigo": "3808",
         "nome": "Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente",
         "fornecedor": "Autotrans (Buse) - Ipatinga/Timóteo",
-        "valor": "19,25",
+        "valor": "20,30",
         "uf": "MG",
         "cidade": "Ipatinga"
     },
@@ -2443,7 +2443,7 @@
         "codigo": "3809",
         "nome": "Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Cachoeira Escura",
         "fornecedor": "Autotrans (Buse) - Ipatinga/Timóteo",
-        "valor": "13,70",
+        "valor": "14,75",
         "uf": "MG",
         "cidade": "Ipatinga"
     },
@@ -34131,7 +34131,7 @@
         "codigo": "9701",
         "nome": "Agente de Turismo Santa Cruz - Cartão Zona Rural Pelotas",
         "fornecedor": "Agente de Turismo Santa Cruz",
-        "valor": "6,00",
+        "valor": "6,25",
         "uf": "RS",
         "cidade": "Pelotas"
     },
@@ -35084,6 +35084,14 @@
         "nome": "Fátima Transportes - Cartão Municipal Nova Santa Rita",
         "fornecedor": "Fátima Transportes",
         "valor": "5,26",
+        "uf": "RS",
+        "cidade": "Nova Santa Rita"
+    },
+    {
+        "codigo": "19542",
+        "nome": "Fátima Transportes - Cartão Municipal Triunfo",
+        "fornecedor": "Fátima Transportes",
+        "valor": "5,70",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -38171,7 +38179,7 @@
         "codigo": "6546",
         "nome": "Viação Praiana - Cartão Porto Belo X Itapema",
         "fornecedor": "Viação Praiana",
-        "valor": "6,90",
+        "valor": "4,50",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -39816,8 +39824,8 @@
         "cidade": "São Vicente"
     },
     {
-        "codigo": "19497",
-        "nome": "BR Mobilidade - Praia Grande (Terminal Tatico) X Cubatão (Centro) - Via Praia Grande (Terminal Tude Bastos) e Santos (Av. N. Sra. De Fatima) - Linha: 970",
+        "codigo": "19543",
+        "nome": "BR Mobilidade - Praia Grande (Terminal Tatico) X Cubatão (Centro) (Linha 970)",
         "fornecedor": "BR Mobilidade",
         "valor": "6,80",
         "uf": "SP",
