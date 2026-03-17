@@ -56,6 +56,14 @@
         "cidade": "Maceió"
     },
     {
+        "codigo": "19547",
+        "nome": "Simohu - Cartão Maceió X Pilar",
+        "fornecedor": "Simohu",
+        "valor": "9,00",
+        "uf": "AL",
+        "cidade": "Maceió"
+    },
+    {
         "codigo": "10794",
         "nome": "Transpal Urbano - Cartão Urbano Maceió (Bem Legal)",
         "fornecedor": "Vamu Mobilidade",
@@ -5816,7 +5824,7 @@
         "cidade": "Nova Lima"
     },
     {
-        "codigo": "15155",
+        "codigo": "19545",
         "nome": "Via Ouro Coletivos - Cartão Jardim Canadá X Santa Rita",
         "fornecedor": "Via Ouro Coletivos",
         "valor": "2,00",
@@ -33784,6 +33792,14 @@
         "cidade": "Barra Mansa"
     },
     {
+        "codigo": "19546",
+        "nome": "Sindpass - Cartão Floriano X Porto Real",
+        "fornecedor": "Sindpass",
+        "valor": "5,40",
+        "uf": "RJ",
+        "cidade": "Barra Mansa"
+    },
+    {
         "codigo": "15589",
         "nome": "Transa Transporte - Cartão Intermunicipal Levy Gasparian",
         "fornecedor": "Transa Transporte - Eletrônico",
@@ -36720,7 +36736,7 @@
         "cidade": "Cachoeirinha"
     },
     {
-        "codigo": "16189",
+        "codigo": "19544",
         "nome": "Valesul Porto Alegre - 234 Rural 4",
         "fornecedor": "Valesul - Porto Alegre",
         "valor": "8,70",

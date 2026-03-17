@@ -6,6 +6,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15199;Bem Mobilidade - Cartão Rio Largo X Via Expressa;Bem Mobilidade (Transpal);6,90;5;10;AL;Maceió;07/01/2025
 15407;Bem Mobilidade - Cartão Rio Largo X Gustavo Paiva;Bem Mobilidade (Transpal);6,75;5;10;AL;Maceió;01/11/2024
 15672;Simohu - Cartão Marechal X Maceió;Simohu;8,00;5;10;AL;Maceió;08/12/2025
+19547;Simohu - Cartão Maceió X Pilar;Simohu;9,00;5;10;AL;Maceió;16/03/2026
 10794;Transpal Urbano - Cartão Urbano Maceió (Bem Legal);Vamu Mobilidade;4,00;5;10;AL;Maceió;09/01/2024
 245;Sinetram - Cartão Municipal Manaus (Passafácil);Sinetram - Novo Sistema;5,00;5;10;AM;Manaus;02/03/2026
 15646;CTMAC - Cartão Municipal Macapá;CTMAC;3,70;10;10;AP;Macapá;18/03/2025
@@ -726,7 +727,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10810;Via Ouro Coletivos - Cartão Cariocas X Boa Vista;Via Ouro Coletivos;2,00;5;10;MG;Nova Lima;24/01/2024
 10811;Via Ouro Coletivos - Cartão Nova Lima X Canadá;Via Ouro Coletivos;2,00;5;10;MG;Nova Lima;24/01/2024
 10812;Via Ouro Coletivos - Cartão Via Ouro Coletivos;Via Ouro Coletivos;0,01;5;10;MG;Nova Lima;24/01/2024
-15155;Via Ouro Coletivos - Cartão Jardim Canadá X Santa Rita;Via Ouro Coletivos;2,00;5;10;MG;Nova Lima;04/07/2024
+19545;Via Ouro Coletivos - Cartão Jardim Canadá X Santa Rita;Via Ouro Coletivos;2,00;5;10;MG;Nova Lima;16/03/2026
 15916;Viação Avanti - Cartão Municipal Três Pontas;Viação Avanti;3,50;5;10;MG;Três Pontas;24/07/2025
 10469;Viação Braulino Intermunicipal - Cartão Carmo do Cajuru X Divinópolis;Viação Braulino - Intermunicipal;6,25;5;10;MG;Divinópolis;03/10/2025
 10470;Viação Braulino Intermunicipal - Cartão Nova Serrana X Perdigão;Viação Braulino - Intermunicipal;6,75;5;10;MG;Divinópolis;03/10/2025
@@ -4222,6 +4223,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10927;Sindpass - Cartão Vassouras X Paracambi;Sindpass;38,50;5;10;RJ;Barra Mansa;09/04/2025
 15078;Sindpass - Cartão Circular 15 X Vila Americana;Sindpass;5,90;5;10;RJ;Barra Mansa;06/02/2026
 19480;Sindpass - Cartão Corisco (Colitur);Sindpass;5,00;5;10;RJ;Barra Mansa;20/01/2026
+19546;Sindpass - Cartão Floriano X Porto Real;Sindpass;5,40;5;10;RJ;Barra Mansa;16/03/2026
 15589;Transa Transporte - Cartão Intermunicipal Levy Gasparian;Transa Transporte - Eletrônico;6,50;5;10;RJ;Três Rios;09/03/2026
 10929;Vancard - Cartão Municipal Armação de Búzios;Vancard;5,00;5;10;RJ;Armação de Búzios;25/04/2024
 15169;Viação Conecta - Cartão Municipal Paraíba do Sul;Viação Conecta;5,00;5;10;RJ;Paraíba do Sul;08/09/2025
@@ -4589,7 +4591,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15786;Valesul Porto Alegre - 235 Rural 5 = Pimenta / Praia das Pombas / Itapuã - Centro Viamão (Viamão / Vialeste - 00012);Valesul - Porto Alegre;11,30;5;10;RS;Cachoeirinha;23/06/2025
 15787;Valesul Porto Alegre - 265 Viamão Capororoca P.32 / São Jorge - Poa Bento, Ipiranga, Rodoviária (Viamão / Vialeste - 00012);Valesul - Porto Alegre;6,75;5;10;RS;Cachoeirinha;11/07/2025
 16068;Valesul Porto Alegre - 466 Morada do Vale 1, 2 e 3 Executivo via Anchieta (Transcal - 00004);Valesul - Porto Alegre;18,85;5;10;RS;Cachoeirinha;03/09/2025
-16189;Valesul Porto Alegre - 234 Rural 4;Valesul - Porto Alegre;8,70;5;10;RS;Cachoeirinha;14/10/2025
+19544;Valesul Porto Alegre - 234 Rural 4;Valesul - Porto Alegre;8,70;5;10;RS;Cachoeirinha;16/03/2026
 10562;Valesul Porto Alegre - 31 Curumim – Capão Da Canoa/Novo Horizonte – Capão Da Canoa (Cs Turismo / Rota Litoral - 00037);ValeSul Porto Alegre;5,00;5;10;RS;Cachoeirinha;18/10/2023
 10568;Valesul Porto Alegre - 33 Capão Da Canoa – Capão Novo (Cs Turismo / Rota Litoral - 00037);ValeSul Porto Alegre;5,00;5;10;RS;Cachoeirinha;18/10/2023
 10815;Valesul Porto Alegre - 805 Lombas / Centro de Viamão (Viamão / Vialeste - 00012);ValeSul Porto Alegre;8,80;5;10;RS;Cachoeirinha;29/01/2024
