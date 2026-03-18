@@ -639,7 +639,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5179;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 2);São Jorge Autobus;8,70;5;10;MG;Ponte Nova;01/10/2025
 5180;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 1);São Jorge Autobus;2,50;5;10;MG;Ponte Nova;01/12/2021
 4876;Setelagoano - Cartão Belo Horizonte X Sete Lagoas;Setelagoano;31,25;5;10;MG;Sete Lagoas;10/09/2025
-4900;Setelagoano - Cartão Prudente de Morais X Sete Lagoas;Setelagoano;5,00;5;10;MG;Sete Lagoas;10/09/2025
+4900;Setelagoano - Cartão Prudente de Morais X Sete Lagoas;Setelagoano;5,40;5;10;MG;Sete Lagoas;17/03/2026
 4914;Setelagoano - Cartão Terminal Lontrinha X Terminal Sete Lagoas;Setelagoano;6,00;5;10;MG;Sete Lagoas;08/09/2025
 6053;Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa);Setelagoano;38,80;5;10;MG;Sete Lagoas;10/09/2025
 15922;Stilo Fretamento - Cartão Municipal Mateus Leme;Stilo Fretamento;0,01;5;10;MG;Belo Horizonte;24/07/2025
@@ -4302,7 +4302,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,40;5;10;RS;Bagé;23/02/2026
 8646;CTCP Capão do Leão - Cartão Pelotas X Capão do Leão;CTCP - Capão do Leão;7,40;5;10;RS;Pelotas;07/11/2025
 8647;CTCP Capão do Leão - Cartão Pelotas X Jardim América;CTCP - Capão do Leão;6,05;5;10;RS;Pelotas;07/11/2025
-2348;CTCP Coletivo de Pelotas - Cartão Prati - Pelotas;CTCP - Coletivo de Pelotas;6,00;5;10;RS;Pelotas;26/03/2025
+2348;CTCP Coletivo de Pelotas - Cartão Prati - Pelotas;CTCP - Coletivo de Pelotas;6,25;5;10;RS;Pelotas;17/03/2026
 19476;Empresa Vencato - Cartão Porto Alegre X Mariana Pimentel;Empresa Vencato;36,55;5;10;RS;Porto Alegre;16/01/2026
 3920;Expresso Assur - Cartão Guaíba Urbano;Expresso Assur;4,75;5;10;RS;Guaiba;09/04/2025
 3921;Expresso Assur - Cartão Guaíba Urbano (micro-ônibus);Expresso Assur;5,20;5;10;RS;Guaiba;02/06/2019
