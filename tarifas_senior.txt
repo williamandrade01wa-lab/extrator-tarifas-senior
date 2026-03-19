@@ -16,10 +16,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7449;Atlântico Transportes (Paulo Afonso) - Cartão Municipal Paulo Afonso;Atlântico Transportes - Paulo Afonso;4,00;5;10;BA;Paulo Afonso;01/05/2021
 15624;Atranspi - Cartão Municipal Ilhéus;Atranspi - Novo Sistema;4,50;5;10;BA;Ilheus;17/06/2025
 10841;ATUV - Cartório Municipal Vitória da Conquista;ATUV - Novo Sistema;4,00;5;10;BA;Vitória da Conquista;02/01/2026
+19552;Bahia;Bahia;0,01;5;10;BA;Eunápolis;18/03/2026
 15894;Conecta - Camaçari - Cartão Municipal Camaçari;Conecta - Camaçari;5,00;5;10;BA;Camaçari;21/07/2025
 15940;Conecta - Camaçari - Cartão Costa 1;Conecta - Camaçari;5,30;5;10;BA;Camaçari;28/07/2025
 15941;Conecta - Camaçari - Cartão Costa 2;Conecta - Camaçari;7,00;5;10;BA;Camaçari;28/07/2025
-2334;Eunapolitana - Cartão Urbano Eunápolis;Eunapolitana;4,50;5;10;BA;Eunápolis;15/07/2025
 9324;Internacional Travessias - Cartão São Joaquim X Bom Despacho;Internacional Travessias;6,90;5;10;BA;Salvador;07/08/2025
 1855;Metropasse - Cartão Metropasse;Metropasse;0,01;5;10;BA;Salvador;10/06/2022
 9481;Metropasse - Cartão A857I - Arembepe X Terminal Mussurunga;Metropasse;10,40;5;10;BA;Salvador;01/04/2024
@@ -4419,7 +4419,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6122;Stadtbus Teutônia - Cartão Teuto Municipal;Stadtbus Teutônia;5,00;5;10;RS;Teutônia;04/01/2023
 4714;Stadtbus Venâncio Aires - Cartão Santa Cruz X Venâncio Aires Intermunicipal;Stadtbus Venâncio Aires;11,05;5;10;RS;Santa Cruz do Sul;09/12/2024
 15677;STU - Cartão Municipal Santana do Livramento;STU;5,00;5;10;RS;Santana do Livramento;04/02/2026
-1042;Toda Hora - Cartão Santa Rosa Municipal;Toda Hora;5,50;5;10;RS;Santa Rosa;14/01/2025
+1042;Toda Hora - Cartão Santa Rosa Municipal;Toda Hora;6,50;5;10;RS;Santa Rosa;18/03/2026
 6084;Torrescar - Cartão Torres Municipal;Torrescar (Torres);5,00;5;10;RS;Torres;07/03/2022
 19523;Torrescar - Arroio do Sal - Cartão Municipal Arroio do Sal;Torrescar - Arroio do Sal;6,00;5;10;RS;Torres;20/02/2026
 5321;Transfatima - Cartão Municipal de Vacaria;Transfatima;5,00;5;10;RS;Vacaria;18/04/2023

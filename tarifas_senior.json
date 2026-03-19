@@ -136,6 +136,14 @@
         "cidade": "Vitória da Conquista"
     },
     {
+        "codigo": "19552",
+        "nome": "Bahia",
+        "fornecedor": "Bahia",
+        "valor": "0,01",
+        "uf": "BA",
+        "cidade": "Eunápolis"
+    },
+    {
         "codigo": "15894",
         "nome": "Conecta - Camaçari - Cartão Municipal Camaçari",
         "fornecedor": "Conecta - Camaçari",
@@ -158,14 +166,6 @@
         "valor": "7,00",
         "uf": "BA",
         "cidade": "Camaçari"
-    },
-    {
-        "codigo": "2334",
-        "nome": "Eunapolitana - Cartão Urbano Eunápolis",
-        "fornecedor": "Eunapolitana",
-        "valor": "4,50",
-        "uf": "BA",
-        "cidade": "Eunápolis"
     },
     {
         "codigo": "9324",
@@ -35363,7 +35363,7 @@
         "codigo": "1042",
         "nome": "Toda Hora - Cartão Santa Rosa Municipal",
         "fornecedor": "Toda Hora",
-        "valor": "5,50",
+        "valor": "6,50",
         "uf": "RS",
         "cidade": "Santa Rosa"
     },
