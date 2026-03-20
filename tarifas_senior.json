@@ -136,14 +136,6 @@
         "cidade": "Vitória da Conquista"
     },
     {
-        "codigo": "19552",
-        "nome": "Bahia",
-        "fornecedor": "Bahia",
-        "valor": "0,01",
-        "uf": "BA",
-        "cidade": "Eunápolis"
-    },
-    {
         "codigo": "15894",
         "nome": "Conecta - Camaçari - Cartão Municipal Camaçari",
         "fornecedor": "Conecta - Camaçari",
@@ -2462,14 +2454,6 @@
         "valor": "17,60",
         "uf": "MG",
         "cidade": "Ipatinga"
-    },
-    {
-        "codigo": "668",
-        "nome": "Autotrans - Lavras (Buse) - Cartão Municipal Lavras",
-        "fornecedor": "Autotrans (Buse) - Lavras",
-        "valor": "5,00",
-        "uf": "MG",
-        "cidade": "Lavras"
     },
     {
         "codigo": "15775",
@@ -5086,14 +5070,6 @@
         "valor": "53,00",
         "uf": "MG",
         "cidade": "Belo Horizonte"
-    },
-    {
-        "codigo": "19541",
-        "nome": "Santos Dumont",
-        "fornecedor": "Santos Dumont",
-        "valor": "0,01",
-        "uf": "MG",
-        "cidade": "Santos Dumont"
     },
     {
         "codigo": "5179",
@@ -42704,14 +42680,6 @@
         "cidade": "Taubaté"
     },
     {
-        "codigo": "19538",
-        "nome": "Fernandópolis",
-        "fornecedor": "Fernandópolis",
-        "valor": "0,01",
-        "uf": "SP",
-        "cidade": "Fernandópolis"
-    },
-    {
         "codigo": "5453",
         "nome": "Fênix Ilhabela - Cartão Ilhabela Municipal",
         "fornecedor": "Fênix Ilhabela",
@@ -43444,6 +43412,14 @@
         "nome": "Guerino Seiscentos - Cartão Assis X Tarumã",
         "fornecedor": "Guerino Seiscentos",
         "valor": "7,55",
+        "uf": "SP",
+        "cidade": "Tupã"
+    },
+    {
+        "codigo": "19551",
+        "nome": "Guerino Seiscentos - Cartão Assis X Ourinhos",
+        "fornecedor": "Guerino Seiscentos",
+        "valor": "29,00",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -46260,6 +46236,14 @@
         "nome": "Rápido Luxo Sorocaba - Cartão Aracoiaba da Serra (Maria Paula Esposito) X Sorocaba (Centro) - Linha: 6320",
         "fornecedor": "Rápido Luxo - Sorocaba",
         "valor": "8,00",
+        "uf": "SP",
+        "cidade": "Sorocaba"
+    },
+    {
+        "codigo": "19556",
+        "nome": "Rápido Luxo Sorocaba - Cartão Itapetininga X Alambari",
+        "fornecedor": "Rápido Luxo - Sorocaba",
+        "valor": "6,16",
         "uf": "SP",
         "cidade": "Sorocaba"
     },

@@ -16,7 +16,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7449;Atlântico Transportes (Paulo Afonso) - Cartão Municipal Paulo Afonso;Atlântico Transportes - Paulo Afonso;4,00;5;10;BA;Paulo Afonso;01/05/2021
 15624;Atranspi - Cartão Municipal Ilhéus;Atranspi - Novo Sistema;4,50;5;10;BA;Ilheus;17/06/2025
 10841;ATUV - Cartório Municipal Vitória da Conquista;ATUV - Novo Sistema;4,00;5;10;BA;Vitória da Conquista;02/01/2026
-19552;Bahia;Bahia;0,01;5;10;BA;Eunápolis;18/03/2026
 15894;Conecta - Camaçari - Cartão Municipal Camaçari;Conecta - Camaçari;5,00;5;10;BA;Camaçari;21/07/2025
 15940;Conecta - Camaçari - Cartão Costa 1;Conecta - Camaçari;5,30;5;10;BA;Camaçari;28/07/2025
 15941;Conecta - Camaçari - Cartão Costa 2;Conecta - Camaçari;7,00;5;10;BA;Camaçari;28/07/2025
@@ -307,7 +306,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3808;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente;Autotrans (Buse) - Ipatinga/Timóteo;20,30;5;10;MG;Ipatinga;13/03/2026
 3809;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Cachoeira Escura;Autotrans (Buse) - Ipatinga/Timóteo;14,75;5;10;MG;Ipatinga;13/03/2026
 9661;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Mesquita X Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;17,60;5;10;MG;Ipatinga;05/01/2026
-668;Autotrans - Lavras (Buse) - Cartão Municipal Lavras;Autotrans (Buse) - Lavras;5,00;5;10;MG;Lavras;28/11/2023
 15775;Big - São João Del Rei - Tarifa Gratuita;Big - São João Del Rei;0,00;5;10;MG;São João Del Rei;17/09/2025
 15776;Big - São João Del Rei - Tarifa Gratuita;Big - São João Del Rei;0,00;5;10;MG;São João Del Rei;17/09/2025
 9596;Buse (QR-Code) - Cartão Marilandia X Divinópolis;Buse - QR-Code;15,60;5;10;MG;Belo Horizonte;10/09/2025
@@ -635,7 +633,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9820;Santafé - (QR-Code) - Cartão Ouro Branco X Pires;Santafé - QR-Code;18,75;5;10;MG;Belo Horizonte;09/10/2025
 15452;Santafé - (QR-Code) - Cartão Formiga X Piumhi;Santafé - QR-Code;36,00;5;10;MG;Belo Horizonte;09/10/2025
 15980;Santafé - (QR-Code) - Cartão Ouro Branco X Belo Horizonte;Santafé - QR-Code;53,00;5;10;MG;Belo Horizonte;07/08/2025
-19541;Santos Dumont;Santos Dumont;0,01;5;10;MG;Santos Dumont;11/03/2026
 5179;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 2);São Jorge Autobus;8,70;5;10;MG;Ponte Nova;01/10/2025
 5180;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 1);São Jorge Autobus;2,50;5;10;MG;Ponte Nova;01/12/2021
 4876;Setelagoano - Cartão Belo Horizonte X Sete Lagoas;Setelagoano;31,25;5;10;MG;Sete Lagoas;10/09/2025
@@ -5337,7 +5334,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5631;Expresso Itamarati - Cartão Votuporanga Municipal;Expresso Itamarati - (Votuporanga);3,89;5;10;SP;Votuporanga;07/05/2025
 9331;Expresso Redenção - Cartão Taubaté X Natividade da Serra;Expresso Redenção - (Novo Sistema);15,00;5;10;SP;Taubaté;05/01/2026
 9332;Expresso Redenção - Cartão Taubaté X Redenção;Expresso Redenção - (Novo Sistema);9,20;5;10;SP;Taubaté;05/01/2026
-19538;Fernandópolis;Fernandópolis;0,01;5;10;SP;Fernandópolis;06/03/2026
 5453;Fênix Ilhabela - Cartão Ilhabela Municipal;Fênix Ilhabela;4,80;5;10;SP;Ilhabela;04/02/2026
 6861;Grecco Transportadora - Cartão Municipal Lençóis Paulista;Grecco;2,00;5;10;SP;Lençóis Paulista;22/06/2022
 10026;Grupo Tuga (São José do Rio Pardo) - Cartão Municipal São José do Rio Pardo;Grupo Tuga (São José do Rio Pardo);3,00;5;10;SP;São José do Rio Pardo;14/08/2025
@@ -5430,6 +5426,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16274;Guerino Seiscentos - Cartão Florínea X Assis;Guerino Seiscentos;12,90;5;10;SP;Tupã;21/11/2025
 16276;Guerino Seiscentos - Cartão Flórida Paulista X Adamantina;Guerino Seiscentos;6,95;5;10;SP;Tupã;25/11/2025
 19512;Guerino Seiscentos - Cartão Assis X Tarumã;Guerino Seiscentos;7,55;5;10;SP;Tupã;13/02/2026
+19551;Guerino Seiscentos - Cartão Assis X Ourinhos;Guerino Seiscentos;29,00;5;10;SP;Tupã;19/03/2026
 15836;Itacard - Cartão Municipal Itapecerica da Serra;Itacard - Novo Sistema - Pix;5,50;5;10;SP;Itapecerica da Serra;15/01/2026
 15360;Produto Itaqua;Itaqua;7,10;5;10;SP;Itaquaquecetuba;07/01/2026
 8713;Jandaia - Cartão Álvares Machado X Presidente Prudente;Jandaia;6,60;5;10;SP;Presidente Prudente;03/07/2025
@@ -5782,6 +5779,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10510;Rápido Luxo Sorocaba - Cartão Sorocaba X Itu;Rápido Luxo - Sorocaba;8,40;5;10;SP;Sorocaba;07/01/2026
 10887;Rápido Luxo Sorocaba - Cartão Capela do Alto X Tatuí;Rápido Luxo - Sorocaba;7,90;5;10;SP;Sorocaba;07/01/2026
 19489;Rápido Luxo Sorocaba - Cartão Aracoiaba da Serra (Maria Paula Esposito) X Sorocaba (Centro) - Linha: 6320;Rápido Luxo - Sorocaba;8,00;5;10;SP;Sorocaba;26/01/2026
+19556;Rápido Luxo Sorocaba - Cartão Itapetininga X Alambari;Rápido Luxo - Sorocaba;6,16;5;10;SP;Sorocaba;19/03/2026
 3363;Rápido Luxo Campinas Monte Mor - Cartão Urbano Monte Mor;Rápido Luxo Campinas - Monte Mor;6,00;5;10;SP;Monte Mor;21/10/2025
 5131;Rápido Sumaré São João da Boa Vista - Cartão São João da Boa Vista Municipal;Rápido Sumaré (Novo Sistema) - São João da Boa Vista;5,40;5;10;SP;São João da Boa Vista;12/02/2026
 10692;Rápido Sumaré Nova Odessa - Urbano Nova Odessa;Rápido Sumaré - Nova Odessa;3,00;5;10;SP;Sumaré;30/10/2023
