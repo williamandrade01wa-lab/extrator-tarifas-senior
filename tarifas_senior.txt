@@ -6203,7 +6203,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15691;Pluxee - Cartão Combustível Novo;Pluxee Combustível - Novo;0,01;3;10;SP;Barueri;02/05/2025
 15654;Pluxee Multibenefícios - Mobilidade;Pluxee Multibenefícios - Mobilidade;0,01;3;10;SP;Barueri;28/03/2025
 15687;Pluxee Multibenefícios Elo - Mobilidade;Pluxee Multibenefícios Elo - Mobilidade;0,01;3;10;SP;Barueri;02/05/2025
-2258;Depósito Bancário - Vale Transporte;Benefício Fácil;0,01;2;10;SP;São Paulo;01/01/2000
+2258;Crédito em Conta - Vale Transporte;Benefício Fácil;0,01;2;10;SP;São Paulo;01/01/2000
 10366;Depósito Bancário - Demais Produtos;Benefício Fácil;0,01;2;10;SP;São Paulo;26/09/2023
 15690;Pluxee - Cartão Alimentação Novo;Pluxee Alimentação - Novo;0,01;3;10;SP;Barueri;02/05/2025
 15651;Pluxee Multibenefícios - Alimentação;Pluxee Multibenefícios - Alimentação;0,01;3;10;SP;Barueri;25/03/2025
