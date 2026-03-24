@@ -7387,7 +7387,7 @@
         "codigo": "9100",
         "nome": "Cidade Verde - Cartão Maringá X Ivatuba",
         "fornecedor": "Cidade Verde",
-        "valor": "7,65",
+        "valor": "6,20",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -38712,6 +38712,14 @@
         "cidade": "Araçoiaba da Serra"
     },
     {
+        "codigo": "16037",
+        "nome": "AS Service - Municipal São Manuel",
+        "fornecedor": "AS Transportes",
+        "valor": "1,00",
+        "uf": "SP",
+        "cidade": "São Paulo"
+    },
+    {
         "codigo": "15264",
         "nome": "Associação dos Mestres - Cartão Santos X Guarujá",
         "fornecedor": "Associação dos Mestres - Travessia Catraia",
@@ -45986,6 +45994,14 @@
     {
         "codigo": "15130",
         "nome": "Rápido Luxo Campo Limpo - Cartão Botujuru X Jardim Paulista (Linha 208)",
+        "fornecedor": "Rápido Luxo - Campo Limpo",
+        "valor": "7,90",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "19558",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Krupp X Vila Popular (Linha 209)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
         "valor": "7,90",
         "uf": "SP",

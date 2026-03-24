@@ -922,7 +922,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2280;Cidade Verde - Cartão Urbano Paiçandu;Cidade Verde;6,20;5;10;PR;Maringá;18/02/2026
 4763;Cidade Verde - Cartão Itambé X Floresta;Cidade Verde;6,20;5;10;PR;Maringá;18/02/2026
 6099;Cidade Verde - Cartão Maringá X Dr. Camargo;Cidade Verde;7,65;5;10;PR;Maringá;18/02/2026
-9100;Cidade Verde - Cartão Maringá X Ivatuba;Cidade Verde;7,65;5;10;PR;Maringá;18/02/2026
+9100;Cidade Verde - Cartão Maringá X Ivatuba;Cidade Verde;6,20;5;10;PR;Maringá;23/03/2026
 15388;Cidade Verde - Cartão Maringá X Floresta;Cidade Verde;6,55;5;10;PR;Maringá;18/02/2026
 6681;Consorcio Tupa - Cartão Urbano Pato Branco;Consorcio Tupa;5,00;5;10;PR;Pato Branco;01/04/2025
 9161;Consorcio Tupa - Cartão Metropolitano Pato Branco (Mariópolis);Consorcio Tupa;6,55;5;10;PR;Pato Branco;05/05/2025
@@ -4838,6 +4838,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10287;Andorinha - Cartão Caiuá X Presidente Venceslau;Andorinha;7,55;5;10;SP;Presidente Prudente;07/07/2025
 856;Andorinha - Cartão Andorinha Urbano;Andorinha (Corumbá) (Sistema Novo);3,70;5;10;SP;Presidente Prudente;22/02/2018
 16239;Araçoiaba da Serra - Cartão Municipal de Araçoiaba da Serra;Araçoiaba da Serra - Eletrônico;4,20;5;10;SP;Araçoiaba da Serra;06/11/2025
+16037;AS Service - Municipal São Manuel;AS Transportes;1,00;5;10;SP;São Paulo;26/08/2025
 15264;Associação dos Mestres - Cartão Santos X Guarujá;Associação dos Mestres - Travessia Catraia;3,00;5;10;SP;Guarujá;02/04/2025
 10361;Auto Viação Campestre - Cartão Urbano Cosmópolis;Auto Viação Campestre - Eletrônico;5,40;5;10;SP;Cosmópolis;20/09/2023
 10398;Auto Viação Ouro Verde - (Sumaré) - Cartão CIT Sumaré Urbano;Auto Viação Ouro Verde - Sumaré;5,45;5;10;SP;Sumaré;03/10/2023
@@ -5748,6 +5749,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10455;Rápido Luxo Campo Limpo - Cartão Cabreúva (Pinhal) X Jundiaí (Linha 801);Rápido Luxo - Campo Limpo;10,25;5;10;SP;Campo Limpo Paulista;07/07/2025
 10456;Rápido Luxo Campo Limpo - Cartão Jundiaí X Outlet Premium (Linha 705);Rápido Luxo - Campo Limpo;8,10;5;10;SP;Campo Limpo Paulista;07/07/2025
 15130;Rápido Luxo Campo Limpo - Cartão Botujuru X Jardim Paulista (Linha 208);Rápido Luxo - Campo Limpo;7,90;5;10;SP;Campo Limpo Paulista;07/07/2025
+19558;Rápido Luxo Campo Limpo - Cartão Krupp X Vila Popular (Linha 209);Rápido Luxo - Campo Limpo;7,90;5;10;SP;Campo Limpo Paulista;23/03/2026
 10481;Rápido Luxo Sorocaba - Cartão Itu X Sorocaba;Rápido Luxo - Sorocaba;8,40;5;10;SP;Sorocaba;07/01/2026
 10482;Rápido Luxo Sorocaba - Cartão Salto X Sorocaba;Rápido Luxo - Sorocaba;10,45;5;10;SP;Sorocaba;05/02/2025
 10483;Rápido Luxo Sorocaba - Cartão Iperó X Sorocaba;Rápido Luxo - Sorocaba;8,20;5;10;SP;Sorocaba;07/01/2026
