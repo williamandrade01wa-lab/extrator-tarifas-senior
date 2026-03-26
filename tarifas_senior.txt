@@ -827,6 +827,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10921;Viação São José - QR-Code - Cartão Cuité X Nova Floresta;Viação São José - QR-Code;4,70;5;10;PB;Campina Grande;24/02/2026
 15915;Viação Sonho Dourado - Cartão Municipal Santa Rita;Viação Sonho Dourado;5,00;5;10;PB;Santa Rita;24/07/2025
 3954;AETPC - Cartão Municipal Caruaru;AETPC;4,80;5;10;PE;Caruaru;22/09/2023
+19562;AETPC - Cartão Caruaru;AETPC;0,01;5;10;PE;Caruaru;25/03/2026
 8131;Atlântico Transportes (Petrolina) - Cartão Urbano Petrolina;Atlântico Transportes - Petrolina;5,00;5;10;PE;Petrolina;06/02/2023
 2503;Bem Fácil Cabo (Setago) - Cartão Bem Fácil (Anel 0);Bem Fácil Cabo (Setago);3,00;5;10;PE;Cabo de Santo Agostinho;25/03/2024
 2506;Bem Fácil Cabo (Setago) - Cartão Bem Fácil (Anel 3);Bem Fácil Cabo (Setago);5,40;5;10;PE;Cabo de Santo Agostinho;26/03/2024
@@ -850,7 +851,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9827;Borborema - Cartão Frexeiras X Gameleira;Borborema - Frexeiras/Gameleira;10,00;5;10;PE;Recife;03/10/2024
 9828;Borborema - Cartão Frexeiras X Ribeirão;Borborema - Frexeiras/Ribeirão;10,00;5;10;PE;Recife;11/03/2025
 9268;Borborema - Cartão Pombos X Recife (Linha 0802);Borborema - Pombos/Recife (Linha 0802);14,00;5;10;PE;Recife;20/02/2026
-9822;Borborema - Cartão Recife (Via BR232) X Vitória (Via BR232);Borborema - Recife (Via BR232)/Vitória (Via BR232);10,00;5;10;PE;Recife;09/06/2025
+9822;Borborema - Cartão Recife (Via BR232) X Vitória (Via BR232);Borborema - Recife (Via BR232)/Vitória (Via BR232);13,00;5;10;PE;Recife;25/03/2026
 8589;Borborema - Cartão Recife X Cabo;Borborema - Recife/Cabo;10,00;5;10;PE;Recife;18/05/2023
 9082;Borborema - Cartão Ribeirão X Cabo;Borborema - Ribeirão/Cabo;25,00;5;10;PE;Recife;28/11/2024
 19443;Borborema - Cartão Ribeirão X Recife (Linha 1123);Borborema - Ribeirão/Recife (Linha 1123);30,00;5;10;PE;Recife;22/12/2025
@@ -4677,6 +4678,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16081;Expresso Içarense - Cartão Criciúma X B. Rincão;Expresso Içarense - Eletrônico;9,20;5;10;SC;Criciúma;05/09/2025
 16082;Expresso Içarense - Cartão Içara X Criciúma;Expresso Içarense - Eletrônico;4,10;5;10;SC;Criciúma;05/09/2025
 16083;Expresso Içarense - Cartão Içara X Balneário Rincão;Expresso Içarense - Eletrônico;7,15;5;10;SC;Criciúma;05/09/2025
+19560;Expresso Içarense - Cartão Criciúma X Rincão (Direto);Expresso Içarense - Eletrônico;12,70;5;10;SC;Criciúma;25/03/2026
 6893;Expresso Presidente (Timbó) - Cartão Timbó Municipal;Expresso Presidente (Timbó);4,00;5;10;SC;Timbó;01/01/2017
 9469;Expresso Presidente - (Gaspar) - Cartão Municipal Gaspar;Expresso Presidente - (Gaspar);4,80;5;10;SC;Presidente Getúlio;30/12/2022
 15964;Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau;Expresso Presidente - Intermunicipal;6,00;5;10;SP;;01/08/2025
@@ -4838,7 +4840,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10287;Andorinha - Cartão Caiuá X Presidente Venceslau;Andorinha;7,55;5;10;SP;Presidente Prudente;07/07/2025
 856;Andorinha - Cartão Andorinha Urbano;Andorinha (Corumbá) (Sistema Novo);3,70;5;10;SP;Presidente Prudente;22/02/2018
 16239;Araçoiaba da Serra - Cartão Municipal de Araçoiaba da Serra;Araçoiaba da Serra - Eletrônico;4,20;5;10;SP;Araçoiaba da Serra;06/11/2025
-16037;AS Service - Municipal São Manuel;AS Transportes;1,00;5;10;SP;São Paulo;26/08/2025
+16037;AS Service - Municipal São Manuel;AS Transportes;1,00;5;10;SP;São Manuel;26/08/2025
 15264;Associação dos Mestres - Cartão Santos X Guarujá;Associação dos Mestres - Travessia Catraia;3,00;5;10;SP;Guarujá;02/04/2025
 10361;Auto Viação Campestre - Cartão Urbano Cosmópolis;Auto Viação Campestre - Eletrônico;5,40;5;10;SP;Cosmópolis;20/09/2023
 10398;Auto Viação Ouro Verde - (Sumaré) - Cartão CIT Sumaré Urbano;Auto Viação Ouro Verde - Sumaré;5,45;5;10;SP;Sumaré;03/10/2023
@@ -4857,7 +4859,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15793;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
 19526;Bem Caieiras - Cartão Municipal Caieiras;Bem - Caieiras - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
 19530;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;9,00;5;10;SP;São Bernardo do Campo;24/02/2026
-15781;Bem Cajamar - Cartão Municipal Cajamar;Bem - Cajamar - Novo Sistema;4,60;5;10;SP;São Bernardo do Campo;23/06/2025
+15781;Bem Cajamar - Cartão Municipal Cajamar;Bem - Cajamar - Novo Sistema;5,10;5;10;SP;São Bernardo do Campo;25/03/2026
 15794;Repasse Bem Cajamar - Cartão Municipal Cajamar (Blacklist);Bem - Cajamar - Novo Sistema;6,90;5;10;SP;São Bernardo do Campo;24/06/2025
 15801;Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist);Bem - Cajamar - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
 19527;Bem Franco da Rocha - Cartão Municipal Franco da Rocha;Bem - Franco da Rocha - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
@@ -5336,6 +5338,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9331;Expresso Redenção - Cartão Taubaté X Natividade da Serra;Expresso Redenção - (Novo Sistema);15,00;5;10;SP;Taubaté;05/01/2026
 9332;Expresso Redenção - Cartão Taubaté X Redenção;Expresso Redenção - (Novo Sistema);9,20;5;10;SP;Taubaté;05/01/2026
 5453;Fênix Ilhabela - Cartão Ilhabela Municipal;Fênix Ilhabela;4,80;5;10;SP;Ilhabela;04/02/2026
+19561;Futura Transportes - Cartão Municipal Pederneiras;Futura Transportes;2,00;5;10;SP;Pederneiras;25/03/2026
 6861;Grecco Transportadora - Cartão Municipal Lençóis Paulista;Grecco;2,00;5;10;SP;Lençóis Paulista;22/06/2022
 10026;Grupo Tuga (São José do Rio Pardo) - Cartão Municipal São José do Rio Pardo;Grupo Tuga (São José do Rio Pardo);3,00;5;10;SP;São José do Rio Pardo;14/08/2025
 182;Guarupas - Cartão Guarulhos - Municipal / Guarulhos;Guarupass;6,20;5;10;SP;Guarulhos;30/12/2022

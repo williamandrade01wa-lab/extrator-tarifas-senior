@@ -6624,6 +6624,14 @@
         "cidade": "Caruaru"
     },
     {
+        "codigo": "19562",
+        "nome": "AETPC - Cartão Caruaru",
+        "fornecedor": "AETPC",
+        "valor": "0,01",
+        "uf": "PE",
+        "cidade": "Caruaru"
+    },
+    {
         "codigo": "8131",
         "nome": "Atlântico Transportes (Petrolina) - Cartão Urbano Petrolina",
         "fornecedor": "Atlântico Transportes - Petrolina",
@@ -6811,7 +6819,7 @@
         "codigo": "9822",
         "nome": "Borborema - Cartão Recife (Via BR232) X Vitória (Via BR232)",
         "fornecedor": "Borborema - Recife (Via BR232)/Vitória (Via BR232)",
-        "valor": "10,00",
+        "valor": "13,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -37424,6 +37432,14 @@
         "cidade": "Criciúma"
     },
     {
+        "codigo": "19560",
+        "nome": "Expresso Içarense - Cartão Criciúma X Rincão (Direto)",
+        "fornecedor": "Expresso Içarense - Eletrônico",
+        "valor": "12,70",
+        "uf": "SC",
+        "cidade": "Criciúma"
+    },
+    {
         "codigo": "6893",
         "nome": "Expresso Presidente (Timbó) - Cartão Timbó Municipal",
         "fornecedor": "Expresso Presidente (Timbó)",
@@ -38717,7 +38733,7 @@
         "fornecedor": "AS Transportes",
         "valor": "1,00",
         "uf": "SP",
-        "cidade": "São Paulo"
+        "cidade": "São Manuel"
     },
     {
         "codigo": "15264",
@@ -38867,7 +38883,7 @@
         "codigo": "15781",
         "nome": "Bem Cajamar - Cartão Municipal Cajamar",
         "fornecedor": "Bem - Cajamar - Novo Sistema",
-        "valor": "4,60",
+        "valor": "5,10",
         "uf": "SP",
         "cidade": "São Bernardo do Campo"
     },
@@ -42694,6 +42710,14 @@
         "valor": "4,80",
         "uf": "SP",
         "cidade": "Ilhabela"
+    },
+    {
+        "codigo": "19561",
+        "nome": "Futura Transportes - Cartão Municipal Pederneiras",
+        "fornecedor": "Futura Transportes",
+        "valor": "2,00",
+        "uf": "SP",
+        "cidade": "Pederneiras"
     },
     {
         "codigo": "6861",
