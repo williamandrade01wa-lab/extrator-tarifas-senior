@@ -136,6 +136,38 @@
         "cidade": "Vitória da Conquista"
     },
     {
+        "codigo": "19563",
+        "nome": "Ciatrans Pool - Cartão Simões Filho",
+        "fornecedor": "Ciatrans Pool",
+        "valor": "480,00",
+        "uf": "BA",
+        "cidade": "Simões Filho"
+    },
+    {
+        "codigo": "19564",
+        "nome": "Ciatrans Pool - Cartão Salvador",
+        "fornecedor": "Ciatrans Pool",
+        "valor": "500,00",
+        "uf": "BA",
+        "cidade": "Simões Filho"
+    },
+    {
+        "codigo": "19565",
+        "nome": "Ciatrans Pool - Cartão Lauro de Freitas / Itapuã",
+        "fornecedor": "Ciatrans Pool",
+        "valor": "550,00",
+        "uf": "BA",
+        "cidade": "Simões Filho"
+    },
+    {
+        "codigo": "19566",
+        "nome": "Ciatrans Pool - Cartão Camaçari",
+        "fornecedor": "Ciatrans Pool",
+        "valor": "600,00",
+        "uf": "BA",
+        "cidade": "Simões Filho"
+    },
+    {
         "codigo": "15894",
         "nome": "Conecta - Camaçari - Cartão Municipal Camaçari",
         "fornecedor": "Conecta - Camaçari",
@@ -6398,14 +6430,6 @@
         "valor": "5,80",
         "uf": "PA",
         "cidade": "Paragominas"
-    },
-    {
-        "codigo": "6003",
-        "nome": "Viação Tucuruí - Cartão Urbano Tucuruí",
-        "fornecedor": "Viação Tucuruí",
-        "valor": "5,18",
-        "uf": "PA",
-        "cidade": "Tucuruí"
     },
     {
         "codigo": "8581",
@@ -36227,7 +36251,7 @@
         "codigo": "10579",
         "nome": "Valesul Porto Alegre - 624 Fátima Executivo (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "13,50",
+        "valor": "14,20",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -38880,14 +38904,6 @@
         "cidade": "São Bernardo do Campo"
     },
     {
-        "codigo": "15781",
-        "nome": "Bem Cajamar - Cartão Municipal Cajamar",
-        "fornecedor": "Bem - Cajamar - Novo Sistema",
-        "valor": "5,10",
-        "uf": "SP",
-        "cidade": "São Bernardo do Campo"
-    },
-    {
         "codigo": "15794",
         "nome": "Repasse Bem Cajamar - Cartão Municipal Cajamar (Blacklist)",
         "fornecedor": "Bem - Cajamar - Novo Sistema",
@@ -38900,6 +38916,14 @@
         "nome": "Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist)",
         "fornecedor": "Bem - Cajamar - Novo Sistema",
         "valor": "8,25",
+        "uf": "SP",
+        "cidade": "São Bernardo do Campo"
+    },
+    {
+        "codigo": "19567",
+        "nome": "Bem Cajamar - Cartão Municipal Cajamar",
+        "fornecedor": "Bem - Cajamar - Novo Sistema",
+        "valor": "5,10",
         "uf": "SP",
         "cidade": "São Bernardo do Campo"
     },

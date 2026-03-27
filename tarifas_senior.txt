@@ -16,6 +16,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7449;Atlântico Transportes (Paulo Afonso) - Cartão Municipal Paulo Afonso;Atlântico Transportes - Paulo Afonso;4,00;5;10;BA;Paulo Afonso;01/05/2021
 15624;Atranspi - Cartão Municipal Ilhéus;Atranspi - Novo Sistema;4,50;5;10;BA;Ilheus;17/06/2025
 10841;ATUV - Cartório Municipal Vitória da Conquista;ATUV - Novo Sistema;4,00;5;10;BA;Vitória da Conquista;02/01/2026
+19563;Ciatrans Pool - Cartão Simões Filho;Ciatrans Pool;480,00;5;10;BA;Simões Filho;26/03/2026
+19564;Ciatrans Pool - Cartão Salvador;Ciatrans Pool;500,00;5;10;BA;Simões Filho;26/03/2026
+19565;Ciatrans Pool - Cartão Lauro de Freitas / Itapuã;Ciatrans Pool;550,00;5;10;BA;Simões Filho;26/03/2026
+19566;Ciatrans Pool - Cartão Camaçari;Ciatrans Pool;600,00;5;10;BA;Simões Filho;26/03/2026
 15894;Conecta - Camaçari - Cartão Municipal Camaçari;Conecta - Camaçari;5,00;5;10;BA;Camaçari;21/07/2025
 15940;Conecta - Camaçari - Cartão Costa 1;Conecta - Camaçari;5,30;5;10;BA;Camaçari;28/07/2025
 15941;Conecta - Camaçari - Cartão Costa 2;Conecta - Camaçari;7,00;5;10;BA;Camaçari;28/07/2025
@@ -799,7 +803,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10329;Startec - Cartão Municipal Santarém;Startec;4,80;5;10;PA;Santarém;09/01/2026
 10334;Startec - Cartão Intermunicipal Alter do chão;Startec;5,90;5;10;PA;Santarém;09/01/2026
 15615;Transportes Caliman - Cartão Municipal Paragominas;Transportes Caliman - Novo Sistema;5,80;5;10;PA;Paragominas;06/02/2026
-6003;Viação Tucuruí - Cartão Urbano Tucuruí;Viação Tucuruí;5,18;5;10;PA;Tucuruí;05/11/2024
 8581;VTM Integração - Cartão Municipal Marabá;VTM Integração;4,00;5;10;PA;Marabá;16/11/2022
 8522;AETC (Sintur) Cabedelo - Cartão AETC (Sintur) - Cabedelo;AETC (Sintur) - Cabedelo;0,01;5;10;PB;João Pessoa;01/01/2000
 1271;AETC (Sintur) Cabedelo - Cartão Cabedelo X João Pessoa;AETC (Sintur) Cabedelo;5,65;5;10;PB;João Pessoa;13/02/2026
@@ -4527,7 +4530,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10576;Valesul Porto Alegre - 59 Osorio / Granja Vargas - Minima (Expresso Palmares - 00038);Valesul - Porto Alegre;5,20;5;10;RS;Cachoeirinha;18/10/2023
 10577;Valesul Porto Alegre - 510 Seletivo Cachoeirinha (Transcal - 00004);Valesul - Porto Alegre;18,85;5;10;RS;Cachoeirinha;08/07/2025
 10578;Valesul Porto Alegre - 621 Alvorada – Guaíba (Tm5) (Rio Guaíba - 00007);Valesul - Porto Alegre;8,75;5;10;RS;Cachoeirinha;11/07/2025
-10579;Valesul Porto Alegre - 624 Fátima Executivo (Rio Guaíba - 00007);Valesul - Porto Alegre;13,50;5;10;RS;Cachoeirinha;02/01/2025
+10579;Valesul Porto Alegre - 624 Fátima Executivo (Rio Guaíba - 00007);Valesul - Porto Alegre;14,20;5;10;RS;Cachoeirinha;26/03/2026
 10580;Valesul Porto Alegre - 508 Poa – Cachoeirinha / Morada Do Vale ( Executivo Semi-Direto) (Transcal - 00004);Valesul - Porto Alegre;14,20;5;10;RS;Cachoeirinha;11/07/2025
 10581;Valesul Porto Alegre - 626 Poa/Fátima (Via Br 116) (Rio Guaíba - 00007);Valesul - Porto Alegre;10,80;5;10;RS;Cachoeirinha;11/07/2025
 10582;Valesul Porto Alegre - 200 Tramandaí Urbana (São José – 00078);Valesul - Porto Alegre;4,50;5;10;RS;Cachoeirinha;18/10/2023
@@ -4859,9 +4862,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15793;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
 19526;Bem Caieiras - Cartão Municipal Caieiras;Bem - Caieiras - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
 19530;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;9,00;5;10;SP;São Bernardo do Campo;24/02/2026
-15781;Bem Cajamar - Cartão Municipal Cajamar;Bem - Cajamar - Novo Sistema;5,10;5;10;SP;São Bernardo do Campo;25/03/2026
 15794;Repasse Bem Cajamar - Cartão Municipal Cajamar (Blacklist);Bem - Cajamar - Novo Sistema;6,90;5;10;SP;São Bernardo do Campo;24/06/2025
 15801;Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist);Bem - Cajamar - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
+19567;Bem Cajamar - Cartão Municipal Cajamar;Bem - Cajamar - Novo Sistema;5,10;5;10;SP;São Bernardo do Campo;26/03/2026
 19527;Bem Franco da Rocha - Cartão Municipal Franco da Rocha;Bem - Franco da Rocha - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
 19528;Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist);Bem - Franco da Rocha - Novo Sistema;9,00;5;10;SP;São Bernardo do Campo;24/02/2026
 15832;Repasse Bem Osasco - Cartão Municipal Osasco (Blacklist);Bem - Osasco - Novo Sistema;8,70;5;10;SP;Osasco;24/06/2025
