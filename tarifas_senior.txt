@@ -4865,6 +4865,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15794;Repasse Bem Cajamar - Cartão Municipal Cajamar (Blacklist);Bem - Cajamar - Novo Sistema;6,90;5;10;SP;São Bernardo do Campo;24/06/2025
 15801;Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist);Bem - Cajamar - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
 19567;Bem Cajamar - Cartão Municipal Cajamar;Bem - Cajamar - Novo Sistema;5,10;5;10;SP;São Bernardo do Campo;26/03/2026
+19568;Repasse Bem Cajamar - Cartão Municipal Cajamar (Blacklist);Bem - Cajamar - Novo Sistema;7,65;5;10;SP;São Bernardo do Campo;27/03/2026
 19527;Bem Franco da Rocha - Cartão Municipal Franco da Rocha;Bem - Franco da Rocha - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
 19528;Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist);Bem - Franco da Rocha - Novo Sistema;9,00;5;10;SP;São Bernardo do Campo;24/02/2026
 15832;Repasse Bem Osasco - Cartão Municipal Osasco (Blacklist);Bem - Osasco - Novo Sistema;8,70;5;10;SP;Osasco;24/06/2025
@@ -5465,7 +5466,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15367;JTU Jacareí - Cartão Jacareí Urbano Variável;JTU Jacareí;0,01;5;10;SP;Jacareí;20/09/2024
 355;JTU Santa Branca - Cartão Santa Branca X Jacareí / Jacareí e Região;JTU Santa Branca;6,10;5;10;SP;Jacareí;27/01/2026
 8588;Jundiá (São Roque) - Cartão São Roque Urbano;Jundiá (São Roque);8,00;5;10;SP;São Roque;20/10/2025
-4872;Jundiá - Cartão Urbano Itapeva;Jundiá - Itapeva;0,00;5;10;SP;Itapeva;01/01/2019
 492;Jundiá - Cartão Multiuso - Mairinque Municipal;Jundiá Mairinque;8,00;5;10;SP;Mairinque;01/12/2025
 5712;Lim MA - Cartão Municipal;Lim MA;4,30;5;10;SP;Mauá;28/12/2021
 10463;Liminar SA;Liminar SA - Documentação Judicial;5,90;5;10;SP;Santo André;22/01/2025
@@ -5836,7 +5836,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 384;SPTRANS - Bilhete Único - CPTM / São Paulo;SPTrans;5,92;3;5;SP;São Paulo;05/01/2026
 8126;SPTRANS - Bilhete Único - Integração Ônibus + Metrô/CPTM Madrugador;SPTrans;10,28;3;5;SP;São Paulo;05/01/2026
 15366;SPTRANS - Bilhete Único Variável;SPTrans;0,01;3;5;SP;São Paulo;20/09/2024
-3273;Suzantur - Cartão Busfácil São Carlos Municipal;Suzantur (Sancetur);5,25;5;10;SP;São Carlos;13/01/2025
+3273;Sou - São Carlos - Cartão Municipal São Carlos;Suzantur (Sancetur);5,25;5;10;SP;São Carlos;13/01/2025
 15739;TCA Araras - Cartão Municipal Araras;TCA Araras - Novo Sistema;4,50;5;10;SP;Araras;06/06/2025
 693;TCI Transporte - Cartão Municipal Itatiba;TCI Transporte;8,60;5;10;SP;Itatiba;18/03/2025
 7084;Tieteense - Cartão Tiete Intermunicipal (Cesário Lange);Tieteense;7,20;5;10;SP;Tietê;06/01/2026
