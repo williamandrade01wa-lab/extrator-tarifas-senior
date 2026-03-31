@@ -591,7 +591,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19516;Empresa Unida - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida;10,00;5;10;MG;Juiz de Fora;13/02/2026
 3828;Enscon - Cartão Municipal João Monlevade;Enscon;3,80;5;10;MG;João Monlevade;16/09/2021
 6897;Enscon - Cartão Lages X Carneirinhos;Enscon;7,70;5;10;MG;João Monlevade;02/10/2025
-6091;Expresso Araguari - Araguari X Uberlândia;Expresso Araguari;16,95;5;10;MG;Uberlândia;05/11/2024
+6091;Expresso Araguari - Araguari X Uberlândia;Expresso Araguari;18,30;5;10;MG;Uberlândia;30/03/2026
 15914;Expresso Paracatu - Cartão Municipal Paracatu;Expresso Planalto - Paracatu;3,15;5;10;MG;Paracatu;24/07/2025
 16064;Expresso Planalto - Cartão Municipal Unaí;Expresso Planalto - Unaí - Novo Sistema;3,10;5;10;MG;Unaí;02/09/2025
 15925;Expresso Três Fronteiras - Cartão Municipal Nanuque;Expresso Três Fronteiras;4,50;5;10;MG;Nanuque;01/12/2025
@@ -814,7 +814,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6330;PB Rio - Cartão João Pessoa X Alhandra;PB Rio;13,00;5;10;PB;Alhandra;06/02/2026
 10211;PB Rio - Cartão Alhandra X Fazenda;PB Rio;6,80;5;10;PB;Alhandra;27/01/2026
 19431;PB Rio - Cartão Taquara X Fazenda (Linha 0302);PB Rio;14,00;5;10;PB;Alhandra;26/02/2026
-19432;PB Rio - Cartão Caaporã X Fazenda (Linha 0302);PB Rio;11,00;5;10;PB;Alhandra;16/12/2025
+19432;PB Rio - Cartão Caaporã X Fazenda (Linha 0302);PB Rio;12,00;5;10;PB;Alhandra;30/03/2026
 10466;Sitrans - Cartão Municipal Campina Grande;Sitrans;4,90;5;10;PB;Campina Grande;06/02/2026
 10910;Viação São José - QR-Code - Cartão Campina Grande X Cidade Esperança;Viação São José - QR-Code;9,00;5;10;PB;Campina Grande;24/02/2026
 10911;Viação São José - QR-Code - Cartão Cidade Esperança X Campina Grande;Viação São José - QR-Code;9,00;5;10;PB;Campina Grande;24/02/2026
@@ -5634,7 +5634,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6006;Pássaro Marron - Cartão Caraguatatuba X São Sebastião;Pássaro Marron - URBANO - (Caragua - São Sebastião);7,35;5;10;SP;Guarulhos;08/01/2026
 2358;Pássaro Marron - Cartão Guaratinguetá X Lorena;Pássaro Marron - URBANO - (Guarat - Loren);5,80;5;10;SP;Guarulhos;13/01/2026
 2359;Pássaro Marron - Cartão Guaratinguetá X Potim;Pássaro Marron - URBANO - (Guarat - Potim);5,50;5;10;SP;Guarulhos;08/01/2026
-2362;Pássaro Marron - Cartão Lorena X Cachoeira Pta;Pássaro Marron - URBANO - (Loren - Cach Paulista);5,80;5;10;SP;SÃO PAULO;22/01/2026
+2362;Pássaro Marron - Cartão Lorena X Cachoeira Pta;Pássaro Marron - URBANO - (Loren - Cach Paulista);5,80;5;10;SP;SÃO PAULO;30/03/2026
 2364;Pássaro Marron - Cartão Paraibuna X São José dos Campos (circular);Pássaro Marron - URBANO - (Parai - S.J.dos Campos);9,65;5;10;SP;São Paulo;19/01/2026
 2365;Pássaro Marron - Cartão Taubaté X Pinda;Pássaro Marron - URBANO - (Taub - Pind));5,55;5;10;SP;Guarulhos;08/01/2026
 5974;Pássaro Marron - Cartão Taubaté X Pinda;Pássaro Marron - URBANO - (Taub - Pind));5,55;5;10;SP;Guarulhos;08/01/2026
