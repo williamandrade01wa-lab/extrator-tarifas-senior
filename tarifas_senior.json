@@ -33808,6 +33808,14 @@
         "cidade": "Barra Mansa"
     },
     {
+        "codigo": "19580",
+        "nome": "teste rj",
+        "fornecedor": "Teste RJ",
+        "valor": "0,01",
+        "uf": "RJ",
+        "cidade": "Rio de Janeiro"
+    },
+    {
         "codigo": "15589",
         "nome": "Transa Transporte - Cartão Intermunicipal Levy Gasparian",
         "fornecedor": "Transa Transporte - Eletrônico",
@@ -37360,6 +37368,30 @@
         "cidade": "Tubarão"
     },
     {
+        "codigo": "19572",
+        "nome": "Viação São José - Cartão Urussanga X Criciúma",
+        "fornecedor": "Empresa Auto Viação São José",
+        "valor": "7,00",
+        "uf": "SC",
+        "cidade": "Urussanga"
+    },
+    {
+        "codigo": "19574",
+        "nome": "Viação São José - Cartão Cocal X Criciúma",
+        "fornecedor": "Empresa Auto Viação São José",
+        "valor": "4,90",
+        "uf": "SC",
+        "cidade": "Urussanga"
+    },
+    {
+        "codigo": "19575",
+        "nome": "Viação São José - Cartão Cocal X Urussunga",
+        "fornecedor": "Empresa Auto Viação São José",
+        "valor": "4,00",
+        "uf": "SC",
+        "cidade": "Urussanga"
+    },
+    {
         "codigo": "8307",
         "nome": "Empresa Volkmann - Cartão Blumenau X Testo Central",
         "fornecedor": "Empresa Volkmann",
@@ -38420,14 +38452,6 @@
         "nome": "ABC Caçapava - Integração",
         "fornecedor": "ABC Caçapava",
         "valor": "1,45",
-        "uf": "SP",
-        "cidade": "Caçapava"
-    },
-    {
-        "codigo": "19496",
-        "nome": "BR Mobilidade - Praia Grande (Terminal Tatico) X Cubatão (Centro) - Via Praia Grande (Terminal Tude Bastos) e Santos (Av. N. Sra. De Fatima) - Linha: 970",
-        "fornecedor": "ABC Caçapava",
-        "valor": "6,80",
         "uf": "SP",
         "cidade": "Caçapava"
     },
