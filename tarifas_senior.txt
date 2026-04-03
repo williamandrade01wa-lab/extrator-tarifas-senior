@@ -764,6 +764,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10881;Viação Itaúna (QR-Code) - Cartão Belo Horizonte X Itaúna;Viação Itaúna - QR-Code;46,40;5;10;MG;Itauna;15/09/2025
 15919;Viação José Maria - Cartão Coronel Pacheco X Juiz de Fora;Viação José Maria - PIX;16,75;5;10;MG;Juiz de Fora;15/12/2025
 19484;Viação Oliveira - Eletrônico - Cartão Governador Valadares X Era Nova;Viação Oliveira - Eletrônico;6,10;5;10;MG;Governador Valadares;22/01/2026
+19583;Viação Oliveira - Eletrônico - Cartão Governador Valadares X Alpercata;Viação Oliveira - Eletrônico;8,35;5;10;MG;Governador Valadares;02/04/2026
 1269;Viação Pássaro Branco - Cartão Municipal Patos de Minas;Viação Pássaro Branco;3,00;5;10;MG;Patos de Minas;05/02/2025
 19468;Viação Pedra Negra - Cartão Municipal Itaúna;Viação Pedra Negra - Itaúna;4,90;5;10;MG;Itaúna;13/01/2026
 5523;Viação Rio Doce - Cartão Urbano Caratinga;Viação Rio Doce;4,15;5;10;MG;Caratinga;02/01/2023
@@ -1010,9 +1011,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5021;Viação Garcia - Cartão Londrina X Sertanópolis;Viação Garcia - (Lond - Sert.);9,75;5;10;PR;Londrina;19/02/2026
 6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;6,75;5;10;PR;Londrina;19/02/2026
 6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;6,75;5;10;PR;Maringá;19/02/2026
-15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;9,75;5;10;PR;Curitiba;08/07/2025
-15889;Viação Graciosa - Curitiba x Morretes;Viação Graciosa - QR-Code;38,78;5;10;PR;Curitiba;10/09/2025
-15890;Viação Graciosa - Morretes x Curitiba;Viação Graciosa - QR-Code;34,15;5;10;PR;Curitiba;08/01/2026
+15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;10,15;5;10;PR;Curitiba;02/04/2026
+15889;Viação Graciosa - Curitiba x Morretes;Viação Graciosa - QR-Code;39,98;5;10;PR;Curitiba;02/04/2026
+15890;Viação Graciosa - Morretes x Curitiba;Viação Graciosa - QR-Code;34,99;5;10;PR;Curitiba;02/04/2026
 4844;Viação Iapó - Cartão Ponta Grossa X Castro;Viação Iapó;8,55;5;10;PR;Ponta Grossa;04/03/2026
 5926;Viação Iapó - Castro X Piraí do Sul;Viação Iapó;6,75;5;10;PR;Ponta Grossa;04/03/2026
 6852;Viação Rocio - Cartão Paranaguá Municipal;Viação Rocio;3,70;5;10;PR;Paranaguá;21/03/2022
@@ -4093,63 +4094,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19287;Riocard (Semove) - 0 - P465 - Resende - Bulhões (via Rodovia Presidente Dutra) - SA;Riocard (Semove);5,80;3;7;RJ;Rio de Janeiro;01/12/2025
 19288;Riocard (Semove) - 0 - P530 - Resende - Penedo - SA;Riocard (Semove);7,15;3;7;RJ;Rio de Janeiro;01/12/2025
 19289;Riocard (Semove) - 0 - P531 - Resende - Penedo (via Martinelli) - SA;Riocard (Semove);5,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19290;Riocard (Semove) - 0 - P540 - Resende - Engenheiro Passos - SA;Riocard (Semove);12,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19291;Riocard (Semove) - 0 - P250 - Jardim Primavera - Bairro de Fátima - SA;Riocard (Semove);5,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19292;Riocard (Semove) - 0 - S120 - Cordeiro - Macuco - SA;Riocard (Semove);8,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19293;Riocard (Semove) - 0 - 2740D - Charitas - Ipanema (via Expressa) - AC;Riocard (Semove);16,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19294;Riocard (Semove) - 0 - Niterói - Paraty - A;Riocard (Semove);102,70;3;7;RJ;Rio de Janeiro;01/12/2025
-19295;Riocard (Semove) - 1 - Rio de Janeiro - Vila Operária - A;Riocard (Semove);82,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19296;Riocard (Semove) - 2 - Itaguai - Paraty - A;Riocard (Semove);78,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19297;Riocard (Semove) - 3 - Rio de Janeiro - Paraty - A;Riocard (Semove);100,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19298;Riocard (Semove) - 4 - Niterói - Angra dos Reis - A;Riocard (Semove);70,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19299;Riocard (Semove) - 5 - Rio de Janeiro - Angra dos Reis - A;Riocard (Semove);68,00;3;7;RJ;Rio de Janeiro;01/12/2025
-19300;Riocard (Semove) - 6 - Niteroi - Conceição de Jacarei - A;Riocard (Semove);59,10;3;7;RJ;Rio de Janeiro;01/12/2025
-19301;Riocard (Semove) - 7 - Mangaratiba - Angra dos Reis - A;Riocard (Semove);24,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19302;Riocard (Semove) - 8 - Itaguai - Angra dos Reis - A;Riocard (Semove);38,10;3;7;RJ;Rio de Janeiro;01/12/2025
-19303;Riocard (Semove) - 0 - Barra da Tijuca - Paraty - A;Riocard (Semove);101,10;3;7;RJ;Rio de Janeiro;01/12/2025
-19304;Riocard (Semove) - 3 - Angra dos Reis - Barra da Tijuca - A;Riocard (Semove);67,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19305;Riocard (Semove) - 5 - Itaguaí - Paraty - A;Riocard (Semove);78,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19306;Riocard (Semove) - 6 - Barra da Tijuca - Vila Operária de Mambucaba - A;Riocard (Semove);83,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19307;Riocard (Semove) - 7 - Barra da Tijuca - Mangaratiba - A;Riocard (Semove);40,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19308;Riocard (Semove) - 0 - Rio de Janeiro - Paraty - AC;Riocard (Semove);100,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19309;Riocard (Semove) - 1 - Rio de Janeito - Vila Operária de Mambucaba - AC;Riocard (Semove);82,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19310;Riocard (Semove) - 2 - Itaguaí - Paraty - AC;Riocard (Semove);78,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19311;Riocard (Semove) - 3 - Rio de Janeiro - Angra dos Reis - AC;Riocard (Semove);68,00;3;7;RJ;Rio de Janeiro;01/12/2025
-19312;Riocard (Semove) - 0 - Niterói - Paraty - E;Riocard (Semove);184,85;3;7;RJ;Rio de Janeiro;01/12/2025
-19313;Riocard (Semove) - 1 - Rio de Janeiro - Vila Operária de Mambucaba - E;Riocard (Semove);149,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19314;Riocard (Semove) - 2 - Itaguaí - Paraty - E;Riocard (Semove);141,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19315;Riocard (Semove) - 3 - Paraty - Rio de Janeiro - E;Riocard (Semove);180,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19316;Riocard (Semove) - 4 - Angra dos Reis - Niterói - E;Riocard (Semove);126,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19317;Riocard (Semove) - 5 - Angra dos Reis - Rio de Janeiro - E;Riocard (Semove);122,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19318;Riocard (Semove) - 6 - Conceição de Jacarei - Niterói - E;Riocard (Semove);106,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19319;Riocard (Semove) - 7 - Angra dos Reis - Mangaratiba - E;Riocard (Semove);43,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19320;Riocard (Semove) - 8 - Angra dos Reis - Itaguaí - E;Riocard (Semove);68,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19321;Riocard (Semove) - 0 - Rio de Janeiro - Angra dos Reis (via BR-101) - A;Riocard (Semove);68,00;3;7;RJ;Rio de Janeiro;01/12/2025
-19322;Riocard (Semove) - 1 - Rio de Janeiro - Mangaratiba - A;Riocard (Semove);44,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19323;Riocard (Semove) - 2 - Rio de Janeiro - Itacuruça - A;Riocard (Semove);35,70;3;7;RJ;Rio de Janeiro;01/12/2025
-19324;Riocard (Semove) - 3 - Rio de Janeiro - Conceição de Jacareí - A;Riocard (Semove);56,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19325;Riocard (Semove) - 0 - 1951B - Rio de Janeiro - Mangaratiba - A;Riocard (Semove);44,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19326;Riocard (Semove) - 1 - Rio de Janeiro - Itacuruçá - A;Riocard (Semove);35,70;3;7;RJ;Rio de Janeiro;01/12/2025
-19327;Riocard (Semove) - 0 - Rio de Janeiro - Angra dos Reis (via BR-101) - AC;Riocard (Semove);88,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19328;Riocard (Semove) - 0 - Angra dos Reis - Rio de Janeiro - E;Riocard (Semove);122,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19329;Riocard (Semove) - 1 - Mangaratiba - Rio de Janeiro - E;Riocard (Semove);80,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19330;Riocard (Semove) - 2 - Itacuruça - Rio de Janeiro - E;Riocard (Semove);64,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19331;Riocard (Semove) - 3 - Conceição de Jacareí - E;Riocard (Semove);102,15;3;7;RJ;Rio de Janeiro;01/12/2025
-19332;Riocard (Semove) - 0 - Nova Iguaçu - Angra dos Reis - A;Riocard (Semove);59,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19333;Riocard (Semove) - 1 - Conceição Jacareí - Angra dos Reis - A;Riocard (Semove);11,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19334;Riocard (Semove) - 2 - Itacuruçá - Angra dos Reis - A;Riocard (Semove);33,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19335;Riocard (Semove) - 0 - Campo Grande - Angra dos Reis - A;Riocard (Semove);51,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19336;Riocard (Semove) - 1 - Conceição de Jacareí - Angra dos Reis - A;Riocard (Semove);11,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19337;Riocard (Semove) - 0 - Duque de Caxias - Angra dos Reis - A;Riocard (Semove);57,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19338;Riocard (Semove) - 1 - Conceição Jacareí -Angra dos Reis - A;Riocard (Semove);11,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19339;Riocard (Semove) - 0 - SP73 - Carmo - Jamapará - SA;Riocard (Semove);7,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19340;Riocard (Semove) - 0 - B140 - Conceição de Macabu - Macaé - SA;Riocard (Semove);14,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19341;Riocard (Semove) - 1 - Macaé - Trevo dos 40 - SA;Riocard (Semove);9,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19342;Riocard (Semove) - 2 - Macaé - Brejo Grande - SA;Riocard (Semove);10,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19343;Riocard (Semove) - 3 - Macaé - Curata - SA;Riocard (Semove);14,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19344;Riocard (Semove) - 4 - Brejo Grande - Conceição de Macabu - SA;Riocard (Semove);7,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19345;Riocard (Semove) - 0 - Conceição de Macabú - Macaé - A;Riocard (Semove);18,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19346;Riocard (Semove) - 0 - B142 - Conceição de Macabu - Macaé (Direto) - SA;Riocard (Semove);14,45;3;7;RJ;Rio de Janeiro;01/12/2025
 8623;Riocard (Semove) - Cartão Mais Personalizado Empresa FE;Riocard (Semove) - Comodato Empresa;0,01;3;10;RJ;Rio de Janeiro;01/01/2000
 3812;Riocard (Semove) - Mais Empresarial 80;Riocard (Semove) - Expresso Empresarial 80;85,00;5;10;RJ;Rio de Janeiro;27/01/2026
 9912;Riocard (Semove) - Mais Empresarial 400;Riocard (Semove) - Expresso Empresarial 80;409,30;5;10;RJ;Rio de Janeiro;17/01/2023
@@ -4225,7 +4169,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15078;Sindpass - Cartão Circular 15 X Vila Americana;Sindpass;5,90;5;10;RJ;Barra Mansa;06/02/2026
 19480;Sindpass - Cartão Corisco (Colitur);Sindpass;5,00;5;10;RJ;Barra Mansa;20/01/2026
 19546;Sindpass - Cartão Floriano X Porto Real;Sindpass;5,40;5;10;RJ;Barra Mansa;16/03/2026
-19580;teste rj;Teste RJ;0,01;5;10;RJ;Rio de Janeiro;01/04/2026
+19580;SRP- RJ;Teste RJ;0,01;5;10;RJ;Rio de Janeiro;01/04/2026
 15589;Transa Transporte - Cartão Intermunicipal Levy Gasparian;Transa Transporte - Eletrônico;6,50;5;10;RJ;Três Rios;09/03/2026
 10929;Vancard - Cartão Municipal Armação de Búzios;Vancard;5,00;5;10;RJ;Armação de Búzios;25/04/2024
 15169;Viação Conecta - Cartão Municipal Paraíba do Sul;Viação Conecta;5,00;5;10;RJ;Paraíba do Sul;08/09/2025
@@ -4756,7 +4700,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7357;SETUF Urbano - Cartão Executivos (Tarifa 1) (Distrital);Setuf - Municipal;20,00;5;10;SC;Florianópolis;06/01/2026
 7358;SETUF Urbano - Cartão Executivos (Tarifa 2) (Urbana);Setuf - Municipal;14,00;5;10;SC;Florianópolis;09/01/2025
 7359;SETUF Urbano - Cartão Executivos (Tarifa 3);Setuf - Municipal;4,30;5;10;SC;Florianópolis;13/01/2025
-2277;Sistema de Ônibus Brusque - Cartão Brusque Urbano;Sistema de Ônibus - Brusque;4,70;5;10;SC;Brusque;01/09/2019
+2277;Sistema de Ônibus Brusque - Cartão Brusque Urbano;Sistema de Ônibus Brusque;3,50;5;10;SC;Brusque;02/04/2026
 15333;Transportes Capivari - Cartão Tubarão X Capivari;Transportes Capivari - Eletrônico;4,60;5;10;SC;Tubarão;29/08/2024
 478;Transtusa - Cartão Municipal Joinville;Transtusa;6,50;5;10;SC;Joinville;02/01/2026
 4578;Transtusa - Cartão Municipal Joinville (Múltiplo de dois);Transtusa;13,00;5;10;SC;Joinville;02/01/2026
@@ -5517,7 +5461,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15508;Moratense - Cartão Municipal Francisco Morato;Moratense - Novo Sistema;6,00;5;10;SP;Francisco Morato;18/02/2026
 10771;Mov - Avaré - Cartão Municipal Avaré;Mov - Avaré;4,30;5;10;SP;Avaré;26/12/2023
 10153;Mov Boituva - Cartão Municipal Boituva;Mov - Boituva;4,00;5;10;SP;Boituva;05/05/2025
-19481;Mov - Franca - Cartão Municipal Franca;Mov - Franca;5,00;5;10;SP;Franca;22/01/2026
+19481;Mov - Franca - Cartão Municipal Franca;Mov - Franca;4,00;5;10;SP;Franca;02/04/2026
 10390;Mov Itu - Cartão Indaiatuba X Salto (Linha 221);Mov Itu;7,55;5;10;SP;Itú;03/07/2025
 10391;Mov Itu - Cartão Porto Feliz X Itu (Linha 6222);Mov Itu;6,75;5;10;SP;Itú;07/01/2026
 10392;Mov Itu - Cartão Itu (Road Shopping) X Itu (Terminal Cidade Nova) (Linha 6225);Mov Itu;6,25;5;10;SP;Itú;07/01/2026
@@ -6194,6 +6138,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15728;Viação São Bento - Cartão Batatais X Altinópolis;Viação São Bento - Novo Sistema;8,60;5;10;SP;Ribeirão Preto;15/07/2025
 15729;Viação São Bento - Cartão Batatais X Brodowski;Viação São Bento - Novo Sistema;8,15;5;10;SP;Ribeirão Preto;16/10/2025
 15730;Viação São Bento - Cartão Ribeirão Preto X Altinópolis;Viação São Bento - Novo Sistema;22,35;5;10;SP;Ribeirão Preto;09/01/2026
+19584;Viação São Bento - Cartão Ribeirão Preto X Orlândia;Viação São Bento - Novo Sistema;17,00;5;10;SP;Ribeirão Preto;02/04/2026
 8143;Viação Trevisan - Cartão Rio das Pedras X Piracicaba;Viação Trevisan;6,95;5;10;SP;Piracicaba;07/07/2025
 8144;Viação Trevisan - Cartão Piracicaba X Charqueada;Viação Trevisan;11,00;5;10;SP;Piracicaba;07/07/2025
 9000;Viação Trevisan - Cartão Piracicaba X Saltinho;Viação Trevisan;6,95;5;10;SP;Piracicaba;07/07/2025
