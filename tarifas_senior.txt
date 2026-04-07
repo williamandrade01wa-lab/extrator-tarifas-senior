@@ -681,8 +681,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10708;Transnorte - Cartão Mirabela X Montes Claros;Transnorte - QR-Code;25,00;5;10;MG;Belo Horizonte;14/02/2025
 10709;Transnorte - Cartão Montes Claros X Mirabela;Transnorte - QR-Code;26,05;5;10;MG;Belo Horizonte;14/02/2025
 10113;Transportes Coletivo Leo - Cartão Municipal Cataguases;Transportes Coletivo Leo;4,10;5;10;MG;Cataguases;01/10/2025
-530;Transube - Cartão Municipal Uberaba;Transube;5,50;5;10;MG;Uberaba;17/03/2025
-15770;Transube - Cartão Distrito Industrial III (linha 61);Transube;7,70;5;10;MG;Uberaba;16/06/2025
+530;Transube - Cartão Municipal Uberaba;Transube;6,00;5;10;MG;Uberaba;06/04/2026
+15770;Transube - Cartão Distrito Industrial III (linha 61);Transube;8,40;5;10;MG;Uberaba;06/04/2026
 8585;Transur - Cartão Juiz de Fora X Santos Dumont (Roletinha);Transur - Eletrônico;17,85;5;10;MG;Juíz de Fora;10/09/2025
 8586;Transur - Cartão Ewbank da Camara X Juiz de Fora;Transur - Eletrônico;12,20;5;10;MG;Juíz de Fora;10/09/2025
 3816;Trectur - Cartão Urbano Três Corações;Trectur;5,25;5;10;MG;Três Corações;01/10/2024
@@ -875,7 +875,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;5,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 8226;Expresso 1002 - Cartão Surubim X Toritama;Expresso 1002;12,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-8279;Expresso 1002 - Cartão Carpina X Limoeiro;Expresso 1002;7,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+8279;Expresso 1002 - Cartão Carpina X Limoeiro;Expresso 1002;7,00;5;10;PE;Jaboatão dos Guararapes;06/04/2026
 8280;Expresso 1002 - Cartão Recife X Limeiro;Expresso 1002;25,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 8281;Expresso 1002 - Cartão Timbaúba X Itambé;Expresso 1002;11,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
 8427;Expresso 1002 - Cartão Goiana X Timbaúba;Expresso 1002;13,00;5;10;PE;Jaboatão dos Guararapes;13/06/2024
@@ -984,7 +984,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8233;Sorrido de Toledo - Cartão São José X Toledo (Seccionado);Sorriso de Toledo - Metropolitano;9,00;5;10;PR;Toledo;02/05/2025
 15639;Sorriso de Toledo - Cartão Municipal Sorriso de Toledo;Sorriso de Toledo - Municipal Novo Sistema;3,50;5;10;PR;Toledo;11/03/2025
 15988;Tamandaré - Cartão Caiuá X Cachoeira;Tamandaré;5,50;5;10;PR;Almirante Tamandaré;19/08/2025
-2278;TCCC Maringá - Cartão Passe-Fácil Maringá Urbano;TCCC Maringá;5,20;5;10;PR;MARINGÁ;03/06/2025
+2278;TCCC Maringá - Cartão Passe-Fácil Maringá Urbano;TCCC Maringá - Cidade Canção;5,20;5;10;PR;MARINGÁ;03/06/2025
 1255;TCGL - Cartão CT Londrina Urbano / Curitiba;TCGL;6,25;5;10;PR;Londrina;19/01/2026
 6081;Transpiedade - Cartão União da Vitória e Porto União Rural;TCI;11,90;5;10;PR;União da Vitória;04/05/2022
 6082;Transpiedade - Cartão União da Vitória e Porto União Urbano;TCI;5,00;5;10;PR;União da Vitória;04/05/2022
@@ -4169,7 +4169,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15078;Sindpass - Cartão Circular 15 X Vila Americana;Sindpass;5,90;5;10;RJ;Barra Mansa;06/02/2026
 19480;Sindpass - Cartão Corisco (Colitur);Sindpass;5,00;5;10;RJ;Barra Mansa;20/01/2026
 19546;Sindpass - Cartão Floriano X Porto Real;Sindpass;5,40;5;10;RJ;Barra Mansa;16/03/2026
-19580;SRP- RJ;Teste RJ;0,01;5;10;RJ;Rio de Janeiro;01/04/2026
+19580;SRP- RJ;SRP- RJ;0,01;5;10;RJ;Rio de Janeiro;01/04/2026
 15589;Transa Transporte - Cartão Intermunicipal Levy Gasparian;Transa Transporte - Eletrônico;6,50;5;10;RJ;Três Rios;09/03/2026
 10929;Vancard - Cartão Municipal Armação de Búzios;Vancard;5,00;5;10;RJ;Armação de Búzios;25/04/2024
 15169;Viação Conecta - Cartão Municipal Paraíba do Sul;Viação Conecta;5,00;5;10;RJ;Paraíba do Sul;08/09/2025
@@ -4361,7 +4361,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3133;Panambiense - Cartão Panambi Municipal;Panambiense;6,82;5;10;RS;Panambi;12/06/2025
 10834;Riomafra - Cartão Municipal Mafra;Riomafra;4,50;5;10;SC;Mafra;29/01/2024
 2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;4,80;5;10;RS;São Borja;21/11/2023
-2137;Stadtbus Campo Bom - Cartão Campo Bom Municipal;Stadtbus Campo Bom;0,00;5;10;RS;Campo Bom;26/05/2025
 6122;Stadtbus Teutônia - Cartão Teuto Municipal;Stadtbus Teutônia;5,00;5;10;RS;Teutônia;04/01/2023
 4714;Stadtbus Venâncio Aires - Cartão Santa Cruz X Venâncio Aires Intermunicipal;Stadtbus Venâncio Aires;11,05;5;10;RS;Santa Cruz do Sul;09/12/2024
 15677;STU - Cartão Municipal Santana do Livramento;STU;5,00;5;10;RS;Santana do Livramento;04/02/2026
@@ -5455,7 +5454,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10016;Manoel Rodrigues - Cartão Manduri X Piraju;Manoel Rodrigues;7,95;5;10;SP;Avaré;03/10/2025
 2077;Metrópolis - Cartão Jaguariúna;Metrópolis - (Jaguariúna);5,27;5;10;SP;Jaguariúna;21/04/2020
 10169;Metrópolis - São Pedro - Cartão Municipal São Pedro;Metrópolis - São Pedro;3,00;5;10;SP;São Pedro;31/05/2023
-216;Eroles - Cartão Mogi das Cruzes Municipal;Mogipasses;5,30;5;10;SP;Mogi das Cruzes;01/04/2025
+216;Eroles - Cartão Mogi das Cruzes Municipal;Mogipasses;5,50;5;10;SP;Mogi das Cruzes;06/04/2026
 5119;Montanha - Campos do Jordão Urbano;Montanha;4,10;5;10;SP;Campos do Jordão;14/01/2019
 15085;Moov Itaquá - Cartão Municipal Itaquaquecetuba;Moov - Itaqua;7,10;5;10;SP;Itaquaquecetuba;02/01/2026
 15508;Moratense - Cartão Municipal Francisco Morato;Moratense - Novo Sistema;6,00;5;10;SP;Francisco Morato;18/02/2026
@@ -6125,8 +6124,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15892;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre x Santa Rita do Sapucaí;Viação Santa Cruz - QR-Code;14,82;5;10;SP;Mogi Mirim;15/07/2025
 16141;Viação Santa Cruz (QR-Code) - Cartão Itajubá X Pouso Alegre (sem seguro);Viação Santa Cruz - QR-Code;39,72;5;10;SP;Mogi Mirim;26/09/2025
 16142;Viação Santa Cruz (QR-Code) - Cartão Itajubá X Pouso Alegre (com seguro);Viação Santa Cruz - QR-Code;40,62;5;10;SP;Mogi Mirim;26/09/2025
-16143;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (sem seguro);Viação Santa Cruz - QR-Code;38,97;5;10;SP;Mogi Mirim;26/09/2025
-16144;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (com seguro);Viação Santa Cruz - QR-Code;39,87;5;10;SP;Mogi Mirim;26/09/2025
+16143;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (sem seguro);Viação Santa Cruz - QR-Code;39,05;5;10;SP;Mogi Mirim;06/04/2026
+16144;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (com seguro);Viação Santa Cruz - QR-Code;40,66;5;10;SP;Mogi Mirim;06/04/2026
 16177;Viação Santa Cruz (QR-Code) - Cartão Congonhal X Pouso Alegre;Viação Santa Cruz - QR-Code;11,00;5;10;SP;Mogi Mirim;08/10/2025
 15720;Viação São Bento - Cartão Ribeirão Preto X Brodowski;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;15/07/2025
 15721;Viação São Bento - Cartão Ribeirão Preto X Serra Azul;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;15/07/2025

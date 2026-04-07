@@ -5459,7 +5459,7 @@
         "codigo": "530",
         "nome": "Transube - Cartão Municipal Uberaba",
         "fornecedor": "Transube",
-        "valor": "5,50",
+        "valor": "6,00",
         "uf": "MG",
         "cidade": "Uberaba"
     },
@@ -5467,7 +5467,7 @@
         "codigo": "15770",
         "nome": "Transube - Cartão Distrito Industrial III (linha 61)",
         "fornecedor": "Transube",
-        "valor": "7,70",
+        "valor": "8,40",
         "uf": "MG",
         "cidade": "Uberaba"
     },
@@ -7011,7 +7011,7 @@
         "codigo": "8279",
         "nome": "Expresso 1002 - Cartão Carpina X Limoeiro",
         "fornecedor": "Expresso 1002",
-        "valor": "7,50",
+        "valor": "7,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7882,7 +7882,7 @@
     {
         "codigo": "2278",
         "nome": "TCCC Maringá - Cartão Passe-Fácil Maringá Urbano",
-        "fornecedor": "TCCC Maringá",
+        "fornecedor": "TCCC Maringá - Cidade Canção",
         "valor": "5,20",
         "uf": "PR",
         "cidade": "MARINGÁ"
@@ -33362,7 +33362,7 @@
     {
         "codigo": "19580",
         "nome": "SRP- RJ",
-        "fornecedor": "Teste RJ",
+        "fornecedor": "SRP- RJ",
         "valor": "0,01",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
@@ -34894,14 +34894,6 @@
         "valor": "4,80",
         "uf": "RS",
         "cidade": "São Borja"
-    },
-    {
-        "codigo": "2137",
-        "nome": "Stadtbus Campo Bom - Cartão Campo Bom Municipal",
-        "fornecedor": "Stadtbus Campo Bom",
-        "valor": "0,00",
-        "uf": "RS",
-        "cidade": "Campo Bom"
     },
     {
         "codigo": "6122",
@@ -43651,7 +43643,7 @@
         "codigo": "216",
         "nome": "Eroles - Cartão Mogi das Cruzes Municipal",
         "fornecedor": "Mogipasses",
-        "valor": "5,30",
+        "valor": "5,50",
         "uf": "SP",
         "cidade": "Mogi das Cruzes"
     },
@@ -49011,7 +49003,7 @@
         "codigo": "16143",
         "nome": "Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (sem seguro)",
         "fornecedor": "Viação Santa Cruz - QR-Code",
-        "valor": "38,97",
+        "valor": "39,05",
         "uf": "SP",
         "cidade": "Mogi Mirim"
     },
@@ -49019,7 +49011,7 @@
         "codigo": "16144",
         "nome": "Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (com seguro)",
         "fornecedor": "Viação Santa Cruz - QR-Code",
-        "valor": "39,87",
+        "valor": "40,66",
         "uf": "SP",
         "cidade": "Mogi Mirim"
     },
