@@ -767,6 +767,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19583;Viação Oliveira - Eletrônico - Cartão Governador Valadares X Alpercata;Viação Oliveira - Eletrônico;8,35;5;10;MG;Governador Valadares;02/04/2026
 1269;Viação Pássaro Branco - Cartão Municipal Patos de Minas;Viação Pássaro Branco;3,00;5;10;MG;Patos de Minas;05/02/2025
 19468;Viação Pedra Negra - Cartão Municipal Itaúna;Viação Pedra Negra - Itaúna;4,90;5;10;MG;Itaúna;13/01/2026
+668;Viação Real - Lavras - Cartão Municipal Lavras;Viação Real - Lavras;5,00;5;10;MG;Lavras;28/11/2023
 5523;Viação Rio Doce - Cartão Urbano Caratinga;Viação Rio Doce;4,15;5;10;MG;Caratinga;02/01/2023
 6842;Viação Sartasa - Cartão Municipal Santa Rita do Sapucaí;Viação Sartasa;6,59;5;10;MG;Santa Rita do Sapucaí;03/10/2025
 8387;Viação São Cristóvão - Cartão Lavras X Itumirim;Viação São Cristóvão - Eletrônico;9,75;5;10;MG;Divinópolis;07/10/2025
@@ -6122,10 +6123,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15736;Viação Santa Cruz (QR-Code) - Cartão Barra Funda X São Manuel (sem seguro);Viação Santa Cruz - QR-Code;120,85;5;10;SP;Mogi Mirim;06/06/2025
 15891;Viação Santa Cruz (QR-Code) - Cartão Santa Rita do Sapucaí X Pouso Alegre;Viação Santa Cruz - QR-Code;13,17;5;10;SP;Mogi Mirim;15/07/2025
 15892;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre x Santa Rita do Sapucaí;Viação Santa Cruz - QR-Code;14,82;5;10;SP;Mogi Mirim;15/07/2025
-16141;Viação Santa Cruz (QR-Code) - Cartão Itajubá X Pouso Alegre (sem seguro);Viação Santa Cruz - QR-Code;39,72;5;10;SP;Mogi Mirim;26/09/2025
-16142;Viação Santa Cruz (QR-Code) - Cartão Itajubá X Pouso Alegre (com seguro);Viação Santa Cruz - QR-Code;40,62;5;10;SP;Mogi Mirim;26/09/2025
-16143;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (sem seguro);Viação Santa Cruz - QR-Code;39,05;5;10;SP;Mogi Mirim;06/04/2026
-16144;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (com seguro);Viação Santa Cruz - QR-Code;40,66;5;10;SP;Mogi Mirim;06/04/2026
+16141;Viação Santa Cruz (QR-Code) - Cartão Itajubá X Pouso Alegre (sem seguro);Viação Santa Cruz - QR-Code;39,76;5;10;SP;Mogi Mirim;08/04/2026
+16142;Viação Santa Cruz (QR-Code) - Cartão Itajubá X Pouso Alegre (com seguro);Viação Santa Cruz - QR-Code;40,66;5;10;SP;Mogi Mirim;08/04/2026
+16143;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (sem seguro);Viação Santa Cruz - QR-Code;38,15;5;10;SP;Mogi Mirim;08/04/2026
+16144;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (com seguro);Viação Santa Cruz - QR-Code;39,05;5;10;SP;Mogi Mirim;08/04/2026
 16177;Viação Santa Cruz (QR-Code) - Cartão Congonhal X Pouso Alegre;Viação Santa Cruz - QR-Code;11,00;5;10;SP;Mogi Mirim;08/10/2025
 15720;Viação São Bento - Cartão Ribeirão Preto X Brodowski;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;15/07/2025
 15721;Viação São Bento - Cartão Ribeirão Preto X Serra Azul;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;15/07/2025

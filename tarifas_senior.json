@@ -6144,6 +6144,14 @@
         "cidade": "Itaúna"
     },
     {
+        "codigo": "668",
+        "nome": "Viação Real - Lavras - Cartão Municipal Lavras",
+        "fornecedor": "Viação Real - Lavras",
+        "valor": "5,00",
+        "uf": "MG",
+        "cidade": "Lavras"
+    },
+    {
         "codigo": "5523",
         "nome": "Viação Rio Doce - Cartão Urbano Caratinga",
         "fornecedor": "Viação Rio Doce",
@@ -48987,7 +48995,7 @@
         "codigo": "16141",
         "nome": "Viação Santa Cruz (QR-Code) - Cartão Itajubá X Pouso Alegre (sem seguro)",
         "fornecedor": "Viação Santa Cruz - QR-Code",
-        "valor": "39,72",
+        "valor": "39,76",
         "uf": "SP",
         "cidade": "Mogi Mirim"
     },
@@ -48995,7 +49003,7 @@
         "codigo": "16142",
         "nome": "Viação Santa Cruz (QR-Code) - Cartão Itajubá X Pouso Alegre (com seguro)",
         "fornecedor": "Viação Santa Cruz - QR-Code",
-        "valor": "40,62",
+        "valor": "40,66",
         "uf": "SP",
         "cidade": "Mogi Mirim"
     },
@@ -49003,7 +49011,7 @@
         "codigo": "16143",
         "nome": "Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (sem seguro)",
         "fornecedor": "Viação Santa Cruz - QR-Code",
-        "valor": "39,05",
+        "valor": "38,15",
         "uf": "SP",
         "cidade": "Mogi Mirim"
     },
@@ -49011,7 +49019,7 @@
         "codigo": "16144",
         "nome": "Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (com seguro)",
         "fornecedor": "Viação Santa Cruz - QR-Code",
-        "valor": "40,66",
+        "valor": "39,05",
         "uf": "SP",
         "cidade": "Mogi Mirim"
     },
