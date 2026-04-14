@@ -289,7 +289,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15582;CT Expresso - Cartão Luziânia X Taguatinga;CT Expresso;12,30;5;10;GO;Luziânia;11/03/2026
 15583;CT Expresso - Cartão Luziânia X Gama;CT Expresso;8,15;5;10;GO;Luziânia;11/03/2026
 15584;CT Expresso - Cartão Luziânia X BRT (Santa Maria);CT Expresso;10,70;5;10;GO;Luziânia;08/12/2025
-1340;SITPASS - Cartão Municipal Goiânia;Sitpass;4,30;5;10;GO;Goiânia;19/04/2019
+1340;SITPASS - Cartão Municipal Goiânia;Sitpass;4,30;3;10;GO;Goiânia;19/04/2019
 5533;Transduarte Passaredo - Cartão Municipal Catalão;Transduarte;5,00;5;10;GO;Catalão;13/01/2023
 9933;Translocave - Cartão Municipal Jataí;Translocave - Jataí;4,30;5;10;SP;Valinhos;26/12/2022
 284;Urban - Cartão Municipal Anápolis;Urban;5,25;5;10;GO;Anápolis;05/12/2024
@@ -649,10 +649,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19473;SV Transportes - Cartão Municipal Itabirito;SV Transportes - Novo Sistema;3,00;5;10;MG;Itabirito;16/01/2026
 8415;TAP Transportes Além Paraíba - Cartão Municipal Além Paraíba;TAP Transportes Além Paraíba;4,50;5;10;MG;Além Paraíba;04/06/2024
 8416;TAP Transportes Além Paraíba - Transportes Além Paraíba - Cartão Fernando Lobo X São Geraldo;TAP Transportes Além Paraíba;4,50;5;10;MG;Além Paraíba;13/03/2025
-8261;Transcotta Consórcio - Cartão Saramenha X São Cristóvão;Transcotta - (Consórcio);3,35;5;10;MG;Ouro Preto;11/03/2020
-8263;Transcotta Consórcio - Cartão Ouro Preto X Cachoeira do Campo;Transcotta - (Consórcio);4,70;5;10;MG;Ouro Preto;11/03/2020
-8962;Transcotta Consórcio - Cartão Ouro Preto X Rodrigo Silva;Transcotta - (Consórcio);4,70;5;10;MG;Ouro Preto;11/03/2020
+8261;Transcotta Consórcio - Cartão Saramenha X São Cristóvão;Transcotta Consórcio;2,00;5;10;MG;Ouro Preto;13/04/2026
 8262;Transcotta Consórcio - Cartão Urbano Ouro Preto;Transcotta Consórcio;2,00;5;10;MG;Ouro Preto;07/11/2025
+8263;Transcotta Consórcio - Cartão Ouro Preto X Cachoeira do Campo;Transcotta Consórcio;2,00;5;10;MG;Ouro Preto;13/04/2026
+8962;Transcotta Consórcio - Cartão Ouro Preto X Rodrigo Silva;Transcotta Consórcio;2,00;5;10;MG;Ouro Preto;13/04/2026
 15416;Transcotta Consórcio - Cartão Morro São Sebastião X São Cristóvão;Transcotta Consórcio;2,00;5;10;MG;Ouro Preto;01/10/2025
 353;Transfacil BH - Cartão Bhbus Ônibus Tarifa A (Linha A);Transfácil;6,25;5;10;MG;Belo Horizonte;02/01/2026
 464;Transfacil BH - Cartão Bhbus Ônibus Tarifa B (Linha B);Transfácil;6,00;5;10;MG;Belo Horizonte;02/01/2026
@@ -799,8 +799,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5301;Central Parauapebas - Cartão Municipal Parauapebas;Central Parauapebas - Novo Sistema;5,00;5;10;PA;Parauapebas;13/07/2022
 9643;Central Passe Bem - Cartão Municipal Barcarena;Central Passe Bem;4,60;5;10;PA;Barcarena;16/01/2026
 16054;Pra Já - BRT Metropolitano Belém;Pra Já;4,60;5;10;PA;Ananindeua;19/11/2025
-392;Setransbel - Cartão Municipal Belém do Pará;Setransbel;4,60;5;15;PA;Belém;14/04/2025
-5251;Setransbel - Cartão Mosqueiro X São Brás;Setransbel;4,60;5;15;PA;Belém;11/03/2026
+392;Setransbel - Cartão Municipal Belém do Pará;Setransbel;4,60;3;15;PA;Belém;14/04/2025
+5251;Setransbel - Cartão Mosqueiro X São Brás;Setransbel;4,60;3;15;PA;Belém;11/03/2026
 15490;Sim - Cartão Municipal Castanhal;Sim;3,50;5;10;PA;Castanhal;11/12/2024
 10329;Startec - Cartão Municipal Santarém;Startec;4,80;5;10;PA;Santarém;09/01/2026
 10334;Startec - Cartão Intermunicipal Alter do chão;Startec;5,90;5;10;PA;Santarém;09/01/2026
@@ -994,7 +994,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 315;Urbs Curitiba - Cartão Urbs / Curitiba;URBS Curitiba;6,00;5;10;PR;Curitiba;02/03/2023
 1087;Valesim - Cartão Cascavel - Centro / Curitiba;Valesim;4,65;5;10;PR;Cascavel;08/09/2023
 2267;Viação Apucarana - Cartão Apucarana Municipal;Viação Apucarana - (Novo Sistema);5,20;5;10;PR;Apucarana;15/12/2025
-15865;Viação Campos Gerais - Cartão Municipal Campos Gerais;Viação Campos Gerais - Novo Sistema;5,00;5;10;PR;Ponta Grossa;23/07/2025
+15865;Viação Campos Gerais - Cartão Municipal Campos Gerais;Viação Campos Gerais - Novo Sistema;6,00;5;10;PR;Ponta Grossa;13/04/2026
 15999;Viação do Sul - Itaperuçu - Cartão Itaperuçu X Praça 19;Viação do Sul - Itaperuçu;5,50;5;10;SP;Itaperuçu;20/08/2025
 2284;Viação Garcia - Cartão Mandaguari X Maringá;Viação Garcia;6,50;5;10;PR;Londrina;19/02/2026
 2285;Viação Garcia - Cartão Maringá X Nova Esperança;Viação Garcia;8,30;5;10;PR;Londrina;19/02/2026
@@ -4217,7 +4217,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9701;Agente de Turismo Santa Cruz - Cartão Zona Rural Pelotas;Agente de Turismo Santa Cruz;6,25;5;10;RS;Pelotas;13/03/2026
 2519;Atu Santa Maria - Cartão Santa Maria Urbano;Atu Santa Maria;6,65;5;10;RS;Santa Maria;09/03/2026
 10175;Atu Santa Maria - Cartão Integração Santa Maria;Atu Santa Maria;5,00;5;10;RS;Santa Maria;09/03/2026
-2300;Auto Viação Vale do Sol - Cartão Santa Cruz X Vera Cruz;Auto Viação Vale do Sol;7,15;5;10;RS;Santa Cruz do Sul;09/12/2024
+2300;Auto Viação Vale do Sol - Cartão Santa Cruz X Vera Cruz;Auto Viação Vale do Sol;7,80;5;10;RS;Santa Cruz do Sul;13/04/2026
 6580;Bento Transportes (Farroupilha) - Cartão Urbano Farroupilha;Bento Transportes - Farroupilha;6,00;5;10;RS;Farroupilha;23/02/2026
 8960;Bento Transportes (Farroupilha) - Cartão Farroupilha X Carlos Barbosa;Bento Transportes - Farroupilha;8,50;5;10;RS;Farroupilha;05/11/2025
 8961;Bento Transportes (Farroupilha) - Cartão Nova Sardenha X Carlos Barbosa;Bento Transportes - Farroupilha;8,50;5;10;RS;Farroupilha;05/11/2025
@@ -4304,21 +4304,21 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9645;Expresso Vitória - Charqueadas X Eldorado (com seguro);Expresso Vitória - VT Daer;17,30;5;10;RS;Porto Alegre;05/12/2024
 16201;Expresso Vitória - São Jerônimo X Eldorado (comum e sem seguro);Expresso Vitória - VT Daer;19,95;5;10;RS;Porto Alegre;16/10/2025
 8668;Fátima Transportes - Cartão Boa Vista X Porto Garibaldi Interm. (sem seguro);Fátima Transportes;8,60;5;10;RS;Nova Santa Rita;15/07/2025
-8669;Fátima Transportes - Cartão Coxilha Velha X Monte Negro (sem seguro);Fátima Transportes;7,70;5;10;RS;Nova Santa Rita;01/10/2025
-8670;Fátima Transportes - Cartão Coxilha Velha X Porto Garibaldi (sem seguro) (Daer);Fátima Transportes;11,55;5;10;RS;Nova Santa Rita;06/01/2025
+8669;Fátima Transportes - Cartão Coxilha Velha X Monte Negro (sem seguro);Fátima Transportes;9,45;5;10;RS;Nova Santa Rita;13/04/2026
+8670;Fátima Transportes - Cartão Coxilha Velha X Porto Garibaldi (sem seguro) (Daer);Fátima Transportes;14,15;5;10;RS;Nova Santa Rita;13/04/2026
 8671;Fátima Transportes - Cartão Esquina da Sorte (Porto Batista) X Porto Alegre (sem seguro);Fátima Transportes;20,20;5;10;RS;Nova Santa Rita;15/07/2025
 8672;Fátima Transportes - Cartão Gen. Neto X Porto Garibaldi Iterm (sem seguro);Fátima Transportes;11,25;5;10;RS;Nova Santa Rita;15/07/2025
-8673;Fátima Transportes - Cartão Matias (I. BR 386/116) Ent. Montenegro;Fátima Transportes;14,30;5;10;RS;Nova Santa Rita;15/07/2025
+8673;Fátima Transportes - Cartão Matias (I. BR 386/116) Ent. Montenegro;Fátima Transportes;15,45;5;10;RS;Nova Santa Rita;13/04/2026
 8674;Fátima Transportes - Cartão Porto Alegre X Boa Vista (sem seguro) (Metroplan);Fátima Transportes;20,20;5;10;RS;Nova Santa Rita;15/07/2025
-8675;Fátima Transportes - Cartão Taquari X Canoas (com seguro);Fátima Transportes;35,85;5;10;RS;Nova Santa Rita;06/01/2025
-8676;Fátima Transportes - Cartão Taquari X Canoas (sem seguro);Fátima Transportes;33,80;5;10;RS;Nova Santa Rita;06/01/2025
-8677;Fátima Transportes - Cartão Taquari X Montenegro (sem seguro) (Daer);Fátima Transportes;18,30;5;10;RS;Nova Santa Rita;06/01/2025
-8678;Fátima Transportes - Cartão Taquari X Porto Alegre (sem seguro) (Daer);Fátima Transportes;39,00;5;10;RS;Nova Santa Rita;06/01/2025
-8679;Fátima Transportes - Cartão Taquari X Tabaí (sem seguro);Fátima Transportes;9,10;5;10;RS;Nova Santa Rita;06/01/2025
+8675;Fátima Transportes - Cartão Taquari X Canoas (com seguro);Fátima Transportes;38,75;5;10;RS;Nova Santa Rita;13/04/2026
+8676;Fátima Transportes - Cartão Taquari X Canoas (sem seguro);Fátima Transportes;36,55;5;10;RS;Nova Santa Rita;13/04/2026
+8677;Fátima Transportes - Cartão Taquari X Montenegro (sem seguro) (Daer);Fátima Transportes;19,80;5;10;RS;Nova Santa Rita;13/04/2026
+8678;Fátima Transportes - Cartão Taquari X Porto Alegre (sem seguro) (Daer);Fátima Transportes;42,15;5;10;RS;Nova Santa Rita;13/04/2026
+8679;Fátima Transportes - Cartão Taquari X Tabaí (sem seguro);Fátima Transportes;9,70;5;10;RS;Nova Santa Rita;13/04/2026
 8680;Fátima Transportes - Cartão Triunfo Polo Municipal (sem seguro) (Metroplan);Fátima Transportes;8,80;5;10;RS;Nova Santa Rita;24/02/2026
 8681;Fátima Transportes - Cartão Triunfo X Porto Alegre (Metroplan);Fátima Transportes;30,30;5;10;RS;Nova Santa Rita;15/07/2025
 8682;Fátima Transportes - Cartão Triunfo X Porto Garibaldi Interm. (sem seguro) (Metroplan);Fátima Transportes;15,15;5;10;RS;Nova Santa Rita;15/07/2025
-9039;Fátima Transportes - Cartão Vendinha X Porto Garibaldi;Fátima Transportes;9,10;5;10;RS;Nova Santa Rita;01/10/2025
+9039;Fátima Transportes - Cartão Vendinha X Porto Garibaldi;Fátima Transportes;9,70;5;10;RS;Nova Santa Rita;13/04/2026
 9040;Fátima Transportes - Cartão Boa Vista X Canoas;Fátima Transportes;13,60;5;10;RS;Nova Santa Rita;15/07/2025
 9054;Fátima Transportes - Cartão Vendinha X Porto Garibaldi (com seguro);Fátima Transportes;9,40;5;10;RS;Nova Santa Rita;01/10/2025
 9055;Fátima Transportes - Cartão Boa Vista X Canoas (com seguro);Fátima Transportes;14,70;5;10;RS;Nova Santa Rita;15/07/2025
@@ -4424,7 +4424,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16188;Unesul - Cartão Capão da Canoa X Imbé (semi-direto) (com seguro);Unesul - Eletrônico;13,15;5;10;RS;Porto Alegre;14/10/2025
 16219;Unesul - Cartão Chapecó X Trindade do Sul (sem seguro);Unesul - Eletrônico;62,01;5;10;RS;Porto Alegre;29/10/2025
 10519;Valesul Porto Alegre - Cartão TEU / Porto Alegre e Região;Valesul - Porto Alegre;0,01;5;10;RS;Cachoeirinha;18/10/2023
-10520;Valesul Porto Alegre - 40/41 Barca - Travessia Poa – Guaíba (Catsul - 00038);Valesul - Porto Alegre;17,90;5;10;RS;Cachoeirinha;27/01/2026
+10520;Valesul Porto Alegre - 40/41 Barca - Travessia Poa – Guaíba (Catsul - 00038);Valesul - Porto Alegre;16,90;5;10;RS;Cachoeirinha;13/04/2026
 10521;Valesul Porto Alegre - 503 Canoas – Poa (Via) Cachoeirinha (Vicasa - 00003);Valesul - Porto Alegre;10,10;5;10;RS;Cachoeirinha;11/07/2025
 10522;Valesul Porto Alegre - 502 Poa – Canoas (Vicasa - 00003);Valesul - Porto Alegre;8,45;5;10;RS;Cachoeirinha;11/07/2025
 10523;Valesul Porto Alegre - 501 Canoas – Poa ( Executivo Semi-Direto) (Vicasa - 00003);Valesul - Porto Alegre;12,65;5;10;RS;Cachoeirinha;11/07/2025
@@ -4463,8 +4463,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10563;Valesul Porto Alegre - 251 Poa – Viamão / São Tomé / Tarumã / Estalagem / Alvorada Cocão (Viamão / Vialeste - 00012);Valesul - Porto Alegre;10,30;5;10;RS;Cachoeirinha;11/07/2025
 10564;Valesul Porto Alegre - 605 Poa – Florida - Executivo (Semi-Direto) (Rio Guaíba - 00007);Valesul - Porto Alegre;17,20;5;10;RS;Cachoeirinha;11/07/2025
 10565;Valesul Porto Alegre - 608 Guaíba – Eldorado Do Sul (Sans Souci) (Rio Guaíba - 00007);Valesul - Porto Alegre;6,85;5;10;RS;Cachoeirinha;11/07/2025
-10566;Valesul Porto Alegre - 219 Alvorada Operário (Val – 00002);Valesul - Porto Alegre;2,35;5;10;RS;Cachoeirinha;18/10/2023
-10567;Valesul Porto Alegre - 32 Arroio Do Sal Urbana (Cs Turismo / Rota Litoral - 00037);Valesul - Porto Alegre;3,50;5;10;RS;Cachoeirinha;18/10/2023
 10569;Valesul Porto Alegre - 218 Alvorada Urbana (Val – 00002);Valesul - Porto Alegre;4,70;5;10;RS;Cachoeirinha;18/10/2023
 10570;Valesul Porto Alegre - 612 Poa – Santa Rita - Executivo (Semi - Direto) (Rio Guaíba - 00007);Valesul - Porto Alegre;14,00;5;10;RS;Cachoeirinha;11/07/2025
 10571;Valesul Porto Alegre - 614 Poa – Eldorado Do Sul (Semi-Direto/Executivo) (Rio Guaíba - 00007);Valesul - Porto Alegre;10,50;5;10;RS;Cachoeirinha;11/07/2025
@@ -4472,34 +4470,25 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10573;Valesul Porto Alegre - 615 Poa – Ulbra Guaíba (Rio Guaíba - 00007);Valesul - Porto Alegre;10,20;5;10;RS;Cachoeirinha;18/10/2023
 10574;Valesul Porto Alegre - 941 Unitária – B01 (Trensurb – 00042);Valesul - Porto Alegre;5,00;5;10;RS;Cachoeirinha;04/07/2025
 10575;Valesul Porto Alegre - 618 Poa – Florida / Colina (Rio Guaíba - 00007);Valesul - Porto Alegre;12,60;5;10;RS;Cachoeirinha;11/07/2025
-10576;Valesul Porto Alegre - 59 Osorio / Granja Vargas - Minima (Expresso Palmares - 00038);Valesul - Porto Alegre;5,20;5;10;RS;Cachoeirinha;18/10/2023
 10577;Valesul Porto Alegre - 510 Seletivo Cachoeirinha (Transcal - 00004);Valesul - Porto Alegre;18,85;5;10;RS;Cachoeirinha;08/07/2025
 10578;Valesul Porto Alegre - 621 Alvorada – Guaíba (Tm5) (Rio Guaíba - 00007);Valesul - Porto Alegre;8,75;5;10;RS;Cachoeirinha;11/07/2025
 10579;Valesul Porto Alegre - 624 Fátima Executivo (Rio Guaíba - 00007);Valesul - Porto Alegre;14,20;5;10;RS;Cachoeirinha;26/03/2026
 10580;Valesul Porto Alegre - 508 Poa – Cachoeirinha / Morada Do Vale ( Executivo Semi-Direto) (Transcal - 00004);Valesul - Porto Alegre;14,20;5;10;RS;Cachoeirinha;11/07/2025
 10581;Valesul Porto Alegre - 626 Poa/Fátima (Via Br 116) (Rio Guaíba - 00007);Valesul - Porto Alegre;10,80;5;10;RS;Cachoeirinha;11/07/2025
-10582;Valesul Porto Alegre - 200 Tramandaí Urbana (São José – 00078);Valesul - Porto Alegre;4,50;5;10;RS;Cachoeirinha;18/10/2023
 10583;Valesul Porto Alegre - 505 Passo Do Hilário – Morada Do Vale (Ponte) (Transcal - 00004);Valesul - Porto Alegre;7,30;5;10;RS;Cachoeirinha;11/07/2025
 10584;Valesul Porto Alegre - 503 Poa – Cachoeirinha/Morada Do Vale / Passo Hilário (Transcal - 00004);Valesul - Porto Alegre;10,10;5;10;RS;Cachoeirinha;11/07/2025
-10585;Valesul Porto Alegre - 753 Osório/Emboaba/Tramandaí/Jardim Do Éden (São José – 00078);Valesul - Porto Alegre;9,80;5;10;RS;Cachoeirinha;18/10/2023
-10586;Valesul Porto Alegre - 755 Cidreira – Quintão (São José – 00078);Valesul - Porto Alegre;6,45;5;10;RS;Cachoeirinha;18/10/2023
 10587;Valesul Porto Alegre - 463 Poa – Cachoeirinha / V. Alegre / Garcêz (Transcal - 00004);Valesul - Porto Alegre;10,10;5;10;RS;Cachoeirinha;31/07/2025
 10588;Valesul Porto Alegre - 462 Poa – Itacolomi / Morungava (Transcal - 00004);Valesul - Porto Alegre;13,80;5;10;RS;Cachoeirinha;11/07/2025
-10589;Valesul Porto Alegre - 764 Tramandaí – Cidreira (São José – 00078);Valesul - Porto Alegre;8,15;5;10;RS;Cachoeirinha;18/10/2023
-10590;Valesul Porto Alegre - 72 Passinhos / Granja Vargas (Expresso Palmares - 00034);Valesul - Porto Alegre;12,80;5;10;RS;Cachoeirinha;18/10/2023
 10591;Valesul Porto Alegre - 461 Morungava – Mínima (Transcal - 00004);Valesul - Porto Alegre;8,00;5;10;RS;Cachoeirinha;11/07/2025
-10592;Valesul Porto Alegre - 133 Poa – Passo Da Figueira / Vila Elza / Salomé / Fernando Ferrari (Soul - 00002);Valesul - Porto Alegre;8,80;5;10;RS;Cachoeirinha;11/07/2025
 10593;Valesul Porto Alegre - 132 Poa – Alvorada / Vila Americana/ Jd. Algarve / Jd. Aparecida / Stella Maris (Soul - 00002);Valesul - Porto Alegre;7,75;5;10;RS;Cachoeirinha;08/07/2025
 10594;Valesul Porto Alegre - 116 Sarandi – Vila Elza (Soul - 00002);Valesul - Porto Alegre;7,15;5;10;RS;Cachoeirinha;11/07/2025
-10595;Valesul Porto Alegre - 115 Alvorada – Dist. Ind. Cachoeirinha (Soul - 00002);Valesul - Porto Alegre;7,45;5;10;RS;Cachoeirinha;03/02/2025
+10595;Valesul Porto Alegre - 115 Alvorada – Dist. Ind. Cachoeirinha (Soul - 00002);Valesul - Porto Alegre;8,00;5;10;RS;Cachoeirinha;13/04/2026
 10596;Valesul Porto Alegre - 114 Poa – Estância Grande (Soul - 00002);Valesul - Porto Alegre;8,80;5;10;RS;Cachoeirinha;11/07/2025
 10597;Valesul Porto Alegre - 113 Alvorada – Executivo (Semi-Direto) (Soul - 00002);Valesul - Porto Alegre;10,90;5;10;RS;Cachoeirinha;11/07/2025
 10598;Valesul Porto Alegre - 112 Vila Elza – Executivo (Soul - 00002);Valesul - Porto Alegre;12,10;5;10;RS;Cachoeirinha;11/07/2025
 10599;Valesul Porto Alegre - 715 Rotas Gm Executivas (Sogil – 00001);Valesul - Porto Alegre;26,75;5;10;RS;Cachoeirinha;01/08/2025
 10600;Valesul Porto Alegre - 712 Glorinha – Gravataí (Semi-Direto) (Sogil – 00001);Valesul - Porto Alegre;8,65;5;10;RS;Cachoeirinha;11/07/2025
-10601;Valesul Porto Alegre - 866 Tramandaí – Pinhal (São José – 00078);Valesul - Porto Alegre;10,20;5;10;RS;Cachoeirinha;18/10/2023
 10602;Valesul Porto Alegre - 710 Glorinha Municipal (Sogil – 00001);Valesul - Porto Alegre;6,10;5;10;RS;Cachoeirinha;18/10/2023
-10603;Valesul Porto Alegre - 90 Sta Terezinha / Faz. Pinhal (Expresso Palmares - 00069);Valesul - Porto Alegre;5,40;5;10;RS;Cachoeirinha;18/10/2023
 10604;Valesul Porto Alegre - 313 Gravataí – Ponte (Sogil – 00001);Valesul - Porto Alegre;7,40;5;10;RS;Cachoeirinha;11/07/2025
 10605;Valesul Porto Alegre - 312 Poa – Gravataí Free Way (Semi-Direto) (Sogil – 00001);Valesul - Porto Alegre;21,70;5;10;RS;Cachoeirinha;11/07/2025
 10606;Valesul Porto Alegre - 311 Poa – Gravataí (Semi-Direto) (Sogil – 00001);Valesul - Porto Alegre;21,70;5;10;RS;Cachoeirinha;11/07/2025
@@ -4521,14 +4510,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10625;Valesul Porto Alegre - 22 Cachoeirinha Urbana Seletiva (Transbus);Valesul - Porto Alegre;4,50;5;10;RS;Cachoeirinha;05/03/2025
 10626;Valesul Porto Alegre - 609 Guaíba – Bom Retiro (Rio Guaíba - 00007);Valesul - Porto Alegre;8,30;5;10;RS;Cachoeirinha;11/07/2025
 10627;Valesul Porto Alegre - 509 Cachoeirinha – Alvorada/Canoas (Transcal - 00004);Valesul - Porto Alegre;9,10;5;10;RS;Cachoeirinha;11/07/2025
-10628;Valesul Porto Alegre - 750 Mínima Litoral Norte (São José – 00078);Valesul - Porto Alegre;4,70;5;10;RS;Cachoeirinha;18/10/2023
-10629;Valesul Porto Alegre - 513 Integração Canoas Urbana (Sogal - 00008);Valesul - Porto Alegre;7,20;5;10;RS;Cachoeirinha;18/10/2023
 10630;Valesul Porto Alegre - 627 Poa – Eldorado do Sul Via Me Semi-Direto (Rio Guaíba - 00007);Valesul - Porto Alegre;9,50;5;10;RS;Cachoeirinha;11/07/2025
 10631;Valesul Porto Alegre - 264 Urbana Mínima Rural Vialeste (Viamão / Vialeste - 00012);Valesul - Porto Alegre;4,45;5;10;RS;Cachoeirinha;18/10/2023
 10632;Valesul Porto Alegre - 230 Urbana Sapiranga (TCI SAPI);Valesul - Porto Alegre;4,00;5;10;RS;Cachoeirinha;18/10/2023
-10633;Valesul Porto Alegre - 913 Poa – Sapucaia (Semi-Direto) (Central – 00022);Valesul - Porto Alegre;12,30;5;10;RS;Cachoeirinha;02/01/2025
+10633;Valesul Porto Alegre - 913 Poa – Sapucaia (Semi-Direto) (Central – 00022);Valesul - Porto Alegre;12,90;5;10;RS;Cachoeirinha;13/04/2026
 10634;Valesul Porto Alegre - 804 Capão da Porteira - Centro de Viamão (Viamão / Vialeste - 00012);Valesul - Porto Alegre;7,70;5;10;RS;Cachoeirinha;18/10/2023
-10635;Valesul Porto Alegre - 150 Urbana Estrela (Trevosul);Valesul - Porto Alegre;4,70;5;10;RS;Cachoeirinha;18/10/2023
 10636;Valesul Porto Alegre - 521 Poa - Canoas (Praia de Belas) - Executivo (Transcal- 00004);Valesul - Porto Alegre;14,95;5;10;RS;Cachoeirinha;11/07/2025
 10638;Valesul Porto Alegre - 520/1514 Alimentadora Transcal / Trensurb (Transcal - 00004);Valesul - Porto Alegre;7,10;5;10;RS;Cachoeirinha;11/07/2025
 10718;Valesul Porto Alegre - 272 GM – Gravataí Municipal (Sogil – 00001);Valesul - Porto Alegre;10,50;5;10;RS;Cachoeirinha;01/08/2025
@@ -4538,7 +4524,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15787;Valesul Porto Alegre - 265 Viamão Capororoca P.32 / São Jorge - Poa Bento, Ipiranga, Rodoviária (Viamão / Vialeste - 00012);Valesul - Porto Alegre;6,75;5;10;RS;Cachoeirinha;11/07/2025
 16068;Valesul Porto Alegre - 466 Morada do Vale 1, 2 e 3 Executivo via Anchieta (Transcal - 00004);Valesul - Porto Alegre;18,85;5;10;RS;Cachoeirinha;03/09/2025
 19544;Valesul Porto Alegre - 234 Rural 4;Valesul - Porto Alegre;8,70;5;10;RS;Cachoeirinha;16/03/2026
-10562;Valesul Porto Alegre - 31 Curumim – Capão Da Canoa/Novo Horizonte – Capão Da Canoa (Cs Turismo / Rota Litoral - 00037);ValeSul Porto Alegre;5,00;5;10;RS;Cachoeirinha;18/10/2023
 10568;Valesul Porto Alegre - 33 Capão Da Canoa – Capão Novo (Cs Turismo / Rota Litoral - 00037);ValeSul Porto Alegre;5,00;5;10;RS;Cachoeirinha;18/10/2023
 10815;Valesul Porto Alegre - 805 Lombas / Centro de Viamão (Viamão / Vialeste - 00012);ValeSul Porto Alegre;8,80;5;10;RS;Cachoeirinha;29/01/2024
 2245;Viação Montenegro VIMSA - Cartão Estância Velha X Novo Hamburgo;Viação Montenegro VIMSA;6,20;5;10;RS;Montenegro;08/07/2025
