@@ -196,26 +196,26 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,20;5;10;DF;Brasília;24/02/2026
 15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Viação Planaltina;7,60;5;10;DF;Brasília;24/02/2026
 15095;Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina;Viação Planaltina;8,20;5;10;DF;Brasília;24/02/2026
-10362;CCI - QR-Code - Cartão Setiba X Vila Velha;CCI - QR-Code;15,75;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10363;CCI - QR-Code - Cartão Setiba X Guarapari;CCI - QR-Code;4,70;5;10;ES;Cachoeiro de Itapemirim;16/09/2024
-10364;CCI - QR-Code - Cartão Ipiranga X Dom Bosco;CCI - QR-Code;16,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10367;CCI - QR-Code - Cartão Guarapari X Piuma (sem taxa);CCI - QR-Code;13,00;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10368;CCI - QR-Code - Cartão Anchieta X UBU (Cachoeiro);CCI - QR-Code;3,90;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10369;CCI - QR-Code - Cartão Anchieta X UBU;CCI - QR-Code;3,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10370;CCI - QR-Code - Cartão Cachoeiro X Garrafão (sem taxa);CCI - QR-Code;9,65;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10371;CCI - QR-Code - Cartão Cachoeiro X Marataízes (sem taxa);CCI - QR-Code;24,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10372;CCI - QR-Code - Cartão Guarapari X Ubú (sem taxa);CCI - QR-Code;6,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10373;CCI - QR-Code - Cartão Maembá X Ubú;CCI - QR-Code;3,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10375;CCI - QR-Code - Cartão Meaípe X Ubú;CCI - QR-Code;3,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10376;CCI - QR-Code - Cartão Piuma X UBU (linha 308 Itaputanga);CCI - QR-Code;6,35;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10377;CCI - QR-Code - Cartão Piuma X UBU (sem taxa);CCI - QR-Code;7,35;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10378;CCI - QR-Code - Cartão Piúma X Iconha (sem taxa);CCI - QR-Code;7,95;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10379;CCI - QR-Code - Cartão Piúma X Itaoca (com taxa);CCI - QR-Code;6,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10380;CCI - QR-Code - Cartão Piúma X Itaoca (sem taxa);CCI - QR-Code;4,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10381;CCI - QR-Code - Cartão Cachoeiro X Rio Novo (sem taxa);CCI - QR-Code;12,90;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-10669;CCI - QR-Code - Cartão Garrafão X Itapemirim;CCI - QR-Code;12,60;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
-15190;CCI - QR-Code - Cartão Guarapari (Alvorada) X Vila Velha;CCI - QR-Code;17,15;5;10;ES;Cachoeiro de Itapemirim;13/08/2024
-15610;CCI - QR-Code - Cartão Municipal Marataízes;CCI - QR-Code;5,50;5;10;ES;Cachoeiro de Itapemirim;20/02/2026
+10362;CCI - QR-Code - Cartão Setiba X Vila Velha;CCI - QR-Code - Passepay;15,75;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10363;CCI - QR-Code - Cartão Setiba X Guarapari;CCI - QR-Code - Passepay;4,70;5;10;ES;Cachoeiro de Itapemirim;16/09/2024
+10364;CCI - QR-Code - Cartão Ipiranga X Dom Bosco;CCI - QR-Code - Passepay;16,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10367;CCI - QR-Code - Cartão Guarapari X Piuma (sem taxa);CCI - QR-Code - Passepay;13,00;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10368;CCI - QR-Code - Cartão Anchieta X UBU (Cachoeiro);CCI - QR-Code - Passepay;3,90;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10369;CCI - QR-Code - Cartão Anchieta X UBU;CCI - QR-Code - Passepay;3,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10370;CCI - QR-Code - Cartão Cachoeiro X Garrafão (sem taxa);CCI - QR-Code - Passepay;9,65;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10371;CCI - QR-Code - Cartão Cachoeiro X Marataízes (sem taxa);CCI - QR-Code - Passepay;24,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10372;CCI - QR-Code - Cartão Guarapari X Ubú (sem taxa);CCI - QR-Code - Passepay;6,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10373;CCI - QR-Code - Cartão Maembá X Ubú;CCI - QR-Code - Passepay;3,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10375;CCI - QR-Code - Cartão Meaípe X Ubú;CCI - QR-Code - Passepay;3,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10376;CCI - QR-Code - Cartão Piuma X UBU (linha 308 Itaputanga);CCI - QR-Code - Passepay;6,35;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10377;CCI - QR-Code - Cartão Piuma X UBU (sem taxa);CCI - QR-Code - Passepay;7,35;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10378;CCI - QR-Code - Cartão Piúma X Iconha (sem taxa);CCI - QR-Code - Passepay;7,95;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10379;CCI - QR-Code - Cartão Piúma X Itaoca (com taxa);CCI - QR-Code - Passepay;6,55;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10380;CCI - QR-Code - Cartão Piúma X Itaoca (sem taxa);CCI - QR-Code - Passepay;4,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10381;CCI - QR-Code - Cartão Cachoeiro X Rio Novo (sem taxa);CCI - QR-Code - Passepay;12,90;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+10669;CCI - QR-Code - Cartão Garrafão X Itapemirim;CCI - QR-Code - Passepay;12,60;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
+15190;CCI - QR-Code - Cartão Guarapari (Alvorada) X Vila Velha;CCI - QR-Code - Passepay;17,15;5;10;ES;Cachoeiro de Itapemirim;13/08/2024
+15610;CCI - QR-Code - Cartão Municipal Marataízes;CCI - QR-Code - Passepay;5,50;5;10;ES;Cachoeiro de Itapemirim;20/02/2026
 4771;Cobe Colatina - Cartão Urbano Colatina;Cobe Colatina;4,40;5;10;ES;Colatina;27/02/2023
 4715;Expresso Aracruz - Cartão Coqueiral X Barra do Riacho;Cordial Transportes;8,55;5;10;ES;Aracruz;24/01/2025
 4716;Expresso Aracruz - Cartão Mar Azul X Fábrica;Cordial Transportes;4,85;5;10;ES;Aracruz;24/01/2025
@@ -232,7 +232,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9736;Cordial Transportes (QR-Code) - Cartão Aracruz X João Neiva;Cordial Transportes - QR-Code;17,60;5;10;ES;Aracruz;07/01/2026
 15700;Cordial Transportes (QR-Code) - Cartão Ibiraçu X Aracruz;Cordial Transportes - QR-Code;9,30;5;10;ES;Aracruz;07/01/2026
 2486;Expresso Lorenzutti - Cartão Municipal Guarapari;Expresso Lorenzutti;5,10;5;10;ES;Guarapari;05/03/2026
-826;Flecha Branca - Cartão Urbano Cachoeiro de Itapemirim;Flecha Branca;5,10;5;10;ES;Cachoeiro de Itapemirim;17/02/2025
+826;Flecha Branca - Cartão Urbano Cachoeiro de Itapemirim;Flecha Branca;5,25;5;10;ES;Cachoeiro de Itapemirim;14/04/2026
 309;GVBus Transcol - Cartão GVbus - Vale / Vitória;GVBus Transcol;5,10;5;10;ES;Vitória;13/01/2026
 310;GVBus Transcol - Cartão Municipal Vitória (Setpes);GVBus Transcol;5,10;5;10;ES;Vitória;13/01/2026
 1780;GVBus Transcol - Cartão Sanremo Card (Sanremo);GVBus Transcol;5,10;5;10;ES;Vitória;13/01/2026
@@ -310,8 +310,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3808;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente;Autotrans (Buse) - Ipatinga/Timóteo;20,30;5;10;MG;Ipatinga;13/03/2026
 3809;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Cachoeira Escura;Autotrans (Buse) - Ipatinga/Timóteo;14,75;5;10;MG;Ipatinga;13/03/2026
 9661;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Mesquita X Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;17,60;5;10;MG;Ipatinga;05/01/2026
-15775;Big - São João Del Rei - Tarifa Gratuita;Big - São João Del Rei;0,00;5;10;MG;São João Del Rei;17/09/2025
-15776;Big - São João Del Rei - Tarifa Gratuita;Big - São João Del Rei;0,00;5;10;MG;São João Del Rei;17/09/2025
 9596;Buse (QR-Code) - Cartão Marilandia X Divinópolis;Buse - QR-Code;15,60;5;10;MG;Belo Horizonte;10/09/2025
 9597;Buse (QR-Code) - Cartão Divinópolis X Marilandia;Buse - QR-Code;14,70;5;10;MG;Belo Horizonte;27/06/2022
 9598;Buse (QR-Code) - Cartão Baldim X Sete Lagoas;Buse - QR-Code;18,55;5;10;MG;Belo Horizonte;27/06/2022
@@ -4246,7 +4244,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15352;Comur - Esteio - Cartão Municipal Esteio;Comur - Esteio;4,00;5;10;RS;Esteio;12/09/2024
 15131;Comur - Cartão Municipal Novo Hamburgo;Comur - Novo Hamburgo;5,20;5;10;RS;Novo Hamburgo;10/06/2024
 2295;CSC Santa Cruz do Sul - Cartão Santa Cruz do Sul;CSC Santa Cruz do Sul;5,50;5;10;RS;Santa Cruz do Sul;04/04/2025
-5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,40;5;10;RS;Bagé;23/02/2026
+5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,50;5;10;RS;Bagé;14/04/2026
 8646;CTCP Capão do Leão - Cartão Pelotas X Capão do Leão;CTCP - Capão do Leão;7,40;5;10;RS;Pelotas;07/11/2025
 8647;CTCP Capão do Leão - Cartão Pelotas X Jardim América;CTCP - Capão do Leão;6,05;5;10;RS;Pelotas;07/11/2025
 2348;CTCP Coletivo de Pelotas - Cartão Prati - Pelotas;CTCP - Coletivo de Pelotas;6,25;5;10;RS;Pelotas;17/03/2026
@@ -4582,7 +4580,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5935;Atalaia Transportes - Itajaí - Cartão Sim Municipal;Atalaia Transportes - Itajaí;4,30;5;10;SC;Itajaí;27/02/2024
 2273;Viação Chapecó - Cartão Municipal Chapecó;Auto Viação Chapecó;5,00;5;10;SC;Chapecó;08/09/2025
 19436;Auto Viação Pinhalzinhho - Cartão Municipal Pinhalzinho;Auto Viação Pinhalzinho;4,54;5;10;SC;Pinhalzinho;18/12/2025
-8174;Auto Viação Rainha - Cartão Indaial X Blumenau;Auto Viação Rainha;7,25;5;10;SC;Indaial;07/12/2023
+8174;Auto Viação Rainha - Cartão Indaial X Blumenau;Auto Viação Rainha;8,50;5;10;SC;Indaial;14/04/2026
 8958;Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia);Canarinho (Guaramirim);6,40;5;10;SC;Jaraguá do Sul;07/10/2022
 8959;Canarinho (Guaramirim) - Cartão Guaramirim;Canarinho (Guaramirim);5,25;5;10;SC;Jaraguá do Sul;07/10/2022
 2083;Canarinho (Jaraguá do Sul) - Cartão Municipal Jaraguá do Sul;Canarinho (Jaraguá do Sul);5,25;5;10;SC;Jaraguá do Sul;31/12/2025
@@ -4736,15 +4734,15 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 1092;ABC Caçapava - Cartão Caçapava Urbano;ABC Caçapava;4,75;5;10;SP;Caçapava;15/07/2019
 7350;ABC Caçapava - Integração;ABC Caçapava;1,45;5;10;SP;Caçapava;10/07/2019
 213;ABC Transportes - Cartão Taubaté Municipal;ABC Transportes;4,70;5;10;SP;Taubaté;08/03/2022
-10471;ABC Transportes - Cartão Taubaté X Pinda;ABC Transportes;6,15;5;10;SP;Taubaté;06/02/2025
+10471;ABC Transportes - Cartão Taubaté X Pinda;ABC Transportes;6,45;5;10;SP;Taubaté;14/04/2026
 10472;ABC Transportes - Cartão Pindamonhangaba X Tremembé;ABC Transportes;4,10;5;10;SP;Taubaté;18/10/2023
 10473;ABC Transportes - Cartão Centro Taubaté X Paiol (Rural);ABC Transportes;3,30;5;10;SP;Taubaté;18/10/2023
 10474;ABC Transportes - Cartão Centro Taubaté X Sete Voltas (Rural);ABC Transportes;3,30;5;10;SP;Taubaté;18/10/2023
 10475;ABC Transportes - Cartão Municipal Tremembé;ABC Transportes;4,20;5;10;SP;Taubaté;18/10/2023
 10476;ABC Transportes - Cartão Pindamonhangaba X Taubaté via Araretan;ABC Transportes;4,10;5;10;SP;Taubaté;18/10/2023
-10477;ABC Transportes - Cartão Taubaté X Tremembé;ABC Transportes;4,95;5;10;SP;Taubaté;06/02/2025
+10477;ABC Transportes - Cartão Taubaté X Tremembé;ABC Transportes;5,20;5;10;SP;Taubaté;14/04/2026
 10478;ABC Transportes - Cartão Tremembé X Pindamonhangaba;ABC Transportes;4,40;5;10;SP;Taubaté;18/10/2023
-10479;ABC Transportes - Cartão Taubaté X Caçapava;ABC Transportes;6,75;5;10;SP;Taubaté;06/02/2025
+10479;ABC Transportes - Cartão Taubaté X Caçapava;ABC Transportes;7,10;5;10;SP;Taubaté;14/04/2026
 10480;ABC Transportes - Cartão Tremembé X Caçapava;ABC Transportes;7,05;5;10;SP;Taubaté;06/02/2025
 164;AESA - Bilhete Único Andreense - Santo André Municipal;AESA;7,25;5;10;SP;Santo André;03/01/2025
 15515;AETUR Del Rey - Cartão Pec - Municipal Carapicuíba;AETUR Del Rey - Novo Sistema;6,10;5;10;SP;Carapicuíba;05/01/2026

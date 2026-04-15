@@ -1578,7 +1578,7 @@
     {
         "codigo": "10362",
         "nome": "CCI - QR-Code - Cartão Setiba X Vila Velha",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "15,75",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1586,7 +1586,7 @@
     {
         "codigo": "10363",
         "nome": "CCI - QR-Code - Cartão Setiba X Guarapari",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "4,70",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1594,7 +1594,7 @@
     {
         "codigo": "10364",
         "nome": "CCI - QR-Code - Cartão Ipiranga X Dom Bosco",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "16,80",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1602,7 +1602,7 @@
     {
         "codigo": "10367",
         "nome": "CCI - QR-Code - Cartão Guarapari X Piuma (sem taxa)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "13,00",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1610,7 +1610,7 @@
     {
         "codigo": "10368",
         "nome": "CCI - QR-Code - Cartão Anchieta X UBU (Cachoeiro)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "3,90",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1618,7 +1618,7 @@
     {
         "codigo": "10369",
         "nome": "CCI - QR-Code - Cartão Anchieta X UBU",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "3,55",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1626,7 +1626,7 @@
     {
         "codigo": "10370",
         "nome": "CCI - QR-Code - Cartão Cachoeiro X Garrafão (sem taxa)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "9,65",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1634,7 +1634,7 @@
     {
         "codigo": "10371",
         "nome": "CCI - QR-Code - Cartão Cachoeiro X Marataízes (sem taxa)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "24,55",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1642,7 +1642,7 @@
     {
         "codigo": "10372",
         "nome": "CCI - QR-Code - Cartão Guarapari X Ubú (sem taxa)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "6,80",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1650,7 +1650,7 @@
     {
         "codigo": "10373",
         "nome": "CCI - QR-Code - Cartão Maembá X Ubú",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "3,55",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1658,7 +1658,7 @@
     {
         "codigo": "10375",
         "nome": "CCI - QR-Code - Cartão Meaípe X Ubú",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "3,55",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1666,7 +1666,7 @@
     {
         "codigo": "10376",
         "nome": "CCI - QR-Code - Cartão Piuma X UBU (linha 308 Itaputanga)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "6,35",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1674,7 +1674,7 @@
     {
         "codigo": "10377",
         "nome": "CCI - QR-Code - Cartão Piuma X UBU (sem taxa)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "7,35",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1682,7 +1682,7 @@
     {
         "codigo": "10378",
         "nome": "CCI - QR-Code - Cartão Piúma X Iconha (sem taxa)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "7,95",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1690,7 +1690,7 @@
     {
         "codigo": "10379",
         "nome": "CCI - QR-Code - Cartão Piúma X Itaoca (com taxa)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "6,55",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1698,7 +1698,7 @@
     {
         "codigo": "10380",
         "nome": "CCI - QR-Code - Cartão Piúma X Itaoca (sem taxa)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "4,80",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1706,7 +1706,7 @@
     {
         "codigo": "10381",
         "nome": "CCI - QR-Code - Cartão Cachoeiro X Rio Novo (sem taxa)",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "12,90",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1714,7 +1714,7 @@
     {
         "codigo": "10669",
         "nome": "CCI - QR-Code - Cartão Garrafão X Itapemirim",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "12,60",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1722,7 +1722,7 @@
     {
         "codigo": "15190",
         "nome": "CCI - QR-Code - Cartão Guarapari (Alvorada) X Vila Velha",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "17,15",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1730,7 +1730,7 @@
     {
         "codigo": "15610",
         "nome": "CCI - QR-Code - Cartão Municipal Marataízes",
-        "fornecedor": "CCI - QR-Code",
+        "fornecedor": "CCI - QR-Code - Passepay",
         "valor": "5,50",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
@@ -1867,7 +1867,7 @@
         "codigo": "826",
         "nome": "Flecha Branca - Cartão Urbano Cachoeiro de Itapemirim",
         "fornecedor": "Flecha Branca",
-        "valor": "5,10",
+        "valor": "5,25",
         "uf": "ES",
         "cidade": "Cachoeiro de Itapemirim"
     },
@@ -2486,22 +2486,6 @@
         "valor": "17,60",
         "uf": "MG",
         "cidade": "Ipatinga"
-    },
-    {
-        "codigo": "15775",
-        "nome": "Big - São João Del Rei - Tarifa Gratuita",
-        "fornecedor": "Big - São João Del Rei",
-        "valor": "0,00",
-        "uf": "MG",
-        "cidade": "São João Del Rei"
-    },
-    {
-        "codigo": "15776",
-        "nome": "Big - São João Del Rei - Tarifa Gratuita",
-        "fornecedor": "Big - São João Del Rei",
-        "valor": "0,00",
-        "uf": "MG",
-        "cidade": "São João Del Rei"
     },
     {
         "codigo": "9596",
@@ -33979,7 +33963,7 @@
         "codigo": "5423",
         "nome": "CTC Bagé - Cartão Bagé Municipal",
         "fornecedor": "CTC Bagé",
-        "valor": "5,40",
+        "valor": "5,50",
         "uf": "RS",
         "cidade": "Bagé"
     },
@@ -36667,7 +36651,7 @@
         "codigo": "8174",
         "nome": "Auto Viação Rainha - Cartão Indaial X Blumenau",
         "fornecedor": "Auto Viação Rainha",
-        "valor": "7,25",
+        "valor": "8,50",
         "uf": "SC",
         "cidade": "Indaial"
     },
@@ -37899,7 +37883,7 @@
         "codigo": "10471",
         "nome": "ABC Transportes - Cartão Taubaté X Pinda",
         "fornecedor": "ABC Transportes",
-        "valor": "6,15",
+        "valor": "6,45",
         "uf": "SP",
         "cidade": "Taubaté"
     },
@@ -37947,7 +37931,7 @@
         "codigo": "10477",
         "nome": "ABC Transportes - Cartão Taubaté X Tremembé",
         "fornecedor": "ABC Transportes",
-        "valor": "4,95",
+        "valor": "5,20",
         "uf": "SP",
         "cidade": "Taubaté"
     },
@@ -37963,7 +37947,7 @@
         "codigo": "10479",
         "nome": "ABC Transportes - Cartão Taubaté X Caçapava",
         "fornecedor": "ABC Transportes",
-        "valor": "6,75",
+        "valor": "7,10",
         "uf": "SP",
         "cidade": "Taubaté"
     },
