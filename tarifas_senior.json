@@ -1544,6 +1544,14 @@
         "cidade": "Brasília"
     },
     {
+        "codigo": "19591",
+        "nome": "UTB - Eletrônico - Cartão Águas Lindas X Circular (Semiurbano)",
+        "fornecedor": "UTB - Eletrônico",
+        "valor": "4,75",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
         "codigo": "15092",
         "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília",
         "fornecedor": "Viação Planaltina",
@@ -8062,14 +8070,6 @@
         "valor": "6,55",
         "uf": "PR",
         "cidade": "Maringá"
-    },
-    {
-        "codigo": "5021",
-        "nome": "Viação Garcia - Cartão Londrina X Sertanópolis",
-        "fornecedor": "Viação Garcia - (Lond - Sert.)",
-        "valor": "9,75",
-        "uf": "PR",
-        "cidade": "Londrina"
     },
     {
         "codigo": "6022",
@@ -37320,6 +37320,14 @@
         "cidade": "Florianópolis"
     },
     {
+        "codigo": "19590",
+        "nome": "Setuf - Cartão Estrela (Executivo Zenaide/Barreiros Vip) (Linha 131.1)",
+        "fornecedor": "Setuf - (Estrela)",
+        "valor": "13,56",
+        "uf": "SC",
+        "cidade": "Florianópolis"
+    },
+    {
         "codigo": "8980",
         "nome": "Setuf - Cartão Jotur (Patamar EXEC7) - Florianópolis / Viaduto do Maciambu (Linha 11140)",
         "fornecedor": "Setuf - (Jotur)",
@@ -37846,6 +37854,14 @@
         "valor": "10,30",
         "uf": "SE",
         "cidade": "Aracajú"
+    },
+    {
+        "codigo": "19593",
+        "nome": "Coopetaju - Povoado X Terra Dura (Vencimento 30 dias)",
+        "fornecedor": "Coopetaju",
+        "valor": "14,00",
+        "uf": "SE",
+        "cidade": "Aracaju"
     },
     {
         "codigo": "19427",

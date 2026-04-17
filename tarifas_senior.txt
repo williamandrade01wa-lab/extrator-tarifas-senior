@@ -192,6 +192,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10049;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Executivo);UTB - Eletrônico;18,00;5;10;DF;Brasília;26/02/2026
 15431;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Linha 8250);UTB - Eletrônico;8,20;5;10;DF;Brasília;27/02/2026
 16221;UTB - Eletrônico - Cartão Águas Lindas X Brazlândia;UTB - Eletrônico;6,15;5;10;DF;Brasília;26/02/2026
+19591;UTB - Eletrônico - Cartão Águas Lindas X Circular (Semiurbano);UTB - Eletrônico;4,75;5;10;DF;Brasília;16/04/2026
 15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;Viação Planaltina;11,60;5;10;DF;Brasília;24/02/2026
 15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,20;5;10;DF;Brasília;24/02/2026
 15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Viação Planaltina;7,60;5;10;DF;Brasília;24/02/2026
@@ -1007,7 +1008,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6026;Viação Garcia - Cartão Londrina X Bela Vista;Viação Garcia - (Lond - B. Vista);9,45;5;10;PR;Maringá;19/02/2026
 6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,55;5;10;PR;Maringá;19/02/2026
 6028;Viação Garcia - Cartão Londrina X Rolandia;Viação Garcia - (Lond - Rolan);6,55;5;10;PR;Maringá;19/02/2026
-5021;Viação Garcia - Cartão Londrina X Sertanópolis;Viação Garcia - (Lond - Sert.);9,75;5;10;PR;Londrina;19/02/2026
 6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;6,75;5;10;PR;Londrina;19/02/2026
 6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;6,75;5;10;PR;Maringá;19/02/2026
 15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;10,15;5;10;PR;Curitiba;02/04/2026
@@ -4664,6 +4664,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10665;Setuf - Cartão Estrela (Patamar II);Setuf - (Estrela);6,77;5;10;SC;Florianópolis;03/11/2025
 10666;Setuf - Cartão Estrela (Patamar V);Setuf - (Estrela);9,57;5;10;SC;Florianópolis;03/11/2025
 10667;Setuf - Cartão Estrela (Patamar VIP);Setuf - (Estrela);10,20;5;10;SC;Florianópolis;25/10/2023
+19590;Setuf - Cartão Estrela (Executivo Zenaide/Barreiros Vip) (Linha 131.1);Setuf - (Estrela);13,56;5;10;SC;Florianópolis;16/04/2026
 8980;Setuf - Cartão Jotur (Patamar EXEC7) - Florianópolis / Viaduto do Maciambu (Linha 11140);Setuf - (Jotur);19,62;5;10;SC;Florianópolis;24/11/2025
 8982;Setuf - Cartão Jotur (Patamar I);Setuf - (Jotur);6,23;5;10;SC;Florianópolis;03/11/2025
 8983;Setuf - Cartão Jotur (Patamar II);Setuf - (Jotur);6,77;5;10;SC;Florianópolis;03/11/2025
@@ -4730,6 +4731,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7427;Coopertalse - Cartão Aracaju X Malhador;Coopertalse;12,60;5;10;SE;Aracajú;28/04/2025
 7429;Coopertalse - Cartão Aracaju X Divina Pastora;Coopertalse;10,30;5;10;SE;Aracajú;28/04/2025
 7430;Coopertalse - Cartão Aracaju X Santa Rosa De Lima;Coopertalse;10,30;5;10;SE;Aracajú;28/04/2025
+19593;Coopetaju - Povoado X Terra Dura (Vencimento 30 dias);Coopetaju;14,00;5;10;SE;Aracaju;16/04/2026
 19427;Pagowaju - Cartão Municipal Aracaju;Pagowaju;4,50;5;10;SE;Aracaju;10/12/2025
 1092;ABC Caçapava - Cartão Caçapava Urbano;ABC Caçapava;4,75;5;10;SP;Caçapava;15/07/2019
 7350;ABC Caçapava - Integração;ABC Caçapava;1,45;5;10;SP;Caçapava;10/07/2019
