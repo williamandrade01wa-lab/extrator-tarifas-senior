@@ -311,30 +311,30 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3808;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente;Autotrans (Buse) - Ipatinga/Timóteo;20,30;5;10;MG;Ipatinga;13/03/2026
 3809;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Cachoeira Escura;Autotrans (Buse) - Ipatinga/Timóteo;14,75;5;10;MG;Ipatinga;13/03/2026
 9661;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Mesquita X Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;17,60;5;10;MG;Ipatinga;05/01/2026
-9596;Buse (QR-Code) - Cartão Marilandia X Divinópolis;Buse - QR-Code;15,60;5;10;MG;Belo Horizonte;10/09/2025
-9597;Buse (QR-Code) - Cartão Divinópolis X Marilandia;Buse - QR-Code;14,70;5;10;MG;Belo Horizonte;27/06/2022
-9598;Buse (QR-Code) - Cartão Baldim X Sete Lagoas;Buse - QR-Code;18,55;5;10;MG;Belo Horizonte;27/06/2022
-9599;Buse (QR-Code) - Cartão Belo Horizonte X Itabira;Buse - QR-Code;63,31;5;10;MG;Belo Horizonte;10/09/2025
-9600;Buse (QR-Code) - Cartão Funilândia X Sete Lagoas;Buse - QR-Code;10,20;5;10;MG;Belo Horizonte;27/06/2022
-9601;Buse (QR-Code) - Cartão Itabira X Belo Horizonte;Buse - QR-Code;58,13;5;10;MG;Belo Horizonte;10/09/2025
-9602;Buse (QR-Code) - Cartão Sete Lagoas X Baldim;Buse - QR-Code;20,20;5;10;MG;Belo Horizonte;27/06/2022
-9603;Buse (QR-Code) - Cartão Sete Lagoas X Funilândia;Buse - QR-Code;11,85;5;10;MG;Belo Horizonte;27/06/2022
-9604;Buse (QR-Code) - Cartão Carmópolis de Minas X Passa Tempo;Buse - QR-Code;13,40;5;10;MG;Belo Horizonte;10/09/2025
-9605;Buse (QR-Code) - Cartão Passa Tempo X Carmópolis de Minas;Buse - QR-Code;13,40;5;10;MG;Belo Horizonte;10/09/2025
-9606;Buse (QR-Code) - Cartão Divinolândia de Minas X Virginópolis;Buse - QR-Code;6,35;5;10;MG;Belo Horizonte;10/09/2025
-9704;Buse (QR-Code) - Cartão Campo Belo X Oliveira;Buse - QR-Code;27,00;5;10;MG;Belo Horizonte;02/08/2022
-9705;Buse (QR-Code) - Cartão Oliveira X Campo Belo;Buse - QR-Code;27,52;5;10;MG;Belo Horizonte;02/08/2022
-9899;Buse (QR-Code) - Cartão Sabinópolis X Guanhães;Buse - QR-Code;12,80;5;10;MG;Belo Horizonte;10/09/2025
-10168;Buse (QR-Code) - Cartão Oliveira X Carmópolis;Buse - QR-Code;23,65;5;10;MG;Belo Horizonte;10/09/2025
-10777;Buse (QR-Code) - Cartão Caeté Entrada X Caeté Rocas Novas;Buse - QR-Code;4,75;5;10;MG;Belo Horizonte;26/12/2023
-15680;Buse (QR-Code) - Cartão Itabira X Trevo de Itabira;Buse - QR-Code;24,85;5;10;MG;Belo Horizonte;10/09/2025
-15681;Buse (QR-Code) - Cartão Trevo de Itabira X Itabira;Buse - QR-Code;20,40;5;10;MG;Belo Horizonte;10/09/2025
-16256;Buse (QR-Code) - Cartão Santa Rita do Sapucaí X Pouso Alegre;Buse - QR-Code;13,42;5;10;MG;Belo Horizonte;17/11/2025
-16257;Buse (QR-Code) - Cartão Pouso Alegre X Santa Rita do Sapucaí;Buse - QR-Code;15,07;5;10;MG;Belo Horizonte;17/11/2025
-16258;Buse (QR-Code) - Cartão Itajubá X Santa Rita do Sapucaí;Buse - QR-Code;26,25;5;10;MG;Belo Horizonte;17/11/2025
-16259;Buse (QR-Code) - Cartão Santa Rita do Sapucaí X Itajubá;Buse - QR-Code;24,85;5;10;MG;Belo Horizonte;17/11/2025
-19508;Buse (QR-Code) - Cartão Pouso Alegre X Borda da Mata;Buse - QR-Code;13,95;5;10;MG;Belo Horizonte;12/02/2026
-19509;Buse (QR-Code) - Cartão Borda da Mata X Pouso Alegre;Buse - QR-Code;12,90;5;10;MG;Belo Horizonte;12/02/2026
+9596;Buse (QR-Code) - Cartão Marilandia X Divinópolis;Buse - QR-Code - Saritur;15,60;5;10;MG;Belo Horizonte;10/09/2025
+9597;Buse (QR-Code) - Cartão Divinópolis X Marilandia;Buse - QR-Code - Saritur;14,70;5;10;MG;Belo Horizonte;27/06/2022
+9598;Buse (QR-Code) - Cartão Baldim X Sete Lagoas;Buse - QR-Code - Saritur;18,55;5;10;MG;Belo Horizonte;27/06/2022
+9599;Buse (QR-Code) - Cartão Belo Horizonte X Itabira;Buse - QR-Code - Saritur;63,31;5;10;MG;Belo Horizonte;10/09/2025
+9600;Buse (QR-Code) - Cartão Funilândia X Sete Lagoas;Buse - QR-Code - Saritur;10,20;5;10;MG;Belo Horizonte;27/06/2022
+9601;Buse (QR-Code) - Cartão Itabira X Belo Horizonte;Buse - QR-Code - Saritur;58,13;5;10;MG;Belo Horizonte;10/09/2025
+9602;Buse (QR-Code) - Cartão Sete Lagoas X Baldim;Buse - QR-Code - Saritur;20,20;5;10;MG;Belo Horizonte;27/06/2022
+9603;Buse (QR-Code) - Cartão Sete Lagoas X Funilândia;Buse - QR-Code - Saritur;11,85;5;10;MG;Belo Horizonte;27/06/2022
+9604;Buse (QR-Code) - Cartão Carmópolis de Minas X Passa Tempo;Buse - QR-Code - Saritur;13,40;5;10;MG;Belo Horizonte;10/09/2025
+9605;Buse (QR-Code) - Cartão Passa Tempo X Carmópolis de Minas;Buse - QR-Code - Saritur;13,40;5;10;MG;Belo Horizonte;10/09/2025
+9606;Buse (QR-Code) - Cartão Divinolândia de Minas X Virginópolis;Buse - QR-Code - Saritur;6,35;5;10;MG;Belo Horizonte;10/09/2025
+9704;Buse (QR-Code) - Cartão Campo Belo X Oliveira;Buse - QR-Code - Saritur;27,00;5;10;MG;Belo Horizonte;02/08/2022
+9705;Buse (QR-Code) - Cartão Oliveira X Campo Belo;Buse - QR-Code - Saritur;27,52;5;10;MG;Belo Horizonte;02/08/2022
+9899;Buse (QR-Code) - Cartão Sabinópolis X Guanhães;Buse - QR-Code - Saritur;12,80;5;10;MG;Belo Horizonte;10/09/2025
+10168;Buse (QR-Code) - Cartão Oliveira X Carmópolis;Buse - QR-Code - Saritur;23,65;5;10;MG;Belo Horizonte;10/09/2025
+10777;Buse (QR-Code) - Cartão Caeté Entrada X Caeté Rocas Novas;Buse - QR-Code - Saritur;4,75;5;10;MG;Belo Horizonte;26/12/2023
+15680;Buse (QR-Code) - Cartão Itabira X Trevo de Itabira;Buse - QR-Code - Saritur;24,85;5;10;MG;Belo Horizonte;10/09/2025
+15681;Buse (QR-Code) - Cartão Trevo de Itabira X Itabira;Buse - QR-Code - Saritur;20,40;5;10;MG;Belo Horizonte;10/09/2025
+16256;Buse (QR-Code) - Cartão Santa Rita do Sapucaí X Pouso Alegre;Buse - QR-Code - Saritur;13,42;5;10;MG;Belo Horizonte;17/11/2025
+16257;Buse (QR-Code) - Cartão Pouso Alegre X Santa Rita do Sapucaí;Buse - QR-Code - Saritur;15,07;5;10;MG;Belo Horizonte;17/11/2025
+16258;Buse (QR-Code) - Cartão Itajubá X Santa Rita do Sapucaí;Buse - QR-Code - Saritur;26,25;5;10;MG;Belo Horizonte;17/11/2025
+16259;Buse (QR-Code) - Cartão Santa Rita do Sapucaí X Itajubá;Buse - QR-Code - Saritur;24,85;5;10;MG;Belo Horizonte;17/11/2025
+19508;Buse (QR-Code) - Cartão Pouso Alegre X Borda da Mata;Buse - QR-Code - Saritur;13,95;5;10;MG;Belo Horizonte;12/02/2026
+19509;Buse (QR-Code) - Cartão Borda da Mata X Pouso Alegre;Buse - QR-Code - Saritur;12,90;5;10;MG;Belo Horizonte;12/02/2026
 2634;Buse - Varginha - Cartão Urbano Varginha;Buse - Varginha;5,00;5;10;MG;Varginha;17/03/2023
 6256;CAF Transportes e Utilidades Eireli - Cartão Municipal Araguari;CAF Transportes;4,30;5;10;MG;Araguarí;16/08/2022
 8276;Caf Transportes Passos - Cartão Municipal Passos;Caf Transportes Passos;3,90;5;10;MG;Passos;08/07/2022
@@ -783,7 +783,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8166;Andorinha (Corumbá - Sistema Novo) - Cartão Corumbá X Ladário;Andorinha - Corumbá;6,10;5;10;MS;Corumbá;22/04/2025
 5466;Cidade Corumbá - Cartão Municipal Corumbá;Cidade Corumbá;3,70;5;10;MS;Corumbá;15/03/2019
 3953;Consórcio Guaicurus - Cartão Municipal Campo Grande;Consórcio Guaicurus;4,95;5;10;MS;Campo Grande;24/01/2025
-9668;Expresso Mato Grosso - Cartão Campo Grande X Terenos;Expresso Mato Grosso (Novo);12,00;5;10;MS;Campo Grande;24/04/2025
+9668;Expresso Mato Grosso - Cartão Campo Grande X Terenos;Expresso Mato Grosso - Novo Sistema;12,00;5;10;MS;Campo Grande;24/04/2025
 4647;Medianeira Dourados - Cartão Municipal Dourados;Medianeira Dourados;3,00;5;10;MS;Dourados;02/06/2025
 4899;Medianeira Ponta Porã - Cartão Municipal Ponta Porã;Medianeira Ponta Porã;3,75;5;10;MS;Ponta Pora;18/03/2019
 10922;Amtc - Cartão Municipal Rondonópolis;Amtc;3,00;5;10;MT;Rondonópolis;11/04/2025
@@ -865,13 +865,13 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9299;Borborema - Cartão Vitória X Recife (Executivo) Linha 808.3;Borborema - Vitória/Recife (Executivo) Linha 808.3;17,00;5;10;PE;Recife;11/03/2025
 5250;Borborema - Cartão Vitória (Via BR232) X Recife (Via Jaboatão);Borborema - Vitória/Recife (via Jaboatão);20,00;5;10;PE;Recife;20/02/2026
 4776;Coletivos São Cristóvão - Cartão Municipal Garanhuns;Coletivos São Cristóvão;4,70;5;10;PE;Garanhuns;31/12/2025
-9455;Coletivos Viagens - Cartão Agrestina X Caruaru;Coletivos Viagens;6,50;5;10;PE;Caruaru;06/03/2025
-9456;Coletivos Viagens - Cartão Altinho X Caruaru;Coletivos Viagens;10,00;5;10;PE;Caruaru;06/03/2025
-9457;Coletivos Viagens - Cartão Caruaru X Riacho das Almas;Coletivos Viagens;7,00;5;10;PE;Caruaru;06/03/2025
-9458;Coletivos Viagens - Cartão Caruaru X São Joaquim do Monte;Coletivos Viagens;14,00;5;10;PE;Caruaru;06/03/2025
-9459;Coletivos Viagens - Cartão Palmares X Água Preta;Coletivos Viagens;4,00;5;10;PE;Caruaru;06/03/2025
-10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;5,00;5;10;PE;Caruaru;06/03/2025
-15495;Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329);Coletivos Viagens;17,00;5;10;PE;Caruaru;06/03/2025
+9455;Coletivos Viagens - Cartão Agrestina X Caruaru;Coletivos Viagens;8,00;5;10;PE;Caruaru;20/04/2026
+9456;Coletivos Viagens - Cartão Altinho X Caruaru;Coletivos Viagens;12,00;5;10;PE;Caruaru;20/04/2026
+9457;Coletivos Viagens - Cartão Caruaru X Riacho das Almas;Coletivos Viagens;8,00;5;10;PE;Caruaru;20/04/2026
+9458;Coletivos Viagens - Cartão Caruaru X São Joaquim do Monte;Coletivos Viagens;17,00;5;10;PE;Caruaru;20/04/2026
+9459;Coletivos Viagens - Cartão Palmares X Água Preta;Coletivos Viagens;6,00;5;10;PE;Caruaru;20/04/2026
+10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;6,00;5;10;PE;Caruaru;20/04/2026
+15495;Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329);Coletivos Viagens;19,00;5;10;PE;Caruaru;20/04/2026
 6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;5,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 8226;Expresso 1002 - Cartão Surubim X Toritama;Expresso 1002;12,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
@@ -4183,31 +4183,31 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10869;Nubus - Cidadão - Cartão Municipal Natal;Nubus - Cidadão;4,90;5;10;RN;Natal;07/01/2025
 1243;Nubus (Seturn) - Cartão Natal Card Urbano;Seturn;4,90;5;10;RN;Natal;30/12/2024
 19537;Seturn - Cartão Seturn;Seturn;0,01;5;10;RN;Natal;03/03/2026
-1237;Trampolim - Cartão Parnamirim X Natal (Petrópolis) Linha A;Trampolim;5,80;5;10;RN;Natal;23/07/2025
-1238;Trampolim - Cartão Parnamirim X Natal (Via Passagem de Areia) Linha J;Trampolim;5,80;5;10;RN;Natal;23/07/2025
+1237;Trampolim - Cartão Parnamirim X Natal (Petrópolis) Linha A;Trampolim;6,00;5;10;RN;Natal;20/04/2026
+1238;Trampolim - Cartão Parnamirim X Natal (Via Passagem de Areia) Linha J;Trampolim;6,00;5;10;RN;Natal;20/04/2026
 1241;Trampolim - Cartão Natal - Rncard;Trampolim;0,01;5;10;RN;Natal;01/01/2000
-3200;Trampolim - Cartão Parnamirim X Natal (Alecrim) Linha B;Trampolim;5,80;5;10;RN;Natal;23/07/2025
-3204;Trampolim - Cartão Parnamirim X Natal (Shopping) Linha C;Trampolim;5,50;5;10;RN;Natal;23/07/2025
-3207;Trampolim - Cartão Macaíba X São Gonçalo (Via Nova Descoberta) Linha H;Trampolim;5,00;5;10;RN;Natal;23/07/2025
-3208;Trampolim - Cartão Macaíba X São Gonçalo Natal (Norte Shopping) Linha I;Trampolim;5,50;5;10;RN;Natal;23/07/2025
-3213;Trampolim - Cartão Parnamirim X Natal (Via Shopping) Linha L;Trampolim;5,50;5;10;RN;Natal;23/07/2025
-3215;Trampolim - Cartão Macaíba X Natal (Shopping Midway Mall) Linha M;Trampolim;5,80;5;10;RN;Natal;23/07/2025
+3200;Trampolim - Cartão Parnamirim X Natal (Alecrim) Linha B;Trampolim;6,00;5;10;RN;Natal;20/04/2026
+3204;Trampolim - Cartão Parnamirim X Natal (Shopping) Linha C;Trampolim;5,75;5;10;RN;Natal;20/04/2026
+3207;Trampolim - Cartão Macaíba X São Gonçalo (Via Nova Descoberta) Linha H;Trampolim;5,75;5;10;RN;Natal;20/04/2026
+3208;Trampolim - Cartão Macaíba X São Gonçalo Natal (Norte Shopping) Linha I;Trampolim;5,75;5;10;RN;Natal;20/04/2026
+3213;Trampolim - Cartão Parnamirim X Natal (Via Shopping) Linha L;Trampolim;5,75;5;10;RN;Natal;20/04/2026
+3215;Trampolim - Cartão Macaíba X Natal (Shopping Midway Mall) Linha M;Trampolim;6,00;5;10;RN;Natal;20/04/2026
 3216;Trampolim - Cartão Caminho do Sol X Cidade Verde Linha N;Trampolim;2,75;5;10;RN;Natal;23/07/2025
-3217;Trampolim - Cartão Parnamirim X Natal (Ponta Negra) Linha P;Trampolim;5,80;5;10;RN;Natal;23/07/2025
-3218;Trampolim - Cartão São Gonçalo X Natal ( Rio Branco) Linha S;Trampolim;5,50;5;10;RN;Natal;23/07/2025
+3217;Trampolim - Cartão Parnamirim X Natal (Ponta Negra) Linha P;Trampolim;6,00;5;10;RN;Natal;20/04/2026
+3218;Trampolim - Cartão São Gonçalo X Natal ( Rio Branco) Linha S;Trampolim;5,75;5;10;RN;Natal;20/04/2026
 6930;Trampolim - Cartão Macaíba X Natal (BR-226) Linha G;Trampolim;5,80;5;10;RN;Natal;23/07/2025
-6931;Trampolim - Cartão São Gonçalo X Natal (Via Aeroporto) Linha R;Trampolim;5,80;5;10;RN;Natal;23/07/2025
-6932;Trampolim - Cartão São Gonçalo X Guanduba Linha T;Trampolim;5,50;5;10;RN;Natal;23/07/2025
-6933;Trampolim - Cartão Poço de Pedras X Igapó Linha U;Trampolim;5,50;5;10;RN;Natal;23/07/2025
-6934;Trampolim - Cartão Bosque das Colinas X Natal Linha V;Trampolim;5,50;5;10;RN;Natal;23/07/2025
-6935;Trampolim - Cartão Ruy Pereira X Ponta Negra (Rodoviária /Natal Shopping) - (ASPTRAN);Trampolim;5,45;5;10;RN;Natal;08/04/2024
-6936;Trampolim - Cartão Circular Macaíba X Campus da UFRN de Jundiaí;Trampolim;5,00;5;10;RN;Natal;23/07/2025
+6931;Trampolim - Cartão São Gonçalo X Natal (Via Aeroporto) Linha R;Trampolim;6,00;5;10;RN;Natal;20/04/2026
+6932;Trampolim - Cartão São Gonçalo X Guanduba Linha T;Trampolim;5,75;5;10;RN;Natal;20/04/2026
+6933;Trampolim - Cartão Poço de Pedras X Igapó Linha U;Trampolim;5,75;5;10;RN;Natal;20/04/2026
+6934;Trampolim - Cartão Bosque das Colinas X Natal Linha V;Trampolim;5,75;5;10;RN;Natal;20/04/2026
+6935;Trampolim - Cartão Ruy Pereira X Ponta Negra (Rodoviária /Natal Shopping) - (ASPTRAN);Trampolim;5,20;5;10;RN;Natal;20/04/2026
+6936;Trampolim - Cartão Circular Macaíba X Campus da UFRN de Jundiaí;Trampolim;5,75;5;10;RN;Natal;20/04/2026
 6937;Trampolim - Cartão Extensão de Atendimento (Integração M, G, I, H);Trampolim;3,60;5;10;RN;Natal;18/04/2023
-7254;Trampolim - Cartão Pium X Natal;Trampolim;5,75;5;10;RN;Natal;23/07/2025
-7433;Trampolim - Cartão São José do Mipibu X Natal;Trampolim;8,45;5;10;RN;Natal;23/07/2025
+7254;Trampolim - Cartão Pium X Natal;Trampolim;6,00;5;10;RN;Natal;20/04/2026
+7433;Trampolim - Cartão São José do Mipibu X Natal;Trampolim;10,00;5;10;RN;Natal;20/04/2026
 7577;Trampolim - Cartão Natal X São José;Trampolim;9,60;5;10;RN;Natal;23/07/2025
-10850;Trampolim - Parnamirim (Parque industrial) X Natal (Av. Rio Branco) - Linha D;Trampolim;5,50;5;10;RN;Natal;23/07/2025
-15344;Trampolim - Cartão Pirangi X Natal (Linha 24 / Nível 03);Trampolim;5,80;5;10;RN;Natal;23/07/2025
+10850;Trampolim - Parnamirim (Parque industrial) X Natal (Av. Rio Branco) - Linha D;Trampolim;5,75;5;10;RN;Natal;20/04/2026
+15344;Trampolim - Cartão Pirangi X Natal (Linha 24 / Nível 03);Trampolim;6,00;5;10;RN;Natal;20/04/2026
 15673;Trampolim - Cartão Ruy Pereira (Linha 207 / Nível 12);Trampolim;4,00;5;10;RN;Natal;25/04/2025
 15674;Trampolim - Cartão Aeroporto (Linha 208 / Nível 12);Trampolim;4,00;5;10;RN;Natal;25/04/2025
 15762;JTP Transportes - Cartão Municipal Porto Velho;JTP Transportes - Porto Velho - Novo Sistema;3,00;5;10;RO;Porto Velho;12/06/2025
@@ -4249,9 +4249,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8647;CTCP Capão do Leão - Cartão Pelotas X Jardim América;CTCP - Capão do Leão;6,05;5;10;RS;Pelotas;07/11/2025
 2348;CTCP Coletivo de Pelotas - Cartão Prati - Pelotas;CTCP - Coletivo de Pelotas;6,25;5;10;RS;Pelotas;17/03/2026
 19476;Empresa Vencato - Cartão Porto Alegre X Mariana Pimentel;Empresa Vencato;36,55;5;10;RS;Porto Alegre;16/01/2026
-3920;Expresso Assur - Cartão Guaíba Urbano;Expresso Assur;4,75;5;10;RS;Guaiba;09/04/2025
+3920;Expresso Assur - Cartão Guaíba Urbano;Expresso Assur;5,00;5;10;RS;Guaiba;20/04/2026
 3921;Expresso Assur - Cartão Guaíba Urbano (micro-ônibus);Expresso Assur;5,20;5;10;RS;Guaiba;02/06/2019
-9107;Expresso Azul - Cartão Municipal Lajeado;Expresso Azul;5,75;5;10;RS;Lajeado;20/03/2024
+9107;Expresso Azul - Cartão Municipal Lajeado;Expresso Azul;6,00;5;10;RS;Lajeado;20/04/2026
 8397;Expresso Fronteira D Oeste - Cartão Municipal Alegrete;Expresso Fronteira D Oeste;4,80;5;10;RS;Alegrete;06/02/2024
 8629;Expresso São José - Cartão Osório X Quintão;Expresso São José;27,15;5;10;RS;Tramandaí;12/11/2025
 8630;Expresso São José - Cartão Tramandaí X Quintão;Expresso São José;19,25;5;10;RS;Tramandaí;12/11/2025
@@ -4334,7 +4334,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15763;Fátima Transportes - Cartão Municipal Nova Santa Rita;Fátima Transportes;5,26;5;10;RS;Nova Santa Rita;12/06/2025
 19542;Fátima Transportes - Cartão Municipal Triunfo;Fátima Transportes;5,70;5;10;RS;Nova Santa Rita;13/03/2026
 15170;Fátima Transportes - Cartão Mínima Intermunicipal;Fátima Transportes - Esteio;7,10;5;10;RS;Esteio;15/07/2025
-15172;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Esteio;8,45;5;10;RS;Esteio;15/07/2025
+15172;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Esteio;8,45;5;10;RS;Esteio;20/04/2026
 15173;Fátima Transportes - Cartão Porto Alegre X Canoas;Fátima Transportes - Esteio;8,45;5;10;RS;Esteio;15/07/2025
 15174;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto);Fátima Transportes - Esteio;13,00;5;10;RS;Esteio;15/07/2025
 8185;Gaurama - Cartão Erechim Urbano;Gaurama - Eletrônico;5,50;5;10;RS;Erechim;22/04/2024
@@ -4361,7 +4361,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10834;Riomafra - Cartão Municipal Mafra;Riomafra;4,50;5;10;SC;Mafra;29/01/2024
 2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;4,80;5;10;RS;São Borja;21/11/2023
 6122;Stadtbus Teutônia - Cartão Teuto Municipal;Stadtbus Teutônia;5,00;5;10;RS;Teutônia;04/01/2023
-4714;Stadtbus Venâncio Aires - Cartão Santa Cruz X Venâncio Aires Intermunicipal;Stadtbus Venâncio Aires;11,05;5;10;RS;Santa Cruz do Sul;09/12/2024
+4714;Stadtbus Venâncio Aires - Cartão Santa Cruz X Venâncio Aires Intermunicipal;Stadtbus Venâncio Aires;11,90;5;10;RS;Santa Cruz do Sul;20/04/2026
 15677;STU - Cartão Municipal Santana do Livramento;STU;5,00;5;10;RS;Santana do Livramento;04/02/2026
 1042;Toda Hora - Cartão Santa Rosa Municipal;Toda Hora;6,50;5;10;RS;Santa Rosa;18/03/2026
 6084;Torrescar - Cartão Torres Municipal;Torrescar (Torres);5,00;5;10;RS;Torres;07/03/2022
@@ -4478,6 +4478,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10587;Valesul Porto Alegre - 463 Poa – Cachoeirinha / V. Alegre / Garcêz (Transcal - 00004);Valesul - Porto Alegre;10,10;5;10;RS;Cachoeirinha;31/07/2025
 10588;Valesul Porto Alegre - 462 Poa – Itacolomi / Morungava (Transcal - 00004);Valesul - Porto Alegre;13,80;5;10;RS;Cachoeirinha;11/07/2025
 10591;Valesul Porto Alegre - 461 Morungava – Mínima (Transcal - 00004);Valesul - Porto Alegre;8,00;5;10;RS;Cachoeirinha;11/07/2025
+10592;Valesul Porto Alegre - 133 Poa – Passo Da Figueira / Vila Elza / Salomé / Fernando Ferrari (Soul - 00002);Valesul - Porto Alegre;8,80;5;10;RS;Cachoeirinha;11/07/2025
 10593;Valesul Porto Alegre - 132 Poa – Alvorada / Vila Americana/ Jd. Algarve / Jd. Aparecida / Stella Maris (Soul - 00002);Valesul - Porto Alegre;7,75;5;10;RS;Cachoeirinha;08/07/2025
 10594;Valesul Porto Alegre - 116 Sarandi – Vila Elza (Soul - 00002);Valesul - Porto Alegre;7,15;5;10;RS;Cachoeirinha;11/07/2025
 10595;Valesul Porto Alegre - 115 Alvorada – Dist. Ind. Cachoeirinha (Soul - 00002);Valesul - Porto Alegre;8,00;5;10;RS;Cachoeirinha;13/04/2026
@@ -4708,7 +4709,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6544;Viação Praiana - Cartão Balneário Camboriú X Porto Belo;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
 6545;Viação Praiana - Cartão Porto Belo X Itajaí;Viação Praiana;10,40;5;10;SC;Itajaí;04/03/2026
 6546;Viação Praiana - Cartão Porto Belo X Itapema;Viação Praiana;4,50;5;10;SC;Itajaí;13/03/2026
-6547;Viação Praiana - Cartão Balneário Camboriú X Meia Praia;Viação Praiana;8,95;5;10;SC;Itajaí;15/01/2026
+6547;Viação Praiana - Cartão Balneário Camboriú X Meia Praia;Viação Praiana;7,60;5;10;SC;Itajaí;20/04/2026
 6548;Viação Praiana - Cartão Itapema X Itajaí (via Lojas Moellmann);Viação Praiana;7,65;5;10;SC;Itajaí;14/04/2022
 6549;Viação Praiana - Cartão Itapema X Balneário Camboriú;Viação Praiana;7,60;5;10;SC;Itajaí;04/03/2026
 6552;Viação Praiana - Cartão Camboriú X Balneário Camboriú;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
