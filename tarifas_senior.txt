@@ -636,6 +636,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9820;Santafé - (QR-Code) - Cartão Ouro Branco X Pires;Santafé - QR-Code;18,75;5;10;MG;Belo Horizonte;09/10/2025
 15452;Santafé - (QR-Code) - Cartão Formiga X Piumhi;Santafé - QR-Code;36,00;5;10;MG;Belo Horizonte;09/10/2025
 15980;Santafé - (QR-Code) - Cartão Ouro Branco X Belo Horizonte;Santafé - QR-Code;53,00;5;10;MG;Belo Horizonte;07/08/2025
+19598;Santafé - (QR-Code) - Cartão Pessegueiro (Via Moeda) X Belo Horizonte;Santafé - QR-Code;6,75;5;10;MG;Belo Horizonte;22/04/2026
 5179;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 2);São Jorge Autobus;8,70;5;10;MG;Ponte Nova;01/10/2025
 5180;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 1);São Jorge Autobus;2,50;5;10;MG;Ponte Nova;01/12/2021
 4876;Setelagoano - Cartão Belo Horizonte X Sete Lagoas;Setelagoano;31,25;5;10;MG;Sete Lagoas;10/09/2025
@@ -4181,7 +4182,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10464;Expresso Oceano (PIX) - Cartão Bem Card - Natal X Extremoz;Expresso Oceano - Transportes Guanabara - PIX;5,80;3;10;RN;São Gonçalo do Amarante;01/08/2025
 10465;Expresso Oceano (PIX) - Cartão Bem Card - Ceará Mirim (Cidade das Dunas ou Oceano);Expresso Oceano - Transportes Guanabara - PIX;7,65;3;10;RN;São Gonçalo do Amarante;01/08/2025
 10869;Nubus - Cidadão - Cartão Municipal Natal;Nubus - Cidadão;4,90;5;10;RN;Natal;07/01/2025
-1243;Nubus (Seturn) - Cartão Natal Card Urbano;Seturn;4,90;5;10;RN;Natal;30/12/2024
+1243;Nubus (Seturn) - Cartão Natal Card Urbano;Seturn;5,00;5;10;RN;Natal;22/04/2026
 19537;Seturn - Cartão Seturn;Seturn;0,01;5;10;RN;Natal;03/03/2026
 1237;Trampolim - Cartão Parnamirim X Natal (Petrópolis) Linha A;Trampolim;6,00;5;10;RN;Natal;20/04/2026
 1238;Trampolim - Cartão Parnamirim X Natal (Via Passagem de Areia) Linha J;Trampolim;6,00;5;10;RN;Natal;20/04/2026

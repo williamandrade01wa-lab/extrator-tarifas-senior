@@ -5096,6 +5096,14 @@
         "cidade": "Belo Horizonte"
     },
     {
+        "codigo": "19598",
+        "nome": "Santafé - (QR-Code) - Cartão Pessegueiro (Via Moeda) X Belo Horizonte",
+        "fornecedor": "Santafé - QR-Code",
+        "valor": "6,75",
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+    },
+    {
         "codigo": "5179",
         "nome": "São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 2)",
         "fornecedor": "São Jorge Autobus",
@@ -33459,7 +33467,7 @@
         "codigo": "1243",
         "nome": "Nubus (Seturn) - Cartão Natal Card Urbano",
         "fornecedor": "Seturn",
-        "valor": "4,90",
+        "valor": "5,00",
         "uf": "RN",
         "cidade": "Natal"
     },
