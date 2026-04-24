@@ -80,14 +80,6 @@
         "cidade": "Manaus"
     },
     {
-        "codigo": "15646",
-        "nome": "CTMAC - Cartão Municipal Macapá",
-        "fornecedor": "CTMAC",
-        "valor": "3,70",
-        "uf": "AP",
-        "cidade": "Macapá"
-    },
-    {
         "codigo": "381",
         "nome": "Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá",
         "fornecedor": "Setap - Intermunicipal",
@@ -110,6 +102,22 @@
         "valor": "4,30",
         "uf": "BA",
         "cidade": "Itabuna"
+    },
+    {
+        "codigo": "19600",
+        "nome": "Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro",
+        "fornecedor": "Atlântico Transportes - Juazeiro - PIX",
+        "valor": "5,25",
+        "uf": "BA",
+        "cidade": "Juazeiro"
+    },
+    {
+        "codigo": "19601",
+        "nome": "Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro",
+        "fornecedor": "Atlântico Transportes - Juazeiro - PIX",
+        "valor": "5,00",
+        "uf": "BA",
+        "cidade": "Juazeiro"
     },
     {
         "codigo": "7449",
@@ -6259,7 +6267,7 @@
         "codigo": "8166",
         "nome": "Andorinha (Corumbá - Sistema Novo) - Cartão Corumbá X Ladário",
         "fornecedor": "Andorinha - Corumbá",
-        "valor": "6,10",
+        "valor": "7,00",
         "uf": "MS",
         "cidade": "Corumbá"
     },
@@ -27968,14 +27976,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18691",
-        "nome": "Riocard (Semove) - 0 - Cabo Frio - Petrópolis (via Araruama) - E",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "151,70",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18692",
         "nome": "Riocard (Semove) - 0 - Castelo - Itaipava (via Bingen) - A",
         "fornecedor": "Riocard (Semove)",
@@ -28016,14 +28016,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18697",
-        "nome": "Riocard (Semove) - 0 - Barra da Tijuca - Petrópolis (via Cidade Universitária) - E",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "77,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18698",
         "nome": "Riocard (Semove) - 1 - Cidade Universitária - Petrópolis - E",
         "fornecedor": "Riocard (Semove)",
@@ -28048,50 +28040,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18701",
-        "nome": "Riocard (Semove) - 0 - Petrópolis - Seropédica [UFRRJ] ( via Arco Metropolitano ) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "34,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18702",
-        "nome": "Riocard (Semove) - 0 - P220 - Três Rios - Comendador Levy Gasparian (via Fábrica) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,00",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18703",
-        "nome": "Riocard (Semove) - 0 - P230 - Três Rios - Comendador Levy Gasparian (via Império) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,00",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18704",
-        "nome": "Riocard (Semove) - 0 - P240 - Três Rios - Comendador Levy Gasparian (via Gulf) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,00",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18705",
         "nome": "Riocard (Semove) - 0 - P530 - Três Rios - Afonso Arinos - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "8,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18706",
-        "nome": "Riocard (Semove) - 0 - 510I - Duque de Caxias - Raiz da Serra - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -28104,86 +28056,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18708",
-        "nome": "Riocard (Semove) - 2 - Duque de Caxias - Parada Angélica - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18709",
-        "nome": "Riocard (Semove) - 3 - Cidade dos Meninos - Raiz da Serra - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18710",
-        "nome": "Riocard (Semove) - 0 - 512I - Duque de Caxias - Parada Angélica - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18711",
-        "nome": "Riocard (Semove) - 2 - Cidade dos Meninos - Parada Angélica - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18712",
-        "nome": "Riocard (Semove) - 0 - 511I - Duque de Caxias - Parque Paulista - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18713",
-        "nome": "Riocard (Semove) - 2 - Cidade dos Meninos - Parque Paulista - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18714",
-        "nome": "Riocard (Semove) - 0 - 513I - Duque de Caxias - Nova Campina - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18715",
-        "nome": "Riocard (Semove) - 2 - Cidade dos Meninos - Nova Campina - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18716",
-        "nome": "Riocard (Semove) - 0 - 514I - Duque de Caxias - Raiz da Serra (via Nova Campina) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18717",
-        "nome": "Riocard (Semove) - 0 - 509I - Duque de Caxias - Cangulo (via BR-493) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18718",
         "nome": "Riocard (Semove) - 2 - Cidade dos Meninos - Cangulo - SA",
         "fornecedor": "Riocard (Semove)",
@@ -28192,42 +28064,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18719",
-        "nome": "Riocard (Semove) - 0 - 507I - Duque de Caxias - Saracuruna (via Jardim Primavera) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18720",
-        "nome": "Riocard (Semove) - 2 - Cidade dos Meninos - Saracuruna - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18721",
-        "nome": "Riocard (Semove) - 0 - 506I - Duque de Caxias - Ipiranga (via Estrada Nova) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "14,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18722",
         "nome": "Riocard (Semove) - 2 - Trevo BR-493 - Ipiranga - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18723",
-        "nome": "Riocard (Semove) - 0 - 505I - Duque de Caxias - Ipiranga (via Suruí) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "14,15",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -28264,30 +28104,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18728",
-        "nome": "Riocard (Semove) - 0 - 470C - Taquara - Central (via Parada Angélica) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18729",
-        "nome": "Riocard (Semove) - 0 - 2470C - Taquara - Praça Mauá (via Parada Angélica) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "18,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18730",
-        "nome": "Riocard (Semove) - 0 - 469 C - Santa Cruz da Serra - Passeio - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18731",
         "nome": "Riocard (Semove) - 0 - 571C - Nova Campina - Central - SA",
         "fornecedor": "Riocard (Semove)",
@@ -28304,50 +28120,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18733",
-        "nome": "Riocard (Semove) - 0 - Central - Nova Campinas (via Santa Cruz da Serra) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18734",
-        "nome": "Riocard (Semove) - 0 - 486C - Xerém - Passeio (via Central) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18735",
-        "nome": "Riocard (Semove) - 0 - 566C - Praça Santo Antônio - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18736",
-        "nome": "Riocard (Semove) - 0 - 413N - Petrópolis - Nova Campinas - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18737",
         "nome": "Riocard (Semove) - 1 - Vila Inhomirim - Nova Campina - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "5,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18738",
-        "nome": "Riocard (Semove) - 0 - 411N - Petrópolis - Imbariê (via Piabetá) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,50",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -28376,14 +28152,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18742",
-        "nome": "Riocard (Semove) - 0 - 410T - Barra da Tijuca - São João de Meriti - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18743",
         "nome": "Riocard (Semove) - 0 - 514B - Eden - Central - SA",
         "fornecedor": "Riocard (Semove)",
@@ -28400,26 +28168,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18745",
-        "nome": "Riocard (Semove) - 0 - 1512B - Coelho da Rocha - Castelo (via Vilar dos Teles) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "24,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18746",
         "nome": "Riocard (Semove) - 0 - 1140B - Éden - Castelo - A",
         "fornecedor": "Riocard (Semove)",
         "valor": "24,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18747",
-        "nome": "Riocard (Semove) - 0 - 474B - Praça da Bandeira - Central (via Coelho da Rocha) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "11,15",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -28432,48 +28184,8 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18749",
-        "nome": "Riocard (Semove) - 0 - 661I - Nova Iguaçu - Vila Emil (via Santo Elias) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18750",
         "nome": "Riocard (Semove) - 0 - 663I - Nova Iguaçu - Jacutinga - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18751",
-        "nome": "Riocard (Semove) - 0 - 600I - Nova Iguaçu - Belford Roxo (via BNH) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18752",
-        "nome": "Riocard (Semove) - 0 - 601I - Nova Iguaçu - Belford Roxo (via Antônio José Bittencourt) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18753",
-        "nome": "Riocard (Semove) - 0 - 142I - Duque de Caxias - São João de Meriti (via Venda Velha) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18754",
-        "nome": "Riocard (Semove) - 0 - 141I - Duque de Caxias - São João de Meriti (via Rua 13) - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "5,95",
         "uf": "RJ",
@@ -28528,22 +28240,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18761",
-        "nome": "Riocard (Semove) - 0 - P541 - Barra Mansa - Roma II (via Serrinha) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18762",
-        "nome": "Riocard (Semove) - 0 - P544 - Barra Mansa - Moinho de Vento (via Volta Redonda) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18763",
         "nome": "Riocard (Semove) - 0 - P546 - Barra Mansa - Arrozal - SA",
         "fornecedor": "Riocard (Semove)",
@@ -28564,14 +28260,6 @@
         "nome": "Riocard (Semove) - 2 - Serrinha - Barra Mansa - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18766",
-        "nome": "Riocard (Semove) - 0 - P547 - Barra Mansa - Roma II (via Rodovia dos Metalúrgicos) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,60",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -28840,14 +28528,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18800",
-        "nome": "Riocard (Semove) - 0 - Rio de Janeiro - Barra Mansa (via Volta Redonda) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "56,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18801",
         "nome": "Riocard (Semove) - 1 - Rio de Janeiro - Volta Redonda - A",
         "fornecedor": "Riocard (Semove)",
@@ -28856,26 +28536,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18802",
-        "nome": "Riocard (Semove) - 0 - Rio de Janeiro - Barra Mansa (via Volta Redonda) - E",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "70,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18803",
         "nome": "Riocard (Semove) - 1 - Rio de Janeiro - Volta Redonda - E",
         "fornecedor": "Riocard (Semove)",
         "valor": "66,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18804",
-        "nome": "Riocard (Semove) - 0 - Barra Mansa - Campo Grande ( via Volta Redonda e Itaguaí) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "52,10",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -28972,14 +28636,6 @@
         "nome": "Riocard (Semove) - 14 - Campo Grande - Piraí - A",
         "fornecedor": "Riocard (Semove)",
         "valor": "34,70",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18817",
-        "nome": "Riocard (Semove) - 0 - Rio de Janeiro - Engenheiro Passos - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "79,40",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -29096,134 +28752,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18832",
-        "nome": "Riocard (Semove) - 3 - Cabo Frio - Casa do Mamão/Casa do Bubi - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "95,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18833",
-        "nome": "Riocard (Semove) - 0 - P750 - Vila Rica - Jardim Primavera - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18834",
-        "nome": "Riocard (Semove) - 0 - P715 - Jardim Amália - Bairro Paraíso (via Mangueiras) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18835",
-        "nome": "Riocard (Semove) - 0 - P716 - Jardim Amália - Bairro Boa Vista (via Bairro Paraíso) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18836",
-        "nome": "Riocard (Semove) - 0 - P710 - São Geraldo - Bairro Nove de Abril (via Rua 14) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18837",
-        "nome": "Riocard (Semove) - 0 - 665I - Nova Iguaçu - Edson Passos (via Emílio Guadagny) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18838",
-        "nome": "Riocard (Semove) - 0 - 670I - Nova Iguaçu - Edson Passos (via Gordura) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18839",
-        "nome": "Riocard (Semove) - 0 - P720 - Praça Castelo Branco - Cerâmica União - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18840",
-        "nome": "Riocard (Semove) - 0 - P721 - Praça Castelo Branco - Bairro California - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18841",
-        "nome": "Riocard (Semove) - 0 - P735 - Jardim Amália(VR) - Santa Clara(BM) (v.Rua 33 e v.São Pedro) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18842",
-        "nome": "Riocard (Semove) - 0 - P200 - Barra Mansa - Volta Redonda (via Retiro) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18843",
-        "nome": "Riocard (Semove) - 0 - P207 - Barra Mansa - Volta Redonda (via Jardim Amália) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18844",
-        "nome": "Riocard (Semove) - 0 - P730 - Vila Maria - Santo Agostinho (via Volta Redonda) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18845",
-        "nome": "Riocard (Semove) - 0 - P195 - Barra Mansa - Volta Redonda (via Rua 14) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18846",
-        "nome": "Riocard (Semove) - 0 - P190 - Barra Mansa - Volta Redonda (via Rua 33) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18847",
-        "nome": "Riocard (Semove) - 0 - P494 - Santa Isabel do Rio Preto - Barra Mansa (via Volta Redonda) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "21,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18848",
         "nome": "Riocard (Semove) - 1 - Amparo - Volta Redonda - SA",
         "fornecedor": "Riocard (Semove)",
@@ -29244,14 +28772,6 @@
         "nome": "Riocard (Semove) - 0 - P495 - Amparo - Barra Mansa - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "10,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18851",
-        "nome": "Riocard (Semove) - 0 - P145 - Barra do Piraí - Ponte Alta (via Pinheiral) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "19,55",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -29320,14 +28840,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18860",
-        "nome": "Riocard (Semove) - 0 - P432 - Ponte Alta - Vargem Alegre - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "11,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18861",
         "nome": "Riocard (Semove) - 1 - Ponte Alta - Pinheiral - SA",
         "fornecedor": "Riocard (Semove)",
@@ -29368,32 +28880,8 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18866",
-        "nome": "Riocard (Semove) - 0 - P711 - Vila Rica - Boa Vista I (via Jardim Redentor e Jardim Guanabara) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18867",
         "nome": "Riocard (Semove) - 0 - P717 - Vila Rica - Boa Vista II - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18868",
-        "nome": "Riocard (Semove) - 0 - P714 - Jardim Belvedere - São Judas Tadeu - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18869",
-        "nome": "Riocard (Semove) - 0 - P713 - Jardim Belvedere - Bairro Nove de Abril - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "6,05",
         "uf": "RJ",
@@ -29408,50 +28896,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18871",
-        "nome": "Riocard (Semove) - 0 - 523M - Niterói - Praia Pedrinhas (via BR-101) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18872",
         "nome": "Riocard (Semove) - 0 - 524M - Niterói - Pontal - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18873",
-        "nome": "Riocard (Semove) - 0 - 526M - Niterói - Bairro Antonina (via Porto da Pedra) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18874",
-        "nome": "Riocard (Semove) - 0 - 536M - Niterói - Bairro Antonina (via Boa Vista ) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18875",
-        "nome": "Riocard (Semove) - 0 - P740 - Vila Ursolino - Jardim Amália - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18876",
-        "nome": "Riocard (Semove) - 0 - P725 - Quatis - Volta Redonda (via Ponte Alta) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "15,40",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -29528,26 +28976,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18886",
-        "nome": "Riocard (Semove) - 0 - P422 - BNH - Resende (via Floriano) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18887",
         "nome": "Riocard (Semove) - 1 - Porto Real - Floriano - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "4,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18888",
-        "nome": "Riocard (Semove) - 0 - 528M - Niterói - Galo Branco (via Barro Vermelho) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -29560,130 +28992,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18890",
-        "nome": "Riocard (Semove) - 0 - 531M - Niterói - Jardim Alcântara (via Dr. March) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18891",
-        "nome": "Riocard (Semove) - 0 - 529M - Niterói - Ceasa (via Barro Vermelho) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18892",
-        "nome": "Riocard (Semove) - 0 - 538M - Praça do Rocha - Niterói (via Av. Contorno) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18893",
-        "nome": "Riocard (Semove) - 0 - 520D - Jardim Alcântara - Estácio (via Dr. March) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "14,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18894",
-        "nome": "Riocard (Semove) - 0 - 2520D - Jardim Alcântara - Estácio (via Dr. March) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "21,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18895",
-        "nome": "Riocard (Semove) - 0 - 445M - Niterói - Engenho Pequeno (via Neves) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18896",
-        "nome": "Riocard (Semove) - 0 - 446M - Niterói - Engenho Pequeno (via Mentor Couto) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18897",
-        "nome": "Riocard (Semove) - 0 - 425D - Alcântara - Campo Grande (via Vila Militar) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18898",
-        "nome": "Riocard (Semove) - 0 - 2425D - Alcântara - Campo Grande (via Vila Militar) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "26,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18899",
-        "nome": "Riocard (Semove) - 0 - 4425D - Barreto - Campo Grande (via Vila Militar) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "26,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18900",
-        "nome": "Riocard (Semove) - 0 - 424D - Alcântara - Campo Grande (via Água Branca) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18901",
         "nome": "Riocard (Semove) - 0 - 422M - Niterói - Portão do Rosa - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18902",
-        "nome": "Riocard (Semove) - 0 - 423M - Niterói - Portão do Rosa (via BR-101) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18903",
-        "nome": "Riocard (Semove) - 0 - 143M - Niterói - São Gonçalo (via Dr. March) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18904",
-        "nome": "Riocard (Semove) - 0 - 533D - Alcântara - Méier (via PPCS) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "15,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18905",
-        "nome": "Riocard (Semove) - 0 - 2533D - Alcântara - Méier (via PPCS) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "22,80",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -29696,74 +29008,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18907",
-        "nome": "Riocard (Semove) - 0 - 532M - Niterói - Alcântara (via Dr. March) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18908",
         "nome": "Riocard (Semove) - 0 - 100D - Niterói - Candelária - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18909",
-        "nome": "Riocard (Semove) - 0 - 590M - Niterói - Amendoeira (via Tribobó) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18910",
-        "nome": "Riocard (Semove) - 0 - 590R - Candelária - Ponta Negra (via Boqueirão) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18911",
-        "nome": "Riocard (Semove) - 0 - 2590R - Castelo - Ponta Negra (via Boqueirão) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "48,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18912",
-        "nome": "Riocard (Semove) - 0 - 535R - Niterói - Várzea das Moças (via Tribobó) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18913",
-        "nome": "Riocard (Semove) - 0 - 571R - Niterói - Engenho do Roçado (via Ipiíba) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18914",
-        "nome": "Riocard (Semove) - 0 - 536R - Niterói - Várzea das Moças (via Maria Paula e Santa Anita) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18915",
-        "nome": "Riocard (Semove) - 0 - 144R - Niterói - Maricá ( via Tribobó) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -29808,54 +29056,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18921",
-        "nome": "Riocard (Semove) - 0 - 546R - Maricá - Rio do Ouro (via Av. Ver. Francisco S. da Costa) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18922",
-        "nome": "Riocard (Semove) - 0 - 6144R - Niterói - Itaipuaçu [Rua 128] - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "24,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18923",
-        "nome": "Riocard (Semove) - 0 - 145R - Maricá - Niterói (via São José do Imbassaí) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18924",
-        "nome": "Riocard (Semove) - 0 - 534R - Niterói - Jaconé (via Ponta Negra) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18925",
-        "nome": "Riocard (Semove) - 0 - 540R - Niterói - Jóquei Club (via Tribobó/Oásis) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18926",
-        "nome": "Riocard (Semove) - 0 - 541R - Niterói - Jóquei Club (via Arsenal) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18927",
         "nome": "Riocard (Semove) - 0 - 542R - Niterói - Anaia - SA",
         "fornecedor": "Riocard (Semove)",
@@ -29864,32 +29064,8 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18928",
-        "nome": "Riocard (Semove) - 0 - 537R - Niterói - Itaipu (via Tribobó) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18929",
-        "nome": "Riocard (Semove) - 0 - 538R - Itaipu - Niterói (via Tribobó/ Av. Central) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18930",
         "nome": "Riocard (Semove) - 0 - 146D - Maricá - Candelária - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18931",
-        "nome": "Riocard (Semove) - 0 - 578D - Ponta Negra - Castelo (via Manoel Ribeiro) - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "17,95",
         "uf": "RJ",
@@ -29912,14 +29088,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18934",
-        "nome": "Riocard (Semove) - 0 - 6146D - Castelo - Itaipuaçu [Rua 128] - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "48,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18935",
         "nome": "Riocard (Semove) - 0 - 10146D - Candelária - Maricá - AC",
         "fornecedor": "Riocard (Semove)",
@@ -29932,30 +29100,6 @@
         "nome": "Riocard (Semove) - 0 - 12146D - Candelária - Itaipuaçu - AC",
         "fornecedor": "Riocard (Semove)",
         "valor": "48,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18937",
-        "nome": "Riocard (Semove) - 0 - 14146D - Itaipuaçu (Rua 128) - Candelária (via Estrada dos Cajueiros) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "48,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18938",
-        "nome": "Riocard (Semove) - 0 - Cabo Frio - Maricá (via RJ-106) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "58,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18939",
-        "nome": "Riocard (Semove) - 0 - P135 - Barra do Piraí - Barra Mansa (via Volta Redonda) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,95",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -29980,30 +29124,6 @@
         "nome": "Riocard (Semove) - 5 - Dona Belinha - Barra Mansa - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "8,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18943",
-        "nome": "Riocard (Semove) - 8 - Barra do Piraí - Viaduto Castelo Branco - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "15,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18944",
-        "nome": "Riocard (Semove) - 10 - Dona Belinha - Viaduto Castelo Branco - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18945",
-        "nome": "Riocard (Semove) - 0 - P424 - Barra Mansa - Santanésia (via Volta Redonda) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "19,90",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -30048,70 +29168,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18951",
-        "nome": "Riocard (Semove) - 11 - Barra do Piraí - Viaduto Castelo Branco - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "15,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18952",
-        "nome": "Riocard (Semove) - 13 - Dona Belinha - Viaduto Castelo Branco - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18953",
-        "nome": "Riocard (Semove) - 0 - P130 - Barra do Piraí - Viaduto Castelo Branco (via Votla Redonda) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "15,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18954",
-        "nome": "Riocard (Semove) - 2 - Dorândia - Viaduto Castelo Branco - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18955",
-        "nome": "Riocard (Semove) - 3 - Dona Belinha - Viaduto Castelo Branco - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18956",
-        "nome": "Riocard (Semove) - 0 - Barra do Piraí - Viaduto Castelo Branco (via Volta Redonda) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "14,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18957",
-        "nome": "Riocard (Semove) - 0 - P426 - Dorândia - Viaduto Castelo Branco (via Volta Redonda) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18958",
-        "nome": "Riocard (Semove) - 1 - Dona Belinha - Viaduto Castelo Branco - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18959",
         "nome": "Riocard (Semove) - 2 - Dorândia - Volta Redonda - SA",
         "fornecedor": "Riocard (Semove)",
@@ -30136,40 +29192,8 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18962",
-        "nome": "Riocard (Semove) - 0 - 544L - Nova Iguaçu - Méier (via Norte Shopping) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18963",
         "nome": "Riocard (Semove) - 0 - 541L - Nova Iguaçu - Cascadura - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18964",
-        "nome": "Riocard (Semove) - 0 - 546L - Nova Iguaçu - Taquara (via Brigada Paraquedista) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18965",
-        "nome": "Riocard (Semove) - 0 - 540L - Nova Iguaçu - Ricardo de Albuquerque (via Mariópolis) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18966",
-        "nome": "Riocard (Semove) - 0 - 547L - Nilópolis - Ricardo de Albuquerque (Circular - via Mariópolis) - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "5,95",
         "uf": "RJ",
@@ -30208,14 +29232,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18971",
-        "nome": "Riocard (Semove) - 0 - 479I - Nova Iguaçu - Parada de Lucas - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18972",
         "nome": "Riocard (Semove) - 0 - 742P - Campo Grande - Cabuçu - SA",
         "fornecedor": "Riocard (Semove)",
@@ -30226,22 +29242,6 @@
     {
         "codigo": "18973",
         "nome": "Riocard (Semove) - 0 - 548P - Campo Grande - Nilópolis - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18974",
-        "nome": "Riocard (Semove) - 0 - 704P - Lagoinha - Campo Grande - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18975",
-        "nome": "Riocard (Semove) - 0 - 746P - Pqe. S. Francisco de Paula - Campo Grande(via Prados Verdes) - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "6,85",
         "uf": "RJ",
@@ -30264,22 +29264,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18978",
-        "nome": "Riocard (Semove) - 0 - 705P - Edson Passos - Bangu (via Campo Grande) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18979",
-        "nome": "Riocard (Semove) - 0 - 450T - Nova Iguaçu - Itacuruçá (via Av. Brasil) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18980",
         "nome": "Riocard (Semove) - 1 - Nova Iguaçu - Itaguaí - SA",
         "fornecedor": "Riocard (Semove)",
@@ -30288,26 +29272,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18981",
-        "nome": "Riocard (Semove) - 2 - Nova Iguaçu - Viaduto dos Cabritos - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18982",
         "nome": "Riocard (Semove) - 3 - Km 32/BR-465 - Itacuruçá - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "6,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18983",
-        "nome": "Riocard (Semove) - 0 - P170 - Vassouras - Barra do Piraí - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,30",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -30336,34 +29304,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "18987",
-        "nome": "Riocard (Semove) - 0 - MP90 - Areal - São José do Vale do Rio Preto - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "18988",
         "nome": "Riocard (Semove) - 1 - Areal - Morelli - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "5,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18989",
-        "nome": "Riocard (Semove) - 2 - São José do Vale do Rio Preto - Tristão Câmara - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18990",
-        "nome": "Riocard (Semove) - 3 - Moreli - São José do Vale do Rio Preto - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "4,60",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -30396,14 +29340,6 @@
         "nome": "Riocard (Semove) - 0 - Três Rios - Paraíba do Sul - AC",
         "fornecedor": "Riocard (Semove)",
         "valor": "5,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "18995",
-        "nome": "Riocard (Semove) - 0 - P151 - Três Rios - Paraiba do Sul ( via Estrada da Barrinha ) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,15",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -30504,282 +29440,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "19008",
-        "nome": "Riocard (Semove) - 4 - Vassouras - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "24,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19009",
-        "nome": "Riocard (Semove) - 5 - Andrade Pinto - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19010",
-        "nome": "Riocard (Semove) - 6 - Volta Redonda - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "22,30",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19011",
-        "nome": "Riocard (Semove) - 7 - Paraíba do Sul - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "22,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19012",
-        "nome": "Riocard (Semove) - 8 - Barra do Piraí - Maçambará - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19013",
-        "nome": "Riocard (Semove) - 9 - Andrade Pinto - Maçamrabá - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19014",
-        "nome": "Riocard (Semove) - 10 - Paraíba do Sul - Vieira Cortez - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "4,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19015",
-        "nome": "Riocard (Semove) - 11 - Três Rios - Vieira Cortez - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,45",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "19016",
         "nome": "Riocard (Semove) - 12 - Maçambará - Vassouras - A",
         "fornecedor": "Riocard (Semove)",
         "valor": "8,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19017",
-        "nome": "Riocard (Semove) - 13 - Maçambará - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "18,70",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19018",
-        "nome": "Riocard (Semove) - 0 - Barra Mansa - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "25,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19019",
-        "nome": "Riocard (Semove) - 1 - Volta Redonda - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "22,30",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19020",
-        "nome": "Riocard (Semove) - 2 - Barra do Piraí - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19021",
-        "nome": "Riocard (Semove) - 0 - Três Rios - Resende - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "62,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19022",
-        "nome": "Riocard (Semove) - 1 - Resende - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "40,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19023",
-        "nome": "Riocard (Semove) - 2 - Barra Mansa - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "49,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19024",
-        "nome": "Riocard (Semove) - 3 - Barra Mansa - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "25,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19025",
-        "nome": "Riocard (Semove) - 4 - Volta Redonda - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "47,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19026",
-        "nome": "Riocard (Semove) - 5 - Volta Redonda - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "22,30",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19027",
-        "nome": "Riocard (Semove) - 6 - Vassouras - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "24,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19028",
-        "nome": "Riocard (Semove) - 7 - Barra do Piraí - Resende - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "32,45",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19029",
-        "nome": "Riocard (Semove) - 8 - Três Rios - Barra do Piraí - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "34,00",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19030",
-        "nome": "Riocard (Semove) - 0 - Barra Mansa - Petrópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "74,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19031",
-        "nome": "Riocard (Semove) - 1 - Barra Mansa - Paraíba do Sul - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "45,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19032",
-        "nome": "Riocard (Semove) - 2 - Barra Mansa - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "25,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19033",
-        "nome": "Riocard (Semove) - 3 - Barra Mansa - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "49,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19034",
-        "nome": "Riocard (Semove) - 4 - Petrópolis - Volta Redonda - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "73,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19035",
-        "nome": "Riocard (Semove) - 5 - Três Rios - Volta Redonda - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "47,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19036",
-        "nome": "Riocard (Semove) - 6 - Paraíba do Sul - Volta Redonda - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "40,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19037",
-        "nome": "Riocard (Semove) - 7 - Vassouras - Volta Redonda - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "22,30",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19038",
-        "nome": "Riocard (Semove) - 8 - Barra do Piraí - Petrópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "60,45",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19039",
-        "nome": "Riocard (Semove) - 9 - Barra do Piraí - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "34,00",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19040",
-        "nome": "Riocard (Semove) - 10 - Três Rios - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "24,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19041",
-        "nome": "Riocard (Semove) - 11 - Petrópolis - Vassouras - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "53,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19042",
-        "nome": "Riocard (Semove) - 12 - Paraíba do Sul - Petrópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "33,85",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -30800,38 +29464,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "19045",
-        "nome": "Riocard (Semove) - 1 - Paraiba do Sul - Andrade Pinto - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19046",
-        "nome": "Riocard (Semove) - 2 - Três Rios - Paraiba do Sul - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19047",
-        "nome": "Riocard (Semove) - 0 - P400 - Três Rios - Werneck - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,00",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19048",
-        "nome": "Riocard (Semove) - 0 - São José do Vale do Rio Preto - Petrópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "28,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "19049",
         "nome": "Riocard (Semove) - 2 - Petrópolis - Rio Bonito - A",
         "fornecedor": "Riocard (Semove)",
@@ -30840,34 +29472,10 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "19050",
-        "nome": "Riocard (Semove) - 3 - Posse - São José do Vale do Rio Preto - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "19051",
         "nome": "Riocard (Semove) - 0 - MP11 - Vassouras - Paracambi - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "38,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19052",
-        "nome": "Riocard (Semove) - 1 - Engenheiro Paulo de Frontin - Paracambi - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "4,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19053",
-        "nome": "Riocard (Semove) - 2 - Engenheiro Paulo de Frontin - Mendes - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "3,80",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -30896,30 +29504,6 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "19057",
-        "nome": "Riocard (Semove) - 6 - Vassouras - Engenheiro Paulo de Frontin - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "11,30",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19058",
-        "nome": "Riocard (Semove) - 7 - Cinco Lagos/Coqueiro - Engenheiro Paulo de Frontin - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19059",
-        "nome": "Riocard (Semove) - 8 - Cinco Lagos/Coqueiros - Vassouras - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,70",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
         "codigo": "19060",
         "nome": "Riocard (Semove) - 9 - Vassouras - Mendes - SA",
         "fornecedor": "Riocard (Semove)",
@@ -30932,14 +29516,6 @@
         "nome": "Riocard (Semove) - 10 - Ponte do Rocha - Paracambi - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "33,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19062",
-        "nome": "Riocard (Semove) - 11 - Ponte do Rocha - Engenheiro Paulo de Frontin - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,90",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -30988,14 +29564,6 @@
         "nome": "Riocard (Semove) - 1 - Areal - Portões - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "4,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19069",
-        "nome": "Riocard (Semove) - 0 - P210 - Três Rios - Valença (via Manuel Duarte) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "32,40",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -31108,1654 +29676,6 @@
         "nome": "Riocard (Semove) - 0 - MP72 - Morro Azul - Paracambi - SA",
         "fornecedor": "Riocard (Semove)",
         "valor": "11,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19084",
-        "nome": "Riocard (Semove) - 1 - Engenheiro Paulo de Frontin - Morro Azul - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19085",
-        "nome": "Riocard (Semove) - 2 - Engenheiro Paulo de Frontin - Sacra Familia - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,70",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19086",
-        "nome": "Riocard (Semove) - 3 - Engenheiro Paulo de Frontin - Paracambi - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "4,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19087",
-        "nome": "Riocard (Semove) - 4 - Sacra Familia - Paracambi - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19088",
-        "nome": "Riocard (Semove) - 0 - Três Rios - Sapucaia - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "15,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19089",
-        "nome": "Riocard (Semove) - 1 - Três Rios - Anta - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "11,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19090",
-        "nome": "Riocard (Semove) - 2 - Três Rios - Grama - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,45",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19091",
-        "nome": "Riocard (Semove) - 0 - P491 - Areal - Vale das Cachoeiras - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "4,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19092",
-        "nome": "Riocard (Semove) - 0 - P415 - Barão de Juparanã - Barra do Piraí - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19093",
-        "nome": "Riocard (Semove) - 3 - Barão de Juparanã - Demétrio Ribeiro - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "4,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19094",
-        "nome": "Riocard (Semove) - 4 - Barra do Piraí - Demétrio Ribeiro - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19095",
-        "nome": "Riocard (Semove) - 0 - P418 - Barra do Piraí - Demétrio Ribeiro - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19096",
-        "nome": "Riocard (Semove) - 0 - P501 - Vista Alegre - Volta Redonda - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19097",
-        "nome": "Riocard (Semove) - 0 - P502 - Vista Alegre - Volta Redonda ( via Praça José Calazans ) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19098",
-        "nome": "Riocard (Semove) - 0 - P185 - Resende - Volta Redonda - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "19,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19099",
-        "nome": "Riocard (Semove) - 1 - Resende - Floriano - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19100",
-        "nome": "Riocard (Semove) - 2 - Resende - Barra Mansa - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "15,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19101",
-        "nome": "Riocard (Semove) - 0 - P186 - Itatiaia - Volta Redonda - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "24,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19102",
-        "nome": "Riocard (Semove) - 1 - Itatiaia - Floriano - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19103",
-        "nome": "Riocard (Semove) - 2 - Itatiaia - Barra Mansa - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "20,70",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19104",
-        "nome": "Riocard (Semove) - 3 - Resende - Barra Mansa - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "15,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19105",
-        "nome": "Riocard (Semove) - 4 - Floriano - Resende - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19106",
-        "nome": "Riocard (Semove) - 5 - Resende - Volta Redonda - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "19,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19107",
-        "nome": "Riocard (Semove) - 0 - P503 - Resende - Floriano - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19108",
-        "nome": "Riocard (Semove) - 0 - P180 - Resende - Barra Mansa - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "15,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19109",
-        "nome": "Riocard (Semove) - 0 - P135 - Resende - Itatiaia - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19110",
-        "nome": "Riocard (Semove) - 1 - Itatiaia - Maromba - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19111",
-        "nome": "Riocard (Semove) - 0 - P510 - Resende - Maromba - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19112",
-        "nome": "Riocard (Semove) - 2 - Visconde de Mauá - Penedo [Posto dos Esquilos] - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19113",
-        "nome": "Riocard (Semove) - 0 - P525 - Rio Preto - Maromba - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,30",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19114",
-        "nome": "Riocard (Semove) - 0 - Rio de Janeiro - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "53,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19115",
-        "nome": "Riocard (Semove) - 1 - Rio de Janeiro - Alberto Torres - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "48,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19116",
-        "nome": "Riocard (Semove) - 2 - Rio de Janeiro - Bonsucesso - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "33,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19117",
-        "nome": "Riocard (Semove) - 0 - Rio de Janeiro - Areal (via Itaipava/Pedro do Rio) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "48,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19118",
-        "nome": "Riocard (Semove) - 1 - Rio de Janeiro - Bonsucesso - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "33,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19119",
-        "nome": "Riocard (Semove) - 2 - Rio de Janeiro - Itaipava - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "36,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19120",
-        "nome": "Riocard (Semove) - 3 - Rio de Janeiro - Pedro do Rio - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "39,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19121",
-        "nome": "Riocard (Semove) - 0 - Rio de Janeiro - Paraíba do Sul - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "59,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19122",
-        "nome": "Riocard (Semove) - 1 - Rio de Janeiro - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "53,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19123",
-        "nome": "Riocard (Semove) - 0 - Niterói - Werneck - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "67,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19124",
-        "nome": "Riocard (Semove) - 1 - Niterói - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "57,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19125",
-        "nome": "Riocard (Semove) - 2 - Niterói - Paraíba do Sul - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "63,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19126",
-        "nome": "Riocard (Semove) - 3 - Rio de Janeiro - Werneck - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "63,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19127",
-        "nome": "Riocard (Semove) - 4 - Rio de Janeiro - Paraíba do Sul - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "59,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19128",
-        "nome": "Riocard (Semove) - 5 - Rio de Janeiro - Três Rios - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "53,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19129",
-        "nome": "Riocard (Semove) - 0 - P460 - Barra do Piraí - Querozene - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "4,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19130",
-        "nome": "Riocard (Semove) - 0 - P455 - Barra do Piraí - Chalet - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "4,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19131",
-        "nome": "Riocard (Semove) - 0 - B145 - Cabo Frio - Saquarema - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19132",
-        "nome": "Riocard (Semove) - 0 - B460 - Cabo Frio - Bacaxá - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19133",
-        "nome": "Riocard (Semove) - 1 - Cabo Frio - Silva Jardim - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19134",
-        "nome": "Riocard (Semove) - 0 - B425 - Saquarema - São Vicente de Paula - SAC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19135",
-        "nome": "Riocard (Semove) - 0 - B440 - Cabo Frio - Sampaio Correa - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19136",
-        "nome": "Riocard (Semove) - 0 - B147 - Araruama - Cabo Frio - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19137",
-        "nome": "Riocard (Semove) - 0 - B420 - Cabo Frio - Praia do Sudoeste - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19138",
-        "nome": "Riocard (Semove) - 0 - B410 - Cabo Frio - Araçá - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19139",
-        "nome": "Riocard (Semove) - 0 - B101 - Cabo Frio - São Pedro da Aldeia - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19140",
-        "nome": "Riocard (Semove) - 0 - B405 - Cabo Frio - Iguaba Grande (via Flexeira) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19141",
-        "nome": "Riocard (Semove) - 0 - B480 - Cabo Frio - Retiro - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19142",
-        "nome": "Riocard (Semove) - 0 - B180 - Araruama - Silva Jardim (via São Vicente de Paula) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19143",
-        "nome": "Riocard (Semove) - 0 - B160 - Cabo Frio - Armação dos Búzios (Direta) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19144",
-        "nome": "Riocard (Semove) - 0 - B165 - Cabo Frio - Armação dos Búzios (via Guriri) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19145",
-        "nome": "Riocard (Semove) - 0 - B500 - Cabo Frio - Raza (via Baía Formosa) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19146",
-        "nome": "Riocard (Semove) - 0 - B501 - Cabo Frio - Raza (via Marina) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19147",
-        "nome": "Riocard (Semove) - 0 - B445 - Cabo Frio - Retiro (via Praia do Siqueira) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19148",
-        "nome": "Riocard (Semove) - 0 - B455 - Araruama - Bacaxá - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19149",
-        "nome": "Riocard (Semove) - 0 - B200 - Araruama - Iguaba Grande (via Iguabinha/Pedreira) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19150",
-        "nome": "Riocard (Semove) - 0 - B205 - Cabo Frio - São Pedro da Aldeia (via Jardim Primavera) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19151",
-        "nome": "Riocard (Semove) - 0 - B210 - Araruama - Arraial do Cabo (via Praia Seca) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19152",
-        "nome": "Riocard (Semove) - 0 - B215 - Cabo Frio - Iguaba Grande (via Cruz/Nova Iguaba) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19153",
-        "nome": "Riocard (Semove) - 0 - B475 - Araruama - Pernambuca - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19154",
-        "nome": "Riocard (Semove) - 0 - 124B - Nilópolis - Camerino (via Parada de Lucas) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19155",
-        "nome": "Riocard (Semove) - 0 - 522B - Parque São Vicente - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19156",
-        "nome": "Riocard (Semove) - 0 - 523B - Sargento Roncali - Central (via Parque São Vicente) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19157",
-        "nome": "Riocard (Semove) - 0 - 1522B - Sargento Roncali - Central (via Parque São Vicente) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "18,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19158",
-        "nome": "Riocard (Semove) - 0 - 520B - São Francisco - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19159",
-        "nome": "Riocard (Semove) - 0 - 518B - Heliópolis - Central (via Andrade Araújo) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19160",
-        "nome": "Riocard (Semove) - 0 - 524B - Nova Aurora - Central (via Heliópolis) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19161",
-        "nome": "Riocard (Semove) - 0 - 526B - Itaipu - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19162",
-        "nome": "Riocard (Semove) - 0 - 1518B - Heliópolis - Central - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "18,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19163",
-        "nome": "Riocard (Semove) - 0 - 561I - Santa Rita - Pavuna (via Ponto Chic) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19164",
-        "nome": "Riocard (Semove) - 0 - 564I - Santa Rita - Pavuna (Direto) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19165",
-        "nome": "Riocard (Semove) - 0 - 716L - Santa Rita - Pavuna (via Via Light) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19166",
-        "nome": "Riocard (Semove) - 0 - 553I - Bairro Santa Maria - Pavuna - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19167",
-        "nome": "Riocard (Semove) - 0 - 714I - Ponto Chic - Barro Vermelho - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19168",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - Magé - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "16,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19169",
-        "nome": "Riocard (Semove) - 1 - Barreiros - Magé - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "14,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19170",
-        "nome": "Riocard (Semove) - 2 - Guapimirim - Magé - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19171",
-        "nome": "Riocard (Semove) - 3 - Parada Modelo - Magé - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19172",
-        "nome": "Riocard (Semove) - 4 - Teresópolis - Guapimirim - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19173",
-        "nome": "Riocard (Semove) - 5 - Teresópolis - Parada Modelo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,30",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19174",
-        "nome": "Riocard (Semove) - 6 - Teresópolis - Barreiros - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19175",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - Sapucaia (via Jamapará) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "46,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19176",
-        "nome": "Riocard (Semove) - 1 - Teresópolis - Ponte Nova - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19177",
-        "nome": "Riocard (Semove) - 2 - Teresópolis - Volta do Pião - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "18,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19178",
-        "nome": "Riocard (Semove) - 3 - Teresópolis - Aparecida - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "25,45",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19179",
-        "nome": "Riocard (Semove) - 4 - Teresópolis - Jamapará - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "35,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19180",
-        "nome": "Riocard (Semove) - 5 - Aparecida - Jamapará - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19181",
-        "nome": "Riocard (Semove) - 6 - Volta do Pião - Sapucaia - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "28,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19182",
-        "nome": "Riocard (Semove) - 7 - Aparecida - Sapucaia - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "21,45",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19183",
-        "nome": "Riocard (Semove) - 8 - Sapucaia - Ponte Nova - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "36,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19184",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - Nova Iguaçu (via Duque de Caxias) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "42,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19185",
-        "nome": "Riocard (Semove) - 1 - Teresópolis - Guapimirim - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19186",
-        "nome": "Riocard (Semove) - 2 - Teresópolis - Duque de Caxias - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "34,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19187",
-        "nome": "Riocard (Semove) - 3 - Guapimirim - Duque de Caxias - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "32,30",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19188",
-        "nome": "Riocard (Semove) - 4 - Guapimirim - Nova Iguaçu - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "43,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19189",
-        "nome": "Riocard (Semove) - 0 - MS11 - Teresópolis - Guapimirim - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19190",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - Nova Friburgo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "31,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19191",
-        "nome": "Riocard (Semove) - 1 - Vieira - Conquista - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19192",
-        "nome": "Riocard (Semove) - 2 - Teresópolis - Vieira - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "16,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19193",
-        "nome": "Riocard (Semove) - 3 - Teresópolis - Conquista - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "22,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19194",
-        "nome": "Riocard (Semove) - 4 - Teresópolis - Campo do Coelho - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "24,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19195",
-        "nome": "Riocard (Semove) - 5 - Bonsucesso - Nova Friburgo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19196",
-        "nome": "Riocard (Semove) - 6 - Vieira - Nova Friburgo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "14,70",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19197",
-        "nome": "Riocard (Semove) - 7 - Campo do Coelho - Nova Friburgo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19198",
-        "nome": "Riocard (Semove) - 8 - Conquista - Nova Friburgo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19199",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - São José do Vale do Rio Preto - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19200",
-        "nome": "Riocard (Semove) - 2 - Ponte Nova - São José do Vale do Rio Preto - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19201",
-        "nome": "Riocard (Semove) - 3 - Poço Fundo - São José do Vale do Rio Preto - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "3,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19202",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - Petrópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "23,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19203",
-        "nome": "Riocard (Semove) - 1 - Teresópolis - Itaipava - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "16,30",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19204",
-        "nome": "Riocard (Semove) - 0 - Niterói - Teresópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "35,45",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19205",
-        "nome": "Riocard (Semove) - 1 - Niterói - Guapimirim - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "33,20",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19206",
-        "nome": "Riocard (Semove) - 2 - Alcântara - Teresópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "28,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19207",
-        "nome": "Riocard (Semove) - 3 - Teresópolis - Magé - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "16,85",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19208",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - Soledade - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "20,50",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19209",
-        "nome": "Riocard (Semove) - 1 - Teresópolis - Nhanguaçu - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19210",
-        "nome": "Riocard (Semove) - 2 - Teresópolis - Bonsucesso - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,90",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19211",
-        "nome": "Riocard (Semove) - 3 - Bonsucesso - Motta - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "4,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19212",
-        "nome": "Riocard (Semove) - 4 - Motta - Soledade - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "2,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19213",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - Carmo (via Sumidouro) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "36,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19214",
-        "nome": "Riocard (Semove) - 3 - Teresópolis - Sumidouro - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "26,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19215",
-        "nome": "Riocard (Semove) - 4 - Sumidouro - Carmo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19216",
-        "nome": "Riocard (Semove) - 5 - Volta do Pião - Carmo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "18,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19217",
-        "nome": "Riocard (Semove) - 0 - Niterói - Carmo (via BR-116) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "75,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19218",
-        "nome": "Riocard (Semove) - 1 - Niterói - Teresópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "35,45",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19219",
-        "nome": "Riocard (Semove) - 2 - Niterói - Jamapará - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "71,60",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19220",
-        "nome": "Riocard (Semove) - 3 - Teresópolis - Ponte Nova - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19221",
-        "nome": "Riocard (Semove) - 4 - Teresópolis - Volta do Pião - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "18,05",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19222",
-        "nome": "Riocard (Semove) - 5 - Teresópolis - Carmo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "39,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19223",
-        "nome": "Riocard (Semove) - 6 - Volta do Pião - Carmo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "21,70",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19224",
-        "nome": "Riocard (Semove) - 7 - Niterói - Parada Modelo - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "33,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19225",
-        "nome": "Riocard (Semove) - 0 - Rio de Janeiro - Teresópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "37,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19226",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - Barra da Tijuca - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "43,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19227",
-        "nome": "Riocard (Semove) - 1 - Guapimirim - Madureira - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "27,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19228",
-        "nome": "Riocard (Semove) - 2 - Teresópolis - Madureira - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "36,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19229",
-        "nome": "Riocard (Semove) - 0 - Castelo - Teresópolis - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "39,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19230",
-        "nome": "Riocard (Semove) - 0 - Castelo - Teresópolis - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "59,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19231",
-        "nome": "Riocard (Semove) - 1 - Rio de Janeiro (Novo Rio) - Teresópolis - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "55,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19232",
-        "nome": "Riocard (Semove) - 0 - Teresópolis - Rio das Ostras (via São Pedro da Aldeia) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "78,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19233",
-        "nome": "Riocard (Semove) - 1 - Teresópolis - São Pedro da Aldeia - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "62,55",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19234",
-        "nome": "Riocard (Semove) - 2 - Teresópolis - Itaboraí - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "31,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19235",
-        "nome": "Riocard (Semove) - 0 - 559B - Parque São Vicente - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19236",
-        "nome": "Riocard (Semove) - 0 - 3559B - Parque São Vicente - Central - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19237",
-        "nome": "Riocard (Semove) - 0 - 558C - Pilar - Central (via Vigário Geral) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19238",
-        "nome": "Riocard (Semove) - 0 - 557C - Pilar - Central (via Rodovia Washington Luiz) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19239",
-        "nome": "Riocard (Semove) - 0 - 556C - Jardim do Ipê - Central (via Rodovia Washington Luiz) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19240",
-        "nome": "Riocard (Semove) - 0 - 1558C - Jardim do Ipê - Central (via Rodovia Washington Luiz) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "29,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19241",
-        "nome": "Riocard (Semove) - 0 - 554I - Duque de Caxias - Mantiquira - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19242",
-        "nome": "Riocard (Semove) - 2 - Cidade dos Meninos - Mantiquira - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19243",
-        "nome": "Riocard (Semove) - 0 - 558I - Duque de Caxias - Parque Eldorado - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19244",
-        "nome": "Riocard (Semove) - 2 - Cidade dos Meninos - Parque Eldorado - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19245",
-        "nome": "Riocard (Semove) - 0 - 555I - Duque de Caxias - Campos Elíseos - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "9,25",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19246",
-        "nome": "Riocard (Semove) - 2 - Cidade dos Meninos - Campos Elíseos - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "6,35",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19247",
-        "nome": "Riocard (Semove) - 0 - 557I - Duque de Caxias - Pilar (via Fundação Cristo Redentor) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19248",
-        "nome": "Riocard (Semove) - 0 - 471C - Saracuruna - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19249",
-        "nome": "Riocard (Semove) - 0 - 477C - Jardim Primavera - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19250",
-        "nome": "Riocard (Semove) - 0 - 472C - Ana Clara - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19251",
-        "nome": "Riocard (Semove) - 0 - 1471C - Saracuruna - Passeio - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "29,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19252",
-        "nome": "Riocard (Semove) - 0 - 3471C - Saracuruna - Central - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "29,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19253",
-        "nome": "Riocard (Semove) - 0 - 466C - São Francisco do Croará - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "17,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19254",
-        "nome": "Riocard (Semove) - 0 - 461C - Raiz da Serra - Central - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19255",
-        "nome": "Riocard (Semove) - 0 - 1461C - Piabetá - Passeio (via Imbariê) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "29,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19256",
-        "nome": "Riocard (Semove) - 0 - 468C - Piabeta - Central (via Imbariê) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19257",
-        "nome": "Riocard (Semove) - 0 - 3461C - Piabetá - Central (via Imbariê) - A",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "29,75",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19258",
-        "nome": "Riocard (Semove) - 0 - 462C - Piabetá - Central (via Bongaba) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19259",
-        "nome": "Riocard (Semove) - 0 - 2462C - Piabetá - Central (via Parada Angélica/Imbariê) - AC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "21,45",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19260",
-        "nome": "Riocard (Semove) - 0 - 448C - Piabetá - Central (via Penha) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19261",
-        "nome": "Riocard (Semove) - 1 - Piabetá - Penha - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "13,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19262",
-        "nome": "Riocard (Semove) - 0 - 561L - Duque de Caxias - Freguesia (via Jacarepaguá) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19263",
-        "nome": "Riocard (Semove) - 0 - 562L - Duque de Caxias - Freguesia (via Rocha Miranda) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19264",
-        "nome": "Riocard (Semove) - 0 - 563L - Duque de Caxias - Rocha Miranda - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19265",
-        "nome": "Riocard (Semove) - 0 - 567L - Duque de Caxias - Freguesia (via Linha Amarela) - SAC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19266",
-        "nome": "Riocard (Semove) - 0 - 568L - Duque de Caxias - Praça Seca - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19267",
-        "nome": "Riocard (Semove) - 0 - 569L - Duque de Caxias - Madureira - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19268",
-        "nome": "Riocard (Semove) - 0 - Duque de Caxias - Taquara ( via Linha Amarela ) - SAC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19269",
-        "nome": "Riocard (Semove) - 0 - 560L - Duque de Caxias - Méier (via NorteShopping) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19270",
-        "nome": "Riocard (Semove) - 1 - Duque de Caxias - Madureira - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19271",
-        "nome": "Riocard (Semove) - 0 - 564L - Duque de Caxias - Vicente de Carvalho - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19272",
-        "nome": "Riocard (Semove) - 0 - 748L - Morro Agudo - Pavuna - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19273",
-        "nome": "Riocard (Semove) - 0 - 751L - Morro Agudo - Pavuna (via Cosmorama) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19274",
-        "nome": "Riocard (Semove) - 0 - 562I - Austin - Pavuna - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19275",
-        "nome": "Riocard (Semove) - 0 - 749L - Morro Agudo - Pavuna (via Via Light) - SAC",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19276",
-        "nome": "Riocard (Semove) - 0 - 460I - Nova Iguaçu - Delamare - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19277",
-        "nome": "Riocard (Semove) - 0 - 461I - Nova Iguaçu - Fábrica de Pólvora - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19278",
-        "nome": "Riocard (Semove) - 0 - 462I - Nova Iguaçu - Rua da Serra - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19279",
-        "nome": "Riocard (Semove) - 0 - 675I - Nova Iguaçu - BNH - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19280",
-        "nome": "Riocard (Semove) - 0 - 770I - Borba Gato - Bayer do Brasil - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19281",
-        "nome": "Riocard (Semove) - 0 - 580I - Pavuna - Três Fontes ( via Via Light ) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "8,10",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19282",
-        "nome": "Riocard (Semove) - 0 - 575P - Itaguaí - Pradre Miguel - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,95",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19283",
-        "nome": "Riocard (Semove) - 0 - 725D - Fonseca - São Cristóvão - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19284",
-        "nome": "Riocard (Semove) - 0 - 730D - Vital Brazil - Candelária (via Fonseca) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "10,40",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19285",
-        "nome": "Riocard (Semove) - 0 - 770D - Itaipu - Castelo - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19286",
-        "nome": "Riocard (Semove) - 0 - 771D - Pendotiba - Castelo (via PPCS) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "12,65",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19287",
-        "nome": "Riocard (Semove) - 0 - P465 - Resende - Bulhões (via Rodovia Presidente Dutra) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,80",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19288",
-        "nome": "Riocard (Semove) - 0 - P530 - Resende - Penedo - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "7,15",
-        "uf": "RJ",
-        "cidade": "Rio de Janeiro"
-    },
-    {
-        "codigo": "19289",
-        "nome": "Riocard (Semove) - 0 - P531 - Resende - Penedo (via Martinelli) - SA",
-        "fornecedor": "Riocard (Semove)",
-        "valor": "5,80",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -37747,7 +34667,7 @@
         "codigo": "4863",
         "nome": "Viação Verdes Mares - Cartão Enseada X Via Ubatuba (linha 100)",
         "fornecedor": "Viação Verdes Mares",
-        "valor": "6,00",
+        "valor": "6,50",
         "uf": "SC",
         "cidade": "Santa Catarina"
     },
@@ -37755,7 +34675,7 @@
         "codigo": "4875",
         "nome": "Viação Verdes Mares - Cartão Enseada via Forte (linha 102)",
         "fornecedor": "Viação Verdes Mares",
-        "valor": "6,00",
+        "valor": "6,50",
         "uf": "SC",
         "cidade": "Santa Catarina"
     },
@@ -37763,7 +34683,7 @@
         "codigo": "4879",
         "nome": "Viação Verdes Mares - Cartão Enseada via Praia Grande Circular",
         "fornecedor": "Viação Verdes Mares",
-        "valor": "6,00",
+        "valor": "6,50",
         "uf": "SC",
         "cidade": "Santa Catarina"
     },
@@ -37771,7 +34691,7 @@
         "codigo": "4880",
         "nome": "Viação Verdes Mares - Cartão Patamar 2",
         "fornecedor": "Viação Verdes Mares",
-        "valor": "6,00",
+        "valor": "6,50",
         "uf": "SC",
         "cidade": "Santa Catarina"
     },
@@ -37779,7 +34699,7 @@
         "codigo": "4882",
         "nome": "Viação Verdes Mares - Cartão São Francisco do Sul Urbano",
         "fornecedor": "Viação Verdes Mares",
-        "valor": "6,00",
+        "valor": "6,50",
         "uf": "SC",
         "cidade": "Santa Catarina"
     },
@@ -38218,7 +35138,7 @@
     {
         "codigo": "16239",
         "nome": "Araçoiaba da Serra - Cartão Municipal de Araçoiaba da Serra",
-        "fornecedor": "Araçoiaba da Serra - Eletrônico",
+        "fornecedor": "Araçoiaba da Serra - Eletrônico - PIX",
         "valor": "4,20",
         "uf": "SP",
         "cidade": "Araçoiaba da Serra"

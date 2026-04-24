@@ -9,10 +9,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19547;Simohu - Cartão Maceió X Pilar;Simohu;9,00;5;10;AL;Maceió;16/03/2026
 10794;Transpal Urbano - Cartão Urbano Maceió (Bem Legal);Vamu Mobilidade;4,00;5;10;AL;Maceió;09/01/2024
 245;Sinetram - Cartão Municipal Manaus (Passafácil);Sinetram - Novo Sistema;5,00;5;10;AM;Manaus;02/03/2026
-15646;CTMAC - Cartão Municipal Macapá;CTMAC;3,70;10;10;AP;Macapá;18/03/2025
 381;Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá;Setap - Intermunicipal;4,00;5;10;AP;Macapá;16/08/2023
 2583;Alagoinhas - Cartão Urbano Alagoinhas;Alagoinhas;4,60;5;10;BA;Alagoinhas;12/02/2026
 8600;Atlântico Transportes (Itabuna) - Cartão Municipal Itabuna;Atlântico Transportes - Itabuna;4,30;5;10;BA;Itabuna;01/10/2025
+19600;Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro;Atlântico Transportes - Juazeiro - PIX;5,25;5;10;BA;Juazeiro;23/04/2026
+19601;Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro;Atlântico Transportes - Juazeiro - PIX;5,00;5;10;BA;Juazeiro;23/04/2026
 7449;Atlântico Transportes (Paulo Afonso) - Cartão Municipal Paulo Afonso;Atlântico Transportes - Paulo Afonso;4,00;5;10;BA;Paulo Afonso;01/05/2021
 15624;Atranspi - Cartão Municipal Ilhéus;Atranspi - Novo Sistema;4,50;5;10;BA;Ilheus;17/06/2025
 10841;ATUV - Cartório Municipal Vitória da Conquista;ATUV - Novo Sistema;4,00;5;10;BA;Vitória da Conquista;02/01/2026
@@ -781,7 +782,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15195;Viação Vale do Mucury - Cartão Municipal Teófilo Otoni;Viação Vale do Mucury - Novo Sistema;3,90;5;10;MG;Teófilo Otoni;20/08/2024
 10694;Vinscol - Cartão Municipal Sabará;Vinscol;5,40;5;10;MG;Sabará;08/11/2023
 10695;Vinscol - Cartão Sabará X Ravena;Vinscol;6,35;5;10;MG;Sabará;08/11/2023
-8166;Andorinha (Corumbá - Sistema Novo) - Cartão Corumbá X Ladário;Andorinha - Corumbá;6,10;5;10;MS;Corumbá;22/04/2025
+8166;Andorinha (Corumbá - Sistema Novo) - Cartão Corumbá X Ladário;Andorinha - Corumbá;7,00;5;10;MS;Corumbá;23/04/2026
 5466;Cidade Corumbá - Cartão Municipal Corumbá;Cidade Corumbá;3,70;5;10;MS;Corumbá;15/03/2019
 3953;Consórcio Guaicurus - Cartão Municipal Campo Grande;Consórcio Guaicurus;4,95;5;10;MS;Campo Grande;24/01/2025
 9668;Expresso Mato Grosso - Cartão Campo Grande X Terenos;Expresso Mato Grosso - Novo Sistema;12,00;5;10;MS;Campo Grande;24/04/2025
@@ -3495,82 +3496,42 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 18688;Riocard (Semove) - 0 - 152N - Duque de Caxias - Petrópolis (via direto) - SA;Riocard (Semove);21,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18689;Riocard (Semove) - 0 - 153N - Santa Cruz da Serra - Petrópolis - SA;Riocard (Semove);14,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18690;Riocard (Semove) - 0 - Cabo Frio - Petrópolis (via Araruama) - A;Riocard (Semove);84,30;3;7;RJ;Rio de Janeiro;01/12/2025
-18691;Riocard (Semove) - 0 - Cabo Frio - Petrópolis (via Araruama) - E;Riocard (Semove);151,70;3;7;RJ;Rio de Janeiro;01/12/2025
 18692;Riocard (Semove) - 0 - Castelo - Itaipava (via Bingen) - A;Riocard (Semove);53,50;3;7;RJ;Rio de Janeiro;01/12/2025
 18693;Riocard (Semove) - 0 - Cidade Universitária - Petrópolis - A;Riocard (Semove);32,75;3;7;RJ;Rio de Janeiro;01/12/2025
 18694;Riocard (Semove) - 0 - Castelo - Petrópolis - AC;Riocard (Semove);62,20;3;7;RJ;Rio de Janeiro;01/12/2025
 18695;Riocard (Semove) - 0 - Barra da Tijuca - Petrópolis - A;Riocard (Semove);37,65;3;7;RJ;Rio de Janeiro;01/12/2025
 18696;Riocard (Semove) - 1 - Cidade Universitária - Petrópolis - A;Riocard (Semove);32,75;3;7;RJ;Rio de Janeiro;01/12/2025
-18697;Riocard (Semove) - 0 - Barra da Tijuca - Petrópolis (via Cidade Universitária) - E;Riocard (Semove);77,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18698;Riocard (Semove) - 1 - Cidade Universitária - Petrópolis - E;Riocard (Semove);50,85;3;7;RJ;Rio de Janeiro;01/12/2025
 18699;Riocard (Semove) - 2 - Santa Cruz da Serra - Petrópolis - E;Riocard (Semove);35,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18700;Riocard (Semove) - 3 - Santa Rosa - Duque de Caxias - E;Riocard (Semove);31,20;3;7;RJ;Rio de Janeiro;01/12/2025
-18701;Riocard (Semove) - 0 - Petrópolis - Seropédica [UFRRJ] ( via Arco Metropolitano ) - AC;Riocard (Semove);34,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18702;Riocard (Semove) - 0 - P220 - Três Rios - Comendador Levy Gasparian (via Fábrica) - SA;Riocard (Semove);6,00;3;7;RJ;Rio de Janeiro;01/12/2025
-18703;Riocard (Semove) - 0 - P230 - Três Rios - Comendador Levy Gasparian (via Império) - SA;Riocard (Semove);6,00;3;7;RJ;Rio de Janeiro;01/12/2025
-18704;Riocard (Semove) - 0 - P240 - Três Rios - Comendador Levy Gasparian (via Gulf) - SA;Riocard (Semove);6,00;3;7;RJ;Rio de Janeiro;01/12/2025
 18705;Riocard (Semove) - 0 - P530 - Três Rios - Afonso Arinos - SA;Riocard (Semove);8,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18706;Riocard (Semove) - 0 - 510I - Duque de Caxias - Raiz da Serra - SA;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18707;Riocard (Semove) - 1 - Duque de Caxias - Posto Bravo - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18708;Riocard (Semove) - 2 - Duque de Caxias - Parada Angélica - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18709;Riocard (Semove) - 3 - Cidade dos Meninos - Raiz da Serra - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18710;Riocard (Semove) - 0 - 512I - Duque de Caxias - Parada Angélica - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18711;Riocard (Semove) - 2 - Cidade dos Meninos - Parada Angélica - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18712;Riocard (Semove) - 0 - 511I - Duque de Caxias - Parque Paulista - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18713;Riocard (Semove) - 2 - Cidade dos Meninos - Parque Paulista - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18714;Riocard (Semove) - 0 - 513I - Duque de Caxias - Nova Campina - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18715;Riocard (Semove) - 2 - Cidade dos Meninos - Nova Campina - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18716;Riocard (Semove) - 0 - 514I - Duque de Caxias - Raiz da Serra (via Nova Campina) - SA;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
-18717;Riocard (Semove) - 0 - 509I - Duque de Caxias - Cangulo (via BR-493) - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
 18718;Riocard (Semove) - 2 - Cidade dos Meninos - Cangulo - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18719;Riocard (Semove) - 0 - 507I - Duque de Caxias - Saracuruna (via Jardim Primavera) - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18720;Riocard (Semove) - 2 - Cidade dos Meninos - Saracuruna - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18721;Riocard (Semove) - 0 - 506I - Duque de Caxias - Ipiranga (via Estrada Nova) - SA;Riocard (Semove);14,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18722;Riocard (Semove) - 2 - Trevo BR-493 - Ipiranga - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18723;Riocard (Semove) - 0 - 505I - Duque de Caxias - Ipiranga (via Suruí) - SA;Riocard (Semove);14,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18724;Riocard (Semove) - 1 - Trevo BR-493 - Ipiranga - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18725;Riocard (Semove) - 2 - Duque de Caxias - Posto Bravo - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18726;Riocard (Semove) - 3 - Duque de Caxias - Suruí - SA;Riocard (Semove);14,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18727;Riocard (Semove) - 4 - Suruí - Ipiranga - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18728;Riocard (Semove) - 0 - 470C - Taquara - Central (via Parada Angélica) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-18729;Riocard (Semove) - 0 - 2470C - Taquara - Praça Mauá (via Parada Angélica) - AC;Riocard (Semove);18,75;3;7;RJ;Rio de Janeiro;01/12/2025
-18730;Riocard (Semove) - 0 - 469 C - Santa Cruz da Serra - Passeio - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18731;Riocard (Semove) - 0 - 571C - Nova Campina - Central - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18732;Riocard (Semove) - 0 - 565C - Figueira - Central - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-18733;Riocard (Semove) - 0 - Central - Nova Campinas (via Santa Cruz da Serra) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-18734;Riocard (Semove) - 0 - 486C - Xerém - Passeio (via Central) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-18735;Riocard (Semove) - 0 - 566C - Praça Santo Antônio - Central - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-18736;Riocard (Semove) - 0 - 413N - Petrópolis - Nova Campinas - SA;Riocard (Semove);12,50;3;7;RJ;Rio de Janeiro;01/12/2025
 18737;Riocard (Semove) - 1 - Vila Inhomirim - Nova Campina - SA;Riocard (Semove);5,90;3;7;RJ;Rio de Janeiro;01/12/2025
-18738;Riocard (Semove) - 0 - 411N - Petrópolis - Imbariê (via Piabetá) - SA;Riocard (Semove);12,50;3;7;RJ;Rio de Janeiro;01/12/2025
 18739;Riocard (Semove) - 1 - Raiz da Serra - Imbariê - SA;Riocard (Semove);5,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18740;Riocard (Semove) - 2 - Petrópolis - Meio da Serra - SA;Riocard (Semove);5,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18741;Riocard (Semove) - 0 - 637T - Leblon - Xerém - SA;Riocard (Semove);14,15;3;7;RJ;Rio de Janeiro;01/12/2025
-18742;Riocard (Semove) - 0 - 410T - Barra da Tijuca - São João de Meriti - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
 18743;Riocard (Semove) - 0 - 514B - Eden - Central - SA;Riocard (Semove);11,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18744;Riocard (Semove) - 0 - 512B - Vilar dos Teles - Central - SA;Riocard (Semove);11,15;3;7;RJ;Rio de Janeiro;01/12/2025
-18745;Riocard (Semove) - 0 - 1512B - Coelho da Rocha - Castelo (via Vilar dos Teles) - A;Riocard (Semove);24,20;3;7;RJ;Rio de Janeiro;01/12/2025
 18746;Riocard (Semove) - 0 - 1140B - Éden - Castelo - A;Riocard (Semove);24,20;3;7;RJ;Rio de Janeiro;01/12/2025
-18747;Riocard (Semove) - 0 - 474B - Praça da Bandeira - Central (via Coelho da Rocha) - SA;Riocard (Semove);11,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18748;Riocard (Semove) - 0 - 472B - Bom Pastor - Central - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-18749;Riocard (Semove) - 0 - 661I - Nova Iguaçu - Vila Emil (via Santo Elias) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18750;Riocard (Semove) - 0 - 663I - Nova Iguaçu - Jacutinga - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18751;Riocard (Semove) - 0 - 600I - Nova Iguaçu - Belford Roxo (via BNH) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18752;Riocard (Semove) - 0 - 601I - Nova Iguaçu - Belford Roxo (via Antônio José Bittencourt) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18753;Riocard (Semove) - 0 - 142I - Duque de Caxias - São João de Meriti (via Venda Velha) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18754;Riocard (Semove) - 0 - 141I - Duque de Caxias - São João de Meriti (via Rua 13) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18755;Riocard (Semove) - 0 - P104 - Barra Mansa - Piraí - SA;Riocard (Semove);21,55;3;7;RJ;Rio de Janeiro;01/12/2025
 18756;Riocard (Semove) - 1 - Barra Mansa - Arrozal - SA;Riocard (Semove);13,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18757;Riocard (Semove) - 2 - Volta Redonda - Arrozal - SA;Riocard (Semove);10,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18758;Riocard (Semove) - 3 - Volta Redonda - Piraí - SA;Riocard (Semove);17,75;3;7;RJ;Rio de Janeiro;01/12/2025
 18759;Riocard (Semove) - 4 - Rio Brandão - Piraí - SA;Riocard (Semove);10,35;3;7;RJ;Rio de Janeiro;01/12/2025
 18760;Riocard (Semove) - 5 - Serrinha - Barra Mansa - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18761;Riocard (Semove) - 0 - P541 - Barra Mansa - Roma II (via Serrinha) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18762;Riocard (Semove) - 0 - P544 - Barra Mansa - Moinho de Vento (via Volta Redonda) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
 18763;Riocard (Semove) - 0 - P546 - Barra Mansa - Arrozal - SA;Riocard (Semove);13,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18764;Riocard (Semove) - 1 - Volta Redonda - Arrozal - SA;Riocard (Semove);10,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18765;Riocard (Semove) - 2 - Serrinha - Barra Mansa - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18766;Riocard (Semove) - 0 - P547 - Barra Mansa - Roma II (via Rodovia dos Metalúrgicos) - SA;Riocard (Semove);9,60;3;7;RJ;Rio de Janeiro;01/12/2025
 18767;Riocard (Semove) - 0 - Niterói - Resende (via PPCS) - A;Riocard (Semove);81,30;3;7;RJ;Rio de Janeiro;01/12/2025
 18768;Riocard (Semove) - 1 - Niterói - Piraí - A;Riocard (Semove);44,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18769;Riocard (Semove) - 2 - Niterói - Volta Redonda - A;Riocard (Semove);60,75;3;7;RJ;Rio de Janeiro;01/12/2025
@@ -3604,11 +3565,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 18797;Riocard (Semove) - 2 - Barra Mansa - Nova Iguaçu - A;Riocard (Semove);42,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18798;Riocard (Semove) - 3 - Volta Redonda - Nova Iguaçu - A;Riocard (Semove);39,25;3;7;RJ;Rio de Janeiro;01/12/2025
 18799;Riocard (Semove) - 4 - Nova Iguaçu - Piraí - A;Riocard (Semove);21,45;3;7;RJ;Rio de Janeiro;01/12/2025
-18800;Riocard (Semove) - 0 - Rio de Janeiro - Barra Mansa (via Volta Redonda) - A;Riocard (Semove);56,65;3;7;RJ;Rio de Janeiro;01/12/2025
 18801;Riocard (Semove) - 1 - Rio de Janeiro - Volta Redonda - A;Riocard (Semove);53,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18802;Riocard (Semove) - 0 - Rio de Janeiro - Barra Mansa (via Volta Redonda) - E;Riocard (Semove);70,80;3;7;RJ;Rio de Janeiro;01/12/2025
 18803;Riocard (Semove) - 1 - Rio de Janeiro - Volta Redonda - E;Riocard (Semove);66,55;3;7;RJ;Rio de Janeiro;01/12/2025
-18804;Riocard (Semove) - 0 - Barra Mansa - Campo Grande ( via Volta Redonda e Itaguaí) - A;Riocard (Semove);52,10;3;7;RJ;Rio de Janeiro;01/12/2025
 18805;Riocard (Semove) - 3 - Campo Grande - Volta Redonda - A;Riocard (Semove);48,50;3;7;RJ;Rio de Janeiro;01/12/2025
 18806;Riocard (Semove) - 4 - Barra Mansa - Itaguaí - A;Riocard (Semove);41,30;3;7;RJ;Rio de Janeiro;01/12/2025
 18807;Riocard (Semove) - 5 - Itaguaí - Volta Redonda - A;Riocard (Semove);37,50;3;7;RJ;Rio de Janeiro;01/12/2025
@@ -3621,7 +3579,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 18814;Riocard (Semove) - 12 - Belvedere - Piraí - A;Riocard (Semove);12,10;3;7;RJ;Rio de Janeiro;01/12/2025
 18815;Riocard (Semove) - 13 - Caiçaras - Piraí - A;Riocard (Semove);4,00;3;7;RJ;Rio de Janeiro;01/12/2025
 18816;Riocard (Semove) - 14 - Campo Grande - Piraí - A;Riocard (Semove);34,70;3;7;RJ;Rio de Janeiro;01/12/2025
-18817;Riocard (Semove) - 0 - Rio de Janeiro - Engenheiro Passos - A;Riocard (Semove);79,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18818;Riocard (Semove) - 1 - Rio de Janeiro - Resende - A;Riocard (Semove);66,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18819;Riocard (Semove) - 2 - Rio de Janeiro - Penedo - A;Riocard (Semove);71,20;3;7;RJ;Rio de Janeiro;01/12/2025
 18820;Riocard (Semove) - 3 - Rio de Janeiro - Itatiaia - A;Riocard (Semove);74,40;3;7;RJ;Rio de Janeiro;01/12/2025
@@ -3636,26 +3593,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 18829;Riocard (Semove) - 0 - Cabo Frio - Resende - AC;Riocard (Semove);127,85;3;7;RJ;Rio de Janeiro;01/12/2025
 18830;Riocard (Semove) - 1 - Barra Mansa - Cabo Frio - AC;Riocard (Semove);110,60;3;7;RJ;Rio de Janeiro;01/12/2025
 18831;Riocard (Semove) - 2 - Cabo Frio - Volta Redonda - AC;Riocard (Semove);109,00;3;7;RJ;Rio de Janeiro;01/12/2025
-18832;Riocard (Semove) - 3 - Cabo Frio - Casa do Mamão/Casa do Bubi - AC;Riocard (Semove);95,80;3;7;RJ;Rio de Janeiro;01/12/2025
-18833;Riocard (Semove) - 0 - P750 - Vila Rica - Jardim Primavera - SA;Riocard (Semove);6,05;3;7;RJ;Rio de Janeiro;01/12/2025
-18834;Riocard (Semove) - 0 - P715 - Jardim Amália - Bairro Paraíso (via Mangueiras) - SA;Riocard (Semove);6,05;3;7;RJ;Rio de Janeiro;01/12/2025
-18835;Riocard (Semove) - 0 - P716 - Jardim Amália - Bairro Boa Vista (via Bairro Paraíso) - SA;Riocard (Semove);6,05;3;7;RJ;Rio de Janeiro;01/12/2025
-18836;Riocard (Semove) - 0 - P710 - São Geraldo - Bairro Nove de Abril (via Rua 14) - SA;Riocard (Semove);6,05;3;7;RJ;Rio de Janeiro;01/12/2025
-18837;Riocard (Semove) - 0 - 665I - Nova Iguaçu - Edson Passos (via Emílio Guadagny) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18838;Riocard (Semove) - 0 - 670I - Nova Iguaçu - Edson Passos (via Gordura) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18839;Riocard (Semove) - 0 - P720 - Praça Castelo Branco - Cerâmica União - SA;Riocard (Semove);5,55;3;7;RJ;Rio de Janeiro;01/12/2025
-18840;Riocard (Semove) - 0 - P721 - Praça Castelo Branco - Bairro California - SA;Riocard (Semove);5,80;3;7;RJ;Rio de Janeiro;01/12/2025
-18841;Riocard (Semove) - 0 - P735 - Jardim Amália(VR) - Santa Clara(BM) (v.Rua 33 e v.São Pedro) - SA;Riocard (Semove);7,20;3;7;RJ;Rio de Janeiro;01/12/2025
-18842;Riocard (Semove) - 0 - P200 - Barra Mansa - Volta Redonda (via Retiro) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18843;Riocard (Semove) - 0 - P207 - Barra Mansa - Volta Redonda (via Jardim Amália) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18844;Riocard (Semove) - 0 - P730 - Vila Maria - Santo Agostinho (via Volta Redonda) - SA;Riocard (Semove);7,20;3;7;RJ;Rio de Janeiro;01/12/2025
-18845;Riocard (Semove) - 0 - P195 - Barra Mansa - Volta Redonda (via Rua 14) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18846;Riocard (Semove) - 0 - P190 - Barra Mansa - Volta Redonda (via Rua 33) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18847;Riocard (Semove) - 0 - P494 - Santa Isabel do Rio Preto - Barra Mansa (via Volta Redonda) - SA;Riocard (Semove);21,85;3;7;RJ;Rio de Janeiro;01/12/2025
 18848;Riocard (Semove) - 1 - Amparo - Volta Redonda - SA;Riocard (Semove);6,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18849;Riocard (Semove) - 2 - Amparo - Barra Mansa - SA;Riocard (Semove);10,25;3;7;RJ;Rio de Janeiro;01/12/2025
 18850;Riocard (Semove) - 0 - P495 - Amparo - Barra Mansa - SA;Riocard (Semove);10,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18851;Riocard (Semove) - 0 - P145 - Barra do Piraí - Ponte Alta (via Pinheiral) - SA;Riocard (Semove);19,55;3;7;RJ;Rio de Janeiro;01/12/2025
 18852;Riocard (Semove) - 1 - Barra do Piraí - Vargem Alegre - SA;Riocard (Semove);7,80;3;7;RJ;Rio de Janeiro;01/12/2025
 18853;Riocard (Semove) - 2 - Barra do Piraí - Pinheiral - SA;Riocard (Semove);11,75;3;7;RJ;Rio de Janeiro;01/12/2025
 18854;Riocard (Semove) - 3 - Ponte Preta - Vargem Alegre - SA;Riocard (Semove);5,15;3;7;RJ;Rio de Janeiro;01/12/2025
@@ -3664,23 +3604,14 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 18857;Riocard (Semove) - 6 - Pinheiral - Ponte Alta - SA;Riocard (Semove);7,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18858;Riocard (Semove) - 7 - Três Possos - Ponte Alta - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
 18859;Riocard (Semove) - 0 - P431 - Pinheiral - Ponte Alta - SA;Riocard (Semove);7,15;3;7;RJ;Rio de Janeiro;01/12/2025
-18860;Riocard (Semove) - 0 - P432 - Ponte Alta - Vargem Alegre - SA;Riocard (Semove);11,75;3;7;RJ;Rio de Janeiro;01/12/2025
 18861;Riocard (Semove) - 1 - Ponte Alta - Pinheiral - SA;Riocard (Semove);7,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18862;Riocard (Semove) - 2 - Pinheiral - Vargem Alegre - SA;Riocard (Semove);4,00;3;7;RJ;Rio de Janeiro;01/12/2025
 18863;Riocard (Semove) - 3 - Ponte Alta - Três Poços - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
 18864;Riocard (Semove) - 0 - P731 - Palmeiras - Ponte Alta - SA;Riocard (Semove);7,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18865;Riocard (Semove) - 0 - P732 - Cruzeiro - Ponte Alta - SA;Riocard (Semove);7,15;3;7;RJ;Rio de Janeiro;01/12/2025
-18866;Riocard (Semove) - 0 - P711 - Vila Rica - Boa Vista I (via Jardim Redentor e Jardim Guanabara) - SA;Riocard (Semove);6,05;3;7;RJ;Rio de Janeiro;01/12/2025
 18867;Riocard (Semove) - 0 - P717 - Vila Rica - Boa Vista II - SA;Riocard (Semove);6,05;3;7;RJ;Rio de Janeiro;01/12/2025
-18868;Riocard (Semove) - 0 - P714 - Jardim Belvedere - São Judas Tadeu - SA;Riocard (Semove);6,05;3;7;RJ;Rio de Janeiro;01/12/2025
-18869;Riocard (Semove) - 0 - P713 - Jardim Belvedere - Bairro Nove de Abril - SA;Riocard (Semove);6,05;3;7;RJ;Rio de Janeiro;01/12/2025
 18870;Riocard (Semove) - 0 - 443M - Niterói - Boa Vista - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18871;Riocard (Semove) - 0 - 523M - Niterói - Praia Pedrinhas (via BR-101) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
 18872;Riocard (Semove) - 0 - 524M - Niterói - Pontal - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18873;Riocard (Semove) - 0 - 526M - Niterói - Bairro Antonina (via Porto da Pedra) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18874;Riocard (Semove) - 0 - 536M - Niterói - Bairro Antonina (via Boa Vista ) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18875;Riocard (Semove) - 0 - P740 - Vila Ursolino - Jardim Amália - SA;Riocard (Semove);7,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18876;Riocard (Semove) - 0 - P725 - Quatis - Volta Redonda (via Ponte Alta) - SA;Riocard (Semove);15,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18877;Riocard (Semove) - 1 - Quatis - Floriano - SA;Riocard (Semove);2,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18878;Riocard (Semove) - 2 - Quatis - Barra Mansa - SA;Riocard (Semove);11,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18879;Riocard (Semove) - 3 - Floriano - Barra Mansa - SA;Riocard (Semove);8,25;3;7;RJ;Rio de Janeiro;01/12/2025
@@ -3690,116 +3621,52 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 18883;Riocard (Semove) - 2 - Quatis - Floriano - SA;Riocard (Semove);2,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18884;Riocard (Semove) - 0 - P420 - Resende - Quatis - SA;Riocard (Semove);9,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18885;Riocard (Semove) - 1 - Floriano - Quatis - SA;Riocard (Semove);2,90;3;7;RJ;Rio de Janeiro;01/12/2025
-18886;Riocard (Semove) - 0 - P422 - BNH - Resende (via Floriano) - SA;Riocard (Semove);9,65;3;7;RJ;Rio de Janeiro;01/12/2025
 18887;Riocard (Semove) - 1 - Porto Real - Floriano - SA;Riocard (Semove);4,90;3;7;RJ;Rio de Janeiro;01/12/2025
-18888;Riocard (Semove) - 0 - 528M - Niterói - Galo Branco (via Barro Vermelho) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
 18889;Riocard (Semove) - 0 - 530M - Niterói - Colubandê - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18890;Riocard (Semove) - 0 - 531M - Niterói - Jardim Alcântara (via Dr. March) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18891;Riocard (Semove) - 0 - 529M - Niterói - Ceasa (via Barro Vermelho) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18892;Riocard (Semove) - 0 - 538M - Praça do Rocha - Niterói (via Av. Contorno) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18893;Riocard (Semove) - 0 - 520D - Jardim Alcântara - Estácio (via Dr. March) - SA;Riocard (Semove);14,15;3;7;RJ;Rio de Janeiro;01/12/2025
-18894;Riocard (Semove) - 0 - 2520D - Jardim Alcântara - Estácio (via Dr. March) - AC;Riocard (Semove);21,55;3;7;RJ;Rio de Janeiro;01/12/2025
-18895;Riocard (Semove) - 0 - 445M - Niterói - Engenho Pequeno (via Neves) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18896;Riocard (Semove) - 0 - 446M - Niterói - Engenho Pequeno (via Mentor Couto) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18897;Riocard (Semove) - 0 - 425D - Alcântara - Campo Grande (via Vila Militar) - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18898;Riocard (Semove) - 0 - 2425D - Alcântara - Campo Grande (via Vila Militar) - AC;Riocard (Semove);26,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18899;Riocard (Semove) - 0 - 4425D - Barreto - Campo Grande (via Vila Militar) - AC;Riocard (Semove);26,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18900;Riocard (Semove) - 0 - 424D - Alcântara - Campo Grande (via Água Branca) - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18901;Riocard (Semove) - 0 - 422M - Niterói - Portão do Rosa - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18902;Riocard (Semove) - 0 - 423M - Niterói - Portão do Rosa (via BR-101) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18903;Riocard (Semove) - 0 - 143M - Niterói - São Gonçalo (via Dr. March) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18904;Riocard (Semove) - 0 - 533D - Alcântara - Méier (via PPCS) - SA;Riocard (Semove);15,20;3;7;RJ;Rio de Janeiro;01/12/2025
-18905;Riocard (Semove) - 0 - 2533D - Alcântara - Méier (via PPCS) - AC;Riocard (Semove);22,80;3;7;RJ;Rio de Janeiro;01/12/2025
 18906;Riocard (Semove) - 0 - Alcântara - Méier - SAC;Riocard (Semove);15,20;3;7;RJ;Rio de Janeiro;01/12/2025
-18907;Riocard (Semove) - 0 - 532M - Niterói - Alcântara (via Dr. March) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
 18908;Riocard (Semove) - 0 - 100D - Niterói - Candelária - SA;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;25/02/2026
-18909;Riocard (Semove) - 0 - 590M - Niterói - Amendoeira (via Tribobó) - SA;Riocard (Semove);8,10;3;7;RJ;Rio de Janeiro;01/12/2025
-18910;Riocard (Semove) - 0 - 590R - Candelária - Ponta Negra (via Boqueirão) - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18911;Riocard (Semove) - 0 - 2590R - Castelo - Ponta Negra (via Boqueirão) - AC;Riocard (Semove);48,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18912;Riocard (Semove) - 0 - 535R - Niterói - Várzea das Moças (via Tribobó) - SA;Riocard (Semove);8,10;3;7;RJ;Rio de Janeiro;01/12/2025
-18913;Riocard (Semove) - 0 - 571R - Niterói - Engenho do Roçado (via Ipiíba) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18914;Riocard (Semove) - 0 - 536R - Niterói - Várzea das Moças (via Maria Paula e Santa Anita) - SA;Riocard (Semove);8,10;3;7;RJ;Rio de Janeiro;01/12/2025
-18915;Riocard (Semove) - 0 - 144R - Niterói - Maricá ( via Tribobó) - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
 18916;Riocard (Semove) - 0 - 2144R - Niterói - Maricá - AC;Riocard (Semove);24,65;3;7;RJ;Rio de Janeiro;01/12/2025
 18917;Riocard (Semove) - 0 - 585R - Niterói - Itaipuaçu - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
 18918;Riocard (Semove) - 0 - 544R - Maricá - Tribobó - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
 18919;Riocard (Semove) - 0 - 4144R - Niterói - Itaipuaçu - AC;Riocard (Semove);24,65;3;7;RJ;Rio de Janeiro;01/12/2025
 18920;Riocard (Semove) - 0 - 701R - Itaipuaçu - Rio do Ouro - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18921;Riocard (Semove) - 0 - 546R - Maricá - Rio do Ouro (via Av. Ver. Francisco S. da Costa) - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18922;Riocard (Semove) - 0 - 6144R - Niterói - Itaipuaçu [Rua 128] - AC;Riocard (Semove);24,65;3;7;RJ;Rio de Janeiro;01/12/2025
-18923;Riocard (Semove) - 0 - 145R - Maricá - Niterói (via São José do Imbassaí) - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-18924;Riocard (Semove) - 0 - 534R - Niterói - Jaconé (via Ponta Negra) - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-18925;Riocard (Semove) - 0 - 540R - Niterói - Jóquei Club (via Tribobó/Oásis) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18926;Riocard (Semove) - 0 - 541R - Niterói - Jóquei Club (via Arsenal) - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
 18927;Riocard (Semove) - 0 - 542R - Niterói - Anaia - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18928;Riocard (Semove) - 0 - 537R - Niterói - Itaipu (via Tribobó) - SA;Riocard (Semove);8,10;3;7;RJ;Rio de Janeiro;01/12/2025
-18929;Riocard (Semove) - 0 - 538R - Itaipu - Niterói (via Tribobó/ Av. Central) - SA;Riocard (Semove);8,10;3;7;RJ;Rio de Janeiro;01/12/2025
 18930;Riocard (Semove) - 0 - 146D - Maricá - Candelária - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18931;Riocard (Semove) - 0 - 578D - Ponta Negra - Castelo (via Manoel Ribeiro) - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18932;Riocard (Semove) - 0 - 579D - Candelária - Itaipuaçu - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18933;Riocard (Semove) - 0 - Anaia - Castelo - SA;Riocard (Semove);14,15;3;7;RJ;Rio de Janeiro;01/12/2025
-18934;Riocard (Semove) - 0 - 6146D - Castelo - Itaipuaçu [Rua 128] - AC;Riocard (Semove);48,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18935;Riocard (Semove) - 0 - 10146D - Candelária - Maricá - AC;Riocard (Semove);48,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18936;Riocard (Semove) - 0 - 12146D - Candelária - Itaipuaçu - AC;Riocard (Semove);48,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18937;Riocard (Semove) - 0 - 14146D - Itaipuaçu (Rua 128) - Candelária (via Estrada dos Cajueiros) - AC;Riocard (Semove);48,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18938;Riocard (Semove) - 0 - Cabo Frio - Maricá (via RJ-106) - AC;Riocard (Semove);58,90;3;7;RJ;Rio de Janeiro;01/12/2025
-18939;Riocard (Semove) - 0 - P135 - Barra do Piraí - Barra Mansa (via Volta Redonda) - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18940;Riocard (Semove) - 3 - Barra do Piraí - Volta Redonda - SA;Riocard (Semove);14,25;3;7;RJ;Rio de Janeiro;01/12/2025
 18941;Riocard (Semove) - 4 - Dôrandia - Barra Mansa - SA;Riocard (Semove);11,75;3;7;RJ;Rio de Janeiro;01/12/2025
 18942;Riocard (Semove) - 5 - Dona Belinha - Barra Mansa - SA;Riocard (Semove);8,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18943;Riocard (Semove) - 8 - Barra do Piraí - Viaduto Castelo Branco - SA;Riocard (Semove);15,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18944;Riocard (Semove) - 10 - Dona Belinha - Viaduto Castelo Branco - SA;Riocard (Semove);6,20;3;7;RJ;Rio de Janeiro;01/12/2025
-18945;Riocard (Semove) - 0 - P424 - Barra Mansa - Santanésia (via Volta Redonda) - SA;Riocard (Semove);19,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18946;Riocard (Semove) - 3 - Santanésia - Volta Redonda - SA;Riocard (Semove);16,30;3;7;RJ;Rio de Janeiro;01/12/2025
 18947;Riocard (Semove) - 5 - Barra do Piraí - Bairro São Luiz - SA;Riocard (Semove);11,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18948;Riocard (Semove) - 6 - Barra do Piraí - Volta Redonda - SA;Riocard (Semove);14,25;3;7;RJ;Rio de Janeiro;01/12/2025
 18949;Riocard (Semove) - 7 - Barra do Piraí - Barra Mansa - SA;Riocard (Semove);19,10;3;7;RJ;Rio de Janeiro;01/12/2025
 18950;Riocard (Semove) - 10 - Dona Belinha - Barra Mansa - SA;Riocard (Semove);8,25;3;7;RJ;Rio de Janeiro;01/12/2025
-18951;Riocard (Semove) - 11 - Barra do Piraí - Viaduto Castelo Branco - SA;Riocard (Semove);15,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18952;Riocard (Semove) - 13 - Dona Belinha - Viaduto Castelo Branco - SA;Riocard (Semove);6,20;3;7;RJ;Rio de Janeiro;01/12/2025
-18953;Riocard (Semove) - 0 - P130 - Barra do Piraí - Viaduto Castelo Branco (via Votla Redonda) - SA;Riocard (Semove);15,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18954;Riocard (Semove) - 2 - Dorândia - Viaduto Castelo Branco - SA;Riocard (Semove);9,65;3;7;RJ;Rio de Janeiro;01/12/2025
-18955;Riocard (Semove) - 3 - Dona Belinha - Viaduto Castelo Branco - SA;Riocard (Semove);6,20;3;7;RJ;Rio de Janeiro;01/12/2025
-18956;Riocard (Semove) - 0 - Barra do Piraí - Viaduto Castelo Branco (via Volta Redonda) - A;Riocard (Semove);14,35;3;7;RJ;Rio de Janeiro;01/12/2025
-18957;Riocard (Semove) - 0 - P426 - Dorândia - Viaduto Castelo Branco (via Volta Redonda) - SA;Riocard (Semove);9,65;3;7;RJ;Rio de Janeiro;01/12/2025
-18958;Riocard (Semove) - 1 - Dona Belinha - Viaduto Castelo Branco - SA;Riocard (Semove);6,20;3;7;RJ;Rio de Janeiro;01/12/2025
 18959;Riocard (Semove) - 2 - Dorândia - Volta Redonda - SA;Riocard (Semove);8,05;3;7;RJ;Rio de Janeiro;01/12/2025
 18960;Riocard (Semove) - 0 - 551L - Nova Iguaçu - Penha - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18961;Riocard (Semove) - 0 - 543L - Nova Iguaçu - Méier - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18962;Riocard (Semove) - 0 - 544L - Nova Iguaçu - Méier (via Norte Shopping) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18963;Riocard (Semove) - 0 - 541L - Nova Iguaçu - Cascadura - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18964;Riocard (Semove) - 0 - 546L - Nova Iguaçu - Taquara (via Brigada Paraquedista) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18965;Riocard (Semove) - 0 - 540L - Nova Iguaçu - Ricardo de Albuquerque (via Mariópolis) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18966;Riocard (Semove) - 0 - 547L - Nilópolis - Ricardo de Albuquerque (Circular - via Mariópolis) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18967;Riocard (Semove) - 0 - 737L - Belford Roxo - Deodoro - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18968;Riocard (Semove) - 0 - 432L - Nova Iguaçu - Bangu - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18969;Riocard (Semove) - 0 - 133B - Nova Iguaçu - Central - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
 18970;Riocard (Semove) - 1 - Nova Iguaçu - Parada de Lucas - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18971;Riocard (Semove) - 0 - 479I - Nova Iguaçu - Parada de Lucas - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18972;Riocard (Semove) - 0 - 742P - Campo Grande - Cabuçu - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
 18973;Riocard (Semove) - 0 - 548P - Campo Grande - Nilópolis - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18974;Riocard (Semove) - 0 - 704P - Lagoinha - Campo Grande - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18975;Riocard (Semove) - 0 - 746P - Pqe. S. Francisco de Paula - Campo Grande(via Prados Verdes) - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
 18976;Riocard (Semove) - 0 - 544P - Nilópolis - Seropédica - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
 18977;Riocard (Semove) - 0 - 547P - Jardim Paraíso - Sepetiba - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18978;Riocard (Semove) - 0 - 705P - Edson Passos - Bangu (via Campo Grande) - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18979;Riocard (Semove) - 0 - 450T - Nova Iguaçu - Itacuruçá (via Av. Brasil) - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
 18980;Riocard (Semove) - 1 - Nova Iguaçu - Itaguaí - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-18981;Riocard (Semove) - 2 - Nova Iguaçu - Viaduto dos Cabritos - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
 18982;Riocard (Semove) - 3 - Km 32/BR-465 - Itacuruçá - SA;Riocard (Semove);6,85;3;7;RJ;Rio de Janeiro;01/12/2025
-18983;Riocard (Semove) - 0 - P170 - Vassouras - Barra do Piraí - SA;Riocard (Semove);8,30;3;7;RJ;Rio de Janeiro;01/12/2025
 18984;Riocard (Semove) - 1 - Vassouras - São Roque - SA;Riocard (Semove);4,50;3;7;RJ;Rio de Janeiro;01/12/2025
 18985;Riocard (Semove) - 2 - São Roque - Barra do Piraí - SA;Riocard (Semove);4,35;3;7;RJ;Rio de Janeiro;01/12/2025
 18986;Riocard (Semove) - 0 - Vassouras - Barra do Piraí - A;Riocard (Semove);8,95;3;7;RJ;Rio de Janeiro;01/12/2025
-18987;Riocard (Semove) - 0 - MP90 - Areal - São José do Vale do Rio Preto - SA;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
 18988;Riocard (Semove) - 1 - Areal - Morelli - SA;Riocard (Semove);5,15;3;7;RJ;Rio de Janeiro;01/12/2025
-18989;Riocard (Semove) - 2 - São José do Vale do Rio Preto - Tristão Câmara - SA;Riocard (Semove);6,90;3;7;RJ;Rio de Janeiro;01/12/2025
-18990;Riocard (Semove) - 3 - Moreli - São José do Vale do Rio Preto - SA;Riocard (Semove);4,60;3;7;RJ;Rio de Janeiro;01/12/2025
 18991;Riocard (Semove) - 0 - Petrópolis - Paraiba do Sul - A;Riocard (Semove);28,90;3;7;RJ;Rio de Janeiro;01/12/2025
 18992;Riocard (Semove) - 0 - MP75 - Petrópolis - Areal - SA;Riocard (Semove);19,10;3;7;RJ;Rio de Janeiro;01/12/2025
 18993;Riocard (Semove) - 0 - P150 - Três Rios - Paraiba do Sul - SA;Riocard (Semove);5,30;3;7;RJ;Rio de Janeiro;01/12/2025
 18994;Riocard (Semove) - 0 - Três Rios - Paraíba do Sul - AC;Riocard (Semove);5,40;3;7;RJ;Rio de Janeiro;01/12/2025
-18995;Riocard (Semove) - 0 - P151 - Três Rios - Paraiba do Sul ( via Estrada da Barrinha ) - SA;Riocard (Semove);6,15;3;7;RJ;Rio de Janeiro;01/12/2025
 18996;Riocard (Semove) - 0 - MP73 - Três Rios - Posse - SA;Riocard (Semove);11,50;3;7;RJ;Rio de Janeiro;01/12/2025
 18997;Riocard (Semove) - 1 - Três Rios - Hermogênio Silva - SA;Riocard (Semove);5,25;3;7;RJ;Rio de Janeiro;01/12/2025
 18998;Riocard (Semove) - 2 - Hermogênio Silva - Areal - SA;Riocard (Semove);5,00;3;7;RJ;Rio de Janeiro;01/12/2025
@@ -3812,68 +3679,22 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19005;Riocard (Semove) - 1 - Barra Mansa - Vassouras - A;Riocard (Semove);25,20;3;7;RJ;Rio de Janeiro;01/12/2025
 19006;Riocard (Semove) - 2 - Volta Redonda - Três Rios - A;Riocard (Semove);47,50;3;7;RJ;Rio de Janeiro;01/12/2025
 19007;Riocard (Semove) - 3 - Barra do Piraí - Três Rios - A;Riocard (Semove);34,00;3;7;RJ;Rio de Janeiro;01/12/2025
-19008;Riocard (Semove) - 4 - Vassouras - Três Rios - A;Riocard (Semove);24,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19009;Riocard (Semove) - 5 - Andrade Pinto - Três Rios - A;Riocard (Semove);12,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19010;Riocard (Semove) - 6 - Volta Redonda - Vassouras - A;Riocard (Semove);22,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19011;Riocard (Semove) - 7 - Paraíba do Sul - Vassouras - A;Riocard (Semove);22,90;3;7;RJ;Rio de Janeiro;01/12/2025
-19012;Riocard (Semove) - 8 - Barra do Piraí - Maçambará - A;Riocard (Semove);17,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19013;Riocard (Semove) - 9 - Andrade Pinto - Maçamrabá - A;Riocard (Semove);6,15;3;7;RJ;Rio de Janeiro;01/12/2025
-19014;Riocard (Semove) - 10 - Paraíba do Sul - Vieira Cortez - A;Riocard (Semove);4,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19015;Riocard (Semove) - 11 - Três Rios - Vieira Cortez - A;Riocard (Semove);10,45;3;7;RJ;Rio de Janeiro;01/12/2025
 19016;Riocard (Semove) - 12 - Maçambará - Vassouras - A;Riocard (Semove);8,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19017;Riocard (Semove) - 13 - Maçambará - Três Rios - A;Riocard (Semove);18,70;3;7;RJ;Rio de Janeiro;01/12/2025
-19018;Riocard (Semove) - 0 - Barra Mansa - Vassouras - A;Riocard (Semove);25,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19019;Riocard (Semove) - 1 - Volta Redonda - Vassouras - A;Riocard (Semove);22,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19020;Riocard (Semove) - 2 - Barra do Piraí - Vassouras - A;Riocard (Semove);8,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19021;Riocard (Semove) - 0 - Três Rios - Resende - A;Riocard (Semove);62,85;3;7;RJ;Rio de Janeiro;01/12/2025
-19022;Riocard (Semove) - 1 - Resende - Vassouras - A;Riocard (Semove);40,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19023;Riocard (Semove) - 2 - Barra Mansa - Três Rios - A;Riocard (Semove);49,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19024;Riocard (Semove) - 3 - Barra Mansa - Vassouras - A;Riocard (Semove);25,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19025;Riocard (Semove) - 4 - Volta Redonda - Três Rios - A;Riocard (Semove);47,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19026;Riocard (Semove) - 5 - Volta Redonda - Vassouras - A;Riocard (Semove);22,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19027;Riocard (Semove) - 6 - Vassouras - Três Rios - A;Riocard (Semove);24,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19028;Riocard (Semove) - 7 - Barra do Piraí - Resende - A;Riocard (Semove);32,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19029;Riocard (Semove) - 8 - Três Rios - Barra do Piraí - A;Riocard (Semove);34,00;3;7;RJ;Rio de Janeiro;01/12/2025
-19030;Riocard (Semove) - 0 - Barra Mansa - Petrópolis - A;Riocard (Semove);74,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19031;Riocard (Semove) - 1 - Barra Mansa - Paraíba do Sul - A;Riocard (Semove);45,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19032;Riocard (Semove) - 2 - Barra Mansa - Vassouras - A;Riocard (Semove);25,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19033;Riocard (Semove) - 3 - Barra Mansa - Três Rios - A;Riocard (Semove);49,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19034;Riocard (Semove) - 4 - Petrópolis - Volta Redonda - A;Riocard (Semove);73,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19035;Riocard (Semove) - 5 - Três Rios - Volta Redonda - A;Riocard (Semove);47,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19036;Riocard (Semove) - 6 - Paraíba do Sul - Volta Redonda - A;Riocard (Semove);40,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19037;Riocard (Semove) - 7 - Vassouras - Volta Redonda - A;Riocard (Semove);22,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19038;Riocard (Semove) - 8 - Barra do Piraí - Petrópolis - A;Riocard (Semove);60,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19039;Riocard (Semove) - 9 - Barra do Piraí - Três Rios - A;Riocard (Semove);34,00;3;7;RJ;Rio de Janeiro;01/12/2025
-19040;Riocard (Semove) - 10 - Três Rios - Vassouras - A;Riocard (Semove);24,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19041;Riocard (Semove) - 11 - Petrópolis - Vassouras - A;Riocard (Semove);53,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19042;Riocard (Semove) - 12 - Paraíba do Sul - Petrópolis - A;Riocard (Semove);33,85;3;7;RJ;Rio de Janeiro;01/12/2025
 19043;Riocard (Semove) - 13 - Petrópolis - Três Rios - A;Riocard (Semove);24,85;3;7;RJ;Rio de Janeiro;01/12/2025
 19044;Riocard (Semove) - 0 - P404 - Andrade Pinto - Três Rios - SA;Riocard (Semove);14,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19045;Riocard (Semove) - 1 - Paraiba do Sul - Andrade Pinto - SA;Riocard (Semove);8,90;3;7;RJ;Rio de Janeiro;01/12/2025
-19046;Riocard (Semove) - 2 - Três Rios - Paraiba do Sul - SA;Riocard (Semove);5,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19047;Riocard (Semove) - 0 - P400 - Três Rios - Werneck - SA;Riocard (Semove);9,00;3;7;RJ;Rio de Janeiro;01/12/2025
-19048;Riocard (Semove) - 0 - São José do Vale do Rio Preto - Petrópolis - A;Riocard (Semove);28,20;3;7;RJ;Rio de Janeiro;01/12/2025
 19049;Riocard (Semove) - 2 - Petrópolis - Rio Bonito - A;Riocard (Semove);21,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19050;Riocard (Semove) - 3 - Posse - São José do Vale do Rio Preto - A;Riocard (Semove);10,80;3;7;RJ;Rio de Janeiro;01/12/2025
 19051;Riocard (Semove) - 0 - MP11 - Vassouras - Paracambi - SA;Riocard (Semove);38,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19052;Riocard (Semove) - 1 - Engenheiro Paulo de Frontin - Paracambi - SA;Riocard (Semove);4,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19053;Riocard (Semove) - 2 - Engenheiro Paulo de Frontin - Mendes - SA;Riocard (Semove);3,80;3;7;RJ;Rio de Janeiro;01/12/2025
 19054;Riocard (Semove) - 3 - Ponte do Rocha - Mendes - SA;Riocard (Semove);3,15;3;7;RJ;Rio de Janeiro;01/12/2025
 19055;Riocard (Semove) - 4 - Vassouras - Ponte do Rocha - SA;Riocard (Semove);5,10;3;7;RJ;Rio de Janeiro;01/12/2025
 19056;Riocard (Semove) - 5 - Mendes - Paracambi - SA;Riocard (Semove);30,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19057;Riocard (Semove) - 6 - Vassouras - Engenheiro Paulo de Frontin - SA;Riocard (Semove);11,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19058;Riocard (Semove) - 7 - Cinco Lagos/Coqueiro - Engenheiro Paulo de Frontin - SA;Riocard (Semove);5,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19059;Riocard (Semove) - 8 - Cinco Lagos/Coqueiros - Vassouras - SA;Riocard (Semove);6,70;3;7;RJ;Rio de Janeiro;01/12/2025
 19060;Riocard (Semove) - 9 - Vassouras - Mendes - SA;Riocard (Semove);8,25;3;7;RJ;Rio de Janeiro;01/12/2025
 19061;Riocard (Semove) - 10 - Ponte do Rocha - Paracambi - SA;Riocard (Semove);33,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19062;Riocard (Semove) - 11 - Ponte do Rocha - Engenheiro Paulo de Frontin - SA;Riocard (Semove);6,90;3;7;RJ;Rio de Janeiro;01/12/2025
 19063;Riocard (Semove) - 0 - P290 - Três Rios - Areal - SA;Riocard (Semove);9,40;3;7;RJ;Rio de Janeiro;01/12/2025
 19064;Riocard (Semove) - 2 - Três Rios - Alberto Torres - SA;Riocard (Semove);5,15;3;7;RJ;Rio de Janeiro;01/12/2025
 19065;Riocard (Semove) - 3 - Hermogênio Silva - Areal - SA;Riocard (Semove);5,00;3;7;RJ;Rio de Janeiro;01/12/2025
 19066;Riocard (Semove) - 4 - Alberto Torres - Areal - SA;Riocard (Semove);3,40;3;7;RJ;Rio de Janeiro;01/12/2025
 19067;Riocard (Semove) - 0 - P490 - Areal - Bem Posta - SA;Riocard (Semove);5,35;3;7;RJ;Rio de Janeiro;01/12/2025
 19068;Riocard (Semove) - 1 - Areal - Portões - SA;Riocard (Semove);4,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19069;Riocard (Semove) - 0 - P210 - Três Rios - Valença (via Manuel Duarte) - SA;Riocard (Semove);32,40;3;7;RJ;Rio de Janeiro;01/12/2025
 19070;Riocard (Semove) - 1 - Três Rios - Afonso Arinos - SA;Riocard (Semove);11,95;3;7;RJ;Rio de Janeiro;01/12/2025
 19071;Riocard (Semove) - 3 - Três Ilhas - Manuel Duarte - SA;Riocard (Semove);6,00;3;7;RJ;Rio de Janeiro;01/12/2025
 19072;Riocard (Semove) - 4 - Manuel Duarte - Rio das Flores - SA;Riocard (Semove);4,35;3;7;RJ;Rio de Janeiro;01/12/2025
@@ -3888,212 +3709,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19081;Riocard (Semove) - 16 - Mont Serrat - Rio das Flores - SA;Riocard (Semove);15,55;3;7;RJ;Rio de Janeiro;01/12/2025
 19082;Riocard (Semove) - 17 - Mont Serrat - Valença - SA;Riocard (Semove);22,60;3;7;RJ;Rio de Janeiro;01/12/2025
 19083;Riocard (Semove) - 0 - MP72 - Morro Azul - Paracambi - SA;Riocard (Semove);11,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19084;Riocard (Semove) - 1 - Engenheiro Paulo de Frontin - Morro Azul - SA;Riocard (Semove);8,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19085;Riocard (Semove) - 2 - Engenheiro Paulo de Frontin - Sacra Familia - SA;Riocard (Semove);5,70;3;7;RJ;Rio de Janeiro;01/12/2025
-19086;Riocard (Semove) - 3 - Engenheiro Paulo de Frontin - Paracambi - SA;Riocard (Semove);4,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19087;Riocard (Semove) - 4 - Sacra Familia - Paracambi - SA;Riocard (Semove);9,90;3;7;RJ;Rio de Janeiro;01/12/2025
-19088;Riocard (Semove) - 0 - Três Rios - Sapucaia - A;Riocard (Semove);15,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19089;Riocard (Semove) - 1 - Três Rios - Anta - A;Riocard (Semove);11,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19090;Riocard (Semove) - 2 - Três Rios - Grama - A;Riocard (Semove);6,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19091;Riocard (Semove) - 0 - P491 - Areal - Vale das Cachoeiras - SA;Riocard (Semove);4,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19092;Riocard (Semove) - 0 - P415 - Barão de Juparanã - Barra do Piraí - SA;Riocard (Semove);10,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19093;Riocard (Semove) - 3 - Barão de Juparanã - Demétrio Ribeiro - SA;Riocard (Semove);4,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19094;Riocard (Semove) - 4 - Barra do Piraí - Demétrio Ribeiro - SA;Riocard (Semove);5,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19095;Riocard (Semove) - 0 - P418 - Barra do Piraí - Demétrio Ribeiro - SA;Riocard (Semove);5,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19096;Riocard (Semove) - 0 - P501 - Vista Alegre - Volta Redonda - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19097;Riocard (Semove) - 0 - P502 - Vista Alegre - Volta Redonda ( via Praça José Calazans ) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19098;Riocard (Semove) - 0 - P185 - Resende - Volta Redonda - SA;Riocard (Semove);19,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19099;Riocard (Semove) - 1 - Resende - Floriano - SA;Riocard (Semove);7,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19100;Riocard (Semove) - 2 - Resende - Barra Mansa - SA;Riocard (Semove);15,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19101;Riocard (Semove) - 0 - P186 - Itatiaia - Volta Redonda - SA;Riocard (Semove);24,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19102;Riocard (Semove) - 1 - Itatiaia - Floriano - SA;Riocard (Semove);12,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19103;Riocard (Semove) - 2 - Itatiaia - Barra Mansa - SA;Riocard (Semove);20,70;3;7;RJ;Rio de Janeiro;01/12/2025
-19104;Riocard (Semove) - 3 - Resende - Barra Mansa - SA;Riocard (Semove);15,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19105;Riocard (Semove) - 4 - Floriano - Resende - SA;Riocard (Semove);7,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19106;Riocard (Semove) - 5 - Resende - Volta Redonda - SA;Riocard (Semove);19,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19107;Riocard (Semove) - 0 - P503 - Resende - Floriano - SA;Riocard (Semove);7,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19108;Riocard (Semove) - 0 - P180 - Resende - Barra Mansa - SA;Riocard (Semove);15,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19109;Riocard (Semove) - 0 - P135 - Resende - Itatiaia - SA;Riocard (Semove);5,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19110;Riocard (Semove) - 1 - Itatiaia - Maromba - SA;Riocard (Semove);13,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19111;Riocard (Semove) - 0 - P510 - Resende - Maromba - SA;Riocard (Semove);13,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19112;Riocard (Semove) - 2 - Visconde de Mauá - Penedo [Posto dos Esquilos] - SA;Riocard (Semove);7,85;3;7;RJ;Rio de Janeiro;01/12/2025
-19113;Riocard (Semove) - 0 - P525 - Rio Preto - Maromba - SA;Riocard (Semove);8,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19114;Riocard (Semove) - 0 - Rio de Janeiro - Três Rios - A;Riocard (Semove);53,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19115;Riocard (Semove) - 1 - Rio de Janeiro - Alberto Torres - A;Riocard (Semove);48,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19116;Riocard (Semove) - 2 - Rio de Janeiro - Bonsucesso - A;Riocard (Semove);33,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19117;Riocard (Semove) - 0 - Rio de Janeiro - Areal (via Itaipava/Pedro do Rio) - A;Riocard (Semove);48,15;3;7;RJ;Rio de Janeiro;01/12/2025
-19118;Riocard (Semove) - 1 - Rio de Janeiro - Bonsucesso - A;Riocard (Semove);33,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19119;Riocard (Semove) - 2 - Rio de Janeiro - Itaipava - A;Riocard (Semove);36,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19120;Riocard (Semove) - 3 - Rio de Janeiro - Pedro do Rio - A;Riocard (Semove);39,90;3;7;RJ;Rio de Janeiro;01/12/2025
-19121;Riocard (Semove) - 0 - Rio de Janeiro - Paraíba do Sul - A;Riocard (Semove);59,10;3;7;RJ;Rio de Janeiro;01/12/2025
-19122;Riocard (Semove) - 1 - Rio de Janeiro - Três Rios - A;Riocard (Semove);53,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19123;Riocard (Semove) - 0 - Niterói - Werneck - A;Riocard (Semove);67,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19124;Riocard (Semove) - 1 - Niterói - Três Rios - A;Riocard (Semove);57,85;3;7;RJ;Rio de Janeiro;01/12/2025
-19125;Riocard (Semove) - 2 - Niterói - Paraíba do Sul - A;Riocard (Semove);63,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19126;Riocard (Semove) - 3 - Rio de Janeiro - Werneck - A;Riocard (Semove);63,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19127;Riocard (Semove) - 4 - Rio de Janeiro - Paraíba do Sul - A;Riocard (Semove);59,10;3;7;RJ;Rio de Janeiro;01/12/2025
-19128;Riocard (Semove) - 5 - Rio de Janeiro - Três Rios - A;Riocard (Semove);53,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19129;Riocard (Semove) - 0 - P460 - Barra do Piraí - Querozene - SA;Riocard (Semove);4,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19130;Riocard (Semove) - 0 - P455 - Barra do Piraí - Chalet - SA;Riocard (Semove);4,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19131;Riocard (Semove) - 0 - B145 - Cabo Frio - Saquarema - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19132;Riocard (Semove) - 0 - B460 - Cabo Frio - Bacaxá - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19133;Riocard (Semove) - 1 - Cabo Frio - Silva Jardim - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19134;Riocard (Semove) - 0 - B425 - Saquarema - São Vicente de Paula - SAC;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19135;Riocard (Semove) - 0 - B440 - Cabo Frio - Sampaio Correa - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19136;Riocard (Semove) - 0 - B147 - Araruama - Cabo Frio - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19137;Riocard (Semove) - 0 - B420 - Cabo Frio - Praia do Sudoeste - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19138;Riocard (Semove) - 0 - B410 - Cabo Frio - Araçá - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19139;Riocard (Semove) - 0 - B101 - Cabo Frio - São Pedro da Aldeia - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19140;Riocard (Semove) - 0 - B405 - Cabo Frio - Iguaba Grande (via Flexeira) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19141;Riocard (Semove) - 0 - B480 - Cabo Frio - Retiro - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19142;Riocard (Semove) - 0 - B180 - Araruama - Silva Jardim (via São Vicente de Paula) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19143;Riocard (Semove) - 0 - B160 - Cabo Frio - Armação dos Búzios (Direta) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19144;Riocard (Semove) - 0 - B165 - Cabo Frio - Armação dos Búzios (via Guriri) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19145;Riocard (Semove) - 0 - B500 - Cabo Frio - Raza (via Baía Formosa) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19146;Riocard (Semove) - 0 - B501 - Cabo Frio - Raza (via Marina) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19147;Riocard (Semove) - 0 - B445 - Cabo Frio - Retiro (via Praia do Siqueira) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19148;Riocard (Semove) - 0 - B455 - Araruama - Bacaxá - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19149;Riocard (Semove) - 0 - B200 - Araruama - Iguaba Grande (via Iguabinha/Pedreira) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19150;Riocard (Semove) - 0 - B205 - Cabo Frio - São Pedro da Aldeia (via Jardim Primavera) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19151;Riocard (Semove) - 0 - B210 - Araruama - Arraial do Cabo (via Praia Seca) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19152;Riocard (Semove) - 0 - B215 - Cabo Frio - Iguaba Grande (via Cruz/Nova Iguaba) - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19153;Riocard (Semove) - 0 - B475 - Araruama - Pernambuca - SA;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19154;Riocard (Semove) - 0 - 124B - Nilópolis - Camerino (via Parada de Lucas) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19155;Riocard (Semove) - 0 - 522B - Parque São Vicente - Central - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19156;Riocard (Semove) - 0 - 523B - Sargento Roncali - Central (via Parque São Vicente) - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19157;Riocard (Semove) - 0 - 1522B - Sargento Roncali - Central (via Parque São Vicente) - A;Riocard (Semove);18,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19158;Riocard (Semove) - 0 - 520B - São Francisco - Central - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19159;Riocard (Semove) - 0 - 518B - Heliópolis - Central (via Andrade Araújo) - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19160;Riocard (Semove) - 0 - 524B - Nova Aurora - Central (via Heliópolis) - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19161;Riocard (Semove) - 0 - 526B - Itaipu - Central - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19162;Riocard (Semove) - 0 - 1518B - Heliópolis - Central - A;Riocard (Semove);18,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19163;Riocard (Semove) - 0 - 561I - Santa Rita - Pavuna (via Ponto Chic) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19164;Riocard (Semove) - 0 - 564I - Santa Rita - Pavuna (Direto) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19165;Riocard (Semove) - 0 - 716L - Santa Rita - Pavuna (via Via Light) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19166;Riocard (Semove) - 0 - 553I - Bairro Santa Maria - Pavuna - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19167;Riocard (Semove) - 0 - 714I - Ponto Chic - Barro Vermelho - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19168;Riocard (Semove) - 0 - Teresópolis - Magé - A;Riocard (Semove);16,85;3;7;RJ;Rio de Janeiro;01/12/2025
-19169;Riocard (Semove) - 1 - Barreiros - Magé - A;Riocard (Semove);14,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19170;Riocard (Semove) - 2 - Guapimirim - Magé - A;Riocard (Semove);9,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19171;Riocard (Semove) - 3 - Parada Modelo - Magé - A;Riocard (Semove);8,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19172;Riocard (Semove) - 4 - Teresópolis - Guapimirim - A;Riocard (Semove);9,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19173;Riocard (Semove) - 5 - Teresópolis - Parada Modelo - A;Riocard (Semove);10,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19174;Riocard (Semove) - 6 - Teresópolis - Barreiros - A;Riocard (Semove);6,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19175;Riocard (Semove) - 0 - Teresópolis - Sapucaia (via Jamapará) - A;Riocard (Semove);46,90;3;7;RJ;Rio de Janeiro;01/12/2025
-19176;Riocard (Semove) - 1 - Teresópolis - Ponte Nova - A;Riocard (Semove);10,10;3;7;RJ;Rio de Janeiro;01/12/2025
-19177;Riocard (Semove) - 2 - Teresópolis - Volta do Pião - A;Riocard (Semove);18,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19178;Riocard (Semove) - 3 - Teresópolis - Aparecida - A;Riocard (Semove);25,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19179;Riocard (Semove) - 4 - Teresópolis - Jamapará - A;Riocard (Semove);35,85;3;7;RJ;Rio de Janeiro;01/12/2025
-19180;Riocard (Semove) - 5 - Aparecida - Jamapará - A;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19181;Riocard (Semove) - 6 - Volta do Pião - Sapucaia - A;Riocard (Semove);28,85;3;7;RJ;Rio de Janeiro;01/12/2025
-19182;Riocard (Semove) - 7 - Aparecida - Sapucaia - A;Riocard (Semove);21,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19183;Riocard (Semove) - 8 - Sapucaia - Ponte Nova - A;Riocard (Semove);36,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19184;Riocard (Semove) - 0 - Teresópolis - Nova Iguaçu (via Duque de Caxias) - A;Riocard (Semove);42,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19185;Riocard (Semove) - 1 - Teresópolis - Guapimirim - A;Riocard (Semove);9,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19186;Riocard (Semove) - 2 - Teresópolis - Duque de Caxias - A;Riocard (Semove);34,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19187;Riocard (Semove) - 3 - Guapimirim - Duque de Caxias - A;Riocard (Semove);32,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19188;Riocard (Semove) - 4 - Guapimirim - Nova Iguaçu - A;Riocard (Semove);43,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19189;Riocard (Semove) - 0 - MS11 - Teresópolis - Guapimirim - SA;Riocard (Semove);9,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19190;Riocard (Semove) - 0 - Teresópolis - Nova Friburgo - A;Riocard (Semove);31,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19191;Riocard (Semove) - 1 - Vieira - Conquista - A;Riocard (Semove);5,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19192;Riocard (Semove) - 2 - Teresópolis - Vieira - A;Riocard (Semove);16,90;3;7;RJ;Rio de Janeiro;01/12/2025
-19193;Riocard (Semove) - 3 - Teresópolis - Conquista - A;Riocard (Semove);22,10;3;7;RJ;Rio de Janeiro;01/12/2025
-19194;Riocard (Semove) - 4 - Teresópolis - Campo do Coelho - A;Riocard (Semove);24,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19195;Riocard (Semove) - 5 - Bonsucesso - Nova Friburgo - A;Riocard (Semove);17,90;3;7;RJ;Rio de Janeiro;01/12/2025
-19196;Riocard (Semove) - 6 - Vieira - Nova Friburgo - A;Riocard (Semove);14,70;3;7;RJ;Rio de Janeiro;01/12/2025
-19197;Riocard (Semove) - 7 - Campo do Coelho - Nova Friburgo - A;Riocard (Semove);7,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19198;Riocard (Semove) - 8 - Conquista - Nova Friburgo - A;Riocard (Semove);9,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19199;Riocard (Semove) - 0 - Teresópolis - São José do Vale do Rio Preto - A;Riocard (Semove);17,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19200;Riocard (Semove) - 2 - Ponte Nova - São José do Vale do Rio Preto - A;Riocard (Semove);7,15;3;7;RJ;Rio de Janeiro;01/12/2025
-19201;Riocard (Semove) - 3 - Poço Fundo - São José do Vale do Rio Preto - A;Riocard (Semove);3,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19202;Riocard (Semove) - 0 - Teresópolis - Petrópolis - A;Riocard (Semove);23,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19203;Riocard (Semove) - 1 - Teresópolis - Itaipava - A;Riocard (Semove);16,30;3;7;RJ;Rio de Janeiro;01/12/2025
-19204;Riocard (Semove) - 0 - Niterói - Teresópolis - A;Riocard (Semove);35,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19205;Riocard (Semove) - 1 - Niterói - Guapimirim - A;Riocard (Semove);33,20;3;7;RJ;Rio de Janeiro;01/12/2025
-19206;Riocard (Semove) - 2 - Alcântara - Teresópolis - A;Riocard (Semove);28,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19207;Riocard (Semove) - 3 - Teresópolis - Magé - A;Riocard (Semove);16,85;3;7;RJ;Rio de Janeiro;01/12/2025
-19208;Riocard (Semove) - 0 - Teresópolis - Soledade - A;Riocard (Semove);20,50;3;7;RJ;Rio de Janeiro;01/12/2025
-19209;Riocard (Semove) - 1 - Teresópolis - Nhanguaçu - A;Riocard (Semove);7,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19210;Riocard (Semove) - 2 - Teresópolis - Bonsucesso - A;Riocard (Semove);12,90;3;7;RJ;Rio de Janeiro;01/12/2025
-19211;Riocard (Semove) - 3 - Bonsucesso - Motta - A;Riocard (Semove);4,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19212;Riocard (Semove) - 4 - Motta - Soledade - A;Riocard (Semove);2,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19213;Riocard (Semove) - 0 - Teresópolis - Carmo (via Sumidouro) - A;Riocard (Semove);36,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19214;Riocard (Semove) - 3 - Teresópolis - Sumidouro - A;Riocard (Semove);26,15;3;7;RJ;Rio de Janeiro;01/12/2025
-19215;Riocard (Semove) - 4 - Sumidouro - Carmo - A;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19216;Riocard (Semove) - 5 - Volta do Pião - Carmo - A;Riocard (Semove);18,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19217;Riocard (Semove) - 0 - Niterói - Carmo (via BR-116) - A;Riocard (Semove);75,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19218;Riocard (Semove) - 1 - Niterói - Teresópolis - A;Riocard (Semove);35,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19219;Riocard (Semove) - 2 - Niterói - Jamapará - A;Riocard (Semove);71,60;3;7;RJ;Rio de Janeiro;01/12/2025
-19220;Riocard (Semove) - 3 - Teresópolis - Ponte Nova - A;Riocard (Semove);10,10;3;7;RJ;Rio de Janeiro;01/12/2025
-19221;Riocard (Semove) - 4 - Teresópolis - Volta do Pião - A;Riocard (Semove);18,05;3;7;RJ;Rio de Janeiro;01/12/2025
-19222;Riocard (Semove) - 5 - Teresópolis - Carmo - A;Riocard (Semove);39,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19223;Riocard (Semove) - 6 - Volta do Pião - Carmo - A;Riocard (Semove);21,70;3;7;RJ;Rio de Janeiro;01/12/2025
-19224;Riocard (Semove) - 7 - Niterói - Parada Modelo - A;Riocard (Semove);33,15;3;7;RJ;Rio de Janeiro;01/12/2025
-19225;Riocard (Semove) - 0 - Rio de Janeiro - Teresópolis - A;Riocard (Semove);37,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19226;Riocard (Semove) - 0 - Teresópolis - Barra da Tijuca - A;Riocard (Semove);43,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19227;Riocard (Semove) - 1 - Guapimirim - Madureira - A;Riocard (Semove);27,15;3;7;RJ;Rio de Janeiro;01/12/2025
-19228;Riocard (Semove) - 2 - Teresópolis - Madureira - A;Riocard (Semove);36,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19229;Riocard (Semove) - 0 - Castelo - Teresópolis - A;Riocard (Semove);39,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19230;Riocard (Semove) - 0 - Castelo - Teresópolis - AC;Riocard (Semove);59,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19231;Riocard (Semove) - 1 - Rio de Janeiro (Novo Rio) - Teresópolis - AC;Riocard (Semove);55,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19232;Riocard (Semove) - 0 - Teresópolis - Rio das Ostras (via São Pedro da Aldeia) - A;Riocard (Semove);78,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19233;Riocard (Semove) - 1 - Teresópolis - São Pedro da Aldeia - A;Riocard (Semove);62,55;3;7;RJ;Rio de Janeiro;01/12/2025
-19234;Riocard (Semove) - 2 - Teresópolis - Itaboraí - A;Riocard (Semove);31,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19235;Riocard (Semove) - 0 - 559B - Parque São Vicente - Central - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19236;Riocard (Semove) - 0 - 3559B - Parque São Vicente - Central - A;Riocard (Semove);17,15;3;7;RJ;Rio de Janeiro;01/12/2025
-19237;Riocard (Semove) - 0 - 558C - Pilar - Central (via Vigário Geral) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19238;Riocard (Semove) - 0 - 557C - Pilar - Central (via Rodovia Washington Luiz) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19239;Riocard (Semove) - 0 - 556C - Jardim do Ipê - Central (via Rodovia Washington Luiz) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19240;Riocard (Semove) - 0 - 1558C - Jardim do Ipê - Central (via Rodovia Washington Luiz) - A;Riocard (Semove);29,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19241;Riocard (Semove) - 0 - 554I - Duque de Caxias - Mantiquira - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19242;Riocard (Semove) - 2 - Cidade dos Meninos - Mantiquira - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19243;Riocard (Semove) - 0 - 558I - Duque de Caxias - Parque Eldorado - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19244;Riocard (Semove) - 2 - Cidade dos Meninos - Parque Eldorado - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19245;Riocard (Semove) - 0 - 555I - Duque de Caxias - Campos Elíseos - SA;Riocard (Semove);9,25;3;7;RJ;Rio de Janeiro;01/12/2025
-19246;Riocard (Semove) - 2 - Cidade dos Meninos - Campos Elíseos - SA;Riocard (Semove);6,35;3;7;RJ;Rio de Janeiro;01/12/2025
-19247;Riocard (Semove) - 0 - 557I - Duque de Caxias - Pilar (via Fundação Cristo Redentor) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19248;Riocard (Semove) - 0 - 471C - Saracuruna - Central - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19249;Riocard (Semove) - 0 - 477C - Jardim Primavera - Central - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19250;Riocard (Semove) - 0 - 472C - Ana Clara - Central - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19251;Riocard (Semove) - 0 - 1471C - Saracuruna - Passeio - A;Riocard (Semove);29,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19252;Riocard (Semove) - 0 - 3471C - Saracuruna - Central - A;Riocard (Semove);29,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19253;Riocard (Semove) - 0 - 466C - São Francisco do Croará - Central - SA;Riocard (Semove);17,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19254;Riocard (Semove) - 0 - 461C - Raiz da Serra - Central - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19255;Riocard (Semove) - 0 - 1461C - Piabetá - Passeio (via Imbariê) - A;Riocard (Semove);29,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19256;Riocard (Semove) - 0 - 468C - Piabeta - Central (via Imbariê) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19257;Riocard (Semove) - 0 - 3461C - Piabetá - Central (via Imbariê) - A;Riocard (Semove);29,75;3;7;RJ;Rio de Janeiro;01/12/2025
-19258;Riocard (Semove) - 0 - 462C - Piabetá - Central (via Bongaba) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19259;Riocard (Semove) - 0 - 2462C - Piabetá - Central (via Parada Angélica/Imbariê) - AC;Riocard (Semove);21,45;3;7;RJ;Rio de Janeiro;01/12/2025
-19260;Riocard (Semove) - 0 - 448C - Piabetá - Central (via Penha) - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19261;Riocard (Semove) - 1 - Piabetá - Penha - SA;Riocard (Semove);13,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19262;Riocard (Semove) - 0 - 561L - Duque de Caxias - Freguesia (via Jacarepaguá) - SA;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19263;Riocard (Semove) - 0 - 562L - Duque de Caxias - Freguesia (via Rocha Miranda) - SA;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19264;Riocard (Semove) - 0 - 563L - Duque de Caxias - Rocha Miranda - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19265;Riocard (Semove) - 0 - 567L - Duque de Caxias - Freguesia (via Linha Amarela) - SAC;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19266;Riocard (Semove) - 0 - 568L - Duque de Caxias - Praça Seca - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19267;Riocard (Semove) - 0 - 569L - Duque de Caxias - Madureira - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19268;Riocard (Semove) - 0 - Duque de Caxias - Taquara ( via Linha Amarela ) - SAC;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19269;Riocard (Semove) - 0 - 560L - Duque de Caxias - Méier (via NorteShopping) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19270;Riocard (Semove) - 1 - Duque de Caxias - Madureira - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19271;Riocard (Semove) - 0 - 564L - Duque de Caxias - Vicente de Carvalho - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19272;Riocard (Semove) - 0 - 748L - Morro Agudo - Pavuna - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19273;Riocard (Semove) - 0 - 751L - Morro Agudo - Pavuna (via Cosmorama) - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19274;Riocard (Semove) - 0 - 562I - Austin - Pavuna - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19275;Riocard (Semove) - 0 - 749L - Morro Agudo - Pavuna (via Via Light) - SAC;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19276;Riocard (Semove) - 0 - 460I - Nova Iguaçu - Delamare - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19277;Riocard (Semove) - 0 - 461I - Nova Iguaçu - Fábrica de Pólvora - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19278;Riocard (Semove) - 0 - 462I - Nova Iguaçu - Rua da Serra - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19279;Riocard (Semove) - 0 - 675I - Nova Iguaçu - BNH - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19280;Riocard (Semove) - 0 - 770I - Borba Gato - Bayer do Brasil - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19281;Riocard (Semove) - 0 - 580I - Pavuna - Três Fontes ( via Via Light ) - SA;Riocard (Semove);8,10;3;7;RJ;Rio de Janeiro;01/12/2025
-19282;Riocard (Semove) - 0 - 575P - Itaguaí - Pradre Miguel - SA;Riocard (Semove);5,95;3;7;RJ;Rio de Janeiro;01/12/2025
-19283;Riocard (Semove) - 0 - 725D - Fonseca - São Cristóvão - SA;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19284;Riocard (Semove) - 0 - 730D - Vital Brazil - Candelária (via Fonseca) - SA;Riocard (Semove);10,40;3;7;RJ;Rio de Janeiro;01/12/2025
-19285;Riocard (Semove) - 0 - 770D - Itaipu - Castelo - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19286;Riocard (Semove) - 0 - 771D - Pendotiba - Castelo (via PPCS) - SA;Riocard (Semove);12,65;3;7;RJ;Rio de Janeiro;01/12/2025
-19287;Riocard (Semove) - 0 - P465 - Resende - Bulhões (via Rodovia Presidente Dutra) - SA;Riocard (Semove);5,80;3;7;RJ;Rio de Janeiro;01/12/2025
-19288;Riocard (Semove) - 0 - P530 - Resende - Penedo - SA;Riocard (Semove);7,15;3;7;RJ;Rio de Janeiro;01/12/2025
-19289;Riocard (Semove) - 0 - P531 - Resende - Penedo (via Martinelli) - SA;Riocard (Semove);5,80;3;7;RJ;Rio de Janeiro;01/12/2025
 8623;Riocard (Semove) - Cartão Mais Personalizado Empresa FE;Riocard (Semove) - Comodato Empresa;0,01;3;10;RJ;Rio de Janeiro;01/01/2000
 3812;Riocard (Semove) - Mais Empresarial 80;Riocard (Semove) - Expresso Empresarial 80;85,00;5;10;RJ;Rio de Janeiro;27/01/2026
 9912;Riocard (Semove) - Mais Empresarial 400;Riocard (Semove) - Expresso Empresarial 80;409,30;5;10;RJ;Rio de Janeiro;17/01/2023
@@ -4717,11 +4332,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9650;Viação Praiana - Cartão Porto Belo x Tijucas;Viação Praiana;6,58;5;10;SC;Itajaí;13/01/2026
 10668;Viação Praiana - Cartão Itapema X Itajaí;Viação Praiana;9,90;5;10;SC;Itajaí;03/03/2026
 15647;Viação Praiana - Cartão Itajaí X Balneário Camboriú (Bem Bom);Viação Praiana;8,00;5;10;SC;Itajaí;19/03/2025
-4863;Viação Verdes Mares - Cartão Enseada X Via Ubatuba (linha 100);Viação Verdes Mares;6,00;5;10;SC;Santa Catarina;10/09/2025
-4875;Viação Verdes Mares - Cartão Enseada via Forte (linha 102);Viação Verdes Mares;6,00;5;10;SC;Santa Catarina;10/09/2025
-4879;Viação Verdes Mares - Cartão Enseada via Praia Grande Circular;Viação Verdes Mares;6,00;5;10;SC;Santa Catarina;10/09/2025
-4880;Viação Verdes Mares - Cartão Patamar 2;Viação Verdes Mares;6,00;5;10;SC;Santa Catarina;10/09/2025
-4882;Viação Verdes Mares - Cartão São Francisco do Sul Urbano;Viação Verdes Mares;6,00;5;10;SC;Santa Catarina;22/04/2025
+4863;Viação Verdes Mares - Cartão Enseada X Via Ubatuba (linha 100);Viação Verdes Mares;6,50;5;10;SC;Santa Catarina;23/04/2026
+4875;Viação Verdes Mares - Cartão Enseada via Forte (linha 102);Viação Verdes Mares;6,50;5;10;SC;Santa Catarina;23/04/2026
+4879;Viação Verdes Mares - Cartão Enseada via Praia Grande Circular;Viação Verdes Mares;6,50;5;10;SC;Santa Catarina;23/04/2026
+4880;Viação Verdes Mares - Cartão Patamar 2;Viação Verdes Mares;6,50;5;10;SC;Santa Catarina;23/04/2026
+4882;Viação Verdes Mares - Cartão São Francisco do Sul Urbano;Viação Verdes Mares;6,50;5;10;SC;Santa Catarina;23/04/2026
 19491;Viação Verdes Mares - Cartão Trevo x Divisa;Viação Verdes Mares;1,70;5;10;SC;Santa Catarina;27/01/2026
 19492;Viação Verdes Mares - Cartão Volta Redonda x Itinga;Viação Verdes Mares;5,55;5;10;SC;Santa Catarina;27/01/2026
 5318;Coopertalse - Cartão Itaporanga X Aracaju;Coopertalse;6,30;5;10;SE;Aracajú;28/04/2025
@@ -4776,7 +4391,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6301;Andorinha - Cartão Presidente Venceslau X Piquerobi;Andorinha;7,55;5;10;SP;Presidente Prudente;07/07/2025
 10287;Andorinha - Cartão Caiuá X Presidente Venceslau;Andorinha;7,55;5;10;SP;Presidente Prudente;07/07/2025
 856;Andorinha - Cartão Andorinha Urbano;Andorinha (Corumbá) (Sistema Novo);3,70;5;10;SP;Presidente Prudente;22/02/2018
-16239;Araçoiaba da Serra - Cartão Municipal de Araçoiaba da Serra;Araçoiaba da Serra - Eletrônico;4,20;5;10;SP;Araçoiaba da Serra;06/11/2025
+16239;Araçoiaba da Serra - Cartão Municipal de Araçoiaba da Serra;Araçoiaba da Serra - Eletrônico - PIX;4,20;5;10;SP;Araçoiaba da Serra;06/11/2025
 16037;AS Service - Municipal São Manuel;AS Transportes;1,00;5;10;SP;São Manuel;26/08/2025
 15264;Associação dos Mestres - Cartão Santos X Guarujá;Associação dos Mestres - Travessia Catraia;3,00;5;10;SP;Guarujá;02/04/2025
 10361;Auto Viação Campestre - Cartão Urbano Cosmópolis;Auto Viação Campestre - Eletrônico;5,40;5;10;SP;Cosmópolis;20/09/2023
