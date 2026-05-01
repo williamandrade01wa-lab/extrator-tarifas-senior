@@ -1763,7 +1763,7 @@
         "codigo": "4715",
         "nome": "Expresso Aracruz - Cartão Coqueiral X Barra do Riacho",
         "fornecedor": "Cordial Transportes",
-        "valor": "8,55",
+        "valor": "8,90",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1771,7 +1771,7 @@
         "codigo": "4716",
         "nome": "Expresso Aracruz - Cartão Mar Azul X Fábrica",
         "fornecedor": "Cordial Transportes",
-        "valor": "4,85",
+        "valor": "5,05",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1779,7 +1779,7 @@
         "codigo": "4717",
         "nome": "Expresso Aracruz - Cartão Praia dos Padres X Fábrica",
         "fornecedor": "Cordial Transportes",
-        "valor": "5,80",
+        "valor": "6,05",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1787,7 +1787,7 @@
         "codigo": "4781",
         "nome": "Expresso Aracruz - Cartão Aracruz X Barra do Riacho",
         "fornecedor": "Cordial Transportes",
-        "valor": "9,40",
+        "valor": "9,80",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1795,7 +1795,7 @@
         "codigo": "4783",
         "nome": "Expresso Aracruz - Cartão Aracruz X Fábrica",
         "fornecedor": "Cordial Transportes",
-        "valor": "8,00",
+        "valor": "8,35",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1803,7 +1803,7 @@
         "codigo": "4784",
         "nome": "Expresso Aracruz - Cartão Aracruz X Guaraná",
         "fornecedor": "Cordial Transportes",
-        "valor": "8,15",
+        "valor": "8,50",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1811,7 +1811,7 @@
         "codigo": "4785",
         "nome": "Expresso Aracruz - Cartão Barra do Riacho X Fábrica",
         "fornecedor": "Cordial Transportes",
-        "valor": "4,85",
+        "valor": "5,05",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1819,7 +1819,7 @@
         "codigo": "4789",
         "nome": "Expresso Aracruz - Cartão Jacupemba X Aracruz",
         "fornecedor": "Cordial Transportes",
-        "valor": "12,90",
+        "valor": "13,45",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1827,7 +1827,7 @@
         "codigo": "4791",
         "nome": "Expresso Aracruz - Cartão Vila do Riacho X Fábrica",
         "fornecedor": "Cordial Transportes",
-        "valor": "5,55",
+        "valor": "5,80",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1835,7 +1835,7 @@
         "codigo": "5877",
         "nome": "Expresso Aracruz - Cartão Aracruz X Mar Azul (Via Fabrica)",
         "fornecedor": "Cordial Transportes",
-        "valor": "11,10",
+        "valor": "11,55",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1843,7 +1843,7 @@
         "codigo": "9223",
         "nome": "Expresso Aracruz - Cartão Aracruz Urbano",
         "fornecedor": "Cordial Transportes",
-        "valor": "4,85",
+        "valor": "5,05",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -1851,7 +1851,7 @@
         "codigo": "15587",
         "nome": "Expresso Aracruz - Cartão Aracruz x Praia Formosa (Via Irajá)",
         "fornecedor": "Cordial Transportes",
-        "valor": "16,35",
+        "valor": "17,05",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -4691,7 +4691,7 @@
         "codigo": "653",
         "nome": "Divpass - Cartão Municipal Divinópolis",
         "fornecedor": "Divpass - Novo Sistema",
-        "valor": "3,65",
+        "valor": "5,50",
         "uf": "MG",
         "cidade": "Divinópolis"
     },
@@ -12499,7 +12499,7 @@
         "codigo": "8958",
         "nome": "Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia)",
         "fornecedor": "Canarinho (Guaramirim)",
-        "valor": "6,40",
+        "valor": "7,25",
         "uf": "SC",
         "cidade": "Jaraguá do Sul"
     },
@@ -12507,7 +12507,7 @@
         "codigo": "8959",
         "nome": "Canarinho (Guaramirim) - Cartão Guaramirim",
         "fornecedor": "Canarinho (Guaramirim)",
-        "valor": "5,25",
+        "valor": "5,95",
         "uf": "SC",
         "cidade": "Jaraguá do Sul"
     },

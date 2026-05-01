@@ -219,18 +219,18 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15190;CCI - QR-Code - Cartão Guarapari (Alvorada) X Vila Velha;CCI - QR-Code - Passepay;17,15;5;10;ES;Cachoeiro de Itapemirim;13/08/2024
 15610;CCI - QR-Code - Cartão Municipal Marataízes;CCI - QR-Code - Passepay;5,50;5;10;ES;Cachoeiro de Itapemirim;20/02/2026
 4771;Cobe Colatina - Cartão Urbano Colatina;Cobe Colatina;4,40;5;10;ES;Colatina;27/02/2023
-4715;Expresso Aracruz - Cartão Coqueiral X Barra do Riacho;Cordial Transportes;8,55;5;10;ES;Aracruz;24/01/2025
-4716;Expresso Aracruz - Cartão Mar Azul X Fábrica;Cordial Transportes;4,85;5;10;ES;Aracruz;24/01/2025
-4717;Expresso Aracruz - Cartão Praia dos Padres X Fábrica;Cordial Transportes;5,80;5;10;ES;Aracruz;24/01/2025
-4781;Expresso Aracruz - Cartão Aracruz X Barra do Riacho;Cordial Transportes;9,40;5;10;ES;Aracruz;24/01/2025
-4783;Expresso Aracruz - Cartão Aracruz X Fábrica;Cordial Transportes;8,00;5;10;ES;Aracruz;24/01/2025
-4784;Expresso Aracruz - Cartão Aracruz X Guaraná;Cordial Transportes;8,15;5;10;ES;Aracruz;24/01/2025
-4785;Expresso Aracruz - Cartão Barra do Riacho X Fábrica;Cordial Transportes;4,85;5;10;ES;Aracruz;24/01/2025
-4789;Expresso Aracruz - Cartão Jacupemba X Aracruz;Cordial Transportes;12,90;5;10;ES;Aracruz;24/01/2025
-4791;Expresso Aracruz - Cartão Vila do Riacho X Fábrica;Cordial Transportes;5,55;5;10;ES;Aracruz;24/01/2025
-5877;Expresso Aracruz - Cartão Aracruz X Mar Azul (Via Fabrica);Cordial Transportes;11,10;5;10;ES;Aracruz;24/01/2025
-9223;Expresso Aracruz - Cartão Aracruz Urbano;Cordial Transportes;4,85;5;10;ES;Aracruz;28/05/2025
-15587;Expresso Aracruz - Cartão Aracruz x Praia Formosa (Via Irajá);Cordial Transportes;16,35;5;10;ES;Aracruz;04/02/2025
+4715;Expresso Aracruz - Cartão Coqueiral X Barra do Riacho;Cordial Transportes;8,90;5;10;ES;Aracruz;30/04/2026
+4716;Expresso Aracruz - Cartão Mar Azul X Fábrica;Cordial Transportes;5,05;5;10;ES;Aracruz;30/04/2026
+4717;Expresso Aracruz - Cartão Praia dos Padres X Fábrica;Cordial Transportes;6,05;5;10;ES;Aracruz;30/04/2026
+4781;Expresso Aracruz - Cartão Aracruz X Barra do Riacho;Cordial Transportes;9,80;5;10;ES;Aracruz;30/04/2026
+4783;Expresso Aracruz - Cartão Aracruz X Fábrica;Cordial Transportes;8,35;5;10;ES;Aracruz;30/04/2026
+4784;Expresso Aracruz - Cartão Aracruz X Guaraná;Cordial Transportes;8,50;5;10;ES;Aracruz;30/04/2026
+4785;Expresso Aracruz - Cartão Barra do Riacho X Fábrica;Cordial Transportes;5,05;5;10;ES;Aracruz;30/04/2026
+4789;Expresso Aracruz - Cartão Jacupemba X Aracruz;Cordial Transportes;13,45;5;10;ES;Aracruz;30/04/2026
+4791;Expresso Aracruz - Cartão Vila do Riacho X Fábrica;Cordial Transportes;5,80;5;10;ES;Aracruz;30/04/2026
+5877;Expresso Aracruz - Cartão Aracruz X Mar Azul (Via Fabrica);Cordial Transportes;11,55;5;10;ES;Aracruz;30/04/2026
+9223;Expresso Aracruz - Cartão Aracruz Urbano;Cordial Transportes;5,05;5;10;ES;Aracruz;30/04/2026
+15587;Expresso Aracruz - Cartão Aracruz x Praia Formosa (Via Irajá);Cordial Transportes;17,05;5;10;ES;Aracruz;30/04/2026
 9736;Cordial Transportes (QR-Code) - Cartão Aracruz X João Neiva;Cordial Transportes - QR-Code;17,60;5;10;ES;Aracruz;07/01/2026
 15700;Cordial Transportes (QR-Code) - Cartão Ibiraçu X Aracruz;Cordial Transportes - QR-Code;9,30;5;10;ES;Aracruz;07/01/2026
 2486;Expresso Lorenzutti - Cartão Municipal Guarapari;Expresso Lorenzutti;5,10;5;10;ES;Guarapari;05/03/2026
@@ -585,7 +585,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15181;Sintram - Cartão Ótimo (Linhas Metropolitanas);Consórcio Ótimo (Sintram);12,55;5;10;MG;Belo Horizonte;31/07/2024
 15182;Sintram - Cartão Ótimo (Linhas Metropolitanas);Consórcio Ótimo (Sintram);12,20;5;10;MG;Belo Horizonte;05/03/2025
 7257;Cooperseltta - Cartão Municipal Sete Lagoas;Cooperseltta;5,45;5;10;MG;Sete Lagoas;02/03/2026
-653;Divpass - Cartão Municipal Divinópolis;Divpass - Novo Sistema;3,65;5;10;MG;Divinópolis;17/10/2018
+653;Divpass - Cartão Municipal Divinópolis;Divpass - Novo Sistema;5,50;5;10;MG;Divinópolis;30/04/2026
 8579;Empresa Unida - Cartão Chácara X Juiz de Fora;Empresa Unida;11,40;5;10;MG;Juiz de Fora;02/10/2025
 15645;Empresa Unida - Cartão Visconde de Rio Branco X Ubá;Empresa Unida;9,50;5;10;MG;Juiz de Fora;02/10/2025
 19516;Empresa Unida - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida;10,00;5;10;MG;Juiz de Fora;13/02/2026
@@ -1561,8 +1561,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2273;Viação Chapecó - Cartão Municipal Chapecó;Auto Viação Chapecó;5,00;5;10;SC;Chapecó;08/09/2025
 19436;Auto Viação Pinhalzinhho - Cartão Municipal Pinhalzinho;Auto Viação Pinhalzinho;4,54;5;10;SC;Pinhalzinho;18/12/2025
 8174;Auto Viação Rainha - Cartão Indaial X Blumenau;Auto Viação Rainha;8,50;5;10;SC;Indaial;14/04/2026
-8958;Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia);Canarinho (Guaramirim);6,40;5;10;SC;Jaraguá do Sul;07/10/2022
-8959;Canarinho (Guaramirim) - Cartão Guaramirim;Canarinho (Guaramirim);5,25;5;10;SC;Jaraguá do Sul;07/10/2022
+8958;Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia);Canarinho (Guaramirim);7,25;5;10;SC;Jaraguá do Sul;30/04/2026
+8959;Canarinho (Guaramirim) - Cartão Guaramirim;Canarinho (Guaramirim);5,95;5;10;SC;Jaraguá do Sul;30/04/2026
 19617;Canarinho (Guaramirim) - Cartão Jaraguá do Sul X Guaramirim;Canarinho (Guaramirim);5,25;5;10;SC;Jaraguá do Sul;28/04/2026
 2083;Canarinho (Jaraguá do Sul) - Cartão Municipal Jaraguá do Sul;Canarinho (Jaraguá do Sul);5,25;5;10;SC;Jaraguá do Sul;31/12/2025
 2236;Canarinho (Jaraguá do Sul) - Cartão TEM - Jaraguá do Sul X Dist Nereu Ramos;Canarinho (Jaraguá do Sul);5,25;5;10;SC;Jaraguá do Sul;31/12/2025
