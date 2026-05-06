@@ -284,7 +284,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5258;Viação São Gabriel - Cartão Municipal São Mateus;Viação São Gabriel;5,00;5;10;ES;São Mateus;18/10/2022
 5259;Viação São Gabriel - Cartão Bairro Aviação - Via Rodonaldo;Viação São Gabriel;5,00;5;10;ES;São Mateus;18/10/2022
 10123;Viação São João - Cartão Municipal Nova Venécia;Viação São João;4,50;5;10;ES;Nova Venécia;14/02/2025
-15795;Viação São Roque - Cartão Colatina X Triunfo;Viação São Roque - QR-Code - Espírito Santo;19,00;5;10;ES;Colatina;08/01/2026
+15795;Viação São Roque - Cartão Colatina X Triunfo;Viação São Roque - QR-Code - ES;19,00;5;10;ES;Colatina;08/01/2026
 4016;Araguarina - Cartão Goiânia X Anápolis;Araguarina;14,70;5;10;GO;Goiânia;08/07/2025
 4906;Araguarina - Cartão Goiânia X Inhumas;Araguarina;12,45;5;10;GO;Goiânia;08/07/2025
 15581;CT Expresso - Cartão Luziânia X Brasília;CT Expresso;10,95;5;10;GO;Luziânia;11/03/2026
@@ -293,7 +293,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15584;CT Expresso - Cartão Luziânia X BRT (Santa Maria);CT Expresso;10,70;5;10;GO;Luziânia;08/12/2025
 1340;SITPASS - Cartão Municipal Goiânia;Sitpass;4,30;3;10;GO;Goiânia;19/04/2019
 5533;Transduarte Passaredo - Cartão Municipal Catalão;Transduarte;5,00;5;10;GO;Catalão;13/01/2023
-9933;Translocave - Cartão Municipal Jataí;Translocave - Jataí;4,30;5;10;SP;Valinhos;26/12/2022
+9933;Translocave - Cartão Municipal Jataí;Translocave - Jataí;4,30;5;10;GO;Jataí;26/12/2022
 284;Urban - Cartão Municipal Anápolis;Urban;5,25;5;10;GO;Anápolis;05/12/2024
 15924;Viação Itapetinga - Rio Verde - Novo Sistema - Cartão Municipal Rio Verde;Viação Itapetinga - Rio Verde - Novo Sistema;2,00;5;10;GO;Rio Verde;13/02/2026
 5773;Ratrans Imperatriz - Cartão Urbano Imperatriz;Ratrans;4,75;5;10;MA;Imperatriz;12/03/2024
@@ -775,6 +775,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8388;Viação São Cristóvão - Cartão Lavras X Perdões;Viação São Cristóvão - Eletrônico;10,70;5;10;MG;Divinópolis;07/10/2025
 8389;Viação São Cristóvão - Cartão Lavras X Ijaci (Macaia);Viação São Cristóvão - Eletrônico;6,75;5;10;MG;Divinópolis;07/10/2025
 5348;Viação São Geraldo - Cartão Uberaba X Delta;Viação São Geraldo;12,50;5;10;MG;Uberaba;07/10/2025
+19624;Viação São Roque - MG - Cartão Cava Grande X Acesita;Viação São Roque - MG;7,20;5;10;MG;Coronel Fabriciano;05/05/2026
+19625;Viação São Roque - MG - Cartão Cava Grande X Fabriciano;Viação São Roque - MG;10,30;5;10;MG;Coronel Fabriciano;05/05/2026
+19626;Viação São Roque - MG - Cartão Marlieria X Timóteo;Viação São Roque - MG;5,40;5;10;MG;Coronel Fabriciano;05/05/2026
 15718;Viação Ubá - Cartão Municipal Ubá;Viação Ubá - Novo Sistema;4,80;5;10;MG;Ubá;30/05/2025
 9229;Viação Umuarama Conselheiro Lafaiete - Cartão Municipal Conselheiro Lafaiete;Viação Umuarama - Conselheiro Lafaiete;4,75;5;10;MG;Conselheiro Lafaiete;14/08/2025
 4642;Viação União - Cartão Municipal Viçosa;Viação União;3,00;5;10;MG;Viçosa;08/09/2025
@@ -1083,6 +1086,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7848;Setransol - Cartão Municipal Araruama;Setransol;5,00;5;10;RJ;Cabo Frio;05/05/2025
 9900;Setransol - Cartão Municipal Cabo Frio;Setransol;5,00;5;10;RJ;Cabo Frio;05/05/2025
 10116;Setransol - Cartão Intermunicipal Ônibus (com ar-condicionado em funcionamento);Setransol;8,35;5;10;RJ;Cabo Frio;09/03/2026
+19627;Setransol - Cartão Municipal Arraial do Cabo;Setransol;2,00;5;10;RJ;Cabo Frio;05/05/2026
 1257;Sindpass - Cartão Itatiaia X Resende;Sindpass;5,80;5;10;RJ;Barra Mansa;09/04/2025
 1829;Sindpass - Cartão Barra do Piraí X Volta Redonda / Capital e Grande Rio;Sindpass;16,40;5;10;RJ;Barra Mansa;09/04/2025
 1835;Sindpass - Cartão Química X Centro - Barra Mansa / Capital e Grande Rio;Sindpass;3,60;5;10;RJ;Barra Mansa;12/07/2024
@@ -1254,6 +1258,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16238;Expresso São José - Cartão Capão da Canoa X Capão Novo (Linhas 113A, E113, E196, E823, E908, RT903 e RT905);Expresso São José;6,20;5;10;RS;Tramandaí;05/11/2025
 16260;Expresso São José - Cartão Capão da Canoa X Curumim (Linha E823);Expresso São José;6,20;5;10;RS;Tramandaí;17/11/2025
 19467;Expresso São José - Cartão Curumim X Atlântidasul (Linha E107);Expresso São José;6,20;5;10;RS;Tramandaí;12/01/2026
+19623;Expresso São José - Cartão Municipal Tramandaí;Expresso São José;5,20;5;10;RS;Tramandaí;05/05/2026
 6755;Expresso Vitória - Cartão Charqueada Urbano;Expresso Vitória (VT Metroplan);3,60;5;10;RS;Porto Alegre;01/06/2019
 6205;Expresso Vitória - Charqueadas X Ipiranga Semi Direto (com seguro) Linha 898;Expresso Vitória - (VT Metroplan);22,55;5;10;RS;Porto Alegre;07/07/2025
 6206;Expresso Vitória - Charqueadas X São Jerônimo (sem seguro) Linha 382;Expresso Vitória - (VT Metroplan);8,60;5;10;RS;Porto Alegre;07/07/2025

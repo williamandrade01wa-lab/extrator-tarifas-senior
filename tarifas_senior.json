@@ -2282,7 +2282,7 @@
     {
         "codigo": "15795",
         "nome": "Viação São Roque - Cartão Colatina X Triunfo",
-        "fornecedor": "Viação São Roque - QR-Code - Espírito Santo",
+        "fornecedor": "Viação São Roque - QR-Code - ES",
         "valor": "19,00",
         "uf": "ES",
         "cidade": "Colatina"
@@ -2356,8 +2356,8 @@
         "nome": "Translocave - Cartão Municipal Jataí",
         "fornecedor": "Translocave - Jataí",
         "valor": "4,30",
-        "uf": "SP",
-        "cidade": "Valinhos"
+        "uf": "GO",
+        "cidade": "Jataí"
     },
     {
         "codigo": "284",
@@ -6208,6 +6208,30 @@
         "cidade": "Uberaba"
     },
     {
+        "codigo": "19624",
+        "nome": "Viação São Roque - MG - Cartão Cava Grande X Acesita",
+        "fornecedor": "Viação São Roque - MG",
+        "valor": "7,20",
+        "uf": "MG",
+        "cidade": "Coronel Fabriciano"
+    },
+    {
+        "codigo": "19625",
+        "nome": "Viação São Roque - MG - Cartão Cava Grande X Fabriciano",
+        "fornecedor": "Viação São Roque - MG",
+        "valor": "10,30",
+        "uf": "MG",
+        "cidade": "Coronel Fabriciano"
+    },
+    {
+        "codigo": "19626",
+        "nome": "Viação São Roque - MG - Cartão Marlieria X Timóteo",
+        "fornecedor": "Viação São Roque - MG",
+        "valor": "5,40",
+        "uf": "MG",
+        "cidade": "Coronel Fabriciano"
+    },
+    {
         "codigo": "15718",
         "nome": "Viação Ubá - Cartão Municipal Ubá",
         "fornecedor": "Viação Ubá - Novo Sistema",
@@ -8672,6 +8696,14 @@
         "cidade": "Cabo Frio"
     },
     {
+        "codigo": "19627",
+        "nome": "Setransol - Cartão Municipal Arraial do Cabo",
+        "fornecedor": "Setransol",
+        "valor": "2,00",
+        "uf": "RJ",
+        "cidade": "Cabo Frio"
+    },
+    {
         "codigo": "1257",
         "nome": "Sindpass - Cartão Itatiaia X Resende",
         "fornecedor": "Sindpass",
@@ -10036,6 +10068,14 @@
         "nome": "Expresso São José - Cartão Curumim X Atlântidasul (Linha E107)",
         "fornecedor": "Expresso São José",
         "valor": "6,20",
+        "uf": "RS",
+        "cidade": "Tramandaí"
+    },
+    {
+        "codigo": "19623",
+        "nome": "Expresso São José - Cartão Municipal Tramandaí",
+        "fornecedor": "Expresso São José",
+        "valor": "5,20",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
