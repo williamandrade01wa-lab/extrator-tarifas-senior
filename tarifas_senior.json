@@ -9832,22 +9832,6 @@
         "cidade": "Bagé"
     },
     {
-        "codigo": "8646",
-        "nome": "CTCP Capão do Leão - Cartão Pelotas X Capão do Leão",
-        "fornecedor": "CTCP - Capão do Leão",
-        "valor": "7,40",
-        "uf": "RS",
-        "cidade": "Pelotas"
-    },
-    {
-        "codigo": "8647",
-        "nome": "CTCP Capão do Leão - Cartão Pelotas X Jardim América",
-        "fornecedor": "CTCP - Capão do Leão",
-        "valor": "6,05",
-        "uf": "RS",
-        "cidade": "Pelotas"
-    },
-    {
         "codigo": "2348",
         "nome": "CTCP Coletivo de Pelotas - Cartão Prati - Pelotas",
         "fornecedor": "CTCP - Coletivo de Pelotas",
@@ -10742,6 +10726,30 @@
         "valor": "6,82",
         "uf": "RS",
         "cidade": "Panambi"
+    },
+    {
+        "codigo": "19619",
+        "nome": "Prati - Capão do Leão - Cartão Pelotas X Capão do Leão",
+        "fornecedor": "Prati - Capão do Leão",
+        "valor": "7,40",
+        "uf": "RS",
+        "cidade": "Pelotas"
+    },
+    {
+        "codigo": "19620",
+        "nome": "Prati - Capão do Leão - Cartão Pelotas X Jardim América",
+        "fornecedor": "Prati - Capão do Leão",
+        "valor": "6,05",
+        "uf": "RS",
+        "cidade": "Pelotas"
+    },
+    {
+        "codigo": "19621",
+        "nome": "Prati - Pelotas - Cartão Municipal Pelotas",
+        "fornecedor": "Prati - Pelotas",
+        "valor": "6,25",
+        "uf": "RS",
+        "cidade": "Pelotas"
     },
     {
         "codigo": "10834",
@@ -12500,6 +12508,22 @@
         "nome": "Alvorada - Cartão Laguna X Criciúma",
         "fornecedor": "Alvorada - Eletrônico",
         "valor": "32,61",
+        "uf": "SC",
+        "cidade": "Laguna"
+    },
+    {
+        "codigo": "19628",
+        "nome": "Alvorada - Cartão Pescaria Brava X Tubarão",
+        "fornecedor": "Alvorada - Eletrônico",
+        "valor": "10,09",
+        "uf": "SC",
+        "cidade": "Laguna"
+    },
+    {
+        "codigo": "19629",
+        "nome": "Alvorada - Cartão Capivari de Baixo X Pescaria Brava",
+        "fornecedor": "Alvorada - Eletrônico",
+        "valor": "6,83",
         "uf": "SC",
         "cidade": "Laguna"
     },
@@ -19083,7 +19107,7 @@
         "codigo": "178",
         "nome": "JTU Jacareí- Cartão Jacareí Urbano / Jacareí e Região",
         "fornecedor": "JTU Jacareí",
-        "valor": "6,83",
+        "valor": "8,06",
         "uf": "SP",
         "cidade": "Jacareí"
     },

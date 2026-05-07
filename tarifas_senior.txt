@@ -1228,8 +1228,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15131;Comur - Cartão Municipal Novo Hamburgo;Comur - Novo Hamburgo;5,20;5;10;RS;Novo Hamburgo;10/06/2024
 2295;CSC Santa Cruz do Sul - Cartão Santa Cruz do Sul;CSC Santa Cruz do Sul;5,50;5;10;RS;Santa Cruz do Sul;04/04/2025
 5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,50;5;10;RS;Bagé;14/04/2026
-8646;CTCP Capão do Leão - Cartão Pelotas X Capão do Leão;CTCP - Capão do Leão;7,40;5;10;RS;Pelotas;07/11/2025
-8647;CTCP Capão do Leão - Cartão Pelotas X Jardim América;CTCP - Capão do Leão;6,05;5;10;RS;Pelotas;07/11/2025
 2348;CTCP Coletivo de Pelotas - Cartão Prati - Pelotas;CTCP - Coletivo de Pelotas;6,25;5;10;RS;Pelotas;17/03/2026
 19476;Empresa Vencato - Cartão Porto Alegre X Mariana Pimentel;Empresa Vencato;36,55;5;10;RS;Porto Alegre;16/01/2026
 3920;Expresso Assur - Cartão Guaíba Urbano;Expresso Assur;5,00;5;10;RS;Guaiba;20/04/2026
@@ -1342,6 +1340,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10840;Ozelame - Cartão Bento X Caxias (semi-direto);Ozelame;22,40;5;10;RS;Caxias do Sul;23/10/2025
 3132;Panambiense - Cartão Panambi Intermunicipal;Panambiense;7,45;5;10;RS;Panambi;27/04/2026
 3133;Panambiense - Cartão Panambi Municipal;Panambiense;6,82;5;10;RS;Panambi;12/06/2025
+19619;Prati - Capão do Leão - Cartão Pelotas X Capão do Leão;Prati - Capão do Leão;7,40;5;10;RS;Pelotas;28/04/2026
+19620;Prati - Capão do Leão - Cartão Pelotas X Jardim América;Prati - Capão do Leão;6,05;5;10;RS;Pelotas;28/04/2026
+19621;Prati - Pelotas - Cartão Municipal Pelotas;Prati - Pelotas;6,25;5;10;RS;Pelotas;28/04/2026
 10834;Riomafra - Cartão Municipal Mafra;Riomafra;4,50;5;10;SC;Mafra;29/01/2024
 2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;4,80;5;10;RS;São Borja;21/11/2023
 6122;Stadtbus Teutônia - Cartão Teuto Municipal;Stadtbus Teutônia;5,00;5;10;RS;Teutônia;04/01/2023
@@ -1562,6 +1563,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15759;Alvorada - Cartão Tubarão X Cabeçudas;Alvorada - Eletrônico;9,29;5;10;SC;Laguna;11/06/2025
 15760;Alvorada - Cartão Farol X Tubarão (Via Jaguaruna);Alvorada - Eletrônico;20,47;5;10;SC;Laguna;11/06/2025
 15847;Alvorada - Cartão Laguna X Criciúma;Alvorada - Eletrônico;32,61;5;10;SC;Laguna;26/06/2025
+19628;Alvorada - Cartão Pescaria Brava X Tubarão;Alvorada - Eletrônico;10,09;5;10;SC;Laguna;06/05/2026
+19629;Alvorada - Cartão Capivari de Baixo X Pescaria Brava;Alvorada - Eletrônico;6,83;5;10;SC;Laguna;06/05/2026
 5935;Atalaia Transportes - Itajaí - Cartão Sim Municipal;Atalaia Transportes - Itajaí;4,30;5;10;SC;Itajaí;27/02/2024
 2273;Viação Chapecó - Cartão Municipal Chapecó;Auto Viação Chapecó;5,00;5;10;SC;Chapecó;08/09/2025
 19436;Auto Viação Pinhalzinhho - Cartão Municipal Pinhalzinho;Auto Viação Pinhalzinho;4,54;5;10;SC;Pinhalzinho;18/12/2025
@@ -2384,7 +2387,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9364;Jodi - Cartão Nova Campina X Taquariguaçu;Jodi;5,65;5;10;SP;Itapeva;19/02/2025
 9365;Jodi - Cartão Itapeva X Taquariguaçu;Jodi;8,50;5;10;SP;Itapeva;19/02/2025
 8403;JTP Transportes - Cartão Urbano Bragança Paulista;JTP Transportes - Bragança Paulista;6,50;5;10;SP;Bragança Paulista;02/01/2026
-178;JTU Jacareí- Cartão Jacareí Urbano / Jacareí e Região;JTU Jacareí;6,83;5;10;SP;Jacareí;19/05/2025
+178;JTU Jacareí- Cartão Jacareí Urbano / Jacareí e Região;JTU Jacareí;8,06;5;10;SP;Jacareí;06/05/2026
 15367;JTU Jacareí - Cartão Jacareí Urbano Variável;JTU Jacareí;0,01;5;10;SP;Jacareí;20/09/2024
 355;JTU Santa Branca - Cartão Santa Branca X Jacareí / Jacareí e Região;JTU Santa Branca;6,10;5;10;SP;Jacareí;27/01/2026
 8588;Jundiá (São Roque) - Cartão São Roque Urbano;Jundiá (São Roque);8,00;5;10;SP;São Roque;20/10/2025
