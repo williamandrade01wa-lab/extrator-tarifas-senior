@@ -956,10 +956,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16002;Oceânica - Guaratuba - Cartão Municipal Guaratuba;Oceânica - Guaratuba;6,10;5;10;PR;Guaratuba;20/08/2025
 16003;Oceânica - Itapoá - Cartão Municipal Itapoá;Oceânica - Itapoá - QR-Code;5,00;5;10;SC;Itapoá;20/08/2025
 16005;Oceânica - Lapa - Cartão Municipal Lapa;Oceânica - Lapa - QR-Code;4,30;5;10;PR;Lapa;20/08/2025
+19630;Oceânica - Lapa - Cartão Lapa X Araucária;Oceânica - Lapa - QR-Code;8,50;5;10;PR;Lapa;07/05/2026
 9618;Panamera Oceânica Sul - Cartão Pontal do Paraná Municipal;Panamera Oceânica Sul;3,25;5;10;PR;Pontal do Paraná;04/08/2025
-9872;Penha - (QR-Code) - Cartão Lapa X Araucária;Penha - QR-Code;8,50;5;10;PR;Maringá;04/03/2026
-15591;Penha - (QR-Code) - Cartão Xambre X Umuarama;Penha - QR-Code;9,07;5;10;PR;Maringá;04/03/2026
-19442;Penha - (QR-Code) - Cartão Umuarama X Icaraíma;Penha - QR-Code;39,59;5;10;PR;Maringá;22/12/2025
 2193;Pérola do Oeste - Cartão Pérola do Oeste Urbano;Pérola do Oeste;4,00;5;10;PR;Guarapuava;19/02/2025
 15991;Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque);Piraquara;5,50;5;10;SP;Piraquara;19/08/2025
 15764;Prefeitura de Campo Largo - Cartão Municipal Campo Largo;Prefeitura de Campo Largo;5,80;5;10;PR;Campo Largo;12/06/2025
@@ -1228,6 +1226,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15131;Comur - Cartão Municipal Novo Hamburgo;Comur - Novo Hamburgo;5,20;5;10;RS;Novo Hamburgo;10/06/2024
 2295;CSC Santa Cruz do Sul - Cartão Santa Cruz do Sul;CSC Santa Cruz do Sul;5,50;5;10;RS;Santa Cruz do Sul;04/04/2025
 5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,50;5;10;RS;Bagé;14/04/2026
+8646;CTCP Capão do Leão - Cartão Pelotas X Capão do Leão;CTCP - Capão do Leão;7,40;5;10;RS;Pelotas;07/11/2025
+8647;CTCP Capão do Leão - Cartão Pelotas X Jardim América;CTCP - Capão do Leão;6,05;5;10;RS;Pelotas;07/11/2025
 2348;CTCP Coletivo de Pelotas - Cartão Prati - Pelotas;CTCP - Coletivo de Pelotas;6,25;5;10;RS;Pelotas;17/03/2026
 19476;Empresa Vencato - Cartão Porto Alegre X Mariana Pimentel;Empresa Vencato;36,55;5;10;RS;Porto Alegre;16/01/2026
 3920;Expresso Assur - Cartão Guaíba Urbano;Expresso Assur;5,00;5;10;RS;Guaiba;20/04/2026
@@ -1340,9 +1340,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10840;Ozelame - Cartão Bento X Caxias (semi-direto);Ozelame;22,40;5;10;RS;Caxias do Sul;23/10/2025
 3132;Panambiense - Cartão Panambi Intermunicipal;Panambiense;7,45;5;10;RS;Panambi;27/04/2026
 3133;Panambiense - Cartão Panambi Municipal;Panambiense;6,82;5;10;RS;Panambi;12/06/2025
-19619;Prati - Capão do Leão - Cartão Pelotas X Capão do Leão;Prati - Capão do Leão;7,40;5;10;RS;Pelotas;28/04/2026
-19620;Prati - Capão do Leão - Cartão Pelotas X Jardim América;Prati - Capão do Leão;6,05;5;10;RS;Pelotas;28/04/2026
-19621;Prati - Pelotas - Cartão Municipal Pelotas;Prati - Pelotas;6,25;5;10;RS;Pelotas;28/04/2026
 10834;Riomafra - Cartão Municipal Mafra;Riomafra;4,50;5;10;SC;Mafra;29/01/2024
 2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;4,80;5;10;RS;São Borja;21/11/2023
 6122;Stadtbus Teutônia - Cartão Teuto Municipal;Stadtbus Teutônia;5,00;5;10;RS;Teutônia;04/01/2023
