@@ -290,7 +290,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15581;CT Expresso - Cartão Luziânia X Brasília;CT Expresso;10,95;5;10;GO;Luziânia;11/03/2026
 15582;CT Expresso - Cartão Luziânia X Taguatinga;CT Expresso;12,30;5;10;GO;Luziânia;11/03/2026
 15583;CT Expresso - Cartão Luziânia X Gama;CT Expresso;8,15;5;10;GO;Luziânia;11/03/2026
-15584;CT Expresso - Cartão Luziânia X BRT (Santa Maria);CT Expresso;10,70;5;10;GO;Luziânia;08/12/2025
+15584;CT Expresso - Cartão Luziânia X BRT (Santa Maria);CT Expresso;10,95;5;10;GO;Luziânia;08/05/2026
 1340;SITPASS - Cartão Municipal Goiânia;Sitpass;4,30;3;10;GO;Goiânia;19/04/2019
 5533;Transduarte Passaredo - Cartão Municipal Catalão;Transduarte;5,00;5;10;GO;Catalão;13/01/2023
 9933;Translocave - Cartão Municipal Jataí;Translocave - Jataí;4,30;5;10;GO;Jataí;26/12/2022
@@ -1510,7 +1510,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2245;Viação Montenegro VIMSA - Cartão Estância Velha X Novo Hamburgo;Viação Montenegro VIMSA;6,20;5;10;RS;Montenegro;08/07/2025
 2551;Viação Montenegro VIMSA - Cartão Urbano Montenegro - Convencional;Viação Montenegro VIMSA;5,00;5;10;RS;Montenegro;15/07/2025
 2552;Viação Montenegro VIMSA - Cartão Montenegro X São Leopoldo (via Cap.);Viação Montenegro VIMSA;16,00;5;10;RS;Montenegro;08/07/2025
-2553;Viação Montenegro VIMSA - Cartão Montenegro X Brochier;Viação Montenegro VIMSA;9,80;5;10;RS;Montenegro;05/12/2024
+2553;Viação Montenegro VIMSA - Cartão Montenegro X Brochier;Viação Montenegro VIMSA;10,60;5;10;RS;Montenegro;08/05/2026
 2555;Viação Montenegro VIMSA - Cartão Montenegro X Portão (ida e volta);Viação Montenegro VIMSA;11,10;5;10;RS;Montenegro;08/07/2025
 3306;Viação Montenegro VIMSA - Cartão Viação Montenegro;Viação Montenegro VIMSA;5,00;5;10;RS;Montenegro;08/07/2025
 3375;Viação Montenegro VIMSA - Cartão Berto Cirio X Porto da Figueira;Viação Montenegro VIMSA;8,40;5;10;RS;Montenegro;08/07/2025
@@ -1520,7 +1520,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3382;Viação Montenegro VIMSA - Cartão Novo Hamburgo X Campo Grande;Viação Montenegro VIMSA;6,20;5;10;RS;Montenegro;08/07/2025
 4493;Viação Montenegro VIMSA - Cartão Porto Alegre X Nova Santa Rita;Viação Montenegro VIMSA;10,95;5;10;RS;Montenegro;08/07/2025
 4494;Viação Montenegro VIMSA - Cartão Polo X Rua Nova;Viação Montenegro VIMSA;8,40;5;10;RS;Montenegro;08/07/2025
-4495;Viação Montenegro VIMSA - Cartão Brochier X Marata;Viação Montenegro VIMSA;7,65;5;10;RS;Montenegro;05/12/2024
+4495;Viação Montenegro VIMSA - Cartão Brochier X Marata;Viação Montenegro VIMSA;8,25;5;10;RS;Montenegro;08/05/2026
 4496;Viação Montenegro VIMSA - Cartão Portão X São Leopoldo;Viação Montenegro VIMSA;8,55;5;10;RS;Montenegro;08/07/2025
 4497;Viação Montenegro VIMSA - Canoas X Porto Garibaldi (N0700);Viação Montenegro VIMSA;9,40;5;10;RS;Montenegro;08/07/2025
 4498;Viação Montenegro VIMSA - Porto Garibaldi X Montenegro;Viação Montenegro VIMSA;7,80;5;10;RS;Montenegro;03/02/2025

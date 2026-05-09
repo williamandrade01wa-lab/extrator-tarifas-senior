@@ -2331,7 +2331,7 @@
         "codigo": "15584",
         "nome": "CT Expresso - Cartão Luziânia X BRT (Santa Maria)",
         "fornecedor": "CT Expresso",
-        "valor": "10,70",
+        "valor": "10,95",
         "uf": "GO",
         "cidade": "Luziânia"
     },
@@ -12091,7 +12091,7 @@
         "codigo": "2553",
         "nome": "Viação Montenegro VIMSA - Cartão Montenegro X Brochier",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "9,80",
+        "valor": "10,60",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -12171,7 +12171,7 @@
         "codigo": "4495",
         "nome": "Viação Montenegro VIMSA - Cartão Brochier X Marata",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "7,65",
+        "valor": "8,25",
         "uf": "RS",
         "cidade": "Montenegro"
     },
