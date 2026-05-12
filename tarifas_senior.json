@@ -104,6 +104,14 @@
         "cidade": "Itabuna"
     },
     {
+        "codigo": "19519",
+        "nome": "Atlântico Transportes - Juazeiro - Cartão Municipal Juazeiro",
+        "fornecedor": "Atlântico Transportes - Juazeiro - PIX",
+        "valor": "4,25",
+        "uf": "BA",
+        "cidade": "Juazeiro"
+    },
+    {
         "codigo": "19600",
         "nome": "Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro",
         "fornecedor": "Atlântico Transportes - Juazeiro - PIX",
@@ -1849,9 +1857,17 @@
     },
     {
         "codigo": "15587",
-        "nome": "Expresso Aracruz - Cartão Aracruz x Praia Formosa (Via Irajá)",
+        "nome": "Expresso Aracruz - Cartão Aracruz X Praia Formosa (Via Irajá)",
         "fornecedor": "Cordial Transportes",
         "valor": "17,05",
+        "uf": "ES",
+        "cidade": "Aracruz"
+    },
+    {
+        "codigo": "19632",
+        "nome": "Expresso Aracruz - Cartão Aracruz X Irajá",
+        "fornecedor": "Cordial Transportes",
+        "valor": "5,90",
         "uf": "ES",
         "cidade": "Aracruz"
     },
@@ -7547,7 +7563,7 @@
         "codigo": "8158",
         "nome": "Expresso Transpen - Cartão Municipal Jaguariaiva",
         "fornecedor": "Expresso Transpen",
-        "valor": "6,26",
+        "valor": "7,20",
         "uf": "PR",
         "cidade": "Jaguariaíva"
     },

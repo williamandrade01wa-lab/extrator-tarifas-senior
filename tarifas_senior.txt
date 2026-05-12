@@ -12,6 +12,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 381;Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá;Setap - Intermunicipal;4,00;5;10;AP;Macapá;16/08/2023
 2583;Alagoinhas - Cartão Urbano Alagoinhas;Alagoinhas;4,60;5;10;BA;Alagoinhas;12/02/2026
 8600;Atlântico Transportes (Itabuna) - Cartão Municipal Itabuna;Atlântico Transportes - Itabuna;4,30;5;10;BA;Itabuna;01/10/2025
+19519;Atlântico Transportes - Juazeiro - Cartão Municipal Juazeiro;Atlântico Transportes - Juazeiro - PIX;4,25;5;10;BA;Juazeiro;23/04/2026
 19600;Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro;Atlântico Transportes - Juazeiro - PIX;5,25;5;10;BA;Juazeiro;23/04/2026
 19601;Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro;Atlântico Transportes - Juazeiro - PIX;5,00;5;10;BA;Juazeiro;23/04/2026
 7449;Atlântico Transportes (Paulo Afonso) - Cartão Municipal Paulo Afonso;Atlântico Transportes - Paulo Afonso;4,00;5;10;BA;Paulo Afonso;01/05/2021
@@ -230,7 +231,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4791;Expresso Aracruz - Cartão Vila do Riacho X Fábrica;Cordial Transportes;5,80;5;10;ES;Aracruz;30/04/2026
 5877;Expresso Aracruz - Cartão Aracruz X Mar Azul (Via Fabrica);Cordial Transportes;11,55;5;10;ES;Aracruz;30/04/2026
 9223;Expresso Aracruz - Cartão Aracruz Urbano;Cordial Transportes;5,05;5;10;ES;Aracruz;30/04/2026
-15587;Expresso Aracruz - Cartão Aracruz x Praia Formosa (Via Irajá);Cordial Transportes;17,05;5;10;ES;Aracruz;30/04/2026
+15587;Expresso Aracruz - Cartão Aracruz X Praia Formosa (Via Irajá);Cordial Transportes;17,05;5;10;ES;Aracruz;30/04/2026
+19632;Expresso Aracruz - Cartão Aracruz X Irajá;Cordial Transportes;5,90;5;10;ES;Aracruz;11/05/2026
 9736;Cordial Transportes (QR-Code) - Cartão Aracruz X João Neiva;Cordial Transportes - QR-Code;17,60;5;10;ES;Aracruz;07/01/2026
 15700;Cordial Transportes (QR-Code) - Cartão Ibiraçu X Aracruz;Cordial Transportes - QR-Code;9,30;5;10;ES;Aracruz;07/01/2026
 2486;Expresso Lorenzutti - Cartão Municipal Guarapari;Expresso Lorenzutti;5,10;5;10;ES;Guarapari;05/03/2026
@@ -942,7 +944,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6306;Expresso Nordeste - Cartão Nova Aurora X Cafelândia;Expresso Nordeste - Novo Sistema;9,54;5;10;PR;Apucarana;13/08/2025
 6307;Expresso Nordeste - Cartão Mandaguari X Apucarana;Expresso Nordeste - Novo Sistema;6,55;5;10;PR;Apucarana;13/08/2025
 15188;Expresso Nordeste - Cartão Apucarana X Cambirá;Expresso Nordeste - Novo Sistema;6,55;5;10;PR;Apucarana;13/08/2025
-8158;Expresso Transpen - Cartão Municipal Jaguariaiva;Expresso Transpen;6,26;5;10;PR;Jaguariaíva;03/06/2025
+8158;Expresso Transpen - Cartão Municipal Jaguariaiva;Expresso Transpen;7,20;5;10;PR;Jaguariaíva;11/05/2026
 10712;Guancino - Cartão Francisco Beltrão Urbano;Guancino;5,30;5;10;PR;Francisco Beltrão;03/10/2025
 9050;Imperial Locação e Transporte - Cartão Municipal Araucária;Imperial Locação e Transporte;1,00;5;10;PR;Araucária;13/11/2023
 9350;Melissatur - Cartão Municipal Campo Mourão;Melissatur;4,81;5;10;PR;Campo Mourão;25/04/2022
