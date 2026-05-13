@@ -163,7 +163,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15733;Catedral - Cartão Gama X Jardim Ingá;Catedral - Eletrônico;6,10;5;10;DF;Brasília;26/02/2026
 15734;Catedral - Cartão Taguatinga X Jardim Ingá;Catedral - Eletrônico;10,65;5;10;DF;Brasília;26/02/2026
 15738;Catedral - Cartão Jardim Ingá X Lago Sul;Catedral - Eletrônico;9,30;5;10;DF;Brasília;26/02/2026
-15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;11,00;5;11;DF;Brasília;23/02/2026
+15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;12,35;5;11;DF;Brasília;12/05/2026
 10308;Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas;Taguatur - Águas Lindas de Goiás;11,45;5;10;DF;Brasília;26/02/2026
 10309;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga;Taguatur - Águas Lindas de Goiás;6,75;5;10;DF;Brasília;15/08/2023
 10310;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Ceilândia;Taguatur - Águas Lindas de Goiás;5,15;5;10;DF;Brasília;15/08/2023
@@ -1030,12 +1030,12 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15069;Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu;Viza Transportes - Eletrônico;6,75;5;10;PR;Foz do Iguaçu;03/03/2026
 15423;Bamonte - Cartão Municipal Barra do Piraí;Bamonte;3,60;5;10;RJ;Barra do Piraí;13/11/2024
 15191;Fênix RJ;Fênix RJ;0,01;5;10;RJ;Rio de Janeiro;14/08/2024
-15464;Jaé - Cartão Municipal Rio de Janeiro;Jaé;5,00;3;10;RJ;Rio de Janeiro;02/01/2026
-15465;Jaé - Cartão Ônibus Executivo;Jaé;0,01;3;10;RJ;Rio de Janeiro;02/12/2024
-15568;Jaé - Cartão Ônibus Executivo Tarifa Fixa;Jaé;23,00;3;10;RJ;Rio de Janeiro;22/01/2025
-15906;Jaé - Cartão Integração Ônibus + Metrô;Jaé;7,90;3;10;RJ;Rio de Janeiro;22/07/2025
-15907;Jaé - Cartão Integração BRT+ Metrô;Jaé;9,70;3;10;RJ;Rio de Janeiro;22/07/2025
-15908;Jaé - Cartão Integração Van + Metrô;Jaé;8,80;3;10;RJ;Rio de Janeiro;22/07/2025
+19602;Jaé - Cartão Municipal Rio de Janeiro;Jaé;5,00;3;10;RJ;Rio de Janeiro;23/04/2026
+19603;Jaé - Cartão Ônibus Executivo;Jaé;0,01;3;10;RJ;Rio de Janeiro;23/04/2026
+19604;Jaé - Cartão Ônibus Executivo Tarifa Fixa;Jaé;23,00;3;10;RJ;Rio de Janeiro;23/04/2026
+19605;Jaé - Cartão Integração Ônibus + Metrô;Jaé;7,90;3;10;RJ;Rio de Janeiro;23/04/2026
+19606;Jaé - Cartão Integração BRT+ Metrô;Jaé;9,70;3;10;RJ;Rio de Janeiro;23/04/2026
+19607;Jaé - Cartão Integração Van + Metrô;Jaé;8,80;3;10;RJ;Rio de Janeiro;23/04/2026
 16009;Partiu - Cartão Municipal Nova Friburgo;Partiu - Nova Friburgo;5,50;5;10;RJ;Nova Friburgo;21/08/2025
 212;Riocard (Semove) - Rio Card Bilhete Único Tarifa Variável;Riocard (Semove);0,01;3;7;RJ;Rio de Janeiro;01/01/2000
 960;Riocard (Semove) - Rio Card Bilhete Único Tarifa Variável;Riocard (Semove);0,01;3;7;RJ;Rio de Janeiro;25/06/2018
@@ -1480,7 +1480,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10609;Valesul Porto Alegre - 307 Gravataí – Iguatemi (Sogil – 00001);Valesul - Porto Alegre;17,70;5;10;RS;Cachoeirinha;11/07/2025
 10610;Valesul Porto Alegre - 306 Gravataí – Canoas (Sogil – 00001);Valesul - Porto Alegre;11,10;5;10;RS;Cachoeirinha;11/07/2025
 10611;Valesul Porto Alegre - 282 Gravataí Micro Municipal (Sogil – 00001);Valesul - Porto Alegre;10,00;5;10;RS;Cachoeirinha;02/01/2025
-10612;Valesul Porto Alegre - 270 Gravataí Municipal (Sogil – 00001);Valesul - Porto Alegre;7,40;5;10;RS;Cachoeirinha;01/08/2025
+10612;Valesul Porto Alegre - 270 Gravataí Municipal (Sogil – 00001);Valesul - Porto Alegre;8,50;5;10;RS;Cachoeirinha;12/05/2026
 10613;Valesul Porto Alegre - 515 Seletivo Canoas Urbana (Sogal – 00008);Valesul - Porto Alegre;5,30;5;10;RS;Cachoeirinha;18/10/2023
 10614;Valesul Porto Alegre - 511 Canoas Urbana (Sogal – 00008);Valesul - Porto Alegre;4,80;5;10;RS;Cachoeirinha;18/10/2023
 10615;Valesul Porto Alegre - 257 Seletivo Viamão – Poa (Viamão / Vialeste - 00012);Valesul - Porto Alegre;21,80;5;10;RS;Cachoeirinha;11/07/2025
@@ -1500,13 +1500,15 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10634;Valesul Porto Alegre - 804 Capão da Porteira - Centro de Viamão (Viamão / Vialeste - 00012);Valesul - Porto Alegre;7,70;5;10;RS;Cachoeirinha;18/10/2023
 10636;Valesul Porto Alegre - 521 Poa - Canoas (Praia de Belas) - Executivo (Transcal- 00004);Valesul - Porto Alegre;14,95;5;10;RS;Cachoeirinha;11/07/2025
 10638;Valesul Porto Alegre - 520/1514 Alimentadora Transcal / Trensurb (Transcal - 00004);Valesul - Porto Alegre;7,10;5;10;RS;Cachoeirinha;11/07/2025
-10718;Valesul Porto Alegre - 272 GM – Gravataí Municipal (Sogil – 00001);Valesul - Porto Alegre;10,50;5;10;RS;Cachoeirinha;01/08/2025
+10718;Valesul Porto Alegre - 272 GM – Gravataí Municipal (Sogil – 00001);Valesul - Porto Alegre;13,50;5;10;RS;Cachoeirinha;12/05/2026
 15341;Valesul Porto Alegre - 904 Poa – São Leopoldo (Central – 00022);Valesul - Porto Alegre;8,45;5;10;RS;Cachoeirinha;11/07/2025
 15785;Valesul Porto Alegre - 709 Gravataí - Cachoeirinha (Semi-Direto) (Sogil – 00001);Valesul - Porto Alegre;11,10;5;10;RS;Cachoeirinha;11/07/2025
 15786;Valesul Porto Alegre - 235 Rural 5 = Pimenta / Praia das Pombas / Itapuã - Centro Viamão (Viamão / Vialeste - 00012);Valesul - Porto Alegre;11,30;5;10;RS;Cachoeirinha;23/06/2025
 15787;Valesul Porto Alegre - 265 Viamão Capororoca P.32 / São Jorge - Poa Bento, Ipiranga, Rodoviária (Viamão / Vialeste - 00012);Valesul - Porto Alegre;6,75;5;10;RS;Cachoeirinha;11/07/2025
 16068;Valesul Porto Alegre - 466 Morada do Vale 1, 2 e 3 Executivo via Anchieta (Transcal - 00004);Valesul - Porto Alegre;18,85;5;10;RS;Cachoeirinha;03/09/2025
 19544;Valesul Porto Alegre - 234 Rural 4;Valesul - Porto Alegre;8,70;5;10;RS;Cachoeirinha;16/03/2026
+19647;Valesul Porto Alegre - 319 Poa – Santo Antônio (Sogil RS-030);Valesul - Porto Alegre;32,10;5;10;RS;Cachoeirinha;12/05/2026
+19648;Valesul Porto Alegre - 343 Poa – Santo Antônio (semidireto) (Sogil RS-030);Valesul - Porto Alegre;37,30;5;10;RS;Cachoeirinha;12/05/2026
 10568;Valesul Porto Alegre - 33 Capão Da Canoa – Capão Novo (Cs Turismo / Rota Litoral - 00037);ValeSul Porto Alegre;5,00;5;10;RS;Cachoeirinha;18/10/2023
 10815;Valesul Porto Alegre - 805 Lombas / Centro de Viamão (Viamão / Vialeste - 00012);ValeSul Porto Alegre;8,80;5;10;RS;Cachoeirinha;29/01/2024
 2245;Viação Montenegro VIMSA - Cartão Estância Velha X Novo Hamburgo;Viação Montenegro VIMSA;6,20;5;10;RS;Montenegro;08/07/2025

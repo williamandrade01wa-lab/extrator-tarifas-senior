@@ -1315,7 +1315,7 @@
         "codigo": "15432",
         "nome": "Rota do Sol - Cartão Lago Azul X Brasília",
         "fornecedor": "Rota do Sol - Eletrônico",
-        "valor": "11,00",
+        "valor": "12,35",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -8248,7 +8248,7 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "15464",
+        "codigo": "19602",
         "nome": "Jaé - Cartão Municipal Rio de Janeiro",
         "fornecedor": "Jaé",
         "valor": "5,00",
@@ -8256,7 +8256,7 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "15465",
+        "codigo": "19603",
         "nome": "Jaé - Cartão Ônibus Executivo",
         "fornecedor": "Jaé",
         "valor": "0,01",
@@ -8264,7 +8264,7 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "15568",
+        "codigo": "19604",
         "nome": "Jaé - Cartão Ônibus Executivo Tarifa Fixa",
         "fornecedor": "Jaé",
         "valor": "23,00",
@@ -8272,7 +8272,7 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "15906",
+        "codigo": "19605",
         "nome": "Jaé - Cartão Integração Ônibus + Metrô",
         "fornecedor": "Jaé",
         "valor": "7,90",
@@ -8280,7 +8280,7 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "15907",
+        "codigo": "19606",
         "nome": "Jaé - Cartão Integração BRT+ Metrô",
         "fornecedor": "Jaé",
         "valor": "9,70",
@@ -8288,7 +8288,7 @@
         "cidade": "Rio de Janeiro"
     },
     {
-        "codigo": "15908",
+        "codigo": "19607",
         "nome": "Jaé - Cartão Integração Van + Metrô",
         "fornecedor": "Jaé",
         "valor": "8,80",
@@ -11851,7 +11851,7 @@
         "codigo": "10612",
         "nome": "Valesul Porto Alegre - 270 Gravataí Municipal (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,40",
+        "valor": "8,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -12011,7 +12011,7 @@
         "codigo": "10718",
         "nome": "Valesul Porto Alegre - 272 GM – Gravataí Municipal (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "10,50",
+        "valor": "13,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -12060,6 +12060,22 @@
         "nome": "Valesul Porto Alegre - 234 Rural 4",
         "fornecedor": "Valesul - Porto Alegre",
         "valor": "8,70",
+        "uf": "RS",
+        "cidade": "Cachoeirinha"
+    },
+    {
+        "codigo": "19647",
+        "nome": "Valesul Porto Alegre - 319 Poa – Santo Antônio (Sogil RS-030)",
+        "fornecedor": "Valesul - Porto Alegre",
+        "valor": "32,10",
+        "uf": "RS",
+        "cidade": "Cachoeirinha"
+    },
+    {
+        "codigo": "19648",
+        "nome": "Valesul Porto Alegre - 343 Poa – Santo Antônio (semidireto) (Sogil RS-030)",
+        "fornecedor": "Valesul - Porto Alegre",
+        "valor": "37,30",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
