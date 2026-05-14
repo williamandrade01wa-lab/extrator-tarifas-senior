@@ -5483,7 +5483,7 @@
         "codigo": "530",
         "nome": "Transube - Cartão Municipal Uberaba",
         "fornecedor": "Transube",
-        "valor": "6,00",
+        "valor": "5,50",
         "uf": "MG",
         "cidade": "Uberaba"
     },
@@ -5491,7 +5491,7 @@
         "codigo": "15770",
         "nome": "Transube - Cartão Distrito Industrial III (linha 61)",
         "fornecedor": "Transube",
-        "valor": "8,40",
+        "valor": "8,00",
         "uf": "MG",
         "cidade": "Uberaba"
     },
@@ -6355,7 +6355,7 @@
         "codigo": "10922",
         "nome": "Amtc - Cartão Municipal Rondonópolis",
         "fornecedor": "Amtc",
-        "valor": "3,00",
+        "valor": "2,00",
         "uf": "MT",
         "cidade": "Rondonópolis"
     },
@@ -7504,14 +7504,6 @@
         "cidade": "Pato Branco"
     },
     {
-        "codigo": "9161",
-        "nome": "Consorcio Tupa - Cartão Metropolitano Pato Branco (Mariópolis)",
-        "fornecedor": "Consorcio Tupa",
-        "valor": "6,55",
-        "uf": "PR",
-        "cidade": "Pato Branco"
-    },
-    {
         "codigo": "15989",
         "nome": "Expresso Azul - Pinhais - Cartão Pinhais X Campo Comprido",
         "fornecedor": "Expresso Azul - Pinhais",
@@ -8075,7 +8067,7 @@
         "codigo": "6025",
         "nome": "Viação Garcia - Cartão Londrina X Assai",
         "fornecedor": "Viação Garcia - (Lond - Assai)",
-        "valor": "8,50",
+        "valor": "9,10",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -9315,7 +9307,7 @@
         "codigo": "10869",
         "nome": "Nubus - Cidadão - Cartão Municipal Natal",
         "fornecedor": "Nubus - Cidadão",
-        "valor": "4,90",
+        "valor": "5,20",
         "uf": "RN",
         "cidade": "Natal"
     },
@@ -12587,7 +12579,7 @@
         "codigo": "19617",
         "nome": "Canarinho (Guaramirim) - Cartão Jaraguá do Sul X Guaramirim",
         "fornecedor": "Canarinho (Guaramirim)",
-        "valor": "5,25",
+        "valor": "5,95",
         "uf": "SC",
         "cidade": "Jaraguá do Sul"
     },

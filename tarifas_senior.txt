@@ -684,8 +684,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10708;Transnorte - Cartão Mirabela X Montes Claros;Transnorte - QR-Code;25,00;5;10;MG;Belo Horizonte;14/02/2025
 10709;Transnorte - Cartão Montes Claros X Mirabela;Transnorte - QR-Code;26,05;5;10;MG;Belo Horizonte;14/02/2025
 10113;Transportes Coletivo Leo - Cartão Municipal Cataguases;Transportes Coletivo Leo;4,10;5;10;MG;Cataguases;01/10/2025
-530;Transube - Cartão Municipal Uberaba;Transube;6,00;5;10;MG;Uberaba;06/04/2026
-15770;Transube - Cartão Distrito Industrial III (linha 61);Transube;8,40;5;10;MG;Uberaba;06/04/2026
+530;Transube - Cartão Municipal Uberaba;Transube;5,50;5;10;MG;Uberaba;13/05/2026
+15770;Transube - Cartão Distrito Industrial III (linha 61);Transube;8,00;5;10;MG;Uberaba;13/05/2026
 8585;Transur - Cartão Juiz de Fora X Santos Dumont (Roletinha);Transur - Eletrônico;17,85;5;10;MG;Juíz de Fora;10/09/2025
 8586;Transur - Cartão Ewbank da Camara X Juiz de Fora;Transur - Eletrônico;12,20;5;10;MG;Juíz de Fora;10/09/2025
 3816;Trectur - Cartão Urbano Três Corações;Trectur;5,25;5;10;MG;Três Corações;01/10/2024
@@ -793,7 +793,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9668;Expresso Mato Grosso - Cartão Campo Grande X Terenos;Expresso Mato Grosso - Novo Sistema;13,80;5;10;MS;Campo Grande;28/04/2026
 4647;Medianeira Dourados - Cartão Municipal Dourados;Medianeira Dourados;3,00;5;10;MS;Dourados;02/06/2025
 4899;Medianeira Ponta Porã - Cartão Municipal Ponta Porã;Medianeira Ponta Porã;3,75;5;10;MS;Ponta Pora;18/03/2019
-10922;Amtc - Cartão Municipal Rondonópolis;Amtc;3,00;5;10;MT;Rondonópolis;11/04/2025
+10922;Amtc - Cartão Municipal Rondonópolis;Amtc;2,00;5;10;MT;Rondonópolis;13/05/2026
 2612;AMTU Cuiabá - Cartão Municipal Cuiabá;AMTU - Cuiabá;4,95;5;10;MT;Cuiabá;09/05/2022
 1220;AMTU Cuiabá - Cartão Municipal Santo Antônio do Leverger;AMTU Cuiabá;8,00;5;10;MT;Cuiabá;16/10/2025
 1221;AMTU Cuiabá - Cartão Intermunicipal Cuiabá;AMTU Cuiabá;5,95;5;10;MT;Cuiabá;04/07/2025
@@ -937,7 +937,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9100;Cidade Verde - Cartão Maringá X Ivatuba;Cidade Verde;6,20;5;10;PR;Maringá;23/03/2026
 15388;Cidade Verde - Cartão Maringá X Floresta;Cidade Verde;6,55;5;10;PR;Maringá;18/02/2026
 6681;Consorcio Tupa - Cartão Urbano Pato Branco;Consorcio Tupa;5,00;5;10;PR;Pato Branco;01/04/2025
-9161;Consorcio Tupa - Cartão Metropolitano Pato Branco (Mariópolis);Consorcio Tupa;6,55;5;10;PR;Pato Branco;05/05/2025
 15989;Expresso Azul - Pinhais - Cartão Pinhais X Campo Comprido;Expresso Azul - Pinhais;5,50;5;10;PR;Pinhais;19/08/2025
 6304;Expresso Nordeste - Cartão Cafelândia X Nova Aurora;Expresso Nordeste - Novo Sistema;8,28;5;10;PR;Apucarana;13/08/2025
 6305;Expresso Nordeste - Cartão Marilândia X Apucarana;Expresso Nordeste - Novo Sistema;6,25;5;10;PR;Apucarana;13/08/2025
@@ -1008,7 +1007,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4472;Viação Garcia - Cartão Astorga x Maringá;Viação Garcia;10,15;5;10;PR;Londrina;19/02/2026
 4475;Viação Garcia - Cartão Maringá x Marialva;Viação Garcia;6,20;5;10;PR;Londrina;19/02/2026
 6023;Viação Garcia - Cartão Araponga X Astorga;Viação Garcia - (Arapon - Astor);7,00;5;10;PR;Maringá;19/02/2026
-6025;Viação Garcia - Cartão Londrina X Assai;Viação Garcia - (Lond - Assai);8,50;5;10;PR;Maringá;19/02/2026
+6025;Viação Garcia - Cartão Londrina X Assai;Viação Garcia - (Lond - Assai);9,10;5;10;PR;Maringá;13/05/2026
 15316;Viação Garcia - Cartão Londrina X Bela Vista do Paraíso;Viação Garcia - (Lond - B. Vista do Par);9,10;5;10;PR;Maringá;07/05/2025
 6026;Viação Garcia - Cartão Londrina X Bela Vista;Viação Garcia - (Lond - B. Vista);9,45;5;10;PR;Maringá;19/02/2026
 6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,55;5;10;PR;Maringá;19/02/2026
@@ -1163,7 +1162,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6837;Cidade do Sol - Cartão Mossoró Municipal;Cidade do Sol;3,30;5;10;RN;Mossoró;01/01/2017
 10464;Expresso Oceano (PIX) - Cartão Bem Card - Natal X Extremoz;Expresso Oceano - Transp Guanabara - PIX;6,00;3;10;RN;São Gonçalo do Amarante;24/04/2026
 10465;Expresso Oceano (PIX) - Cartão Bem Card - Ceará Mirim (Cidade das Dunas ou Oceano);Expresso Oceano - Transp Guanabara - PIX;8,00;3;10;RN;São Gonçalo do Amarante;24/04/2026
-10869;Nubus - Cidadão - Cartão Municipal Natal;Nubus - Cidadão;4,90;5;10;RN;Natal;07/01/2025
+10869;Nubus - Cidadão - Cartão Municipal Natal;Nubus - Cidadão;5,20;5;10;RN;Natal;13/05/2026
 1243;Nubus (Seturn) - Cartão Natal Card Urbano;Seturn;5,20;5;10;RN;Natal;24/04/2026
 19537;Seturn - Cartão Seturn;Seturn;0,01;5;10;RN;Natal;03/03/2026
 1237;Trampolim - Cartão Parnamirim X Natal (Petrópolis) Linha A;Trampolim;6,00;5;10;RN;Natal;20/04/2026
@@ -1572,7 +1571,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8174;Auto Viação Rainha - Cartão Indaial X Blumenau;Auto Viação Rainha;8,50;5;10;SC;Indaial;14/04/2026
 8958;Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia);Canarinho (Guaramirim);7,25;5;10;SC;Jaraguá do Sul;30/04/2026
 8959;Canarinho (Guaramirim) - Cartão Guaramirim;Canarinho (Guaramirim);5,95;5;10;SC;Jaraguá do Sul;30/04/2026
-19617;Canarinho (Guaramirim) - Cartão Jaraguá do Sul X Guaramirim;Canarinho (Guaramirim);5,25;5;10;SC;Jaraguá do Sul;28/04/2026
+19617;Canarinho (Guaramirim) - Cartão Jaraguá do Sul X Guaramirim;Canarinho (Guaramirim);5,95;5;10;SC;Jaraguá do Sul;13/05/2026
 2083;Canarinho (Jaraguá do Sul) - Cartão Municipal Jaraguá do Sul;Canarinho (Jaraguá do Sul);5,25;5;10;SC;Jaraguá do Sul;31/12/2025
 2236;Canarinho (Jaraguá do Sul) - Cartão TEM - Jaraguá do Sul X Dist Nereu Ramos;Canarinho (Jaraguá do Sul);5,25;5;10;SC;Jaraguá do Sul;31/12/2025
 2237;Canarinho (Jaraguá do Sul) - Cartão Jaraguá do Sul X Dist Estrada Nova;Canarinho (Jaraguá do Sul);5,25;5;10;SC;Jaraguá do Sul;31/12/2025
