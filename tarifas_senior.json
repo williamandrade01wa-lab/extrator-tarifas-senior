@@ -5051,7 +5051,7 @@
         "codigo": "9813",
         "nome": "Santafé - (QR-Code) - Cartão Belo Horizonte X Itabirito",
         "fornecedor": "Santafé - QR-Code",
-        "valor": "33,00",
+        "valor": "37,20",
         "uf": "MG",
         "cidade": "Belo Horizonte"
     },
@@ -7515,7 +7515,7 @@
         "codigo": "6304",
         "nome": "Expresso Nordeste - Cartão Cafelândia X Nova Aurora",
         "fornecedor": "Expresso Nordeste - Novo Sistema",
-        "valor": "8,28",
+        "valor": "8,50",
         "uf": "PR",
         "cidade": "Apucarana"
     },
@@ -7523,7 +7523,7 @@
         "codigo": "6305",
         "nome": "Expresso Nordeste - Cartão Marilândia X Apucarana",
         "fornecedor": "Expresso Nordeste - Novo Sistema",
-        "valor": "6,25",
+        "valor": "6,50",
         "uf": "PR",
         "cidade": "Apucarana"
     },
@@ -7531,7 +7531,7 @@
         "codigo": "6306",
         "nome": "Expresso Nordeste - Cartão Nova Aurora X Cafelândia",
         "fornecedor": "Expresso Nordeste - Novo Sistema",
-        "valor": "9,54",
+        "valor": "9,76",
         "uf": "PR",
         "cidade": "Apucarana"
     },
@@ -7539,7 +7539,7 @@
         "codigo": "6307",
         "nome": "Expresso Nordeste - Cartão Mandaguari X Apucarana",
         "fornecedor": "Expresso Nordeste - Novo Sistema",
-        "valor": "6,55",
+        "valor": "6,75",
         "uf": "PR",
         "cidade": "Apucarana"
     },
@@ -7547,7 +7547,7 @@
         "codigo": "15188",
         "nome": "Expresso Nordeste - Cartão Apucarana X Cambirá",
         "fornecedor": "Expresso Nordeste - Novo Sistema",
-        "valor": "6,55",
+        "valor": "6,75",
         "uf": "PR",
         "cidade": "Apucarana"
     },
@@ -7666,10 +7666,10 @@
     {
         "codigo": "19630",
         "nome": "Oceânica - Lapa - Cartão Lapa X Araucária",
-        "fornecedor": "Oceânica - Lapa - QR-Code",
+        "fornecedor": "Oceânica Sul (Lapa - Arauc.) - QR-Code",
         "valor": "8,50",
         "uf": "PR",
-        "cidade": "Lapa"
+        "cidade": "Pontal do Paraná"
     },
     {
         "codigo": "9618",
@@ -8003,7 +8003,7 @@
         "codigo": "2284",
         "nome": "Viação Garcia - Cartão Mandaguari X Maringá",
         "fornecedor": "Viação Garcia",
-        "valor": "6,50",
+        "valor": "6,85",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8011,7 +8011,7 @@
         "codigo": "2285",
         "nome": "Viação Garcia - Cartão Maringá X Nova Esperança",
         "fornecedor": "Viação Garcia",
-        "valor": "8,30",
+        "valor": "8,75",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8115,7 +8115,7 @@
         "codigo": "6021",
         "nome": "Viação Garcia - Cartão Apucarana X Rolandia",
         "fornecedor": "Viação Garcia - Apucarana Rolandia",
-        "valor": "6,75",
+        "valor": "7,15",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -10900,6 +10900,14 @@
         "nome": "Tri Porto Alegre - Cartão Integração com trem (com desconto)",
         "fornecedor": "TRI Porto Alegre",
         "valor": "9,27",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19655",
+        "nome": "Tri Porto Alegre - Cartão Tri",
+        "fornecedor": "TRI Porto Alegre",
+        "valor": "0,01",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -22115,7 +22123,7 @@
         "codigo": "693",
         "nome": "TCI Transporte - Cartão Municipal Itatiba",
         "fornecedor": "TCI Transporte",
-        "valor": "8,60",
+        "valor": "9,22",
         "uf": "SP",
         "cidade": "Itatiba"
     },

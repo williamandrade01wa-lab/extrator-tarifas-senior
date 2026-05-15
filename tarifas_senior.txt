@@ -630,7 +630,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 1046;Santa Edwiges - Cartão Santa Edwiges;Santa Edwiges;0,01;5;10;MG;Betim;01/01/2000
 6825;Santa Edwiges - Cartão Municipal Betim;Santa Edwiges;6,25;5;10;MG;Betim;02/01/2026
 9812;Santafé - (QR-Code) - Cartão Belo Horizonte X BR040;Santafé - QR-Code;12,50;5;10;MG;Belo Horizonte;09/10/2025
-9813;Santafé - (QR-Code) - Cartão Belo Horizonte X Itabirito;Santafé - QR-Code;33,00;5;10;MG;Belo Horizonte;09/10/2025
+9813;Santafé - (QR-Code) - Cartão Belo Horizonte X Itabirito;Santafé - QR-Code;37,20;5;10;MG;Belo Horizonte;14/05/2026
 9814;Santafé - (QR-Code) - Cartão Belo Horizonte X Ouro Branco;Santafé - QR-Code;77,00;5;10;MG;Belo Horizonte;09/10/2025
 9816;Santafé - (QR-Code) - Cartão Itabirito X Alphaville (L10301);Santafé - QR-Code;15,00;5;10;MG;Belo Horizonte;09/10/2025
 9817;Santafé - (QR-Code) - Cartão Itabirito X Belo Horizonte;Santafé - QR-Code;33,00;5;10;MG;Belo Horizonte;09/10/2025
@@ -938,11 +938,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15388;Cidade Verde - Cartão Maringá X Floresta;Cidade Verde;6,55;5;10;PR;Maringá;18/02/2026
 6681;Consorcio Tupa - Cartão Urbano Pato Branco;Consorcio Tupa;5,00;5;10;PR;Pato Branco;01/04/2025
 15989;Expresso Azul - Pinhais - Cartão Pinhais X Campo Comprido;Expresso Azul - Pinhais;5,50;5;10;PR;Pinhais;19/08/2025
-6304;Expresso Nordeste - Cartão Cafelândia X Nova Aurora;Expresso Nordeste - Novo Sistema;8,28;5;10;PR;Apucarana;13/08/2025
-6305;Expresso Nordeste - Cartão Marilândia X Apucarana;Expresso Nordeste - Novo Sistema;6,25;5;10;PR;Apucarana;13/08/2025
-6306;Expresso Nordeste - Cartão Nova Aurora X Cafelândia;Expresso Nordeste - Novo Sistema;9,54;5;10;PR;Apucarana;13/08/2025
-6307;Expresso Nordeste - Cartão Mandaguari X Apucarana;Expresso Nordeste - Novo Sistema;6,55;5;10;PR;Apucarana;13/08/2025
-15188;Expresso Nordeste - Cartão Apucarana X Cambirá;Expresso Nordeste - Novo Sistema;6,55;5;10;PR;Apucarana;13/08/2025
+6304;Expresso Nordeste - Cartão Cafelândia X Nova Aurora;Expresso Nordeste - Novo Sistema;8,50;5;10;PR;Apucarana;14/05/2026
+6305;Expresso Nordeste - Cartão Marilândia X Apucarana;Expresso Nordeste - Novo Sistema;6,50;5;10;PR;Apucarana;14/05/2026
+6306;Expresso Nordeste - Cartão Nova Aurora X Cafelândia;Expresso Nordeste - Novo Sistema;9,76;5;10;PR;Apucarana;14/05/2026
+6307;Expresso Nordeste - Cartão Mandaguari X Apucarana;Expresso Nordeste - Novo Sistema;6,75;5;10;PR;Apucarana;14/05/2026
+15188;Expresso Nordeste - Cartão Apucarana X Cambirá;Expresso Nordeste - Novo Sistema;6,75;5;10;PR;Apucarana;14/05/2026
 8158;Expresso Transpen - Cartão Municipal Jaguariaiva;Expresso Transpen;7,20;5;10;PR;Jaguariaíva;11/05/2026
 10712;Guancino - Cartão Francisco Beltrão Urbano;Guancino;5,30;5;10;PR;Francisco Beltrão;03/10/2025
 9050;Imperial Locação e Transporte - Cartão Municipal Araucária;Imperial Locação e Transporte;1,00;5;10;PR;Araucária;13/11/2023
@@ -957,7 +957,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16002;Oceânica - Guaratuba - Cartão Municipal Guaratuba;Oceânica - Guaratuba;6,10;5;10;PR;Guaratuba;20/08/2025
 16003;Oceânica - Itapoá - Cartão Municipal Itapoá;Oceânica - Itapoá - QR-Code;5,00;5;10;SC;Itapoá;20/08/2025
 16005;Oceânica - Lapa - Cartão Municipal Lapa;Oceânica - Lapa - QR-Code;4,30;5;10;PR;Lapa;20/08/2025
-19630;Oceânica - Lapa - Cartão Lapa X Araucária;Oceânica - Lapa - QR-Code;8,50;5;10;PR;Lapa;07/05/2026
+19630;Oceânica - Lapa - Cartão Lapa X Araucária;Oceânica Sul (Lapa - Arauc.) - QR-Code;8,50;5;10;PR;Pontal do Paraná;07/05/2026
 9618;Panamera Oceânica Sul - Cartão Pontal do Paraná Municipal;Panamera Oceânica Sul;3,25;5;10;PR;Pontal do Paraná;04/08/2025
 2193;Pérola do Oeste - Cartão Pérola do Oeste Urbano;Pérola do Oeste;4,00;5;10;PR;Guarapuava;19/02/2025
 15991;Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque);Piraquara;5,50;5;10;SP;Piraquara;19/08/2025
@@ -999,8 +999,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2267;Viação Apucarana - Cartão Apucarana Municipal;Viação Apucarana - (Novo Sistema);5,20;5;10;PR;Apucarana;15/12/2025
 15865;Viação Campos Gerais - Cartão Municipal Ponta Grossa;Viação Campos Gerais - Novo Sistema;6,00;5;10;PR;Ponta Grossa;13/04/2026
 15999;Viação do Sul - Itaperuçu - Cartão Itaperuçu X Praça 19;Viação do Sul - Itaperuçu;5,50;5;10;SP;Itaperuçu;20/08/2025
-2284;Viação Garcia - Cartão Mandaguari X Maringá;Viação Garcia;6,50;5;10;PR;Londrina;19/02/2026
-2285;Viação Garcia - Cartão Maringá X Nova Esperança;Viação Garcia;8,30;5;10;PR;Londrina;19/02/2026
+2284;Viação Garcia - Cartão Mandaguari X Maringá;Viação Garcia;6,85;5;10;PR;Londrina;14/05/2026
+2285;Viação Garcia - Cartão Maringá X Nova Esperança;Viação Garcia;8,75;5;10;PR;Londrina;14/05/2026
 2310;Viação Garcia - Cartão Maringá X Iguaraçu - Metropolitano;Viação Garcia;6,90;5;10;PR;Londrina;19/02/2026
 2319;Viação Garcia - Cartão Maringá X Mandaguaçu;Viação Garcia;6,55;5;10;PR;Londrina;19/02/2026
 4160;Viação Garcia - Cartão Paranavaí X Nova Esperança;Viação Garcia;6,75;5;10;PR;Londrina;19/02/2026
@@ -1013,7 +1013,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,55;5;10;PR;Maringá;19/02/2026
 6028;Viação Garcia - Cartão Londrina X Rolandia;Viação Garcia - (Lond - Rolan);6,55;5;10;PR;Maringá;19/02/2026
 6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;6,75;5;10;PR;Londrina;19/02/2026
-6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;6,75;5;10;PR;Maringá;19/02/2026
+6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;7,15;5;10;PR;Maringá;14/05/2026
 15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;10,15;5;10;PR;Curitiba;02/04/2026
 15889;Viação Graciosa - Curitiba x Morretes;Viação Graciosa - QR-Code;39,98;5;10;PR;Curitiba;02/04/2026
 15890;Viação Graciosa - Morretes x Curitiba;Viação Graciosa - QR-Code;34,99;5;10;PR;Curitiba;02/04/2026
@@ -1362,6 +1362,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10449;Tri Porto Alegre - Cartão Integração com ônibus;TRI Porto Alegre;2,65;5;10;RS;Porto Alegre;24/02/2026
 10451;Tri Porto Alegre - Cartão Integração com trem (sem desconto);TRI Porto Alegre;10,30;5;10;RS;Porto Alegre;24/02/2026
 10452;Tri Porto Alegre - Cartão Integração com trem (com desconto);TRI Porto Alegre;9,27;5;10;RS;Porto Alegre;26/02/2026
+19655;Tri Porto Alegre - Cartão Tri;TRI Porto Alegre;0,01;5;10;RS;Porto Alegre;14/05/2026
 16084;Unesul - Cartão Butiá X Divisa (sem seguro);Unesul - Eletrônico;15,50;5;10;RS;Porto Alegre;08/09/2025
 16085;Unesul - Cartão Butiá X Porto Alegre (sem seguro);Unesul - Eletrônico;33,05;5;10;RS;Porto Alegre;08/09/2025
 16086;Unesul - Cartão Alpestre X Planalto (sem seguro);Unesul - Eletrônico;11,00;5;10;RS;Porto Alegre;09/09/2025
@@ -2763,7 +2764,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15366;SPTRANS - Bilhete Único Variável;SPTrans;0,01;3;5;SP;São Paulo;20/09/2024
 3273;Sou - São Carlos - Cartão Municipal São Carlos;Suzantur (Sancetur);5,25;5;10;SP;São Carlos;13/01/2025
 15739;TCA Araras - Cartão Municipal Araras;TCA Araras - Novo Sistema;4,50;5;10;SP;Araras;06/06/2025
-693;TCI Transporte - Cartão Municipal Itatiba;TCI Transporte;8,60;5;10;SP;Itatiba;18/03/2025
+693;TCI Transporte - Cartão Municipal Itatiba;TCI Transporte;9,22;5;10;SP;Itatiba;14/05/2026
 7084;Tieteense - Cartão Tiete Intermunicipal (Cesário Lange);Tieteense;7,20;5;10;SP;Tietê;06/01/2026
 9156;TOP - Cartão Top;TOP;0,01;3;10;SP;São Paulo;01/01/2000
 10858;TOP - Cartão Trilhos;TOP;5,92;3;10;SP;São Paulo;06/01/2026
