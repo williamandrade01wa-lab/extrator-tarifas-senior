@@ -1785,6 +1785,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19461;Repasse BB Turismo - Cartão Itapevi Integração (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026
 15512;BB Turismo - Cartão Municipal Jandira;BB Turismo (Benfácil) - Jandira;5,80;5;10;SP;Barueri;02/01/2025
 15567;BB Turismo - Cartão Jandira Integração;BB Turismo (Benfácil) - Jandira;10,00;5;10;SP;Barueri;11/03/2026
+19659;Repasse BB Turismo - Cartão Municipal Jandira (Blacklist);BB Turismo (Benfácil) - Jandira;23,20;5;10;SP;Barueri;15/05/2026
+19661;Repasse BB Turismo - Cartão Jandira Integração (Blacklist);BB Turismo (Benfácil) - Jandira;23,20;5;10;SP;Barueri;15/05/2026
 15793;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
 19526;Bem Caieiras - Cartão Municipal Caieiras;Bem - Caieiras - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
 19530;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;9,00;5;10;SP;São Bernardo do Campo;24/02/2026

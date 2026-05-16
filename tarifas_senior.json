@@ -14288,6 +14288,22 @@
         "cidade": "Barueri"
     },
     {
+        "codigo": "19659",
+        "nome": "Repasse BB Turismo - Cartão Municipal Jandira (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Jandira",
+        "valor": "23,20",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19661",
+        "nome": "Repasse BB Turismo - Cartão Jandira Integração (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Jandira",
+        "valor": "23,20",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
         "codigo": "15793",
         "nome": "Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist)",
         "fornecedor": "Bem - Caieiras - Novo Sistema",
