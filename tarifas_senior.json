@@ -80,6 +80,14 @@
         "cidade": "Manaus"
     },
     {
+        "codigo": "15646",
+        "nome": "CTMAC - Cartão Municipal Macapá",
+        "fornecedor": "CTMAC",
+        "valor": "3,70",
+        "uf": "AP",
+        "cidade": "Macapá"
+    },
+    {
         "codigo": "381",
         "nome": "Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá",
         "fornecedor": "Setap - Intermunicipal",
@@ -9824,30 +9832,6 @@
         "cidade": "Bagé"
     },
     {
-        "codigo": "8646",
-        "nome": "CTCP Capão do Leão - Cartão Pelotas X Capão do Leão",
-        "fornecedor": "CTCP - Capão do Leão",
-        "valor": "7,40",
-        "uf": "RS",
-        "cidade": "Pelotas"
-    },
-    {
-        "codigo": "8647",
-        "nome": "CTCP Capão do Leão - Cartão Pelotas X Jardim América",
-        "fornecedor": "CTCP - Capão do Leão",
-        "valor": "6,05",
-        "uf": "RS",
-        "cidade": "Pelotas"
-    },
-    {
-        "codigo": "2348",
-        "nome": "CTCP Coletivo de Pelotas - Cartão Prati - Pelotas",
-        "fornecedor": "CTCP - Coletivo de Pelotas",
-        "valor": "6,25",
-        "uf": "RS",
-        "cidade": "Pelotas"
-    },
-    {
         "codigo": "19476",
         "nome": "Empresa Vencato - Cartão Porto Alegre X Mariana Pimentel",
         "fornecedor": "Empresa Vencato",
@@ -10734,6 +10718,30 @@
         "valor": "6,82",
         "uf": "RS",
         "cidade": "Panambi"
+    },
+    {
+        "codigo": "19619",
+        "nome": "Prati - Capão do Leão - Cartão Pelotas X Capão do Leão",
+        "fornecedor": "Prati - Capão do Leão",
+        "valor": "7,40",
+        "uf": "RS",
+        "cidade": "Pelotas"
+    },
+    {
+        "codigo": "19620",
+        "nome": "Prati - Capão do Leão - Cartão Pelotas X Jardim América",
+        "fornecedor": "Prati - Capão do Leão",
+        "valor": "6,05",
+        "uf": "RS",
+        "cidade": "Pelotas"
+    },
+    {
+        "codigo": "19621",
+        "nome": "Prati - Pelotas - Cartão Municipal Pelotas",
+        "fornecedor": "Prati - Pelotas",
+        "valor": "6,25",
+        "uf": "RS",
+        "cidade": "Pelotas"
     },
     {
         "codigo": "10834",
@@ -14208,22 +14216,6 @@
         "cidade": "Ourinhos"
     },
     {
-        "codigo": "19449",
-        "nome": "BB Turismo - Cartão Municipal Barueri",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "6,10",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19450",
-        "nome": "BB Turismo - Cartão Barueri Integração",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "10,00",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
         "codigo": "19455",
         "nome": "Repasse BB Turismo - Cartão Municipal Barueri (Blacklist)",
         "fornecedor": "BB Turismo (Benfácil) - Barueri",
@@ -14240,18 +14232,34 @@
         "cidade": "Barueri"
     },
     {
-        "codigo": "19451",
-        "nome": "BB Turismo - Cartão Municipal Itapevi",
-        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "codigo": "19651",
+        "nome": "BB Turismo - Cartão Municipal Barueri",
+        "fornecedor": "BB Turismo (Benfácil) - Barueri",
         "valor": "6,10",
         "uf": "SP",
         "cidade": "Barueri"
     },
     {
-        "codigo": "19452",
-        "nome": "BB Turismo - Cartão Itapevi Integração",
-        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "codigo": "19652",
+        "nome": "BB Turismo - Cartão Barueri Integração",
+        "fornecedor": "BB Turismo (Benfácil) - Barueri",
         "valor": "10,00",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19663",
+        "nome": "Repasse - BB Turismo - Cartão Municipal Barueri (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Barueri",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19665",
+        "nome": "Repasse - BB Turismo - Cartão Barueri Integração (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Barueri",
+        "valor": "24,40",
         "uf": "SP",
         "cidade": "Barueri"
     },
@@ -14272,7 +14280,39 @@
         "cidade": "Barueri"
     },
     {
-        "codigo": "15512",
+        "codigo": "19653",
+        "nome": "BB Turismo - Cartão Municipal Itapevi",
+        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "valor": "6,10",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19654",
+        "nome": "BB Turismo - Cartão Itapevi Integração",
+        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "valor": "10,00",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19667",
+        "nome": "Repasse - BB Turismo - Cartão Municipal Itapevi (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19669",
+        "nome": "Repasse - BB Turismo - Cartão Itapevi Integração (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19649",
         "nome": "BB Turismo - Cartão Municipal Jandira",
         "fornecedor": "BB Turismo (Benfácil) - Jandira",
         "valor": "5,80",
@@ -14280,7 +14320,7 @@
         "cidade": "Barueri"
     },
     {
-        "codigo": "15567",
+        "codigo": "19650",
         "nome": "BB Turismo - Cartão Jandira Integração",
         "fornecedor": "BB Turismo (Benfácil) - Jandira",
         "valor": "10,00",

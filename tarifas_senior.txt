@@ -9,6 +9,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19547;Simohu - Cartão Maceió X Pilar;Simohu;9,00;5;10;AL;Maceió;16/03/2026
 10794;Transpal Urbano - Cartão Urbano Maceió (Bem Legal);Vamu Mobilidade;4,00;5;10;AL;Maceió;09/01/2024
 245;Sinetram - Cartão Municipal Manaus (Passafácil);Sinetram - Novo Sistema;5,00;5;10;AM;Manaus;02/03/2026
+15646;CTMAC - Cartão Municipal Macapá;CTMAC;3,70;10;10;AP;Macapá;18/03/2025
 381;Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá;Setap - Intermunicipal;4,00;5;10;AP;Macapá;16/08/2023
 2583;Alagoinhas - Cartão Urbano Alagoinhas;Alagoinhas;4,60;5;10;BA;Alagoinhas;12/02/2026
 8600;Atlântico Transportes (Itabuna) - Cartão Municipal Itabuna;Atlântico Transportes - Itabuna;4,30;5;10;BA;Itabuna;01/10/2025
@@ -1227,9 +1228,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15131;Comur - Cartão Municipal Novo Hamburgo;Comur - Novo Hamburgo;5,20;5;10;RS;Novo Hamburgo;10/06/2024
 2295;CSC Santa Cruz do Sul - Cartão Santa Cruz do Sul;CSC Santa Cruz do Sul;5,50;5;10;RS;Santa Cruz do Sul;04/04/2025
 5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,50;5;10;RS;Bagé;14/04/2026
-8646;CTCP Capão do Leão - Cartão Pelotas X Capão do Leão;CTCP - Capão do Leão;7,40;5;10;RS;Pelotas;07/11/2025
-8647;CTCP Capão do Leão - Cartão Pelotas X Jardim América;CTCP - Capão do Leão;6,05;5;10;RS;Pelotas;07/11/2025
-2348;CTCP Coletivo de Pelotas - Cartão Prati - Pelotas;CTCP - Coletivo de Pelotas;6,25;5;10;RS;Pelotas;17/03/2026
 19476;Empresa Vencato - Cartão Porto Alegre X Mariana Pimentel;Empresa Vencato;36,55;5;10;RS;Porto Alegre;16/01/2026
 3920;Expresso Assur - Cartão Guaíba Urbano;Expresso Assur;5,00;5;10;RS;Guaiba;20/04/2026
 3921;Expresso Assur - Cartão Guaíba Urbano (micro-ônibus);Expresso Assur;5,20;5;10;RS;Guaiba;02/06/2019
@@ -1341,6 +1339,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10840;Ozelame - Cartão Bento X Caxias (semi-direto);Ozelame;22,40;5;10;RS;Caxias do Sul;23/10/2025
 3132;Panambiense - Cartão Panambi Intermunicipal;Panambiense;7,45;5;10;RS;Panambi;27/04/2026
 3133;Panambiense - Cartão Panambi Municipal;Panambiense;6,82;5;10;RS;Panambi;12/06/2025
+19619;Prati - Capão do Leão - Cartão Pelotas X Capão do Leão;Prati - Capão do Leão;7,40;5;10;RS;Pelotas;28/04/2026
+19620;Prati - Capão do Leão - Cartão Pelotas X Jardim América;Prati - Capão do Leão;6,05;5;10;RS;Pelotas;28/04/2026
+19621;Prati - Pelotas - Cartão Municipal Pelotas;Prati - Pelotas;6,25;5;10;RS;Pelotas;28/04/2026
 10834;Riomafra - Cartão Municipal Mafra;Riomafra;4,50;5;10;SC;Mafra;29/01/2024
 2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;4,80;5;10;RS;São Borja;21/11/2023
 6122;Stadtbus Teutônia - Cartão Teuto Municipal;Stadtbus Teutônia;5,00;5;10;RS;Teutônia;04/01/2023
@@ -1775,16 +1776,20 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10398;Auto Viação Ouro Verde - (Sumaré) - Cartão CIT Sumaré Urbano;Auto Viação Ouro Verde - Sumaré;5,45;5;10;SP;Sumaré;03/10/2023
 8127;Auto Viação Suzano (Catanduva) - Cartão Municipal Catanduva;Auto Viação Suzano (Catanduva);4,00;5;10;SP;Catanduva;03/01/2020
 15696;Avoa - Cartão Municipal Ourinhos;Avoa - Novo Sistema;4,50;5;10;SP;Ourinhos;02/05/2025
-19449;BB Turismo - Cartão Municipal Barueri;BB Turismo (Benfácil) - Barueri;6,10;5;10;SP;Barueri;05/01/2026
-19450;BB Turismo - Cartão Barueri Integração;BB Turismo (Benfácil) - Barueri;10,00;5;10;SP;Barueri;05/01/2026
 19455;Repasse BB Turismo - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;18,30;5;10;SP;Barueri;06/01/2026
 19457;Repasse BB Turismo - Cartão Barueri Integração (Blacklist);BB Turismo (Benfácil) - Barueri;18,30;5;10;SP;Barueri;06/01/2026
-19451;BB Turismo - Cartão Municipal Itapevi;BB Turismo (Benfácil) - Itapevi;6,10;5;10;SP;Barueri;05/01/2026
-19452;BB Turismo - Cartão Itapevi Integração;BB Turismo (Benfácil) - Itapevi;10,00;5;10;SP;Barueri;05/01/2026
+19651;BB Turismo - Cartão Municipal Barueri;BB Turismo (Benfácil) - Barueri;6,10;5;10;SP;Barueri;12/05/2026
+19652;BB Turismo - Cartão Barueri Integração;BB Turismo (Benfácil) - Barueri;10,00;5;10;SP;Barueri;12/05/2026
+19663;Repasse - BB Turismo - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;18/05/2026
+19665;Repasse - BB Turismo - Cartão Barueri Integração (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;18/05/2026
 19459;Repasse BB Turismo - Cartão Municipal Itapevi (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026
 19461;Repasse BB Turismo - Cartão Itapevi Integração (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026
-15512;BB Turismo - Cartão Municipal Jandira;BB Turismo (Benfácil) - Jandira;5,80;5;10;SP;Barueri;02/01/2025
-15567;BB Turismo - Cartão Jandira Integração;BB Turismo (Benfácil) - Jandira;10,00;5;10;SP;Barueri;11/03/2026
+19653;BB Turismo - Cartão Municipal Itapevi;BB Turismo (Benfácil) - Itapevi;6,10;5;10;SP;Barueri;12/05/2026
+19654;BB Turismo - Cartão Itapevi Integração;BB Turismo (Benfácil) - Itapevi;10,00;5;10;SP;Barueri;12/05/2026
+19667;Repasse - BB Turismo - Cartão Municipal Itapevi (Blacklist);BB Turismo (Benfácil) - Itapevi;24,40;5;10;SP;Barueri;18/05/2026
+19669;Repasse - BB Turismo - Cartão Itapevi Integração (Blacklist);BB Turismo (Benfácil) - Itapevi;24,40;5;10;SP;Barueri;18/05/2026
+19649;BB Turismo - Cartão Municipal Jandira;BB Turismo (Benfácil) - Jandira;5,80;5;10;SP;Barueri;12/05/2026
+19650;BB Turismo - Cartão Jandira Integração;BB Turismo (Benfácil) - Jandira;10,00;5;10;SP;Barueri;12/05/2026
 19659;Repasse BB Turismo - Cartão Municipal Jandira (Blacklist);BB Turismo (Benfácil) - Jandira;23,20;5;10;SP;Barueri;15/05/2026
 19661;Repasse BB Turismo - Cartão Jandira Integração (Blacklist);BB Turismo (Benfácil) - Jandira;23,20;5;10;SP;Barueri;15/05/2026
 15793;Repasse Bem Caieiras - Cartão Municipal Caieiras (Blacklist);Bem - Caieiras - Novo Sistema;8,25;5;10;SP;São Bernardo do Campo;24/06/2025
