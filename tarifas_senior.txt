@@ -598,7 +598,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15914;Expresso Paracatu - Cartão Municipal Paracatu;Expresso Planalto - Paracatu;3,15;5;10;MG;Paracatu;24/07/2025
 16064;Expresso Planalto - Cartão Municipal Unaí;Expresso Planalto - Unaí - Novo Sistema;3,10;5;10;MG;Unaí;02/09/2025
 15925;Expresso Três Fronteiras - Cartão Municipal Nanuque;Expresso Três Fronteiras;4,50;5;10;MG;Nanuque;01/12/2025
-15932;Expresso Três Fronteiras - Cartão Intermunicipal Serra dos Aimores;Expresso Três Fronteiras;6,15;5;10;MG;Nanuque;24/07/2025
+15932;Expresso Três Fronteiras - Cartão Intermunicipal Serra dos Aimores;Expresso Três Fronteiras;6,65;5;10;MG;Nanuque;19/05/2026
 529;Expresso Valônia - Cartão Municipal Itajubá;Expresso Valônia;3,90;5;10;MG;Itajubá;23/08/2023
 2948;Fabri Fácil - Cartão Municipal Coronel Fabriciano;Fabri Fácil;5,00;5;10;MG;Coronel Fabriciano;15/07/2025
 15503;Fernando Turismo - Cartão Municipal Matias Barbosa;Fernando Turismo - Eletrônico;4,25;5;10;MG;Matias Barbosa;01/09/2025
@@ -986,7 +986,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15996;São Bento - Agudos do Sul - Cartão Fazenda X Agudos do Sul;São Bento - Agudos do Sul;6,50;5;10;SP;Agudos do Sul;19/08/2025
 16001;São Braz - Cartão Campo Novo X Santa Felicidade;São Braz;5,50;5;10;PR;Campo Magro;20/08/2025
 15992;São José - São José dos Pinhais - Cartão Quississana X Guadalupe;São José - São José dos Pinhais;5,50;5;10;SP;São José dos Pinhais;19/08/2025
-8233;Sorrido de Toledo - Cartão São José X Toledo (Seccionado);Sorriso de Toledo - Metropolitano;9,00;5;10;PR;Toledo;02/05/2025
+8233;Sorrido de Toledo - Cartão São José X Toledo (Seccionado);Sorriso de Toledo - Metropolitano;9,30;5;10;PR;Toledo;19/05/2026
 15639;Sorriso de Toledo - Cartão Municipal Sorriso de Toledo;Sorriso de Toledo - Municipal Novo Sistema;3,50;5;10;PR;Toledo;11/03/2025
 15988;Tamandaré - Cartão Caiuá X Cachoeira;Tamandaré;5,50;5;10;PR;Almirante Tamandaré;19/08/2025
 2278;TCCC Maringá - Cartão Passe-Fácil Maringá Urbano;TCCC Maringá - Cidade Canção;5,20;5;10;PR;MARINGÁ;03/06/2025
@@ -2530,7 +2530,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2799;Pássaro Marron - Cartão Cruzeiro X Lorena / São Paulo;Pássaro Marron - Seccionado (Loren - Cruz);13,65;5;10;SP;Guarulhos;08/01/2026
 2972;Pássaro Marron - Cartão Lorena X Guarantiguetá;Pássaro Marron - Seccionado (Loren - Guarat);8,15;5;10;SP;Guarulhos;08/01/2026
 2973;Pássaro Marron - Cartão Lorena X Piquete;Pássaro Marron - Seccionado (Loren - Piquet);6,55;5;10;SP;Guarulhos;08/01/2026
-1735;Pássaro Marrom - Lorena X São José dos Campos;Pássaro Marron - Seccionado (Loren - S. J. Campos);44,25;5;10;SP;Guarulhos;20/01/2026
+1735;Pássaro Marrom - Lorena X São José dos Campos;Pássaro Marron - Seccionado (Loren - S. J. Campos);44,65;5;10;SP;Guarulhos;19/05/2026
 2974;Pássaro Marron - Cartão Lorena X Taubaté;Pássaro Marron - Seccionado (Loren - Taub);26,50;5;10;SP;;08/01/2026
 5967;Pássaro Marrom - Cartão Lorena X Aparecida;Pássaro Marron - Seccionado (Loren X Ap);10,05;5;10;SP;Guarulhos;08/01/2026
 2971;Pássaro Marron - Cartão Lorena X Roseira;Pássaro Marron - Seccionado (Loren X Roseira);13,60;5;10;SP;Guarulhos;08/01/2026
@@ -2620,7 +2620,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8901;Pevê Tur - Cartão São José do Rio Petro X Bady Bassit;Pevê Tur;7,95;5;10;SP;São José do Rio Preto;07/07/2025
 15389;Pira Mobilidade - Cartão Municipal Piracicaba;Pira Mobilidade;6,58;5;10;SP;Piracicaba;20/06/2025
 2324;Princesa dos Campos - Cartão Cajati X Registro;Porto de Registro (Princesa dos Campos);13,35;5;10;SP;Registro;07/07/2025
-4010;Princesa dos Campos - Cartão Registro X Pariquera;Porto de Registro (Princesa dos Campos);7,55;5;10;SP;Registro;07/07/2025
+4010;Princesa dos Campos - Cartão Registro X Pariquera;Porto de Registro (Princesa dos Campos);8,00;5;10;SP;Registro;19/05/2026
 4158;Princesa dos Campos - Cartão Jacupiranga X Cajati;Porto de Registro (Princesa dos Campos);6,70;5;10;SP;Registro;29/07/2024
 5062;Princesa dos Campos - Cartão Jacupiranga X Registro;Porto de Registro (Princesa dos Campos);8,95;5;10;SP;Registro;07/07/2025
 5069;Princesa dos Campos - Cartão Ponte Moreira X Cajati;Porto de Registro (Princesa dos Campos);9,35;5;10;SP;Registro;07/07/2025

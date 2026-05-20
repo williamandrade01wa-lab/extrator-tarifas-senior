@@ -4795,7 +4795,7 @@
         "codigo": "15932",
         "nome": "Expresso Três Fronteiras - Cartão Intermunicipal Serra dos Aimores",
         "fornecedor": "Expresso Três Fronteiras",
-        "valor": "6,15",
+        "valor": "6,65",
         "uf": "MG",
         "cidade": "Nanuque"
     },
@@ -7899,7 +7899,7 @@
         "codigo": "8233",
         "nome": "Sorrido de Toledo - Cartão São José X Toledo (Seccionado)",
         "fornecedor": "Sorriso de Toledo - Metropolitano",
-        "valor": "9,00",
+        "valor": "9,30",
         "uf": "PR",
         "cidade": "Toledo"
     },
@@ -20251,7 +20251,7 @@
         "codigo": "1735",
         "nome": "Pássaro Marrom - Lorena X São José dos Campos",
         "fornecedor": "Pássaro Marron - Seccionado (Loren - S. J. Campos)",
-        "valor": "44,25",
+        "valor": "44,65",
         "uf": "SP",
         "cidade": "Guarulhos"
     },
@@ -20971,7 +20971,7 @@
         "codigo": "4010",
         "nome": "Princesa dos Campos - Cartão Registro X Pariquera",
         "fornecedor": "Porto de Registro (Princesa dos Campos)",
-        "valor": "7,55",
+        "valor": "8,00",
         "uf": "SP",
         "cidade": "Registro"
     },
