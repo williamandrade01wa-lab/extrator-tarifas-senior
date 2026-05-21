@@ -958,7 +958,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16002;Oceânica - Guaratuba - Cartão Municipal Guaratuba;Oceânica - Guaratuba;6,10;5;10;PR;Guaratuba;20/08/2025
 16003;Oceânica - Itapoá - Cartão Municipal Itapoá;Oceânica - Itapoá - QR-Code;5,00;5;10;SC;Itapoá;20/08/2025
 16005;Oceânica - Lapa - Cartão Municipal Lapa;Oceânica - Lapa - QR-Code;4,30;5;10;PR;Lapa;20/08/2025
-19630;Oceânica - Lapa - Cartão Lapa X Araucária;Oceânica Sul (Lapa - Arauc.) - QR-Code;8,50;5;10;PR;Pontal do Paraná;07/05/2026
+9872;Oceânica Sul - Cartão Lapa X Araucária;Oceânica Sul (Lapa - Arauc.) - QR-Code;8,50;5;10;PR;Pontal do Paraná;04/03/2026
 9618;Panamera Oceânica Sul - Cartão Pontal do Paraná Municipal;Panamera Oceânica Sul;3,25;5;10;PR;Pontal do Paraná;04/08/2025
 2193;Pérola do Oeste - Cartão Pérola do Oeste Urbano;Pérola do Oeste;4,00;5;10;PR;Guarapuava;19/02/2025
 15991;Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque);Piraquara;5,50;5;10;SP;Piraquara;19/08/2025
@@ -1673,6 +1673,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8933;Setuf - Cartão Santa Terezinha (Patamar II);Setuf - (Santa Terezinha);6,77;5;10;SC;Florianópolis;03/11/2025
 8934;Setuf - Cartão Santa Terezinha (Patamar VII);Setuf - (Santa Terezinha);11,25;5;10;SC;Florianópolis;03/11/2025
 8938;Setuf - Cartão Santa Terezinha (Patamar III);Setuf - (Santa Terezinha);6,91;5;10;SC;Florianópolis;03/11/2025
+19673;Setuf - Cartão Santa Terezinha Intermunicipal;Setuf - (Santa Terezinha);0,01;5;10;SC;Florianópolis;20/05/2026
 720;SETUF Urbano - Cartão Municipal Florianópolis (Passe Rápido SIM);Setuf - Municipal;7,20;5;10;SC;Florianópolis;06/01/2026
 7357;SETUF Urbano - Cartão Executivos (Tarifa 1) (Distrital);Setuf - Municipal;20,00;5;10;SC;Florianópolis;06/01/2026
 7358;SETUF Urbano - Cartão Executivos (Tarifa 2) (Urbana);Setuf - Municipal;14,00;5;10;SC;Florianópolis;09/01/2025
@@ -3115,6 +3116,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16144;Viação Santa Cruz (QR-Code) - Cartão Pouso Alegre X Itajubá (com seguro);Viação Santa Cruz - QR-Code;45,00;5;10;SP;Mogi Mirim;27/04/2026
 16177;Viação Santa Cruz (QR-Code) - Cartão Congonhal X Pouso Alegre;Viação Santa Cruz - QR-Code;11,00;5;10;SP;Mogi Mirim;08/10/2025
 19622;Viação Santa Cruz (QR-Code) - Cartão Careaçu X São Sebastião da Bela Vista;Viação Santa Cruz - QR-Code;10,85;5;10;SP;Mogi Mirim;28/04/2026
+19674;Viação Santa Cruz (QR-Code) - Cartão Alfenas X Campos Gerais;Viação Santa Cruz - QR-Code;22,30;5;10;SP;Mogi Mirim;20/05/2026
+19675;Viação Santa Cruz (QR-Code) - Cartão Campos Gerais X Alfenas;Viação Santa Cruz - QR-Code;19,95;5;10;SP;Mogi Mirim;20/05/2026
 15720;Viação São Bento - Cartão Ribeirão Preto X Brodowski;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;15/07/2025
 15721;Viação São Bento - Cartão Ribeirão Preto X Serra Azul;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;15/07/2025
 15722;Viação São Bento - Cartão Sertãozinho X Barrinha;Viação São Bento - Novo Sistema;8,60;5;10;SP;Ribeirão Preto;15/07/2025

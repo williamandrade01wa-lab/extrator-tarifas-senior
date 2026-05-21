@@ -7672,8 +7672,8 @@
         "cidade": "Lapa"
     },
     {
-        "codigo": "19630",
-        "nome": "Oceânica - Lapa - Cartão Lapa X Araucária",
+        "codigo": "9872",
+        "nome": "Oceânica Sul - Cartão Lapa X Araucária",
         "fornecedor": "Oceânica Sul (Lapa - Arauc.) - QR-Code",
         "valor": "8,50",
         "uf": "PR",
@@ -13388,6 +13388,14 @@
         "nome": "Setuf - Cartão Santa Terezinha (Patamar III)",
         "fornecedor": "Setuf - (Santa Terezinha)",
         "valor": "6,91",
+        "uf": "SC",
+        "cidade": "Florianópolis"
+    },
+    {
+        "codigo": "19673",
+        "nome": "Setuf - Cartão Santa Terezinha Intermunicipal",
+        "fornecedor": "Setuf - (Santa Terezinha)",
+        "valor": "0,01",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -24924,6 +24932,22 @@
         "nome": "Viação Santa Cruz (QR-Code) - Cartão Careaçu X São Sebastião da Bela Vista",
         "fornecedor": "Viação Santa Cruz - QR-Code",
         "valor": "10,85",
+        "uf": "SP",
+        "cidade": "Mogi Mirim"
+    },
+    {
+        "codigo": "19674",
+        "nome": "Viação Santa Cruz (QR-Code) - Cartão Alfenas X Campos Gerais",
+        "fornecedor": "Viação Santa Cruz - QR-Code",
+        "valor": "22,30",
+        "uf": "SP",
+        "cidade": "Mogi Mirim"
+    },
+    {
+        "codigo": "19675",
+        "nome": "Viação Santa Cruz (QR-Code) - Cartão Campos Gerais X Alfenas",
+        "fornecedor": "Viação Santa Cruz - QR-Code",
+        "valor": "19,95",
         "uf": "SP",
         "cidade": "Mogi Mirim"
     },
