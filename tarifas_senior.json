@@ -112,6 +112,14 @@
         "cidade": "Itabuna"
     },
     {
+        "codigo": "19601",
+        "nome": "Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro",
+        "fornecedor": "Atlântico Transportes - Juazeiro - Interestadual - PIX",
+        "valor": "5,00",
+        "uf": "BA",
+        "cidade": "Juazeiro"
+    },
+    {
         "codigo": "19519",
         "nome": "Atlântico Transportes - Juazeiro - Cartão Municipal Juazeiro",
         "fornecedor": "Atlântico Transportes - Juazeiro - PIX",
@@ -124,14 +132,6 @@
         "nome": "Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro",
         "fornecedor": "Atlântico Transportes - Juazeiro - PIX",
         "valor": "5,25",
-        "uf": "BA",
-        "cidade": "Juazeiro"
-    },
-    {
-        "codigo": "19601",
-        "nome": "Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro",
-        "fornecedor": "Atlântico Transportes - Juazeiro - PIX",
-        "valor": "5,00",
         "uf": "BA",
         "cidade": "Juazeiro"
     },
@@ -1323,7 +1323,7 @@
         "codigo": "15432",
         "nome": "Rota do Sol - Cartão Lago Azul X Brasília",
         "fornecedor": "Rota do Sol - Eletrônico",
-        "valor": "12,35",
+        "valor": "11,00",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -2180,6 +2180,14 @@
         "nome": "Plantur - (QR-Code) - Cartão Brasperola X Ipiranga (Executivo Parador)",
         "fornecedor": "Plantur - QR-Code",
         "valor": "22,98",
+        "uf": "ES",
+        "cidade": "Cariacica"
+    },
+    {
+        "codigo": "19677",
+        "nome": "Plantur - (QR-Code) - Cartão Conceição do Castelo X Venda Nova do Imigrante (convencional)",
+        "fornecedor": "Plantur - QR-Code",
+        "valor": "7,72",
         "uf": "ES",
         "cidade": "Cariacica"
     },
@@ -5504,6 +5512,14 @@
         "cidade": "Uberaba"
     },
     {
+        "codigo": "19630",
+        "nome": "Transube - Cartão Santa Fé (linha 16)",
+        "fornecedor": "Transube",
+        "valor": "7,90",
+        "uf": "MG",
+        "cidade": "Uberaba"
+    },
+    {
         "codigo": "8585",
         "nome": "Transur - Cartão Juiz de Fora X Santos Dumont (Roletinha)",
         "fornecedor": "Transur - Eletrônico",
@@ -6291,7 +6307,7 @@
         "codigo": "15195",
         "nome": "Viação Vale do Mucury - Cartão Municipal Teófilo Otoni",
         "fornecedor": "Viação Vale do Mucury - Novo Sistema",
-        "valor": "3,90",
+        "valor": "4,50",
         "uf": "MG",
         "cidade": "Teófilo Otoni"
     },
@@ -6347,7 +6363,7 @@
         "codigo": "4647",
         "nome": "Medianeira Dourados - Cartão Municipal Dourados",
         "fornecedor": "Medianeira Dourados",
-        "valor": "3,00",
+        "valor": "3,75",
         "uf": "MS",
         "cidade": "Dourados"
     },
@@ -20187,7 +20203,7 @@
         "codigo": "2834",
         "nome": "Pássaro Marron - Cartão Guaratinguetá X São José dos Campos",
         "fornecedor": "Pássaro Marron - Seccionado (Guarat X S.J. dos Campos)",
-        "valor": "36,00",
+        "valor": "36,40",
         "uf": "SP",
         "cidade": "Guarulhos"
     },
@@ -20467,7 +20483,7 @@
         "codigo": "3022",
         "nome": "Pássaro Marron - Cartão Taubaté X Guaratinguetá",
         "fornecedor": "Pássaro Marron - Seccionado (Taub - Guarat)",
-        "valor": "19,10",
+        "valor": "19,50",
         "uf": "SP",
         "cidade": "Guarulhos"
     },
@@ -20491,7 +20507,7 @@
         "codigo": "3311",
         "nome": "Pássaro Marron - Cartão Aparecida X Taubaté (Rodoviário",
         "fornecedor": "Pássaro Marron - Seccionado (Taub X Ap)",
-        "valor": "17,20",
+        "valor": "17,60",
         "uf": "SP",
         "cidade": "Guarulhos"
     },

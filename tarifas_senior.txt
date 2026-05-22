@@ -13,9 +13,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 381;Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá;Setap - Intermunicipal;4,00;5;10;AP;Macapá;16/08/2023
 2583;Alagoinhas - Cartão Urbano Alagoinhas;Alagoinhas;4,60;5;10;BA;Alagoinhas;12/02/2026
 8600;Atlântico Transportes (Itabuna) - Cartão Municipal Itabuna;Atlântico Transportes - Itabuna;4,30;5;10;BA;Itabuna;01/10/2025
+19601;Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro;Atlântico Transportes - Juazeiro - Interestadual - PIX;5,00;5;10;BA;Juazeiro;23/04/2026
 19519;Atlântico Transportes - Juazeiro - Cartão Municipal Juazeiro;Atlântico Transportes - Juazeiro - PIX;4,25;5;10;BA;Juazeiro;23/04/2026
 19600;Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro;Atlântico Transportes - Juazeiro - PIX;5,25;5;10;BA;Juazeiro;23/04/2026
-19601;Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro;Atlântico Transportes - Juazeiro - PIX;5,00;5;10;BA;Juazeiro;23/04/2026
 7449;Atlântico Transportes (Paulo Afonso) - Cartão Municipal Paulo Afonso;Atlântico Transportes - Paulo Afonso;4,00;5;10;BA;Paulo Afonso;01/05/2021
 15624;Atranspi - Cartão Municipal Ilhéus;Atranspi - Novo Sistema;4,50;5;10;BA;Ilheus;17/06/2025
 10841;ATUV - Cartório Municipal Vitória da Conquista;ATUV - Novo Sistema;4,00;5;10;BA;Vitória da Conquista;02/01/2026
@@ -164,7 +164,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15733;Catedral - Cartão Gama X Jardim Ingá;Catedral - Eletrônico;6,10;5;10;DF;Brasília;26/02/2026
 15734;Catedral - Cartão Taguatinga X Jardim Ingá;Catedral - Eletrônico;10,65;5;10;DF;Brasília;26/02/2026
 15738;Catedral - Cartão Jardim Ingá X Lago Sul;Catedral - Eletrônico;9,30;5;10;DF;Brasília;26/02/2026
-15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;12,35;5;11;DF;Brasília;12/05/2026
+15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;11,00;5;11;DF;Brasília;21/05/2026
 10308;Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas;Taguatur - Águas Lindas de Goiás;11,45;5;10;DF;Brasília;26/02/2026
 10309;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga;Taguatur - Águas Lindas de Goiás;6,75;5;10;DF;Brasília;15/08/2023
 10310;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Ceilândia;Taguatur - Águas Lindas de Goiás;5,15;5;10;DF;Brasília;15/08/2023
@@ -272,6 +272,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10165;Plantur - (QR-Code) - Cartão Cachoeiro de Itapemirim X São José dos Frades (convencional dentro da rodoviária));Plantur - QR-Code;13,66;5;10;ES;Cariacica;09/01/2026
 15676;Plantur - (QR-Code) - Cartão Dom Bosco X Bairro Ipiranga (Executivo Parador);Plantur - QR-Code;26,49;5;10;ES;Cariacica;28/04/2025
 19539;Plantur - (QR-Code) - Cartão Brasperola X Ipiranga (Executivo Parador);Plantur - QR-Code;22,98;5;10;ES;Cariacica;09/03/2026
+19677;Plantur - (QR-Code) - Cartão Conceição do Castelo X Venda Nova do Imigrante (convencional);Plantur - QR-Code;7,72;5;10;ES;Cariacica;21/05/2026
 4971;Via Norte - Cartão Linhares Municipal (Linhas da Sede);Via Norte;4,95;5;10;ES;Linhares;19/02/2024
 19534;Via Norte - Cartão Linhares Metropolitano;Via Norte;8,10;5;10;ES;Linhares;27/02/2026
 15926;Viação Águia Branca - Cartão Águia Branca X Barra de São Francisco;Viação Águia Branca;16,67;5;10;ES;Cariacica;24/07/2025
@@ -687,6 +688,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10113;Transportes Coletivo Leo - Cartão Municipal Cataguases;Transportes Coletivo Leo;4,10;5;10;MG;Cataguases;01/10/2025
 530;Transube - Cartão Municipal Uberaba;Transube;5,50;5;10;MG;Uberaba;13/05/2026
 15770;Transube - Cartão Distrito Industrial III (linha 61);Transube;8,00;5;10;MG;Uberaba;13/05/2026
+19630;Transube - Cartão Santa Fé (linha 16);Transube;7,90;5;10;MG;Uberaba;21/05/2026
 8585;Transur - Cartão Juiz de Fora X Santos Dumont (Roletinha);Transur - Eletrônico;17,85;5;10;MG;Juíz de Fora;10/09/2025
 8586;Transur - Cartão Ewbank da Camara X Juiz de Fora;Transur - Eletrônico;12,20;5;10;MG;Juíz de Fora;10/09/2025
 3816;Trectur - Cartão Urbano Três Corações;Trectur;5,25;5;10;MG;Três Corações;01/10/2024
@@ -785,14 +787,14 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9229;Viação Umuarama Conselheiro Lafaiete - Cartão Municipal Conselheiro Lafaiete;Viação Umuarama - Conselheiro Lafaiete;4,75;5;10;MG;Conselheiro Lafaiete;14/08/2025
 4642;Viação União - Cartão Municipal Viçosa;Viação União;3,00;5;10;MG;Viçosa;08/09/2025
 8664;Viação União Manhuaçu - Cartão Municipal Manhuaçu;Viação União - (Manhuaçu);4,00;5;10;MG;Manhuaçu;08/07/2022
-15195;Viação Vale do Mucury - Cartão Municipal Teófilo Otoni;Viação Vale do Mucury - Novo Sistema;3,90;5;10;MG;Teófilo Otoni;20/08/2024
+15195;Viação Vale do Mucury - Cartão Municipal Teófilo Otoni;Viação Vale do Mucury - Novo Sistema;4,50;5;10;MG;Teófilo Otoni;21/05/2026
 10694;Vinscol - Cartão Municipal Sabará;Vinscol;5,40;5;10;MG;Sabará;08/11/2023
 10695;Vinscol - Cartão Sabará X Ravena;Vinscol;6,35;5;10;MG;Sabará;08/11/2023
 8166;Andorinha (Corumbá - Sistema Novo) - Cartão Corumbá X Ladário;Andorinha - Corumbá;7,00;5;10;MS;Corumbá;23/04/2026
 5466;Cidade Corumbá - Cartão Municipal Corumbá;Cidade Corumbá;3,70;5;10;MS;Corumbá;15/03/2019
 3953;Consórcio Guaicurus - Cartão Municipal Campo Grande;Consórcio Guaicurus;4,95;5;10;MS;Campo Grande;24/01/2025
 9668;Expresso Mato Grosso - Cartão Campo Grande X Terenos;Expresso Mato Grosso - Novo Sistema;13,80;5;10;MS;Campo Grande;28/04/2026
-4647;Medianeira Dourados - Cartão Municipal Dourados;Medianeira Dourados;3,00;5;10;MS;Dourados;02/06/2025
+4647;Medianeira Dourados - Cartão Municipal Dourados;Medianeira Dourados;3,75;5;10;MS;Dourados;21/05/2026
 4899;Medianeira Ponta Porã - Cartão Municipal Ponta Porã;Medianeira Ponta Porã;3,75;5;10;MS;Ponta Pora;18/03/2019
 10922;Amtc - Cartão Municipal Rondonópolis;Amtc;2,00;5;10;MT;Rondonópolis;13/05/2026
 2612;AMTU Cuiabá - Cartão Municipal Cuiabá;AMTU - Cuiabá;4,95;5;10;MT;Cuiabá;09/05/2022
@@ -2522,7 +2524,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2360;Pássaro Marron - Cartão Guaratinguetá X Roseira (Linha 5311);Pássaro Marron - Seccionado (Guarat - Ros);8,15;5;10;SP;Guarulhos;08/01/2026
 3838;Pássaro Marron - Cartão Guaratinguetá X Roseira - Rodoviário;Pássaro Marron - Seccionado (Guarat - Ros);6,05;5;10;SP;Guarulhos;15/01/2025
 2824;Pássaro Marron - Cartão Guaratinguetá X Cachoeira Paulista;Pássaro Marron - Seccionado (Guarat X Cach Paulista);12,00;5;10;SP;Guarulhos;08/01/2026
-2834;Pássaro Marron - Cartão Guaratinguetá X São José dos Campos;Pássaro Marron - Seccionado (Guarat X S.J. dos Campos);36,00;5;10;SP;Guarulhos;08/01/2026
+2834;Pássaro Marron - Cartão Guaratinguetá X São José dos Campos;Pássaro Marron - Seccionado (Guarat X S.J. dos Campos);36,40;5;10;SP;Guarulhos;21/05/2026
 1461;Litorânea - Cartão Km 66 - Sp99 Ant.190 X Paraibuna (Rod) / São Paulo;Pássaro Marron - Seccionado (Km 66 - Paraib);7,80;5;10;SP;Guarulhos;06/01/2025
 1466;Pássaro Marron - Cartão Km 66 X São José dos Campos;Pássaro Marron - Seccionado (Km66 - S.J. dos Campos);24,10;5;10;SP;Guarupas;08/01/2026
 9066;Pássaro Marron - Cartão Lorena X Areias;Pássaro Marron - Seccionado (Loren - Areias);24,85;5;10;SP;Guarulhos;08/01/2026
@@ -2557,10 +2559,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15931;Pássaro Marron - Cartão Silveiras X Bananal;Pássaro Marron - Seccionado (Silveiras - Bananal);35,50;5;10;SP;Guarulhos;08/01/2026
 2764;Pássaro Marron - Cartão Tabatinga - Maranduba X Ubatuba;Pássaro Marron - Seccionado (Taba-Maran - Uba);7,25;5;10;SP;Guarulhos;08/01/2026
 3015;Pássaro Marron - Cartão Taubaté X Cruzeiro / São Paulo;Pássaro Marron - Seccionado (Taub - Cruz);39,95;5;10;SP;;08/01/2026
-3022;Pássaro Marron - Cartão Taubaté X Guaratinguetá;Pássaro Marron - Seccionado (Taub - Guarat);19,10;5;10;SP;Guarulhos;08/01/2026
+3022;Pássaro Marron - Cartão Taubaté X Guaratinguetá;Pássaro Marron - Seccionado (Taub - Guarat);19,50;5;10;SP;Guarulhos;21/05/2026
 3018;Pássaro Marron - Cartão Taubaté X Roseira;Pássaro Marron - Seccionado (Taub - Roseira);12,00;5;10;SP;;08/01/2026
 3025;Pássaro Marron - Cartão Taubaté X São José dos Campos;Pássaro Marron - Seccionado (Taub - S. J. dos Campos);15,80;5;10;SP;Guarulhos;08/01/2026
-3311;Pássaro Marron - Cartão Aparecida X Taubaté (Rodoviário;Pássaro Marron - Seccionado (Taub X Ap);17,20;5;10;SP;Guarulhos;08/01/2026
+3311;Pássaro Marron - Cartão Aparecida X Taubaté (Rodoviário;Pássaro Marron - Seccionado (Taub X Ap);17,60;5;10;SP;Guarulhos;21/05/2026
 15075;Pássaro Marron - Cartão Tremembé X Campos do Jordão (Linha 5212);Pássaro Marron - Seccionado (Trem - Campos);15,50;5;10;SP;Guarulhos;08/01/2026
 2353;Pássaro Marron - Cartão Aparecida X Roseira (Urbano);Pássaro Marron - Urbano (Ap - Ros);5,35;5;10;SP;Guarulhos;08/01/2026
 2644;Pássaro Marron - Cartão Aparecida X Roseira (Seccionado) / São Paulo;Pássaro Marron - Urbano (Ap - Ros);5,20;5;10;SP;Guarulhos;06/01/2025
