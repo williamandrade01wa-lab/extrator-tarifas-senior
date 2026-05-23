@@ -10936,342 +10936,6 @@
         "cidade": "Porto Alegre"
     },
     {
-        "codigo": "16084",
-        "nome": "Unesul - Cartão Butiá X Divisa (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "15,50",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16085",
-        "nome": "Unesul - Cartão Butiá X Porto Alegre (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "33,05",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16086",
-        "nome": "Unesul - Cartão Alpestre X Planalto (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "11,00",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16087",
-        "nome": "Unesul - Cartão Ent. Arroio dos Ratos X Pântano Grande (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "25,45",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16088",
-        "nome": "Unesul - Cartão Cachoeira do Sul X Pântano Grande (comum) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "31,05",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16089",
-        "nome": "Unesul - Cartão Capão da Canoa X Imbé (semi-direto) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "12,85",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16090",
-        "nome": "Unesul - Cartão Capão da Canoa X Mariluz (comum) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "7,95",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16091",
-        "nome": "Unesul - Cartão Capão da Canoa X Mariluz (semi-direto) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "11,40",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16092",
-        "nome": "Unesul - Cartão Capão da Canoa X Osório (semi-direto) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "19,35",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16093",
-        "nome": "Unesul - Cartão Capão da Canoa X Xangri-lá (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "10,90",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16094",
-        "nome": "Unesul - Cartão Capão da Canoa X Porto Alegre (semi-direto) (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "71,25",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16095",
-        "nome": "Unesul - Cartão Capão da Canoa X Tramandaí (semi-direto) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "14,25",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16096",
-        "nome": "Unesul - Cartão Coxilha X Getúlio Vargas (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "14,95",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16097",
-        "nome": "Unesul - Cartão Gravataí X Novo Hamburgo (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "18,80",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16098",
-        "nome": "Unesul - Cartão Gravataí X Tramandaí (semi-direto) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "47,75",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16099",
-        "nome": "Unesul - Cartão Imbé X Xangri-lá (semi-direto) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "10,90",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16100",
-        "nome": "Unesul - Cartão Morro Alto X Capão Canoa (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "8,05",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16101",
-        "nome": "Unesul - Cartão Morro Alto X Capão Canoa (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "7,80",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16102",
-        "nome": "Unesul - Cartão Novo Hamburgo X Gravataí (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "18,80",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16103",
-        "nome": "Unesul - Cartão Novo Hamburgo X Gravatai (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "10,45",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16104",
-        "nome": "Unesul - Cartão Osório X Morro Alto (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "8,50",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16105",
-        "nome": "Unesul - Cartão Osório X Porto Alegre (semi direto) (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "52,55",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16106",
-        "nome": "Unesul - Cartão Planalto X Alpestre (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "11,20",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16107",
-        "nome": "Unesul - Cartão Porto Alegre X Cachoeira do Sul (comum) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "80,00",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16108",
-        "nome": "Unesul - Cartão Porto Alegre X Osório (semi-direto) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "49,15",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16109",
-        "nome": "Unesul - Cartão Santo Antônio da Patrulha X Gravatai (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "20,30",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16110",
-        "nome": "Unesul - Cartão Santo Antônio da Patrulha X Porto Alegre (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "33,05",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16111",
-        "nome": "Unesul - Cartão São Leopoldo X Gravataí (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "15,00",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16112",
-        "nome": "Unesul - Cartão São Leopoldo X Gravatai (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "14,70",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16113",
-        "nome": "Unesul - Cartão Tapejara X Coxilha (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "16,00",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16114",
-        "nome": "Unesul - Cartão Torres X Arroio do Sal (comum)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "19,55",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16115",
-        "nome": "Unesul - Cartão Torres X Arroio do Sal (semi-direto) (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "23,70",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16116",
-        "nome": "Unesul - Cartão Torres X Morro Alto (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "38,80",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16117",
-        "nome": "Unesul - Cartão Torres X Porto Alegre (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "99,10",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16118",
-        "nome": "Unesul - Cartão Tramandaí X Osório (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "8,35",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16119",
-        "nome": "Unesul - Cartão Tramandaí X Osório (semi-direto) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "11,40",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16120",
-        "nome": "Unesul - Cartão Tramandaí X Porto Alegre (semi-direto) (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "59,95",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16121",
-        "nome": "Unesul - Cartão Tramandaí X Torres (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "46,35",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16122",
-        "nome": "Unesul - Cartão Xangri-lá X Arroio Teixeira (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "10,55",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16123",
-        "nome": "Unesul - Cartão Xangri-lá X Curumim (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "13,15",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16188",
-        "nome": "Unesul - Cartão Capão da Canoa X Imbé (semi-direto) (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "13,15",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
-        "codigo": "16219",
-        "nome": "Unesul - Cartão Chapecó X Trindade do Sul (sem seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "62,01",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
         "codigo": "10519",
         "nome": "Valesul Porto Alegre - Cartão TEU / Porto Alegre e Região",
         "fornecedor": "Valesul - Porto Alegre",
@@ -12337,9 +12001,257 @@
     },
     {
         "codigo": "15985",
-        "nome": "Viação Ouro e Prata - Cartão Alecrim X Carazinho",
-        "fornecedor": "Viação Ouro e Prata",
-        "valor": "147,15",
+        "nome": "Viação Ouro e Prata - Cartão Osório X Morro Alto (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "8,50",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19683",
+        "nome": "Viação Ouro e Prata - Cartão Capão da Canoa X Imbé (semi-direto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "12,85",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19684",
+        "nome": "Viação Ouro e Prata - Cartão Capão da Canoa X Mariluz (semi-direto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "11,40",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19685",
+        "nome": "Viação Ouro e Prata - Cartão Capão da Canoa X Xangri-lá (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "10,90",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19686",
+        "nome": "Viação Ouro e Prata - Cartão Imbé X Xangri-lá (semi-direto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "10,90",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19687",
+        "nome": "Viação Ouro e Prata - Cartão Morro Alto X Capão Canoa (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "7,80",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19688",
+        "nome": "Viação Ouro e Prata - Cartão Tramandaí X Osório (semi-direto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "11,40",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19689",
+        "nome": "Viação Ouro e Prata - Cartão Capão da Canoa X Imbé (semi-direto) (com seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "13,15",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19696",
+        "nome": "Viação Ouro e Prata - Cartão Alpestre X Planalto (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "11,00",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19697",
+        "nome": "Viação Ouro e Prata - Cartão Capão da Canoa X Mariluz (comum) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "7,95",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19698",
+        "nome": "Viação Ouro e Prata - Cartão Capão da Canoa X Osório (semi-direto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "19,35",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19699",
+        "nome": "Viação Ouro e Prata - Cartão Capão da Canoa X Porto Alegre (semidireto) (com seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "71,25",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19700",
+        "nome": "Viação Ouro e Prata - Cartão Capão da Canoa X Tramandaí (semidireto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "14,25",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19701",
+        "nome": "Viação Ouro e Prata - Cartão Gravataí X Novo Hamburgo (com seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "18,80",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19702",
+        "nome": "Viação Ouro e Prata - Cartão Gravataí X Tramandaí (semidireto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "47,75",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19703",
+        "nome": "Viação Ouro e Prata - Cartão Morro Alto X Capão Canoa (com seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "8,05",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19704",
+        "nome": "Viação Ouro e Prata - Cartão Novo Hamburgo X Gravataí (com seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "18,80",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19705",
+        "nome": "Viação Ouro e Prata - Cartão Novo Hamburgo X Gravatai (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "10,45",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19706",
+        "nome": "Viação Ouro e Prata - Cartão Osório X Porto Alegre (semidireto) (com seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "52,55",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19707",
+        "nome": "Viação Ouro e Prata - Cartão Planalto X Alpestre (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "11,20",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19708",
+        "nome": "Viação Ouro e Prata - Cartão Porto Alegre X Osório (semidireto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "49,15",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19709",
+        "nome": "Viação Ouro e Prata - Cartão São Leopoldo X Gravataí (com seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "15,00",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19710",
+        "nome": "Viação Ouro e Prata - Cartão São Leopoldo X Gravatai (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "14,70",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19711",
+        "nome": "Viação Ouro e Prata - Cartão Torres X Arroio do Sal (comum)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "19,55",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19712",
+        "nome": "Viação Ouro e Prata - Cartão Torres X Arroio do Sal (semidireto) (com seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "23,70",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19713",
+        "nome": "Viação Ouro e Prata - Cartão Torres X Morro Alto (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "38,80",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19714",
+        "nome": "Viação Ouro e Prata - Cartão Torres X Porto Alegre (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "99,10",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19715",
+        "nome": "Viação Ouro e Prata - Cartão Tramandaí X Osório (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "8,35",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19716",
+        "nome": "Viação Ouro e Prata - Cartão Tramandaí X Porto Alegre (semidireto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "59,95",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19717",
+        "nome": "Viação Ouro e Prata - Cartão Tramandaí X Torres (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "46,35",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19718",
+        "nome": "Viação Ouro e Prata - Cartão Xangri-lá X Arroio Teixeira (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "10,55",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19719",
+        "nome": "Viação Ouro e Prata - Cartão Xangri-lá X Curumim (com seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "13,15",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
