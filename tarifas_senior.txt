@@ -880,7 +880,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9457;Coletivos Viagens - Cartão Caruaru X Riacho das Almas;Coletivos Viagens;8,00;5;10;PE;Caruaru;20/04/2026
 9458;Coletivos Viagens - Cartão Caruaru X São Joaquim do Monte;Coletivos Viagens;17,00;5;10;PE;Caruaru;20/04/2026
 9459;Coletivos Viagens - Cartão Palmares X Água Preta;Coletivos Viagens;6,00;5;10;PE;Caruaru;20/04/2026
-10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;6,00;5;10;PE;Caruaru;20/04/2026
+10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;5,00;5;10;PE;Caruaru;25/05/2026
 15495;Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329);Coletivos Viagens;19,00;5;10;PE;Caruaru;20/04/2026
 6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;5,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
