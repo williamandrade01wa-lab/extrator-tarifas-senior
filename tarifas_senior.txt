@@ -990,6 +990,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15992;São José - São José dos Pinhais - Cartão Quississana X Guadalupe;São José - São José dos Pinhais;5,50;5;10;SP;São José dos Pinhais;19/08/2025
 8233;Sorrido de Toledo - Cartão São José X Toledo (Seccionado);Sorriso de Toledo - Metropolitano;9,30;5;10;PR;Toledo;19/05/2026
 15639;Sorriso de Toledo - Cartão Municipal Sorriso de Toledo;Sorriso de Toledo - Municipal Novo Sistema;3,50;5;10;PR;Toledo;11/03/2025
+19721;Sorriso de Toledo - Cartão Distrital Sorriso de Toledo;Sorriso de Toledo - Municipal Novo Sistema;5,00;5;10;PR;Toledo;26/05/2026
 15988;Tamandaré - Cartão Caiuá X Cachoeira;Tamandaré;5,50;5;10;PR;Almirante Tamandaré;19/08/2025
 2278;TCCC Maringá - Cartão Passe-Fácil Maringá Urbano;TCCC Maringá - Cidade Canção;5,20;5;10;PR;MARINGÁ;03/06/2025
 1255;TCGL - Cartão CT Londrina Urbano / Curitiba;TCGL;6,25;5;10;PR;Londrina;19/01/2026
@@ -2523,7 +2524,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2972;Pássaro Marron - Cartão Lorena X Guarantiguetá;Pássaro Marron - Seccionado (Loren - Guarat);8,15;5;10;SP;Guarulhos;08/01/2026
 2973;Pássaro Marron - Cartão Lorena X Piquete;Pássaro Marron - Seccionado (Loren - Piquet);6,55;5;10;SP;Guarulhos;08/01/2026
 1735;Pássaro Marrom - Lorena X São José dos Campos;Pássaro Marron - Seccionado (Loren - S. J. Campos);44,65;5;10;SP;Guarulhos;19/05/2026
-2974;Pássaro Marron - Cartão Lorena X Taubaté;Pássaro Marron - Seccionado (Loren - Taub);26,50;5;10;SP;;08/01/2026
+2974;Pássaro Marron - Cartão Lorena X Taubaté;Pássaro Marron - Seccionado (Loren - Taub);26,90;5;10;SP;;26/05/2026
 5967;Pássaro Marrom - Cartão Lorena X Aparecida;Pássaro Marron - Seccionado (Loren X Ap);10,05;5;10;SP;Guarulhos;08/01/2026
 2971;Pássaro Marron - Cartão Lorena X Roseira;Pássaro Marron - Seccionado (Loren X Roseira);13,60;5;10;SP;Guarulhos;08/01/2026
 6018;Pássaro Marron - Cartão Paraibuna X S.J. dos Campos;Pássaro Marron - Seccionado (Parai - S.J.dos Campos);14,95;5;10;SP;Guarulhos;08/01/2026
@@ -2542,7 +2543,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2995;Pássaro Marron - Cartão São José dos Campos X Pindamonhangaba;Pássaro Marron - Seccionado (S. J. dos Campos - Pinda);21,00;5;10;SP;;08/01/2026
 3279;Pássaro Marron - Cartão São José dos Campos X São Bento do Sapucaí;Pássaro Marron - Seccionado (S. J. dos Campos - S.B. do Sapucaí);24,50;5;10;SP;;02/01/2024
 6226;Pássaro Marron - São Sebastião X São José dos Campos;Pássaro Marron - Seccionado (S. Sebast - S.J. dos Campos);53,00;5;10;SP;Guarulhos;08/01/2026
-2997;Pássaro Marron - Cartão São José dos Campos X Aparecida;Pássaro Marron - Seccionado (S.J. dos Campos X Ap);33,90;5;10;SP;Guarulhos;08/01/2026
+2997;Pássaro Marron - Cartão São José dos Campos X Aparecida;Pássaro Marron - Seccionado (S.J. dos Campos X Ap);34,30;5;10;SP;Guarulhos;26/05/2026
 2813;Pássaro Marron - Cartão Cruzeiro X São José dos Campos;Pássaro Marron - Seccionado (S.J. dos Campos X Cruz);55,45;5;10;SP;;08/01/2026
 6277;Pássaro Marron - Cartão São Sebastião X Taubaté;Pássaro Marron - Seccionado (São Sebasti - Taub);73,35;5;10;SP;Guarulhos;08/01/2026
 15931;Pássaro Marron - Cartão Silveiras X Bananal;Pássaro Marron - Seccionado (Silveiras - Bananal);35,50;5;10;SP;Guarulhos;08/01/2026

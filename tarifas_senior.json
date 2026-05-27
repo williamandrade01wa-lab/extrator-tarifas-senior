@@ -7928,6 +7928,14 @@
         "cidade": "Toledo"
     },
     {
+        "codigo": "19721",
+        "nome": "Sorriso de Toledo - Cartão Distrital Sorriso de Toledo",
+        "fornecedor": "Sorriso de Toledo - Municipal Novo Sistema",
+        "valor": "5,00",
+        "uf": "PR",
+        "cidade": "Toledo"
+    },
+    {
         "codigo": "15988",
         "nome": "Tamandaré - Cartão Caiuá X Cachoeira",
         "fornecedor": "Tamandaré",
@@ -20195,7 +20203,7 @@
         "codigo": "2974",
         "nome": "Pássaro Marron - Cartão Lorena X Taubaté",
         "fornecedor": "Pássaro Marron - Seccionado (Loren - Taub)",
-        "valor": "26,50",
+        "valor": "26,90",
         "uf": "SP",
         "cidade": ""
     },
@@ -20347,7 +20355,7 @@
         "codigo": "2997",
         "nome": "Pássaro Marron - Cartão São José dos Campos X Aparecida",
         "fornecedor": "Pássaro Marron - Seccionado (S.J. dos Campos X Ap)",
-        "valor": "33,90",
+        "valor": "34,30",
         "uf": "SP",
         "cidade": "Guarulhos"
     },
