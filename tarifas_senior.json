@@ -9264,6 +9264,22 @@
         "cidade": "Armação de Búzios"
     },
     {
+        "codigo": "19722",
+        "nome": "Vancard - Cartão Municipal Rio das Ostras",
+        "fornecedor": "Vancard",
+        "valor": "4,00",
+        "uf": "RJ",
+        "cidade": "Armação de Búzios"
+    },
+    {
+        "codigo": "19723",
+        "nome": "Vancard - Cartão Rural Rio das Ostras",
+        "fornecedor": "Vancard",
+        "valor": "4,40",
+        "uf": "RJ",
+        "cidade": "Armação de Búzios"
+    },
+    {
         "codigo": "15169",
         "nome": "Viação Conecta - Cartão Municipal Paraíba do Sul",
         "fornecedor": "Viação Conecta",

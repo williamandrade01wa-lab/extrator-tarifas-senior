@@ -1157,6 +1157,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19580;SRP- RJ;SRP- RJ;0,01;5;10;RJ;Rio de Janeiro;01/04/2026
 15589;Transa Transporte - Cartão Intermunicipal Levy Gasparian;Transa Transporte - Eletrônico;6,50;5;10;RJ;Três Rios;09/03/2026
 10929;Vancard - Cartão Municipal Armação de Búzios;Vancard;5,00;5;10;RJ;Armação de Búzios;25/04/2024
+19722;Vancard - Cartão Municipal Rio das Ostras;Vancard;4,00;5;10;RJ;Armação de Búzios;27/05/2026
+19723;Vancard - Cartão Rural Rio das Ostras;Vancard;4,40;5;10;RJ;Armação de Búzios;27/05/2026
 15169;Viação Conecta - Cartão Municipal Paraíba do Sul;Viação Conecta;5,00;5;10;RJ;Paraíba do Sul;08/09/2025
 2169;Viação Itapetinga (Princesinha do Vale) - Cartão Municipal São Miguel de Resende;Viação Itapetinga Princesinha do Vale;4,40;5;10;RJ;Resende;06/06/2023
 9308;Viação Santa Lucia - Cartão Itaperuna Municipal;Viação Santa Lucia;5,00;5;10;RJ;Itaperuna;01/02/2024
