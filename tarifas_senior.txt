@@ -961,7 +961,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16003;Oceânica - Itapoá - Cartão Municipal Itapoá;Oceânica - Itapoá - QR-Code;5,00;5;10;SC;Itapoá;20/08/2025
 16005;Oceânica - Lapa - Cartão Municipal Lapa;Oceânica - Lapa - QR-Code;4,30;5;10;PR;Lapa;20/08/2025
 9872;Oceânica Sul - Cartão Lapa X Araucária;Oceânica Sul (Lapa - Arauc.) - QR-Code;8,50;5;10;PR;Pontal do Paraná;04/03/2026
-9618;Panamera Oceânica Sul - Cartão Pontal do Paraná Municipal;Panamera Oceânica Sul;3,25;5;10;PR;Pontal do Paraná;04/08/2025
+9618;Panamera Oceânica Sul - Cartão Pontal do Paraná Municipal;Panamera - OCEANICA PONTAL Sul;3,25;5;10;PR;Pontal do Paraná;04/08/2025
 2193;Pérola do Oeste - Cartão Pérola do Oeste Urbano;Pérola do Oeste;4,00;5;10;PR;Guarapuava;19/02/2025
 15991;Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque);Piraquara;5,50;5;10;SP;Piraquara;19/08/2025
 15764;Prefeitura de Campo Largo - Cartão Municipal Campo Largo;Prefeitura de Campo Largo;5,80;5;10;PR;Campo Largo;12/06/2025
@@ -1700,7 +1700,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6548;Viação Praiana - Cartão Itapema X Itajaí (via Lojas Moellmann);Viação Praiana;7,65;5;10;SC;Itajaí;14/04/2022
 6549;Viação Praiana - Cartão Itapema X Balneário Camboriú;Viação Praiana;7,60;5;10;SC;Itajaí;04/03/2026
 6552;Viação Praiana - Cartão Camboriú X Balneário Camboriú;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
-9650;Viação Praiana - Cartão Porto Belo x Tijucas;Viação Praiana;6,58;5;10;SC;Itajaí;13/01/2026
+9650;Viação Praiana - Cartão Porto Belo x Tijucas;Viação Praiana;7,60;5;10;SC;Itajaí;28/05/2026
 10668;Viação Praiana - Cartão Itapema X Itajaí;Viação Praiana;9,90;5;10;SC;Itajaí;03/03/2026
 15647;Viação Praiana - Cartão Itajaí X Balneário Camboriú (Bem Bom);Viação Praiana;8,00;5;10;SC;Itajaí;19/03/2025
 19613;Viação Praiana - Cartão Itajaí X Itajaí;Viação Praiana;7,90;5;10;SC;Itajaí;27/04/2026
@@ -2266,7 +2266,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10729;Expresso Itamarati - Cartão José Bonifácio X São José do Rio Preto;Expresso Itamarati;14,00;5;10;SP;São José do Rio Preto;03/07/2025
 10730;Expresso Itamarati - Cartão São José do Rio Preto X Planalto;Expresso Itamarati;23,10;5;10;SP;São José do Rio Preto;03/07/2025
 15177;Expresso Itamarati - Cartão Zacarias X São José do Rio Preto;Expresso Itamarati;25,60;5;10;SP;São José do Rio Preto;03/07/2025
-5631;Expresso Itamarati - Cartão Votuporanga Municipal;Expresso Itamarati - (Votuporanga);3,89;5;10;SP;Votuporanga;07/05/2025
+5631;Expresso Itamarati - Cartão Votuporanga Municipal;Expresso Itamarati - (Votuporanga);4,00;5;10;SP;Votuporanga;28/05/2026
 9331;Expresso Redenção - Cartão Taubaté X Natividade da Serra;Expresso Redenção - (Novo Sistema);15,00;5;10;SP;Taubaté;05/01/2026
 9332;Expresso Redenção - Cartão Taubaté X Redenção;Expresso Redenção - (Novo Sistema);9,20;5;10;SP;Taubaté;05/01/2026
 5453;Fênix Ilhabela - Cartão Ilhabela Municipal;Fênix Ilhabela;4,80;5;10;SP;Ilhabela;04/02/2026

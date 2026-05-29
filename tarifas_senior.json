@@ -7698,7 +7698,7 @@
     {
         "codigo": "9618",
         "nome": "Panamera Oceânica Sul - Cartão Pontal do Paraná Municipal",
-        "fornecedor": "Panamera Oceânica Sul",
+        "fornecedor": "Panamera - OCEANICA PONTAL Sul",
         "valor": "3,25",
         "uf": "PR",
         "cidade": "Pontal do Paraná"
@@ -13611,7 +13611,7 @@
         "codigo": "9650",
         "nome": "Viação Praiana - Cartão Porto Belo x Tijucas",
         "fornecedor": "Viação Praiana",
-        "valor": "6,58",
+        "valor": "7,60",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -18139,7 +18139,7 @@
         "codigo": "5631",
         "nome": "Expresso Itamarati - Cartão Votuporanga Municipal",
         "fornecedor": "Expresso Itamarati - (Votuporanga)",
-        "valor": "3,89",
+        "valor": "4,00",
         "uf": "SP",
         "cidade": "Votuporanga"
     },
