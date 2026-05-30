@@ -179,6 +179,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10319;Taguatur Santo Antonio do Descoberto - Cartão Santo Antônio X Brasília;Taguatur - Santo Antonio do Descoberto;10,75;5;10;DF;Brasília;26/02/2026
 10320;Taguatur Santo Antonio do Descoberto - Cartão Santo Antonio X Taguatinga;Taguatur - Santo Antonio do Descoberto;8,60;5;10;DF;Brasília;26/02/2026
 10321;Taguatur Santo Antonio do Descoberto - Cartão Brasília X Águas Claras;Taguatur - Santo Antonio do Descoberto;10,75;5;10;DF;Brasília;26/02/2026
+19725;Taguatur Santo Antônio do Descoberto - Cartão Circular Santo Antônio do Descoberto;Taguatur - Santo Antonio do Descoberto;4,75;5;10;DF;Brasília;29/05/2026
 5860;UTB - Eletrônico - Cartão Águas Lindas X Brasília;UTB - Eletrônico;11,45;5;10;DF;Brasília;26/02/2026
 5975;UTB - Eletrônico - Cartão Monte Alto X Brasília;UTB - Eletrônico;10,40;5;10;DF;Brasília;26/02/2026
 5976;UTB - Eletrônico - Cartão Monte Alto X Brazilândia;UTB - Eletrônico;3,00;5;10;DF;Brasília;26/02/2026
@@ -822,6 +823,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3451;AETC (Sintur) Cabedelo - Cartão João Pessoa X Bayeux;AETC (Sintur) Cabedelo;5,45;5;10;PB;João Pessoa;13/02/2026
 8318;AETC (Sintur) Cabedelo - Cartão Cabedelo X João Pessoa (M103 / M104);AETC (Sintur) Cabedelo;5,45;5;10;PB;João Pessoa;13/02/2026
 19477;Ferreira Costa;Ferreira Costa;0,01;5;10;PB;João Pessoa;16/01/2026
+19724;Ferreira Costa;Ferreira Costa;0,01;5;10;PB;João Pessoa;29/05/2026
 6330;PB Rio - Cartão João Pessoa X Alhandra;PB Rio;13,00;5;10;PB;Alhandra;06/02/2026
 10211;PB Rio - Cartão Alhandra X Fazenda;PB Rio;6,80;5;10;PB;Alhandra;27/01/2026
 19431;PB Rio - Cartão Taquara X Fazenda (Linha 0302);PB Rio;14,00;5;10;PB;Alhandra;26/02/2026

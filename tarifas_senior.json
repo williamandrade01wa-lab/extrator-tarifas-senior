@@ -1440,6 +1440,14 @@
         "cidade": "Brasília"
     },
     {
+        "codigo": "19725",
+        "nome": "Taguatur Santo Antônio do Descoberto - Cartão Circular Santo Antônio do Descoberto",
+        "fornecedor": "Taguatur - Santo Antonio do Descoberto",
+        "valor": "4,75",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
         "codigo": "5860",
         "nome": "UTB - Eletrônico - Cartão Águas Lindas X Brasília",
         "fornecedor": "UTB - Eletrônico",
@@ -6577,6 +6585,14 @@
     },
     {
         "codigo": "19477",
+        "nome": "Ferreira Costa",
+        "fornecedor": "Ferreira Costa",
+        "valor": "0,01",
+        "uf": "PB",
+        "cidade": "João Pessoa"
+    },
+    {
+        "codigo": "19724",
         "nome": "Ferreira Costa",
         "fornecedor": "Ferreira Costa",
         "valor": "0,01",
