@@ -822,7 +822,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3450;AETC (Sintur) Cabedelo - Cartão João Pessoa X Santa Rita;AETC (Sintur) Cabedelo;5,65;5;10;PB;João Pessoa;13/02/2026
 3451;AETC (Sintur) Cabedelo - Cartão João Pessoa X Bayeux;AETC (Sintur) Cabedelo;5,45;5;10;PB;João Pessoa;13/02/2026
 8318;AETC (Sintur) Cabedelo - Cartão Cabedelo X João Pessoa (M103 / M104);AETC (Sintur) Cabedelo;5,45;5;10;PB;João Pessoa;13/02/2026
-19477;Ferreira Costa;Ferreira Costa;0,01;5;10;PB;João Pessoa;16/01/2026
 19724;Ferreira Costa;Ferreira Costa;0,01;5;10;PB;João Pessoa;29/05/2026
 6330;PB Rio - Cartão João Pessoa X Alhandra;PB Rio;13,00;5;10;PB;Alhandra;06/02/2026
 10211;PB Rio - Cartão Alhandra X Fazenda;PB Rio;6,80;5;10;PB;Alhandra;27/01/2026
