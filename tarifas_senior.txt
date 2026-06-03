@@ -883,6 +883,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9459;Coletivos Viagens - Cartão Palmares X Água Preta;Coletivos Viagens;6,00;5;10;PE;Caruaru;20/04/2026
 10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;5,00;5;10;PE;Caruaru;25/05/2026
 15495;Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329);Coletivos Viagens;19,00;5;10;PE;Caruaru;20/04/2026
+19730;Coletivos Viagens - Cartão São Caetano X Caruaru;Coletivos Viagens;6,00;5;10;PE;Caruaru;02/06/2026
 6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;5,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
 8226;Expresso 1002 - Cartão Surubim X Toritama;Expresso 1002;12,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
@@ -1693,6 +1694,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2465;Viação Navegantes - Cartão Penha X Machados;Viação Navegantes;8,55;5;10;SC;Navegantes;14/03/2023
 2467;Viação Navegantes - Cartão Navegantes X Machados;Viação Navegantes;4,60;5;10;SC;Navegantes;14/03/2023
 5130;Viação Navegantes -Cartão Navegantes X Gravata;Viação Navegantes;4,60;5;10;SC;Navegantes;27/06/2024
+19729;Viação Navegantes - Cartão Blumenau X Luiz Alves;Viação Navegantes;9,11;5;10;SC;Navegantes;02/06/2026
 6543;Viação Praiana - Cartão Itajaí X Camboriú;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
 6544;Viação Praiana - Cartão Balneário Camboriú X Porto Belo;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
 6545;Viação Praiana - Cartão Porto Belo X Itajaí;Viação Praiana;10,40;5;10;SC;Itajaí;04/03/2026

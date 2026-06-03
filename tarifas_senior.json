@@ -7072,6 +7072,14 @@
         "cidade": "Caruaru"
     },
     {
+        "codigo": "19730",
+        "nome": "Coletivos Viagens - Cartão São Caetano X Caruaru",
+        "fornecedor": "Coletivos Viagens",
+        "valor": "6,00",
+        "uf": "PE",
+        "cidade": "Caruaru"
+    },
+    {
         "codigo": "6686",
         "nome": "Expresso 1002 - Cartão Paudalho X Recife",
         "fornecedor": "Expresso 1002",
@@ -13548,6 +13556,14 @@
         "nome": "Viação Navegantes -Cartão Navegantes X Gravata",
         "fornecedor": "Viação Navegantes",
         "valor": "4,60",
+        "uf": "SC",
+        "cidade": "Navegantes"
+    },
+    {
+        "codigo": "19729",
+        "nome": "Viação Navegantes - Cartão Blumenau X Luiz Alves",
+        "fornecedor": "Viação Navegantes",
+        "valor": "9,11",
         "uf": "SC",
         "cidade": "Navegantes"
     },
