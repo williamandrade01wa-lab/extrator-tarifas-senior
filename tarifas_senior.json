@@ -1083,7 +1083,7 @@
         "codigo": "2335",
         "nome": "Viação Cidade de Barreiras - Cartão Municipal Barreiras",
         "fornecedor": "Viação Cidade de Barreiras",
-        "valor": "4,50",
+        "valor": "5,00",
         "uf": "BA",
         "cidade": "Barreiras"
     },
@@ -1979,7 +1979,7 @@
         "codigo": "10658",
         "nome": "Joana D´Arc - Cartão Linhares X Farias",
         "fornecedor": "Joana Darc",
-        "valor": "8,10",
+        "valor": "8,50",
         "uf": "ES",
         "cidade": "Linhares"
     },
@@ -2203,7 +2203,7 @@
         "codigo": "4971",
         "nome": "Via Norte - Cartão Linhares Municipal (Linhas da Sede)",
         "fornecedor": "Via Norte",
-        "valor": "4,95",
+        "valor": "5,30",
         "uf": "ES",
         "cidade": "Linhares"
     },
@@ -5443,7 +5443,7 @@
         "codigo": "15064",
         "nome": "Transluz - Cartão Municipal Nova Serrana",
         "fornecedor": "Transluz",
-        "valor": "4,50",
+        "valor": "5,00",
         "uf": "MG",
         "cidade": "Nova Serrana"
     },
@@ -9875,7 +9875,7 @@
         "codigo": "2295",
         "nome": "CSC Santa Cruz do Sul - Cartão Santa Cruz do Sul",
         "fornecedor": "CSC Santa Cruz do Sul",
-        "valor": "5,50",
+        "valor": "5,80",
         "uf": "RS",
         "cidade": "Santa Cruz do Sul"
     },
@@ -9963,7 +9963,7 @@
         "codigo": "8976",
         "nome": "Expresso São José - Cartão Tramandaí X Imbé",
         "fornecedor": "Expresso São José",
-        "valor": "6,20",
+        "valor": "6,70",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -9995,7 +9995,7 @@
         "codigo": "15101",
         "nome": "Expresso São José - Cartão Capão da Canoa X Rainha do Mar",
         "fornecedor": "Expresso São José",
-        "valor": "6,20",
+        "valor": "6,70",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10019,7 +10019,7 @@
         "codigo": "15319",
         "nome": "Expresso São José - Cartão Cidreira X Cidreira (Linha E907)",
         "fornecedor": "Expresso São José",
-        "valor": "6,20",
+        "valor": "6,70",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10027,7 +10027,7 @@
         "codigo": "15620",
         "nome": "Expresso São José - Cartão Tramandaí X Quintão (Linha E907)",
         "fornecedor": "Expresso São José",
-        "valor": "6,20",
+        "valor": "6,70",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10035,7 +10035,7 @@
         "codigo": "15621",
         "nome": "Expresso São José - Cartão Osório X Quintão (Linha E906)",
         "fornecedor": "Expresso São José",
-        "valor": "6,20",
+        "valor": "6,70",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10043,7 +10043,7 @@
         "codigo": "16184",
         "nome": "Expresso São José - Cartão Tramandaí X Cidreira (Linhas E196, E906 e E907)",
         "fornecedor": "Expresso São José",
-        "valor": "12,75",
+        "valor": "13,75",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10051,7 +10051,7 @@
         "codigo": "16185",
         "nome": "Expresso São José - Cartão Capão Novo X Xangri-lá (Linhas E196, RT903 e RT905)",
         "fornecedor": "Expresso São José",
-        "valor": "6,20",
+        "valor": "6,70",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10067,7 +10067,7 @@
         "codigo": "16187",
         "nome": "Expresso São José - Cartão Osório X Capão da Canoa (Linhas E196, RT903 e RT905)",
         "fornecedor": "Expresso São José",
-        "valor": "18,00",
+        "valor": "19,40",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10075,7 +10075,7 @@
         "codigo": "16237",
         "nome": "Expresso São José - Cartão Capão da Canoa X Terra de Areia (Linha E823)",
         "fornecedor": "Expresso São José",
-        "valor": "12,30",
+        "valor": "13,25",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10083,7 +10083,7 @@
         "codigo": "16238",
         "nome": "Expresso São José - Cartão Capão da Canoa X Capão Novo (Linhas 113A, E113, E196, E823, E908, RT903 e RT905)",
         "fornecedor": "Expresso São José",
-        "valor": "6,20",
+        "valor": "6,70",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10091,7 +10091,7 @@
         "codigo": "16260",
         "nome": "Expresso São José - Cartão Capão da Canoa X Curumim (Linha E823)",
         "fornecedor": "Expresso São José",
-        "valor": "6,20",
+        "valor": "6,70",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10099,7 +10099,7 @@
         "codigo": "19467",
         "nome": "Expresso São José - Cartão Curumim X Atlântidasul (Linha E107)",
         "fornecedor": "Expresso São José",
-        "valor": "6,20",
+        "valor": "6,70",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -11003,7 +11003,7 @@
         "codigo": "10522",
         "nome": "Valesul Porto Alegre - 502 Poa – Canoas (Vicasa - 00003)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,45",
+        "valor": "9,05",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11011,7 +11011,7 @@
         "codigo": "10523",
         "nome": "Valesul Porto Alegre - 501 Canoas – Poa ( Executivo Semi-Direto) (Vicasa - 00003)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "12,65",
+        "valor": "13,60",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11019,7 +11019,7 @@
         "codigo": "10524",
         "nome": "Valesul Porto Alegre - 901 Canoas – Novo Hamburgo (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,10",
+        "valor": "7,65",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11035,7 +11035,7 @@
         "codigo": "10526",
         "nome": "Valesul Porto Alegre - 801 Poa – Monte Alegre / Sta Isabel / Aparecida V. Figueira - Assis Brasil, Protásio, Iguatemi (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,50",
+        "valor": "9,10",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11043,7 +11043,7 @@
         "codigo": "10527",
         "nome": "Valesul Porto Alegre - 903 Canoas – São Leopoldo (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,10",
+        "valor": "7,65",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11051,7 +11051,7 @@
         "codigo": "10528",
         "nome": "Valesul Porto Alegre - 905 Poa – Sapucaia / Esteio (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,45",
+        "valor": "9,05",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11059,7 +11059,7 @@
         "codigo": "10529",
         "nome": "Valesul Porto Alegre - 906 Poa – Canoas (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,45",
+        "valor": "9,05",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11067,7 +11067,7 @@
         "codigo": "10530",
         "nome": "Valesul Porto Alegre - 908 Central Mínima / Novo Hamburgo – Feitoria (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,10",
+        "valor": "7,65",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11083,7 +11083,7 @@
         "codigo": "10532",
         "nome": "Valesul Porto Alegre - 909 Poa – Novo Hamburgo (Semi-Direto) (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "22,05",
+        "valor": "23,65",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11091,7 +11091,7 @@
         "codigo": "10533",
         "nome": "Valesul Porto Alegre - 910 Novo Hamburgo - São Leopoldo (Semi-Direto) (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "9,15",
+        "valor": "9,85",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11107,7 +11107,7 @@
         "codigo": "10535",
         "nome": "Valesul Porto Alegre - 911 Poa – São Leopoldo (Semi-Direto) (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "18,10",
+        "valor": "19,40",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11139,7 +11139,7 @@
         "codigo": "10540",
         "nome": "Valesul Porto Alegre - 380 Mínima Itapuã (Itapuã - 00009)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "6,90",
+        "valor": "7,40",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11155,7 +11155,7 @@
         "codigo": "10542",
         "nome": "Valesul Porto Alegre - 390 Poa – Itapuã (Itapuã - 00009)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "12,70",
+        "valor": "13,60",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11171,7 +11171,7 @@
         "codigo": "10545",
         "nome": "Valesul Porto Alegre - 155 Cmt – Unitário (Tm1 – Tm2 – Tm3) (Consórcio Metropolitano De Transporte - 00013)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,50",
+        "valor": "9,10",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11179,7 +11179,7 @@
         "codigo": "10547",
         "nome": "Valesul Porto Alegre - 259 Seletivo Monte Alegre / Aparecida - Poa (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "17,45",
+        "valor": "15,25",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11187,7 +11187,7 @@
         "codigo": "10548",
         "nome": "Valesul Porto Alegre - 258 Viamão Capororoca P.32 / São Jorge - Poa Bento, Ipiranga, Rodoviária / Divisa - Poa (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "5,00",
+        "valor": "5,30",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11195,7 +11195,7 @@
         "codigo": "10552",
         "nome": "Valesul Porto Alegre - 256 Poa – Monte Alegre /Aparecida – Executivo (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "11,75",
+        "valor": "12,60",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11203,7 +11203,7 @@
         "codigo": "10553",
         "nome": "Valesul Porto Alegre - 156 Cmt – (Integrado) Metropolitana / Urbana (Consórcio Metropolitano De Transporte - 00013)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "12,80",
+        "valor": "13,75",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11211,7 +11211,7 @@
         "codigo": "10554",
         "nome": "Valesul Porto Alegre - 255/237 Viamão Municipal Urbana Vialeste (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "4,80",
+        "valor": "5,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11219,7 +11219,7 @@
         "codigo": "10555",
         "nome": "Valesul Porto Alegre - 254 Poa – Viamão Executivo (Semi-Direto) (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "14,30",
+        "valor": "15,35",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11235,7 +11235,7 @@
         "codigo": "10557",
         "nome": "Valesul Porto Alegre - 253 Viamão Mínima Metropolitana (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "4,80",
+        "valor": "5,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11243,7 +11243,7 @@
         "codigo": "10558",
         "nome": "Valesul Porto Alegre - 601 Poa – Eldorado Do Sul/Sans Souci (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,10",
+        "valor": "8,70",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11251,7 +11251,7 @@
         "codigo": "10559",
         "nome": "Valesul Porto Alegre - 602 Poa – Santa Rita / Cohab / Vila Ipê (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "10,25",
+        "valor": "11,00",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11259,7 +11259,7 @@
         "codigo": "10560",
         "nome": "Valesul Porto Alegre - 252 Poa – Volta Da Figueira / Vila Esmeralda (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,70",
+        "valor": "8,25",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11267,7 +11267,7 @@
         "codigo": "10561",
         "nome": "Valesul Porto Alegre - 604 Guaíba – Eldorado Do Sul (Br – 116) (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,80",
+        "valor": "9,45",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11275,7 +11275,7 @@
         "codigo": "10563",
         "nome": "Valesul Porto Alegre - 251 Poa – Viamão / São Tomé / Tarumã / Estalagem / Alvorada Cocão (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "10,30",
+        "valor": "11,10",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11283,7 +11283,7 @@
         "codigo": "10564",
         "nome": "Valesul Porto Alegre - 605 Poa – Florida - Executivo (Semi-Direto) (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "17,20",
+        "valor": "18,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11291,7 +11291,7 @@
         "codigo": "10565",
         "nome": "Valesul Porto Alegre - 608 Guaíba – Eldorado Do Sul (Sans Souci) (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "6,85",
+        "valor": "7,35",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11307,7 +11307,7 @@
         "codigo": "10570",
         "nome": "Valesul Porto Alegre - 612 Poa – Santa Rita - Executivo (Semi - Direto) (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "14,00",
+        "valor": "15,10",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11315,7 +11315,7 @@
         "codigo": "10571",
         "nome": "Valesul Porto Alegre - 614 Poa – Eldorado Do Sul (Semi-Direto/Executivo) (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "10,50",
+        "valor": "11,25",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11323,7 +11323,7 @@
         "codigo": "10572",
         "nome": "Valesul Porto Alegre - 942 Integração Canoas (Vicasa)– B20 (Trensurb – 00042)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "11,60",
+        "valor": "12,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11347,7 +11347,7 @@
         "codigo": "10575",
         "nome": "Valesul Porto Alegre - 618 Poa – Florida / Colina (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "12,60",
+        "valor": "13,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11355,7 +11355,7 @@
         "codigo": "10577",
         "nome": "Valesul Porto Alegre - 510 Seletivo Cachoeirinha (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "18,85",
+        "valor": "20,25",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11363,7 +11363,7 @@
         "codigo": "10578",
         "nome": "Valesul Porto Alegre - 621 Alvorada – Guaíba (Tm5) (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,75",
+        "valor": "9,35",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11371,7 +11371,7 @@
         "codigo": "10579",
         "nome": "Valesul Porto Alegre - 624 Fátima Executivo (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "14,20",
+        "valor": "15,25",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11379,7 +11379,7 @@
         "codigo": "10580",
         "nome": "Valesul Porto Alegre - 508 Poa – Cachoeirinha / Morada Do Vale ( Executivo Semi-Direto) (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "14,20",
+        "valor": "15,25",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11387,7 +11387,7 @@
         "codigo": "10581",
         "nome": "Valesul Porto Alegre - 626 Poa/Fátima (Via Br 116) (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "10,80",
+        "valor": "11,60",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11395,7 +11395,7 @@
         "codigo": "10583",
         "nome": "Valesul Porto Alegre - 505 Passo Do Hilário – Morada Do Vale (Ponte) (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,30",
+        "valor": "7,85",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11403,7 +11403,7 @@
         "codigo": "10584",
         "nome": "Valesul Porto Alegre - 503 Poa – Cachoeirinha/Morada Do Vale / Passo Hilário (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "10,10",
+        "valor": "10,80",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11411,7 +11411,7 @@
         "codigo": "10587",
         "nome": "Valesul Porto Alegre - 463 Poa – Cachoeirinha / V. Alegre / Garcêz (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "10,10",
+        "valor": "10,80",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11419,7 +11419,7 @@
         "codigo": "10588",
         "nome": "Valesul Porto Alegre - 462 Poa – Itacolomi / Morungava (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "13,80",
+        "valor": "14,85",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11427,7 +11427,7 @@
         "codigo": "10591",
         "nome": "Valesul Porto Alegre - 461 Morungava – Mínima (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,00",
+        "valor": "8,60",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11435,7 +11435,7 @@
         "codigo": "10592",
         "nome": "Valesul Porto Alegre - 133 Poa – Passo Da Figueira / Vila Elza / Salomé / Fernando Ferrari (Soul - 00002)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,80",
+        "valor": "9,45",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11443,7 +11443,7 @@
         "codigo": "10593",
         "nome": "Valesul Porto Alegre - 132 Poa – Alvorada / Vila Americana/ Jd. Algarve / Jd. Aparecida / Stella Maris (Soul - 00002)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,75",
+        "valor": "8,30",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11451,7 +11451,7 @@
         "codigo": "10594",
         "nome": "Valesul Porto Alegre - 116 Sarandi – Vila Elza (Soul - 00002)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,15",
+        "valor": "7,70",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11459,7 +11459,7 @@
         "codigo": "10595",
         "nome": "Valesul Porto Alegre - 115 Alvorada – Dist. Ind. Cachoeirinha (Soul - 00002)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,00",
+        "valor": "8,60",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11467,7 +11467,7 @@
         "codigo": "10596",
         "nome": "Valesul Porto Alegre - 114 Poa – Estância Grande (Soul - 00002)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,80",
+        "valor": "9,45",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11475,7 +11475,7 @@
         "codigo": "10597",
         "nome": "Valesul Porto Alegre - 113 Alvorada – Executivo (Semi-Direto) (Soul - 00002)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "10,90",
+        "valor": "11,70",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11483,7 +11483,7 @@
         "codigo": "10598",
         "nome": "Valesul Porto Alegre - 112 Vila Elza – Executivo (Soul - 00002)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "12,10",
+        "valor": "13,00",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11491,7 +11491,7 @@
         "codigo": "10599",
         "nome": "Valesul Porto Alegre - 715 Rotas Gm Executivas (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "26,75",
+        "valor": "32,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11499,7 +11499,7 @@
         "codigo": "10600",
         "nome": "Valesul Porto Alegre - 712 Glorinha – Gravataí (Semi-Direto) (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,65",
+        "valor": "9,30",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11515,7 +11515,7 @@
         "codigo": "10604",
         "nome": "Valesul Porto Alegre - 313 Gravataí – Ponte (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,40",
+        "valor": "7,95",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11523,7 +11523,7 @@
         "codigo": "10605",
         "nome": "Valesul Porto Alegre - 312 Poa – Gravataí Free Way (Semi-Direto) (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "21,70",
+        "valor": "23,30",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11531,7 +11531,7 @@
         "codigo": "10606",
         "nome": "Valesul Porto Alegre - 311 Poa – Gravataí (Semi-Direto) (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "21,70",
+        "valor": "23,30",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11539,7 +11539,7 @@
         "codigo": "10607",
         "nome": "Valesul Porto Alegre - 310 Poa – Gravataí / Glorinha - Cachoeirinha (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "12,75",
+        "valor": "13,65",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11555,7 +11555,7 @@
         "codigo": "10609",
         "nome": "Valesul Porto Alegre - 307 Gravataí – Iguatemi (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "17,70",
+        "valor": "19,00",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11563,7 +11563,7 @@
         "codigo": "10610",
         "nome": "Valesul Porto Alegre - 306 Gravataí – Canoas (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "11,10",
+        "valor": "11,90",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11603,7 +11603,7 @@
         "codigo": "10615",
         "nome": "Valesul Porto Alegre - 257 Seletivo Viamão – Poa (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "21,80",
+        "valor": "18,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11611,7 +11611,7 @@
         "codigo": "10616",
         "nome": "Valesul Porto Alegre - 902 Poa – Novo Hamburgo (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,45",
+        "valor": "9,05",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11619,7 +11619,7 @@
         "codigo": "10617",
         "nome": "Valesul Porto Alegre - 907 Novo Hamburgo – Esteio / Sapucaia (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,10",
+        "valor": "7,65",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11627,7 +11627,7 @@
         "codigo": "10618",
         "nome": "Valesul Porto Alegre - 117 Alvorada – Viamão (Soul - 00002)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "6,95",
+        "valor": "7,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11643,7 +11643,7 @@
         "codigo": "10620",
         "nome": "Valesul Porto Alegre - 520 Alimentadora Vicasa – Trensurb (Vicasa - 00003)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,10",
+        "valor": "7,65",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11667,7 +11667,7 @@
         "codigo": "10626",
         "nome": "Valesul Porto Alegre - 609 Guaíba – Bom Retiro (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,30",
+        "valor": "8,90",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11675,7 +11675,7 @@
         "codigo": "10627",
         "nome": "Valesul Porto Alegre - 509 Cachoeirinha – Alvorada/Canoas (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "9,10",
+        "valor": "9,75",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11683,7 +11683,7 @@
         "codigo": "10630",
         "nome": "Valesul Porto Alegre - 627 Poa – Eldorado do Sul Via Me Semi-Direto (Rio Guaíba - 00007)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "9,50",
+        "valor": "10,00",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11707,7 +11707,7 @@
         "codigo": "10633",
         "nome": "Valesul Porto Alegre - 913 Poa – Sapucaia (Semi-Direto) (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "12,90",
+        "valor": "13,85",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11723,7 +11723,7 @@
         "codigo": "10636",
         "nome": "Valesul Porto Alegre - 521 Poa - Canoas (Praia de Belas) - Executivo (Transcal- 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "14,95",
+        "valor": "16,05",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11731,7 +11731,7 @@
         "codigo": "10638",
         "nome": "Valesul Porto Alegre - 520/1514 Alimentadora Transcal / Trensurb (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "7,10",
+        "valor": "7,65",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11747,7 +11747,7 @@
         "codigo": "15341",
         "nome": "Valesul Porto Alegre - 904 Poa – São Leopoldo (Central – 00022)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,45",
+        "valor": "9,05",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11755,7 +11755,7 @@
         "codigo": "15785",
         "nome": "Valesul Porto Alegre - 709 Gravataí - Cachoeirinha (Semi-Direto) (Sogil – 00001)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "11,10",
+        "valor": "11,95",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11763,7 +11763,7 @@
         "codigo": "15786",
         "nome": "Valesul Porto Alegre - 235 Rural 5 = Pimenta / Praia das Pombas / Itapuã - Centro Viamão (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "11,30",
+        "valor": "12,95",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11771,7 +11771,7 @@
         "codigo": "15787",
         "nome": "Valesul Porto Alegre - 265 Viamão Capororoca P.32 / São Jorge - Poa Bento, Ipiranga, Rodoviária (Viamão / Vialeste - 00012)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "6,75",
+        "valor": "7,25",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11779,7 +11779,7 @@
         "codigo": "16068",
         "nome": "Valesul Porto Alegre - 466 Morada do Vale 1, 2 e 3 Executivo via Anchieta (Transcal - 00004)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "18,85",
+        "valor": "20,25",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11787,7 +11787,7 @@
         "codigo": "19544",
         "nome": "Valesul Porto Alegre - 234 Rural 4",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "8,70",
+        "valor": "10,00",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11795,7 +11795,7 @@
         "codigo": "19647",
         "nome": "Valesul Porto Alegre - 319 Poa – Santo Antônio (Sogil RS-030)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "32,10",
+        "valor": "34,45",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -11803,7 +11803,7 @@
         "codigo": "19648",
         "nome": "Valesul Porto Alegre - 343 Poa – Santo Antônio (semidireto) (Sogil RS-030)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "37,30",
+        "valor": "40,05",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -22472,6 +22472,14 @@
         "cidade": "Sorocaba"
     },
     {
+        "codigo": "19735",
+        "nome": "Utile Urbano - Cartão Municipal Cruzeiro",
+        "fornecedor": "Utile - Cruzeiro",
+        "valor": "4,50",
+        "uf": "SP",
+        "cidade": "Cruzeiro"
+    },
+    {
         "codigo": "8377",
         "nome": "Utile Urbano - Cartão Municipal Lorena",
         "fornecedor": "Utile Urbano",
@@ -23619,7 +23627,7 @@
         "codigo": "10124",
         "nome": "Viação Jacareí - Cartão Igaratá X Jacareí (via Dom Predo II) (Linha 5104)",
         "fornecedor": "Viação Jacareí",
-        "valor": "7,85",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
