@@ -219,7 +219,7 @@
         "codigo": "9324",
         "nome": "Internacional Travessias - Cartão São Joaquim X Bom Despacho",
         "fornecedor": "Internacional Travessias",
-        "valor": "6,90",
+        "valor": "7,20",
         "uf": "BA",
         "cidade": "Salvador"
     },
@@ -6499,7 +6499,7 @@
         "codigo": "15490",
         "nome": "Sim - Cartão Municipal Castanhal",
         "fornecedor": "Sim",
-        "valor": "3,50",
+        "valor": "4,65",
         "uf": "PA",
         "cidade": "Castanhal"
     },
@@ -7755,7 +7755,7 @@
         "codigo": "2849",
         "nome": "Princesa do Norte - Cartão Marília X Tupã",
         "fornecedor": "Princesa do Norte",
-        "valor": "23,25",
+        "valor": "23,30",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -9354,7 +9354,7 @@
     {
         "codigo": "10464",
         "nome": "Expresso Oceano (PIX) - Cartão Bem Card - Natal X Extremoz",
-        "fornecedor": "Expresso Oceano - Transp Guanabara - PIX",
+        "fornecedor": "Expresso Oceano - Transp Guanabara",
         "valor": "6,00",
         "uf": "RN",
         "cidade": "São Gonçalo do Amarante"
@@ -9362,7 +9362,7 @@
     {
         "codigo": "10465",
         "nome": "Expresso Oceano (PIX) - Cartão Bem Card - Ceará Mirim (Cidade das Dunas ou Oceano)",
-        "fornecedor": "Expresso Oceano - Transp Guanabara - PIX",
+        "fornecedor": "Expresso Oceano - Transp Guanabara",
         "valor": "8,00",
         "uf": "RN",
         "cidade": "São Gonçalo do Amarante"
@@ -17795,7 +17795,7 @@
         "codigo": "15330",
         "nome": "Expresso de Prata - Cartão Bauru X Bocaina",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "26,00",
+        "valor": "26,10",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17867,7 +17867,7 @@
         "codigo": "16180",
         "nome": "Expresso de Prata - Cartão Bauru X Jaú",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "20,20",
+        "valor": "20,25",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -19747,7 +19747,7 @@
         "codigo": "2350",
         "nome": "Pássaro Marron - Cartão Caraguatatuba X Bairro Alto",
         "fornecedor": "Pássaro Marron - (Caragua - Bairro Alto)",
-        "valor": "10,10",
+        "valor": "10,05",
         "uf": "SP",
         "cidade": "Guarulhos"
     },
@@ -20003,7 +20003,7 @@
         "codigo": "1414",
         "nome": "Litorânea - Cartão Caraguatatuba X Km 66 - Sp99 Ant 190 (Rod) / São Paulo",
         "fornecedor": "Pássaro Marron - Seccionado (Caragua - Km 66)",
-        "valor": "13,50",
+        "valor": "14,05",
         "uf": "SP",
         "cidade": "Guarulhos"
     },
@@ -20171,7 +20171,7 @@
         "codigo": "1461",
         "nome": "Litorânea - Cartão Km 66 - Sp99 Ant.190 X Paraibuna (Rod) / São Paulo",
         "fornecedor": "Pássaro Marron - Seccionado (Km 66 - Paraib)",
-        "valor": "7,80",
+        "valor": "8,15",
         "uf": "SP",
         "cidade": "Guarulhos"
     },
@@ -21955,7 +21955,7 @@
         "codigo": "5505",
         "nome": "Sou - Peruíbe - Cartão Municipal Peruíbe",
         "fornecedor": "Sou - Peruíbe",
-        "valor": "4,50",
+        "valor": "4,75",
         "uf": "SP",
         "cidade": "Peruibe"
     },
@@ -23259,7 +23259,7 @@
         "codigo": "9013",
         "nome": "Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "15,80",
+        "valor": "15,85",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23267,7 +23267,7 @@
         "codigo": "9014",
         "nome": "Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "14,60",
+        "valor": "14,65",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23307,7 +23307,7 @@
         "codigo": "9019",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "16,40",
+        "valor": "16,45",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23315,7 +23315,7 @@
         "codigo": "9020",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "15,20",
+        "valor": "15,25",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23363,7 +23363,7 @@
         "codigo": "9026",
         "nome": "Viação Itaqueri - Cartão São Pedro X Piracicaba (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "20,25",
+        "valor": "20,30",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23371,7 +23371,7 @@
         "codigo": "9027",
         "nome": "Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "19,05",
+        "valor": "19,10",
         "uf": "SP",
         "cidade": "Piracicaba"
     },

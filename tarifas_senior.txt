@@ -26,7 +26,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15894;Conecta - Camaçari - Cartão Municipal Camaçari;Conecta - Camaçari;5,00;5;10;BA;Camaçari;21/07/2025
 15940;Conecta - Camaçari - Cartão Costa 1;Conecta - Camaçari;5,30;5;10;BA;Camaçari;28/07/2025
 15941;Conecta - Camaçari - Cartão Costa 2;Conecta - Camaçari;7,00;5;10;BA;Camaçari;28/07/2025
-9324;Internacional Travessias - Cartão São Joaquim X Bom Despacho;Internacional Travessias;6,90;5;10;BA;Salvador;07/08/2025
+9324;Internacional Travessias - Cartão São Joaquim X Bom Despacho;Internacional Travessias;7,20;5;10;BA;Salvador;10/06/2026
 1855;Metropasse - Cartão Metropasse;Metropasse;0,01;5;10;BA;Salvador;10/06/2022
 9481;Metropasse - Cartão A857I - Arembepe X Terminal Mussurunga;Metropasse;10,40;5;10;BA;Salvador;01/04/2024
 9482;Metropasse - Cartão A0857A - Arembepe X Terminal Aeroporto;Metropasse;7,40;5;10;BA;Salvador;01/04/2024
@@ -811,7 +811,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16054;Pra Já - BRT Metropolitano Belém;Pra Já;4,60;5;10;PA;Ananindeua;19/11/2025
 392;Setransbel - Cartão Municipal Belém do Pará;Setransbel;4,60;3;15;PA;Belém;14/04/2025
 5251;Setransbel - Cartão Mosqueiro X São Brás;Setransbel;4,60;3;15;PA;Belém;11/03/2026
-15490;Sim - Cartão Municipal Castanhal;Sim;3,50;5;10;PA;Castanhal;11/12/2024
+15490;Sim - Cartão Municipal Castanhal;Sim;4,65;5;10;PA;Castanhal;10/06/2026
 10329;Startec - Cartão Municipal Santarém;Startec;4,80;5;10;PA;Santarém;09/01/2026
 10334;Startec - Cartão Intermunicipal Alter do chão;Startec;5,90;5;10;PA;Santarém;09/01/2026
 15615;Transportes Caliman - Cartão Municipal Paragominas;Transportes Caliman - Novo Sistema;5,80;5;10;PA;Paragominas;06/02/2026
@@ -968,7 +968,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15991;Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque);Piraquara;5,50;5;10;SP;Piraquara;19/08/2025
 15764;Prefeitura de Campo Largo - Cartão Municipal Campo Largo;Prefeitura de Campo Largo;5,80;5;10;PR;Campo Largo;12/06/2025
 748;Princesa do Norte - Cartão Marília X Pompéia;Princesa do Norte;10,15;5;10;SP;Bauru;08/07/2025
-2849;Princesa do Norte - Cartão Marília X Tupã;Princesa do Norte;23,25;5;10;SP;Bauru;08/07/2025
+2849;Princesa do Norte - Cartão Marília X Tupã;Princesa do Norte;23,30;5;10;SP;Bauru;10/06/2026
 2852;Princesa do Norte - Cartão Marília X Quintana;Princesa do Norte;15,40;5;10;SP;Bauru;08/07/2025
 2853;Princesa do Norte - Cartão Pompéia X Oriente;Princesa do Norte;7,85;5;10;SP;Bauru;06/11/2025
 2860;Princesa do Norte - Cartão Pompéia X Paulópolis;Princesa do Norte;5,60;5;10;SP;Bauru;06/11/2025
@@ -1168,8 +1168,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15492;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa B);Viação Senhor do Bonfim - PIX;7,00;3;10;RJ;Angra dos Reis;09/03/2026
 15493;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa C);Viação Senhor do Bonfim - PIX;9,15;3;10;RJ;Angra dos Reis;09/03/2026
 6837;Cidade do Sol - Cartão Mossoró Municipal;Cidade do Sol;3,30;5;10;RN;Mossoró;01/01/2017
-10464;Expresso Oceano (PIX) - Cartão Bem Card - Natal X Extremoz;Expresso Oceano - Transp Guanabara - PIX;6,00;3;10;RN;São Gonçalo do Amarante;24/04/2026
-10465;Expresso Oceano (PIX) - Cartão Bem Card - Ceará Mirim (Cidade das Dunas ou Oceano);Expresso Oceano - Transp Guanabara - PIX;8,00;3;10;RN;São Gonçalo do Amarante;24/04/2026
+10464;Expresso Oceano (PIX) - Cartão Bem Card - Natal X Extremoz;Expresso Oceano - Transp Guanabara;6,00;3;10;RN;São Gonçalo do Amarante;24/04/2026
+10465;Expresso Oceano (PIX) - Cartão Bem Card - Ceará Mirim (Cidade das Dunas ou Oceano);Expresso Oceano - Transp Guanabara;8,00;3;10;RN;São Gonçalo do Amarante;24/04/2026
 10869;Nubus - Cidadão - Cartão Municipal Natal;Nubus - Cidadão;5,20;5;10;RN;Natal;13/05/2026
 1243;Nubus (Seturn) - Cartão Natal Card Urbano;Seturn;5,20;5;10;RN;Natal;24/04/2026
 19537;Seturn - Cartão Seturn;Seturn;0,01;5;10;RN;Natal;03/03/2026
@@ -2223,7 +2223,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15189;Expresso de Prata - Cartão Boa Esperança X Araraquara;Expresso de Prata - Eletrônico;8,95;5;10;SP;Bauru;08/07/2025
 15200;Expresso de Prata - Cartão Bento de Abreu X Araçatuba;Expresso de Prata - Eletrônico;12,55;5;10;SP;Bauru;08/07/2025
 15206;Expresso de Prata - Cartão Dourado X São Carlos;Expresso de Prata - Eletrônico;14,20;5;10;SP;Bauru;08/07/2025
-15330;Expresso de Prata - Cartão Bauru X Bocaina;Expresso de Prata - Eletrônico;26,00;5;10;SP;Bauru;08/07/2025
+15330;Expresso de Prata - Cartão Bauru X Bocaina;Expresso de Prata - Eletrônico;26,10;5;10;SP;Bauru;10/06/2026
 15351;Expresso de Prata - Cartão Bauru X Bariri;Expresso de Prata - Eletrônico;23,60;5;10;SP;Bauru;08/07/2025
 15420;Expresso de Prata - Cartão Bocaina X Jaú;Expresso de Prata - Eletrônico;7,95;5;10;SP;Bauru;08/07/2025
 15427;Expresso de Prata - Cartão Pederneiras X Jaú;Expresso de Prata - Eletrônico;10,10;5;10;SP;Bauru;08/07/2025
@@ -2232,7 +2232,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15660;Expresso de Prata - Cartão Bauru X Arealva (Linha 21);Expresso de Prata - Eletrônico;12,90;5;10;SP;Bauru;08/07/2025
 16172;Expresso de Prata - Cartão Bauru X Avaí;Expresso de Prata - Eletrônico;12,40;5;10;SP;Bauru;29/10/2025
 16173;Expresso de Prata - Cartão Bauru X Iacanga;Expresso de Prata - Eletrônico;14,20;5;10;SP;Bauru;07/10/2025
-16180;Expresso de Prata - Cartão Bauru X Jaú;Expresso de Prata - Eletrônico;20,20;5;10;SP;Bauru;09/10/2025
+16180;Expresso de Prata - Cartão Bauru X Jaú;Expresso de Prata - Eletrônico;20,25;5;10;SP;Bauru;10/06/2026
 16198;Expresso de Prata - Cartão Bauru X Piratininga (Rural);Expresso de Prata - Eletrônico;10,05;5;10;SP;Bauru;15/10/2025
 10384;Expresso Fênix - Águas de Lindóia - Cartão Municipal Águas de Lindóia;Expresso Fênix - Águas de Lindóia;4,20;5;10;SP;Águas de Lindoia;08/12/2025
 6167;Expresso Fênix - Cartão Pedreira Urbano;Expresso Fênix - Pedreira;4,50;5;10;SP;Pedreira;01/02/2023
@@ -2467,7 +2467,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15362;Produto Mogi;PassesMogi;5,30;5;10;SP;Mogi das Cruzes;10/11/2025
 2355;Pássaro Marron - Cartão Cachoeira Pta. X Cruzeiro;Pássaro Marron - (Cach Pta X Cruz);6,25;5;10;SP;Guarulhos;08/01/2026
 2767;Pássaro Marron - Cartão Caçapava X Taubaté (Suburbano);Pássaro Marron - (Caç - Taub);8,20;5;10;SP;Guarulhos;08/01/2026
-2350;Pássaro Marron - Cartão Caraguatatuba X Bairro Alto;Pássaro Marron - (Caragua - Bairro Alto);10,10;5;10;SP;Guarulhos;08/01/2026
+2350;Pássaro Marron - Cartão Caraguatatuba X Bairro Alto;Pássaro Marron - (Caragua - Bairro Alto);10,05;5;10;SP;Guarulhos;10/06/2026
 2356;Pássaro Marron - Cartão Cruzeiro X Lavrinhas;Pássaro Marron - (Cruz - Lavrinhas);6,45;5;10;SP;Guarulhos;08/01/2026
 6014;Pássaro Marron - Cartão Guaratinguetá X Roseira;Pássaro Marron - (Guara - Roseira);6,35;5;10;SP;Guarulhos;08/01/2026
 2357;Pássaro Marron - Cartão Guaratinguetá X Aparecida (Urbano);Pássaro Marron - (Guarat - Ap );4,55;5;10;SP;SÃO PAULO;08/01/2026
@@ -2499,7 +2499,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2785;Pássaro Marron - Cartão Campos do Jordão X São Bento do Sapucaí;Pássaro Marron - Seccionado (Camp. do Jordão - S. B. do Sapucaí);19,30;5;10;SP;Guarulhos;08/01/2026
 2788;Pássaro Marron - Cartão Campos do Jordão X Taubaté;Pássaro Marron - Seccionado (Campos dos Jordão - Taub);19,55;5;10;SP;Guarulhos;08/01/2026
 9703;Pássaro Marron - Seccionado (Campos Jord. - Sto.Ant.Pinhal) - Cartão Campos do Jordão X Santo Antonio do Pinhal;Pássaro Marron - Seccionado (Campos Jord. - Sto.Ant.Pinhal);8,15;5;10;SP;Guarulhos;08/01/2026
-1414;Litorânea - Cartão Caraguatatuba X Km 66 - Sp99 Ant 190 (Rod) / São Paulo;Pássaro Marron - Seccionado (Caragua - Km 66);13,50;5;10;SP;Guarulhos;06/01/2025
+1414;Litorânea - Cartão Caraguatatuba X Km 66 - Sp99 Ant 190 (Rod) / São Paulo;Pássaro Marron - Seccionado (Caragua - Km 66);14,05;5;10;SP;Guarulhos;10/06/2026
 1423;Pássaro Marron - Cartão Caraguatatuba X Paraibuna (Rod) / São Paulo;Pássaro Marron - Seccionado (Caragua - Paraib);25,50;5;10;SP;Guarulhos;08/01/2026
 1427;Pássaro Marron - Cartão Caraguatatuba X São José dos Campos;Pássaro Marron - Seccionado (Caragua - S.J. dos Campos);43,40;5;10;SP;Guarulhos;08/01/2026
 2753;Pássaro Marron - Cartão São Sebastião X Caraguatatuba;Pássaro Marron - Seccionado (Caragua - S.J. dos Campos);12,60;5;10;SP;Guarulhos;08/01/2026
@@ -2520,7 +2520,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3838;Pássaro Marron - Cartão Guaratinguetá X Roseira - Rodoviário;Pássaro Marron - Seccionado (Guarat - Ros);6,05;5;10;SP;Guarulhos;15/01/2025
 2824;Pássaro Marron - Cartão Guaratinguetá X Cachoeira Paulista;Pássaro Marron - Seccionado (Guarat X Cach Paulista);12,00;5;10;SP;Guarulhos;08/01/2026
 2834;Pássaro Marron - Cartão Guaratinguetá X São José dos Campos;Pássaro Marron - Seccionado (Guarat X S.J. dos Campos);36,40;5;10;SP;Guarulhos;21/05/2026
-1461;Litorânea - Cartão Km 66 - Sp99 Ant.190 X Paraibuna (Rod) / São Paulo;Pássaro Marron - Seccionado (Km 66 - Paraib);7,80;5;10;SP;Guarulhos;06/01/2025
+1461;Litorânea - Cartão Km 66 - Sp99 Ant.190 X Paraibuna (Rod) / São Paulo;Pássaro Marron - Seccionado (Km 66 - Paraib);8,15;5;10;SP;Guarulhos;10/06/2026
 1466;Pássaro Marron - Cartão Km 66 X São José dos Campos;Pássaro Marron - Seccionado (Km66 - S.J. dos Campos);24,10;5;10;SP;Guarupas;08/01/2026
 9066;Pássaro Marron - Cartão Lorena X Areias;Pássaro Marron - Seccionado (Loren - Areias);24,85;5;10;SP;Guarulhos;08/01/2026
 9067;Pássaro Marron - Cartão Lorena X Caçapava;Pássaro Marron - Seccionado (Loren - Caçap);34,00;5;10;SP;Guarulhos;08/01/2026
@@ -2743,7 +2743,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8614;Sou - Mogi - Cartão Mogi Mirim X Mogi Guaçu;Sou - Mogi;7,57;5;10;SP;Mogi Guaçu;07/07/2025
 8615;Sou - Mogi - Cartão Mogi Guaçu X Estiva Gerbi;Sou - Mogi;7,57;5;10;SP;Mogi Guaçu;07/07/2025
 9083;Sou - Mogi Guaçu - Cartão Municipal Mogi Guaçu;Sou - Mogi;5,30;5;10;SP;Mogi Guaçu;19/10/2021
-5505;Sou - Peruíbe - Cartão Municipal Peruíbe;Sou - Peruíbe;4,50;5;10;SP;Peruibe;05/04/2023
+5505;Sou - Peruíbe - Cartão Municipal Peruíbe;Sou - Peruíbe;4,75;5;10;SP;Peruibe;10/06/2026
 10419;Sou Presidente Prudente - Cartão Presidente Prudente Municipal;Sou - Presidente Prudente;5,00;5;10;SP;Presidente Prudente;09/10/2023
 10768;Sou Rio Claro - Cartão Municipal Rio Claro;Sou - Rio Claro;4,90;5;10;SP;Rio Claro;20/12/2023
 10651;Sou São Vicente - Cartão Municipal São Vicente;Sou - São Vicente;4,95;5;10;SP;São Vicente;13/01/2025
@@ -2906,21 +2906,21 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16183;Viação Bragança - QR-Code - Cartão Bragança Paulista X São Paulo (com seguro);Viação Bragança - QR-Code - Grupo Vida;49,60;5;10;SP;Santa Rita do Passa Quatro;14/10/2025
 2153;Viação Calvip - Cartão Cerquilho X Tietê;Viação Calvip;5,80;5;10;SP;Laranjal paulista;05/01/2026
 19532;Viação Cidade das Artes - Cartão Municipal Embu das Artes;Viação Cidade das Artes - PIX;5,80;5;10;SP;Itapecerica da Serra;26/02/2026
-9013;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;15,80;5;10;SP;Piracicaba;07/07/2025
-9014;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;14,60;5;10;SP;Piracicaba;07/07/2025
+9013;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;15,85;5;10;SP;Piracicaba;10/06/2026
+9014;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;14,65;5;10;SP;Piracicaba;10/06/2026
 9015;Viação Itaqueri - Cartão Águas de São Pedro X São Pedro (sem seguro);Viação Itaqueri - QR-Code;6,65;5;10;SP;Piracicaba;07/07/2025
 9016;Viação Itaqueri - Cartão Cerquilho X Piracicaba (com seguro);Viação Itaqueri - QR-Code;30,40;5;10;SP;Piracicaba;07/07/2025
 9017;Viação Itaqueri - Cartão Cerquilho X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;28,10;5;10;SP;Piracicaba;07/07/2025
 9018;Viação Itaqueri - Cartão Cerquilho X Tatuí (sem seguro);Viação Itaqueri - QR-Code;12,65;5;10;SP;Piracicaba;07/07/2025
-9019;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (com seguro);Viação Itaqueri - QR-Code;16,40;5;10;SP;Piracicaba;07/07/2025
-9020;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;15,20;5;10;SP;Piracicaba;07/07/2025
+9019;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (com seguro);Viação Itaqueri - QR-Code;16,45;5;10;SP;Piracicaba;10/06/2026
+9020;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;15,25;5;10;SP;Piracicaba;10/06/2026
 9021;Viação Itaqueri - Cartão Piracicaba X São Pedro (com seguro);Viação Itaqueri - QR-Code;21,45;5;10;SP;Piracicaba;07/07/2025
 9022;Viação Itaqueri - Cartão Piracicaba X São Pedro (sem seguro);Viação Itaqueri - QR-Code;20,25;5;10;SP;Piracicaba;07/07/2025
 9023;Viação Itaqueri - Cartão Piracicaba X Sítio Novo;Viação Itaqueri - QR-Code;12,05;5;10;SP;Piracicaba;07/07/2025
 9024;Viação Itaqueri - Cartão Piracicaba X Tietê (sem seguro);Viação Itaqueri - QR-Code;23,00;5;10;SP;Piracicaba;07/07/2025
 9025;Viação Itaqueri - Cartão São Pedro X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;6,60;5;10;SP;Piracicaba;07/07/2025
-9026;Viação Itaqueri - Cartão São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;20,25;5;10;SP;Piracicaba;07/07/2025
-9027;Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;19,05;5;10;SP;Piracicaba;07/07/2025
+9026;Viação Itaqueri - Cartão São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;20,30;5;10;SP;Piracicaba;10/06/2026
+9027;Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;19,10;5;10;SP;Piracicaba;10/06/2026
 9028;Viação Itaqueri - Cartão Sítio Novo X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;10,70;5;10;SP;Piracicaba;07/07/2025
 9029;Viação Itaqueri - Cartão Tatuí X Cerquilho (sem seguro);Viação Itaqueri - QR-Code;12,80;5;10;SP;Piracicaba;07/07/2025
 9030;Viação Itaqueri - Cartão Tietê X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;22,05;5;10;SP;Piracicaba;07/07/2025
