@@ -1168,10 +1168,26 @@
         "cidade": "Fortaleza"
     },
     {
+        "codigo": "19736",
+        "nome": "Sindiônibus - Juazeiro - Cartão Juazeiro (Cariri)",
+        "fornecedor": "Sindiônibus - Juazeiro",
+        "valor": "0,01",
+        "uf": "CE",
+        "cidade": "Fortaleza"
+    },
+    {
         "codigo": "2651",
         "nome": "Sindiônibus - Maracanaú - Cartão Urbana Maracanaú - Tipo G",
         "fornecedor": "Sindiônibus - Maracanau",
         "valor": "3,67",
+        "uf": "CE",
+        "cidade": "Fortaleza"
+    },
+    {
+        "codigo": "19737",
+        "nome": "Sindiônibus - Maracanaú - Cartão Maracanaú",
+        "fornecedor": "Sindiônibus - Maracanaú",
+        "valor": "0,01",
         "uf": "CE",
         "cidade": "Fortaleza"
     },
@@ -1252,6 +1268,14 @@
         "nome": "Sindiônibus - Urbano - Cartão Parangaba X Papicu (Aeroporto Linha 66)",
         "fornecedor": "Sindiônibus - Urbano",
         "valor": "3,40",
+        "uf": "CE",
+        "cidade": "Fortaleza"
+    },
+    {
+        "codigo": "19738",
+        "nome": "Sindiônibus - Urbano - Cartão Urbano",
+        "fornecedor": "Sindiônibus - Urbano",
+        "valor": "0,01",
         "uf": "CE",
         "cidade": "Fortaleza"
     },
@@ -14200,6 +14224,22 @@
         "cidade": "Ourinhos"
     },
     {
+        "codigo": "19449",
+        "nome": "BB Turismo - Cartão Municipal Barueri",
+        "fornecedor": "BB Turismo (Benfácil) - Barueri",
+        "valor": "6,10",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19450",
+        "nome": "BB Turismo - Cartão Barueri Integração",
+        "fornecedor": "BB Turismo (Benfácil) - Barueri",
+        "valor": "10,00",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
         "codigo": "19455",
         "nome": "Repasse BB Turismo - Cartão Municipal Barueri (Blacklist)",
         "fornecedor": "BB Turismo (Benfácil) - Barueri",
@@ -14244,6 +14284,22 @@
         "nome": "Repasse - BB Turismo - Cartão Barueri Integração (Blacklist)",
         "fornecedor": "BB Turismo (Benfácil) - Barueri",
         "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19451",
+        "nome": "BB Turismo - Cartão Municipal Itapevi",
+        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "valor": "6,10",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19452",
+        "nome": "BB Turismo - Cartão Itapevi Integração",
+        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "valor": "10,00",
         "uf": "SP",
         "cidade": "Barueri"
     },

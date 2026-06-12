@@ -145,7 +145,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6154;Sindiônibus - Juazeiro - Cartão Municipal Juazeiro (Cariri);Sindiônibus - Juazeiro;3,00;5;10;CE;Fortaleza;28/06/2023
 6155;Sindiônibus - Juazeiro - Cartão Intermunicipal Juazeiro (Cariri);Sindiônibus - Juazeiro;4,65;5;10;CE;Fortaleza;06/01/2026
 6593;Sindiônibus - Juazeiro - Cartão Missão Velha Juazeiro (Cariri);Sindiônibus - Juazeiro;8,00;5;10;CE;Fortaleza;15/04/2024
+19736;Sindiônibus - Juazeiro - Cartão Juazeiro (Cariri);Sindiônibus - Juazeiro;0,01;5;10;CE;Fortaleza;11/06/2026
 2651;Sindiônibus - Maracanaú - Cartão Urbana Maracanaú - Tipo G;Sindiônibus - Maracanau;3,67;5;10;CE;Fortaleza;08/09/2025
+19737;Sindiônibus - Maracanaú - Cartão Maracanaú;Sindiônibus - Maracanaú;0,01;5;10;CE;Fortaleza;11/06/2026
 1840;Sindiônibus - Metropolitano - Cartão Tipo F - Metropolitano (2° Anel);Sindiônibus - Metropolitano;5,95;5;10;CE;Fortaleza;16/07/2022
 2082;Sindiônibus - Metropolitano - Cartão Tipo E - Metropolitano (1° Anel);Sindiônibus - Metropolitano;4,80;5;10;CE;Fortaleza;16/07/2022
 2655;Sindiônibus - Metropolitano - Cartão Tipo H - Metropolitano (3° Anel);Sindiônibus - Metropolitano;8,15;5;10;CE;Fortaleza;16/07/2022
@@ -156,6 +158,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16042;Sindiônibus - Metropolitano - Cartão Tipo S;Sindiônibus - Metropolitano;0,01;5;10;CE;Fortaleza;27/08/2025
 301;Sindiônibus - Urbano - Cartão Urbano Fortaleza;Sindiônibus - Urbano;5,40;5;10;CE;Fortaleza;06/01/2026
 2367;Sindiônibus - Urbano - Cartão Parangaba X Papicu (Aeroporto Linha 66);Sindiônibus - Urbano;3,40;5;10;CE;Fortaleza;15/01/2022
+19738;Sindiônibus - Urbano - Cartão Urbano;Sindiônibus - Urbano;0,01;5;10;CE;Fortaleza;11/06/2026
 459;BRB Mobilidade DF Trans - Cartão BRB Mobilidade (DF Trans);BRB Mobilidade - (DF Trans);0,01;5;10;DF;Brasília;01/01/2000
 7077;BRB Mobilidade DF Trans - Cartão Tarifa 1;BRB Mobilidade - (DF Trans);2,70;5;10;DF;Brasília;13/01/2020
 7078;BRB Mobilidade DF Trans - Cartão Tarifa 2;BRB Mobilidade - (DF Trans);3,80;5;10;DF;Brasília;13/01/2020
@@ -1774,12 +1777,16 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10398;Auto Viação Ouro Verde - (Sumaré) - Cartão CIT Sumaré Urbano;Auto Viação Ouro Verde - Sumaré;5,45;5;10;SP;Sumaré;03/10/2023
 8127;Auto Viação Suzano (Catanduva) - Cartão Municipal Catanduva;Auto Viação Suzano (Catanduva);4,00;5;10;SP;Catanduva;03/01/2020
 15696;Avoa - Cartão Municipal Ourinhos;Avoa - Novo Sistema;4,50;5;10;SP;Ourinhos;02/05/2025
+19449;BB Turismo - Cartão Municipal Barueri;BB Turismo (Benfácil) - Barueri;6,10;5;10;SP;Barueri;05/01/2026
+19450;BB Turismo - Cartão Barueri Integração;BB Turismo (Benfácil) - Barueri;10,00;5;10;SP;Barueri;05/01/2026
 19455;Repasse BB Turismo - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;18,30;5;10;SP;Barueri;06/01/2026
 19457;Repasse BB Turismo - Cartão Barueri Integração (Blacklist);BB Turismo (Benfácil) - Barueri;18,30;5;10;SP;Barueri;06/01/2026
 19651;BB Turismo - Cartão Municipal Barueri;BB Turismo (Benfácil) - Barueri;6,10;5;10;SP;Barueri;12/05/2026
 19652;BB Turismo - Cartão Barueri Integração;BB Turismo (Benfácil) - Barueri;10,00;5;10;SP;Barueri;12/05/2026
 19663;Repasse - BB Turismo - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;18/05/2026
 19665;Repasse - BB Turismo - Cartão Barueri Integração (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;18/05/2026
+19451;BB Turismo - Cartão Municipal Itapevi;BB Turismo (Benfácil) - Itapevi;6,10;5;10;SP;Barueri;05/01/2026
+19452;BB Turismo - Cartão Itapevi Integração;BB Turismo (Benfácil) - Itapevi;10,00;5;10;SP;Barueri;05/01/2026
 19459;Repasse BB Turismo - Cartão Municipal Itapevi (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026
 19461;Repasse BB Turismo - Cartão Itapevi Integração (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026
 19653;BB Turismo - Cartão Municipal Itapevi;BB Turismo (Benfácil) - Itapevi;6,10;5;10;SP;Barueri;12/05/2026
