@@ -80,14 +80,6 @@
         "cidade": "Manaus"
     },
     {
-        "codigo": "15646",
-        "nome": "CTMAC - Cartão Municipal Macapá",
-        "fornecedor": "CTMAC",
-        "valor": "3,70",
-        "uf": "AP",
-        "cidade": "Macapá"
-    },
-    {
         "codigo": "381",
         "nome": "Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá",
         "fornecedor": "Setap - Intermunicipal",
@@ -6763,7 +6755,7 @@
         "codigo": "3954",
         "nome": "AETPC - Cartão Municipal Caruaru",
         "fornecedor": "AETPC",
-        "valor": "4,80",
+        "valor": "5,00",
         "uf": "PE",
         "cidade": "Caruaru"
     },
@@ -8555,7 +8547,7 @@
         "codigo": "8853",
         "nome": "Riocard (Semove) - Riocard Bilhete Único (Ônibus + Metrô²)",
         "fornecedor": "Riocard (Semove)",
-        "valor": "8,25",
+        "valor": "8,80",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -8611,7 +8603,7 @@
         "codigo": "8860",
         "nome": "Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Micro-Ônibus",
         "fornecedor": "Riocard (Semove)",
-        "valor": "4,30",
+        "valor": "4,45",
         "uf": "RJ",
         "cidade": "Rio de Janeiro"
     },
@@ -10027,7 +10019,7 @@
         "codigo": "15134",
         "nome": "Expresso São José - Cartão Capão da Canoa X Morro Alto",
         "fornecedor": "Expresso São José",
-        "valor": "9,60",
+        "valor": "10,35",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10347,7 +10339,7 @@
         "codigo": "8668",
         "nome": "Fátima Transportes - Cartão Boa Vista X Porto Garibaldi Interm. (sem seguro)",
         "fornecedor": "Fátima Transportes",
-        "valor": "8,60",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10371,7 +10363,7 @@
         "codigo": "8671",
         "nome": "Fátima Transportes - Cartão Esquina da Sorte (Porto Batista) X Porto Alegre (sem seguro)",
         "fornecedor": "Fátima Transportes",
-        "valor": "20,20",
+        "valor": "21,20",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10379,7 +10371,7 @@
         "codigo": "8672",
         "nome": "Fátima Transportes - Cartão Gen. Neto X Porto Garibaldi Iterm (sem seguro)",
         "fornecedor": "Fátima Transportes",
-        "valor": "11,25",
+        "valor": "12,05",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10395,7 +10387,7 @@
         "codigo": "8674",
         "nome": "Fátima Transportes - Cartão Porto Alegre X Boa Vista (sem seguro) (Metroplan)",
         "fornecedor": "Fátima Transportes",
-        "valor": "20,20",
+        "valor": "21,70",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10451,7 +10443,7 @@
         "codigo": "8681",
         "nome": "Fátima Transportes - Cartão Triunfo X Porto Alegre (Metroplan)",
         "fornecedor": "Fátima Transportes",
-        "valor": "30,30",
+        "valor": "32,55",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10459,7 +10451,7 @@
         "codigo": "8682",
         "nome": "Fátima Transportes - Cartão Triunfo X Porto Garibaldi Interm. (sem seguro) (Metroplan)",
         "fornecedor": "Fátima Transportes",
-        "valor": "15,15",
+        "valor": "16,25",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10475,7 +10467,7 @@
         "codigo": "9040",
         "nome": "Fátima Transportes - Cartão Boa Vista X Canoas",
         "fornecedor": "Fátima Transportes",
-        "valor": "13,60",
+        "valor": "14,60",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10483,7 +10475,7 @@
         "codigo": "9054",
         "nome": "Fátima Transportes - Cartão Vendinha X Porto Garibaldi (com seguro)",
         "fornecedor": "Fátima Transportes",
-        "valor": "9,40",
+        "valor": "10,00",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10515,7 +10507,7 @@
         "codigo": "9149",
         "nome": "Fátima Transportes - Cartão General Neto X Triunfo (sem seguro)",
         "fornecedor": "Fátima Transportes",
-        "valor": "8,60",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10547,7 +10539,7 @@
         "codigo": "10859",
         "nome": "Fátima Transportes - Cartão Santa Rita X Porto Alegre",
         "fornecedor": "Fátima Transportes",
-        "valor": "10,65",
+        "valor": "11,45",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10555,7 +10547,7 @@
         "codigo": "10860",
         "nome": "Fátima Transportes - Cartão Santa Rita X Canoas",
         "fornecedor": "Fátima Transportes",
-        "valor": "7,45",
+        "valor": "8,00",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10579,7 +10571,7 @@
         "codigo": "15701",
         "nome": "Fátima Transportes - Cartão Triunfo X Canoas",
         "fornecedor": "Fátima Transportes",
-        "valor": "23,70",
+        "valor": "25,45",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -10603,7 +10595,7 @@
         "codigo": "15170",
         "nome": "Fátima Transportes - Cartão Mínima Intermunicipal",
         "fornecedor": "Fátima Transportes - Esteio",
-        "valor": "7,10",
+        "valor": "7,65",
         "uf": "RS",
         "cidade": "Esteio"
     },
@@ -10611,7 +10603,7 @@
         "codigo": "15172",
         "nome": "Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia",
         "fornecedor": "Fátima Transportes - Esteio",
-        "valor": "8,45",
+        "valor": "9,05",
         "uf": "RS",
         "cidade": "Esteio"
     },
@@ -10627,7 +10619,7 @@
         "codigo": "15174",
         "nome": "Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto)",
         "fornecedor": "Fátima Transportes - Esteio",
-        "valor": "13,00",
+        "valor": "13,95",
         "uf": "RS",
         "cidade": "Esteio"
     },
@@ -10835,7 +10827,7 @@
         "codigo": "2520",
         "nome": "Santa Ignes - Cartão Municipal São Borja",
         "fornecedor": "Santa Ignes",
-        "valor": "4,80",
+        "valor": "5,00",
         "uf": "RS",
         "cidade": "São Borja"
     },
@@ -14288,6 +14280,22 @@
         "cidade": "Barueri"
     },
     {
+        "codigo": "19739",
+        "nome": "Repasse - Cartão Municipal Barueri (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Barueri",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19741",
+        "nome": "Repasse - Cartão Barueri Integração (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Barueri",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
         "codigo": "19451",
         "nome": "BB Turismo - Cartão Municipal Itapevi",
         "fornecedor": "BB Turismo (Benfácil) - Itapevi",
@@ -14346,6 +14354,22 @@
     {
         "codigo": "19669",
         "nome": "Repasse - BB Turismo - Cartão Itapevi Integração (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19743",
+        "nome": "Repasse - Cartão Municipal Itapevi (Blacklist)",
+        "fornecedor": "BB Turismo (Benfácil) - Itapevi",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19745",
+        "nome": "Repasse - Cartão Itapevi Integração (Blacklist)",
         "fornecedor": "BB Turismo (Benfácil) - Itapevi",
         "valor": "24,40",
         "uf": "SP",
@@ -22546,14 +22570,6 @@
     {
         "codigo": "8378",
         "nome": "Utile Urbano - Cartão Municipal Piquete",
-        "fornecedor": "Utile Urbano",
-        "valor": "4,50",
-        "uf": "SP",
-        "cidade": "Cruzeiro"
-    },
-    {
-        "codigo": "8895",
-        "nome": "Utile Urbano - Cartão Municipal Cruzeiro",
         "fornecedor": "Utile Urbano",
         "valor": "4,50",
         "uf": "SP",

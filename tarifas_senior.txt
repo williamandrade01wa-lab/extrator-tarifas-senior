@@ -9,7 +9,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19547;Simohu - Cartão Maceió X Pilar;Simohu;9,00;5;10;AL;Maceió;16/03/2026
 10794;Transpal Urbano - Cartão Urbano Maceió (Bem Legal);Vamu Mobilidade;4,00;5;10;AL;Maceió;09/01/2024
 245;Sinetram - Cartão Municipal Manaus (Passafácil);Sinetram - Novo Sistema;5,00;5;10;AM;Manaus;02/03/2026
-15646;CTMAC - Cartão Municipal Macapá;CTMAC;3,70;10;10;AP;Macapá;18/03/2025
 381;Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá;Setap - Intermunicipal;4,00;5;10;AP;Macapá;16/08/2023
 2583;Alagoinhas - Cartão Urbano Alagoinhas;Alagoinhas;4,60;5;10;BA;Alagoinhas;12/02/2026
 8600;Atlântico Transportes (Itabuna) - Cartão Municipal Itabuna;Atlântico Transportes - Itabuna;4,30;5;10;BA;Itabuna;01/10/2025
@@ -844,7 +843,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10920;Viação São José - QR-Code - Cartão Nova Floresta X Cuité;Viação São José - QR-Code;4,70;5;10;PB;Campina Grande;24/02/2026
 10921;Viação São José - QR-Code - Cartão Cuité X Nova Floresta;Viação São José - QR-Code;4,70;5;10;PB;Campina Grande;24/02/2026
 15915;Viação Sonho Dourado - Cartão Municipal Santa Rita;Viação Sonho Dourado;5,00;5;10;PB;Santa Rita;24/07/2025
-3954;AETPC - Cartão Municipal Caruaru;AETPC;4,80;5;10;PE;Caruaru;22/09/2023
+3954;AETPC - Cartão Municipal Caruaru;AETPC;5,00;5;10;PE;Caruaru;12/06/2026
 19562;AETPC - Cartão Caruaru;AETPC;0,01;5;10;PE;Caruaru;25/03/2026
 8131;Atlântico Transportes (Petrolina) - Cartão Urbano Petrolina;Atlântico Transportes - Petrolina;5,00;5;10;PE;Petrolina;06/02/2023
 2503;Bem Fácil Cabo (Setago) - Cartão Bem Fácil (Anel 0);Bem Fácil Cabo (Setago);3,00;5;10;PE;Cabo de Santo Agostinho;25/03/2024
@@ -1068,14 +1067,14 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8850;Riocard (Semove) - Riocard Bilhete Único (Ônibus + VLT);Riocard (Semove);4,70;3;7;RJ;Rio de Janeiro;03/01/2025
 8851;Riocard (Semove) - Riocard Bilhete Único (VLT + VLT);Riocard (Semove);4,70;3;7;RJ;Rio de Janeiro;03/01/2025
 8852;Riocard (Semove) - Riocard Bilhete Único (Van + Metrô¹);Riocard (Semove);8,25;3;7;RJ;Rio de Janeiro;14/04/2025
-8853;Riocard (Semove) - Riocard Bilhete Único (Ônibus + Metrô²);Riocard (Semove);8,25;3;7;RJ;Rio de Janeiro;14/04/2025
+8853;Riocard (Semove) - Riocard Bilhete Único (Ônibus + Metrô²);Riocard (Semove);8,80;3;7;RJ;Rio de Janeiro;12/06/2026
 8854;Riocard (Semove) - Riocard Ônibus Intermunicipal + Ônibus Municipal;Riocard (Semove);9,40;3;7;RJ;Rio de Janeiro;19/12/2025
 8855;Riocard (Semove) - Riocard Ônibus Intermunicipal + Barcas;Riocard (Semove);9,40;3;7;RJ;Rio de Janeiro;19/12/2025
 8856;Riocard (Semove) - Riocard Bilhete Único Intermunicipal Barcas;Riocard (Semove);4,70;3;7;RJ;Rio de Janeiro;15/04/2025
 8857;Riocard (Semove) - Riocard BUI VLT + Ônibus Intermunicipal ou Barcas;Riocard (Semove);9,40;3;7;RJ;Rio de Janeiro;19/12/2025
 8858;Riocard (Semove) - Riocard BUI Trem + Ônibus Municipal;Riocard (Semove);9,40;3;7;RJ;Rio de Janeiro;19/12/2025
 8859;Riocard (Semove) - Riocard BUI Ônibus Intermunicipal + Metrô ou Trem;Riocard (Semove);9,40;3;7;RJ;Rio de Janeiro;19/12/2025
-8860;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Micro-Ônibus;Riocard (Semove);4,30;3;7;RJ;Rio de Janeiro;06/01/2023
+8860;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Micro-Ônibus;Riocard (Semove);4,45;3;7;RJ;Rio de Janeiro;12/06/2026
 8861;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Barcas (Araribóia);Riocard (Semove);5,45;3;7;RJ;Rio de Janeiro;10/03/2026
 8862;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Barcas (Praça XV);Riocard (Semove);5,45;3;7;RJ;Rio de Janeiro;20/02/2026
 8863;Riocard (Semove) - Riocard BUN Ônibus Municipal Niterói + Barcas (Charitas);Riocard (Semove);8,15;3;7;RJ;Rio de Janeiro;10/03/2026
@@ -1252,7 +1251,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9649;Expresso São José - Cartão Imbé Municipal;Expresso São José;4,99;5;10;RS;Tramandaí;13/06/2025
 10898;Expresso São José - Cartão Cidreira X Osório;Expresso São José;20,60;5;10;RS;Tramandaí;12/11/2025
 15101;Expresso São José - Cartão Capão da Canoa X Rainha do Mar;Expresso São José;6,70;5;10;RS;Tramandaí;08/06/2026
-15134;Expresso São José - Cartão Capão da Canoa X Morro Alto;Expresso São José;9,60;5;10;RS;Tramandaí;12/11/2025
+15134;Expresso São José - Cartão Capão da Canoa X Morro Alto;Expresso São José;10,35;5;10;RS;Tramandaí;12/06/2026
 15135;Expresso São José - Cartão Osório X Barra do Ouro;Expresso São José;16,35;5;10;RS;Tramandaí;13/06/2024
 15319;Expresso São José - Cartão Cidreira X Cidreira (Linha E907);Expresso São José;6,70;5;10;RS;Tramandaí;08/06/2026
 15620;Expresso São José - Cartão Tramandaí X Quintão (Linha E907);Expresso São José;6,70;5;10;RS;Tramandaí;08/06/2026
@@ -1292,42 +1291,42 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6220;Expresso Vitória - São Jerônimo X Ipiranga Comum (sem seguro) (Linha 813);Expresso Vitória - VT Daer;17,50;5;10;RS;Porto Alegre;05/12/2024
 9645;Expresso Vitória - Charqueadas X Eldorado (com seguro);Expresso Vitória - VT Daer;17,30;5;10;RS;Porto Alegre;05/12/2024
 16201;Expresso Vitória - São Jerônimo X Eldorado (comum e sem seguro);Expresso Vitória - VT Daer;19,95;5;10;RS;Porto Alegre;16/10/2025
-8668;Fátima Transportes - Cartão Boa Vista X Porto Garibaldi Interm. (sem seguro);Fátima Transportes;8,60;5;10;RS;Nova Santa Rita;15/07/2025
+8668;Fátima Transportes - Cartão Boa Vista X Porto Garibaldi Interm. (sem seguro);Fátima Transportes;9,25;5;10;RS;Nova Santa Rita;12/06/2026
 8669;Fátima Transportes - Cartão Coxilha Velha X Monte Negro (sem seguro);Fátima Transportes;9,45;5;10;RS;Nova Santa Rita;13/04/2026
 8670;Fátima Transportes - Cartão Coxilha Velha X Porto Garibaldi (sem seguro) (Daer);Fátima Transportes;14,15;5;10;RS;Nova Santa Rita;13/04/2026
-8671;Fátima Transportes - Cartão Esquina da Sorte (Porto Batista) X Porto Alegre (sem seguro);Fátima Transportes;20,20;5;10;RS;Nova Santa Rita;15/07/2025
-8672;Fátima Transportes - Cartão Gen. Neto X Porto Garibaldi Iterm (sem seguro);Fátima Transportes;11,25;5;10;RS;Nova Santa Rita;15/07/2025
+8671;Fátima Transportes - Cartão Esquina da Sorte (Porto Batista) X Porto Alegre (sem seguro);Fátima Transportes;21,20;5;10;RS;Nova Santa Rita;12/06/2026
+8672;Fátima Transportes - Cartão Gen. Neto X Porto Garibaldi Iterm (sem seguro);Fátima Transportes;12,05;5;10;RS;Nova Santa Rita;12/06/2026
 8673;Fátima Transportes - Cartão Matias (I. BR 386/116) Ent. Montenegro;Fátima Transportes;15,45;5;10;RS;Nova Santa Rita;13/04/2026
-8674;Fátima Transportes - Cartão Porto Alegre X Boa Vista (sem seguro) (Metroplan);Fátima Transportes;20,20;5;10;RS;Nova Santa Rita;15/07/2025
+8674;Fátima Transportes - Cartão Porto Alegre X Boa Vista (sem seguro) (Metroplan);Fátima Transportes;21,70;5;10;RS;Nova Santa Rita;12/06/2026
 8675;Fátima Transportes - Cartão Taquari X Canoas (com seguro);Fátima Transportes;38,75;5;10;RS;Nova Santa Rita;13/04/2026
 8676;Fátima Transportes - Cartão Taquari X Canoas (sem seguro);Fátima Transportes;36,55;5;10;RS;Nova Santa Rita;13/04/2026
 8677;Fátima Transportes - Cartão Taquari X Montenegro (sem seguro) (Daer);Fátima Transportes;19,80;5;10;RS;Nova Santa Rita;13/04/2026
 8678;Fátima Transportes - Cartão Taquari X Porto Alegre (sem seguro) (Daer);Fátima Transportes;42,15;5;10;RS;Nova Santa Rita;13/04/2026
 8679;Fátima Transportes - Cartão Taquari X Tabaí (sem seguro);Fátima Transportes;9,70;5;10;RS;Nova Santa Rita;13/04/2026
 8680;Fátima Transportes - Cartão Triunfo Polo Municipal (sem seguro) (Metroplan);Fátima Transportes;8,80;5;10;RS;Nova Santa Rita;24/02/2026
-8681;Fátima Transportes - Cartão Triunfo X Porto Alegre (Metroplan);Fátima Transportes;30,30;5;10;RS;Nova Santa Rita;15/07/2025
-8682;Fátima Transportes - Cartão Triunfo X Porto Garibaldi Interm. (sem seguro) (Metroplan);Fátima Transportes;15,15;5;10;RS;Nova Santa Rita;15/07/2025
+8681;Fátima Transportes - Cartão Triunfo X Porto Alegre (Metroplan);Fátima Transportes;32,55;5;10;RS;Nova Santa Rita;12/06/2026
+8682;Fátima Transportes - Cartão Triunfo X Porto Garibaldi Interm. (sem seguro) (Metroplan);Fátima Transportes;16,25;5;10;RS;Nova Santa Rita;12/06/2026
 9039;Fátima Transportes - Cartão Vendinha X Porto Garibaldi;Fátima Transportes;9,70;5;10;RS;Nova Santa Rita;13/04/2026
-9040;Fátima Transportes - Cartão Boa Vista X Canoas;Fátima Transportes;13,60;5;10;RS;Nova Santa Rita;15/07/2025
-9054;Fátima Transportes - Cartão Vendinha X Porto Garibaldi (com seguro);Fátima Transportes;9,40;5;10;RS;Nova Santa Rita;01/10/2025
+9040;Fátima Transportes - Cartão Boa Vista X Canoas;Fátima Transportes;14,60;5;10;RS;Nova Santa Rita;12/06/2026
+9054;Fátima Transportes - Cartão Vendinha X Porto Garibaldi (com seguro);Fátima Transportes;10,00;5;10;RS;Nova Santa Rita;12/06/2026
 9055;Fátima Transportes - Cartão Boa Vista X Canoas (com seguro);Fátima Transportes;14,70;5;10;RS;Nova Santa Rita;15/07/2025
 9147;Fátima Transportes - Cartão Barro Vermelho X Triunfo (sem seguro);Fátima Transportes;7,70;5;10;RS;Nova Santa Rita;06/01/2025
 9148;Fátima Transportes - Cartão Barro Vermelho X Triunfo (com seguro);Fátima Transportes;9,00;5;10;RS;Nova Santa Rita;01/10/2025
-9149;Fátima Transportes - Cartão General Neto X Triunfo (sem seguro);Fátima Transportes;8,60;5;10;RS;Nova Santa Rita;15/07/2025
+9149;Fátima Transportes - Cartão General Neto X Triunfo (sem seguro);Fátima Transportes;9,25;5;10;RS;Nova Santa Rita;12/06/2026
 9150;Fátima Transportes - Cartão General Neto X Triunfo (com seguro);Fátima Transportes;8,95;5;10;RS;Nova Santa Rita;15/07/2025
 9151;Fátima Transportes - Cartão Triunfo X Boa Vista (sem seguro);Fátima Transportes;10,10;5;10;RS;Nova Santa Rita;15/07/2025
 9152;Fátima Transportes - Cartão Triunfo X Boa Vista com seguro;Fátima Transportes;10,45;5;10;RS;Nova Santa Rita;15/07/2025
-10859;Fátima Transportes - Cartão Santa Rita X Porto Alegre;Fátima Transportes;10,65;5;10;RS;Nova Santa Rita;15/07/2025
-10860;Fátima Transportes - Cartão Santa Rita X Canoas;Fátima Transportes;7,45;5;10;RS;Nova Santa Rita;08/07/2025
+10859;Fátima Transportes - Cartão Santa Rita X Porto Alegre;Fátima Transportes;11,45;5;10;RS;Nova Santa Rita;12/06/2026
+10860;Fátima Transportes - Cartão Santa Rita X Canoas;Fátima Transportes;8,00;5;10;RS;Nova Santa Rita;12/06/2026
 15570;Fátima Transportes - Cartão Taquari x Triunfo (Sem Seguro);Fátima Transportes;21,50;5;10;RS;Nova Santa Rita;29/01/2025
 15574;Fátima Transportes - Cartão Taquari x Triunfo (Com Seguro);Fátima Transportes;23,55;5;10;RS;Nova Santa Rita;29/01/2025
-15701;Fátima Transportes - Cartão Triunfo X Canoas;Fátima Transportes;23,70;5;10;RS;Nova Santa Rita;31/07/2025
+15701;Fátima Transportes - Cartão Triunfo X Canoas;Fátima Transportes;25,45;5;10;RS;Nova Santa Rita;12/06/2026
 15763;Fátima Transportes - Cartão Municipal Nova Santa Rita;Fátima Transportes;5,26;5;10;RS;Nova Santa Rita;12/06/2025
 19542;Fátima Transportes - Cartão Municipal Triunfo;Fátima Transportes;5,70;5;10;RS;Nova Santa Rita;13/03/2026
-15170;Fátima Transportes - Cartão Mínima Intermunicipal;Fátima Transportes - Esteio;7,10;5;10;RS;Esteio;15/07/2025
-15172;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Esteio;8,45;5;10;RS;Esteio;20/04/2026
+15170;Fátima Transportes - Cartão Mínima Intermunicipal;Fátima Transportes - Esteio;7,65;5;10;RS;Esteio;12/06/2026
+15172;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Esteio;9,05;5;10;RS;Esteio;12/06/2026
 15173;Fátima Transportes - Cartão Porto Alegre X Canoas;Fátima Transportes - Esteio;8,45;5;10;RS;Esteio;15/07/2025
-15174;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto);Fátima Transportes - Esteio;13,00;5;10;RS;Esteio;15/07/2025
+15174;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto);Fátima Transportes - Esteio;13,95;5;10;RS;Esteio;12/06/2026
 8185;Gaurama - Cartão Erechim Urbano;Gaurama - Eletrônico;5,50;5;10;RS;Erechim;22/04/2024
 15936;Laranjal - Candiota - Cartão Municipal Candiota;Laranjal - Candiota;6,00;5;10;RS;Candiota;31/07/2025
 5528;Mtu Medianeira - Cartão Ijuí Municipal;MTU Medianeira;6,00;5;10;RS;Ijui;07/07/2025
@@ -1353,7 +1352,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19620;Prati - Capão do Leão - Cartão Pelotas X Jardim América;Prati - Capão do Leão;6,05;5;10;RS;Pelotas;28/04/2026
 19621;Prati - Pelotas - Cartão Municipal Pelotas;Prati - Pelotas;6,25;5;10;RS;Pelotas;28/04/2026
 10834;Riomafra - Cartão Municipal Mafra;Riomafra;4,50;5;10;SC;Mafra;29/01/2024
-2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;4,80;5;10;RS;São Borja;21/11/2023
+2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;5,00;5;10;RS;São Borja;12/06/2026
 6122;Stadtbus Teutônia - Cartão Teuto Municipal;Stadtbus Teutônia;5,00;5;10;RS;Teutônia;04/01/2023
 4714;Stadtbus Venâncio Aires - Cartão Santa Cruz X Venâncio Aires Intermunicipal;Stadtbus Venâncio Aires;11,90;5;10;RS;Santa Cruz do Sul;20/04/2026
 15677;STU - Cartão Municipal Santana do Livramento;STU;5,00;5;10;RS;Santana do Livramento;04/02/2026
@@ -1785,6 +1784,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19652;BB Turismo - Cartão Barueri Integração;BB Turismo (Benfácil) - Barueri;10,00;5;10;SP;Barueri;12/05/2026
 19663;Repasse - BB Turismo - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;18/05/2026
 19665;Repasse - BB Turismo - Cartão Barueri Integração (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;18/05/2026
+19739;Repasse - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;12/06/2026
+19741;Repasse - Cartão Barueri Integração (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;12/06/2026
 19451;BB Turismo - Cartão Municipal Itapevi;BB Turismo (Benfácil) - Itapevi;6,10;5;10;SP;Barueri;05/01/2026
 19452;BB Turismo - Cartão Itapevi Integração;BB Turismo (Benfácil) - Itapevi;10,00;5;10;SP;Barueri;05/01/2026
 19459;Repasse BB Turismo - Cartão Municipal Itapevi (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026
@@ -1793,6 +1794,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19654;BB Turismo - Cartão Itapevi Integração;BB Turismo (Benfácil) - Itapevi;10,00;5;10;SP;Barueri;12/05/2026
 19667;Repasse - BB Turismo - Cartão Municipal Itapevi (Blacklist);BB Turismo (Benfácil) - Itapevi;24,40;5;10;SP;Barueri;18/05/2026
 19669;Repasse - BB Turismo - Cartão Itapevi Integração (Blacklist);BB Turismo (Benfácil) - Itapevi;24,40;5;10;SP;Barueri;18/05/2026
+19743;Repasse - Cartão Municipal Itapevi (Blacklist);BB Turismo (Benfácil) - Itapevi;24,40;5;10;SP;Barueri;12/06/2026
+19745;Repasse - Cartão Itapevi Integração (Blacklist);BB Turismo (Benfácil) - Itapevi;24,40;5;10;SP;Barueri;12/06/2026
 19649;BB Turismo - Cartão Municipal Jandira;BB Turismo (Benfácil) - Jandira;5,80;5;10;SP;Barueri;12/05/2026
 19650;BB Turismo - Cartão Jandira Integração;BB Turismo (Benfácil) - Jandira;10,00;5;10;SP;Barueri;12/05/2026
 19659;Repasse BB Turismo - Cartão Municipal Jandira (Blacklist);BB Turismo (Benfácil) - Jandira;23,20;5;10;SP;Barueri;15/05/2026
@@ -2818,7 +2821,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19735;Utile Urbano - Cartão Municipal Cruzeiro;Utile - Cruzeiro;4,50;5;10;SP;Cruzeiro;08/06/2026
 8377;Utile Urbano - Cartão Municipal Lorena;Utile Urbano;5,50;5;10;SP;Cruzeiro;09/04/2025
 8378;Utile Urbano - Cartão Municipal Piquete;Utile Urbano;4,50;5;10;SP;Cruzeiro;31/12/2025
-8895;Utile Urbano - Cartão Municipal Cruzeiro;Utile Urbano;4,50;5;10;SP;Cruzeiro;14/06/2023
 10118;Vale CO;Vale CO;5,30;5;5;SP;São Paulo;05/01/2026
 10119;Vale CT;Vale CO;5,40;5;5;SP;São Paulo;05/01/2026
 10127;Vale CI;Vale CO;9,38;5;5;SP;São Paulo;05/01/2026
@@ -2912,7 +2914,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15463;Viação Bragança - QR-Code - Cartão Socorro X São Paulo (Tietê);Viação Bragança - QR-Code - Grupo Vida;65,70;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
 16183;Viação Bragança - QR-Code - Cartão Bragança Paulista X São Paulo (com seguro);Viação Bragança - QR-Code - Grupo Vida;49,60;5;10;SP;Santa Rita do Passa Quatro;14/10/2025
 2153;Viação Calvip - Cartão Cerquilho X Tietê;Viação Calvip;5,80;5;10;SP;Laranjal paulista;05/01/2026
-19532;Viação Cidade das Artes - Cartão Municipal Embu das Artes;Viação Cidade das Artes - PIX;5,80;5;10;SP;Itapecerica da Serra;26/02/2026
+19532;Viação Cidade das Artes - Cartão Municipal Embu das Artes;Viação Cidade das Artes - PIX;5,80;5;15;SP;Itapecerica da Serra;26/02/2026
 9013;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;15,85;5;10;SP;Piracicaba;10/06/2026
 9014;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;14,65;5;10;SP;Piracicaba;10/06/2026
 9015;Viação Itaqueri - Cartão Águas de São Pedro X São Pedro (sem seguro);Viação Itaqueri - QR-Code;6,65;5;10;SP;Piracicaba;07/07/2025
