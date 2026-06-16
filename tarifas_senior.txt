@@ -1479,32 +1479,32 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19648;Valesul Porto Alegre - 343 Poa – Santo Antônio (semidireto) (Sogil RS-030);Valesul - Porto Alegre;40,05;5;10;RS;Cachoeirinha;08/06/2026
 10568;Valesul Porto Alegre - 33 Capão Da Canoa – Capão Novo (Cs Turismo / Rota Litoral - 00037);ValeSul Porto Alegre;5,00;5;10;RS;Cachoeirinha;18/10/2023
 10815;Valesul Porto Alegre - 805 Lombas / Centro de Viamão (Viamão / Vialeste - 00012);ValeSul Porto Alegre;8,80;5;10;RS;Cachoeirinha;29/01/2024
-2245;Viação Montenegro VIMSA - Cartão Estância Velha X Novo Hamburgo;Viação Montenegro VIMSA;6,20;5;10;RS;Montenegro;08/07/2025
+2245;Viação Montenegro VIMSA - Cartão Estância Velha X Novo Hamburgo;Viação Montenegro VIMSA;6,65;5;10;RS;Montenegro;15/06/2026
 2551;Viação Montenegro VIMSA - Cartão Urbano Montenegro - Convencional;Viação Montenegro VIMSA;5,00;5;10;RS;Montenegro;15/07/2025
-2552;Viação Montenegro VIMSA - Cartão Montenegro X São Leopoldo (via Cap.);Viação Montenegro VIMSA;16,00;5;10;RS;Montenegro;08/07/2025
+2552;Viação Montenegro VIMSA - Cartão Montenegro X São Leopoldo (via Cap.);Viação Montenegro VIMSA;17,15;5;10;RS;Montenegro;15/06/2026
 2553;Viação Montenegro VIMSA - Cartão Montenegro X Brochier;Viação Montenegro VIMSA;10,60;5;10;RS;Montenegro;08/05/2026
-2555;Viação Montenegro VIMSA - Cartão Montenegro X Portão (ida e volta);Viação Montenegro VIMSA;11,10;5;10;RS;Montenegro;08/07/2025
+2555;Viação Montenegro VIMSA - Cartão Montenegro X Portão (ida e volta);Viação Montenegro VIMSA;11,90;5;10;RS;Montenegro;15/06/2026
 3306;Viação Montenegro VIMSA - Cartão Viação Montenegro;Viação Montenegro VIMSA;5,00;5;10;RS;Montenegro;08/07/2025
-3375;Viação Montenegro VIMSA - Cartão Berto Cirio X Porto da Figueira;Viação Montenegro VIMSA;8,40;5;10;RS;Montenegro;08/07/2025
-3379;Viação Montenegro VIMSA - Cartão Montenegro X Canoas;Viação Montenegro VIMSA;19,25;5;10;RS;Montenegro;08/07/2025
-3380;Viação Montenegro VIMSA - Cartão Montenegro X Nova Santa Rita;Viação Montenegro VIMSA;14,00;5;10;RS;Montenegro;08/07/2025
-3381;Viação Montenegro VIMSA - Cartão Montenegro X Porto Alegre Comum;Viação Montenegro VIMSA;24,90;5;10;RS;Montenegro;08/07/2025
-3382;Viação Montenegro VIMSA - Cartão Novo Hamburgo X Campo Grande;Viação Montenegro VIMSA;6,20;5;10;RS;Montenegro;08/07/2025
-4493;Viação Montenegro VIMSA - Cartão Porto Alegre X Nova Santa Rita;Viação Montenegro VIMSA;10,95;5;10;RS;Montenegro;08/07/2025
-4494;Viação Montenegro VIMSA - Cartão Polo X Rua Nova;Viação Montenegro VIMSA;8,40;5;10;RS;Montenegro;08/07/2025
+3375;Viação Montenegro VIMSA - Cartão Berto Cirio X Porto da Figueira;Viação Montenegro VIMSA;9,00;5;10;RS;Montenegro;15/06/2026
+3379;Viação Montenegro VIMSA - Cartão Montenegro X Canoas;Viação Montenegro VIMSA;20,65;5;10;RS;Montenegro;15/06/2026
+3380;Viação Montenegro VIMSA - Cartão Montenegro X Nova Santa Rita;Viação Montenegro VIMSA;15,00;5;10;RS;Montenegro;15/06/2026
+3381;Viação Montenegro VIMSA - Cartão Montenegro X Porto Alegre Comum;Viação Montenegro VIMSA;26,75;5;10;RS;Montenegro;15/06/2026
+3382;Viação Montenegro VIMSA - Cartão Novo Hamburgo X Campo Grande;Viação Montenegro VIMSA;6,65;5;10;RS;Montenegro;15/06/2026
+4493;Viação Montenegro VIMSA - Cartão Porto Alegre X Nova Santa Rita;Viação Montenegro VIMSA;11,75;5;10;RS;Montenegro;15/06/2026
+4494;Viação Montenegro VIMSA - Cartão Polo X Rua Nova;Viação Montenegro VIMSA;9,00;5;10;RS;Montenegro;15/06/2026
 4495;Viação Montenegro VIMSA - Cartão Brochier X Marata;Viação Montenegro VIMSA;8,25;5;10;RS;Montenegro;08/05/2026
-4496;Viação Montenegro VIMSA - Cartão Portão X São Leopoldo;Viação Montenegro VIMSA;8,55;5;10;RS;Montenegro;08/07/2025
-4497;Viação Montenegro VIMSA - Canoas X Porto Garibaldi (N0700);Viação Montenegro VIMSA;9,40;5;10;RS;Montenegro;08/07/2025
+4496;Viação Montenegro VIMSA - Cartão Portão X São Leopoldo;Viação Montenegro VIMSA;9,20;5;10;RS;Montenegro;15/06/2026
+4497;Viação Montenegro VIMSA - Canoas X Porto Garibaldi (N0700);Viação Montenegro VIMSA;10,10;5;10;RS;Montenegro;15/06/2026
 4498;Viação Montenegro VIMSA - Porto Garibaldi X Montenegro;Viação Montenegro VIMSA;7,80;5;10;RS;Montenegro;03/02/2025
 4499;Viação Montenegro VIMSA - Cartão Canoas X Santa Rita - Linha 1302 (com seguro);Viação Montenegro VIMSA;7,80;5;10;RS;Montenegro;03/02/2025
 4500;Viação Montenegro VIMSA - Porto Garibaldi X Nova Santa Rita;Viação Montenegro VIMSA;7,80;5;10;RS;Montenegro;03/02/2025
 4501;Viação Montenegro VIMSA - Vendinha Polo;Viação Montenegro VIMSA;7,80;5;10;RS;Montenegro;03/02/2025
 4502;Viação Montenegro VIMSA - Estância Velha Circular;Viação Montenegro VIMSA;3,50;5;10;RS;Montenegro;07/11/2024
 4503;Viação Montenegro VIMSA - Virador Montenegro;Viação Montenegro VIMSA;8,40;5;10;RS;Montenegro;08/07/2025
-4504;Viação Montenegro VIMSA - Novo Hamburgo X Lago Azul;Viação Montenegro VIMSA;6,20;5;10;RS;Montenegro;08/07/2025
-4505;Viação Montenegro VIMSA - Cartão P. Figueira X Nova Santa Rita (sem seguro);Viação Montenegro VIMSA;8,40;5;10;RS;Montenegro;08/07/2025
-4635;Viação Montenegro VIMSA - Cartão Montenegro X Porto Alegre - Direto;Viação Montenegro VIMSA;32,50;5;10;RS;Montenegro;08/07/2025
-6320;Viação Montenegro VIMSA - Cartão Montenegro X Capela Santana;Viação Montenegro VIMSA;8,55;5;10;RS;Montenegro;14/08/2025
+4504;Viação Montenegro VIMSA - Novo Hamburgo X Lago Azul;Viação Montenegro VIMSA;6,65;5;10;RS;Montenegro;15/06/2026
+4505;Viação Montenegro VIMSA - Cartão P. Figueira X Nova Santa Rita (sem seguro);Viação Montenegro VIMSA;9,00;5;10;RS;Montenegro;15/06/2026
+4635;Viação Montenegro VIMSA - Cartão Montenegro X Porto Alegre - Direto;Viação Montenegro VIMSA;35,00;5;10;RS;Montenegro;15/06/2026
+6320;Viação Montenegro VIMSA - Cartão Montenegro X Capela Santana;Viação Montenegro VIMSA;9,20;5;10;RS;Montenegro;15/06/2026
 6711;Viação Montenegro VIMSA - Cartão Urbano Montenegro - Seletivo;Viação Montenegro VIMSA;6,00;5;10;RS;Montenegro;19/09/2025
 15985;Viação Ouro e Prata - Cartão Osório X Morro Alto (sem seguro);Viação Ouro e Prata - QR-Code;8,50;5;10;RS;Porto Alegre;22/05/2026
 19683;Viação Ouro e Prata - Cartão Capão da Canoa X Imbé (semi-direto) (sem seguro);Viação Ouro e Prata - QR-Code;12,85;5;10;RS;Porto Alegre;22/05/2026
@@ -2376,6 +2376,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16276;Guerino Seiscentos - Cartão Flórida Paulista X Adamantina;Guerino Seiscentos;6,95;5;10;SP;Tupã;25/11/2025
 19512;Guerino Seiscentos - Cartão Assis X Tarumã;Guerino Seiscentos;7,55;5;10;SP;Tupã;13/02/2026
 19551;Guerino Seiscentos - Cartão Assis X Ourinhos;Guerino Seiscentos;29,00;5;10;SP;Tupã;19/03/2026
+19747;Guerino Seiscentos - Cartão Ouro Verde X Dracena;Guerino Seiscentos;7,55;5;10;SP;Tupã;15/06/2026
 15836;Itacard - Cartão Municipal Itapecerica da Serra;Itacard - Novo Sistema - Pix;5,50;5;10;SP;Itapecerica da Serra;15/01/2026
 15360;Produto Itaqua;Itaqua;7,10;5;10;SP;Itaquaquecetuba;07/01/2026
 8713;Jandaia - Cartão Álvares Machado X Presidente Prudente;Jandaia;6,60;5;10;SP;Presidente Prudente;03/07/2025

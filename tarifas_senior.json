@@ -11843,7 +11843,7 @@
         "codigo": "2245",
         "nome": "Viação Montenegro VIMSA - Cartão Estância Velha X Novo Hamburgo",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "6,20",
+        "valor": "6,65",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11859,7 +11859,7 @@
         "codigo": "2552",
         "nome": "Viação Montenegro VIMSA - Cartão Montenegro X São Leopoldo (via Cap.)",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "16,00",
+        "valor": "17,15",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11875,7 +11875,7 @@
         "codigo": "2555",
         "nome": "Viação Montenegro VIMSA - Cartão Montenegro X Portão (ida e volta)",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "11,10",
+        "valor": "11,90",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11891,7 +11891,7 @@
         "codigo": "3375",
         "nome": "Viação Montenegro VIMSA - Cartão Berto Cirio X Porto da Figueira",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "8,40",
+        "valor": "9,00",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11899,7 +11899,7 @@
         "codigo": "3379",
         "nome": "Viação Montenegro VIMSA - Cartão Montenegro X Canoas",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "19,25",
+        "valor": "20,65",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11907,7 +11907,7 @@
         "codigo": "3380",
         "nome": "Viação Montenegro VIMSA - Cartão Montenegro X Nova Santa Rita",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "14,00",
+        "valor": "15,00",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11915,7 +11915,7 @@
         "codigo": "3381",
         "nome": "Viação Montenegro VIMSA - Cartão Montenegro X Porto Alegre Comum",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "24,90",
+        "valor": "26,75",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11923,7 +11923,7 @@
         "codigo": "3382",
         "nome": "Viação Montenegro VIMSA - Cartão Novo Hamburgo X Campo Grande",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "6,20",
+        "valor": "6,65",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11931,7 +11931,7 @@
         "codigo": "4493",
         "nome": "Viação Montenegro VIMSA - Cartão Porto Alegre X Nova Santa Rita",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "10,95",
+        "valor": "11,75",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11939,7 +11939,7 @@
         "codigo": "4494",
         "nome": "Viação Montenegro VIMSA - Cartão Polo X Rua Nova",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "8,40",
+        "valor": "9,00",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11955,7 +11955,7 @@
         "codigo": "4496",
         "nome": "Viação Montenegro VIMSA - Cartão Portão X São Leopoldo",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "8,55",
+        "valor": "9,20",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -11963,7 +11963,7 @@
         "codigo": "4497",
         "nome": "Viação Montenegro VIMSA - Canoas X Porto Garibaldi (N0700)",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "9,40",
+        "valor": "10,10",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -12019,7 +12019,7 @@
         "codigo": "4504",
         "nome": "Viação Montenegro VIMSA - Novo Hamburgo X Lago Azul",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "6,20",
+        "valor": "6,65",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -12027,7 +12027,7 @@
         "codigo": "4505",
         "nome": "Viação Montenegro VIMSA - Cartão P. Figueira X Nova Santa Rita (sem seguro)",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "8,40",
+        "valor": "9,00",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -12035,7 +12035,7 @@
         "codigo": "4635",
         "nome": "Viação Montenegro VIMSA - Cartão Montenegro X Porto Alegre - Direto",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "32,50",
+        "valor": "35,00",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -12043,7 +12043,7 @@
         "codigo": "6320",
         "nome": "Viação Montenegro VIMSA - Cartão Montenegro X Capela Santana",
         "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "8,55",
+        "valor": "9,20",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -19012,6 +19012,14 @@
         "nome": "Guerino Seiscentos - Cartão Assis X Ourinhos",
         "fornecedor": "Guerino Seiscentos",
         "valor": "29,00",
+        "uf": "SP",
+        "cidade": "Tupã"
+    },
+    {
+        "codigo": "19747",
+        "nome": "Guerino Seiscentos - Cartão Ouro Verde X Dracena",
+        "fornecedor": "Guerino Seiscentos",
+        "valor": "7,55",
         "uf": "SP",
         "cidade": "Tupã"
     },
