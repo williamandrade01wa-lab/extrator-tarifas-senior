@@ -2520,6 +2520,134 @@
         "cidade": "Poços de Caldas"
     },
     {
+        "codigo": "19748",
+        "nome": "AVSL - Cartão Água Limpa X Belo Horizonte (sem taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "20,55",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19749",
+        "nome": "AVSL - Cartão Belo Horizonte X Congonhas (com taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "53,60",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19750",
+        "nome": "AVSL - Cartão Congonhas X Entre Rios (com taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "22,15",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19751",
+        "nome": "AVSL - Cartão Congonhas X Entre Rios (sem taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "21,55",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19752",
+        "nome": "AVSL - Cartão Entre Rios X Congonhas (com taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "21,55",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19753",
+        "nome": "AVSL - Cartão Entre Rios X Congonhas (sem taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "21,55",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19754",
+        "nome": "AVSL - Cartão Lagoa Grande X Conselheiro Lafaiete (sem taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "33,30",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19755",
+        "nome": "AVSL - Cartão Conselheiro Lafaiete X Lagoa Grande (com taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "36,40",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19756",
+        "nome": "AVSL - Cartão Belo Horizonte X Conselheiro Lafaiete (com taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "63,55",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19757",
+        "nome": "AVSL - Cartão Conselheiro Lafaiete X Belo Horizonte (com taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "56,60",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19758",
+        "nome": "AVSL - Cartão Congonhas X Ribeirão do Eixo (com taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "13,05",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19759",
+        "nome": "AVSL - Cartão Ribeirão do Eixo X Congonhas (sem taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "12,45",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19760",
+        "nome": "AVSL - Cartão Belo Horizonte X Água Limpa (com taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "27,72",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19761",
+        "nome": "AVSL - Cartão Congonhas X Alphaville (com taxa) (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "26,50",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19762",
+        "nome": "AVSL - Cartão Lagoa Grande X Congonhas (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "23,55",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
+        "codigo": "19763",
+        "nome": "AVSL - Cartão Congonhas X Lagoa Grande (nominal) (venc. 90 dias)",
+        "fornecedor": "Auto Viação São Luiz - QR-Code",
+        "valor": "23,55",
+        "uf": "MG",
+        "cidade": "Congonhas"
+    },
+    {
         "codigo": "1035",
         "nome": "Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Ipatinga",
         "fornecedor": "Autotrans (Buse) - Ipatinga/Timóteo",

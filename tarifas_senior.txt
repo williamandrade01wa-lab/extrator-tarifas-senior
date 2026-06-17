@@ -314,6 +314,22 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2955;Alfetur Alfenas - Cartão Urbano Alfenas;Alfetur;3,90;5;10;MG;Alfenas;18/05/2022
 6121;Auto Omnibus Circullare Bom Despacho - Cartão Municipal Bom Despacho;Auto Omnibus Circullare Bom Despacho;4,00;5;10;MG;Bom Despacho;17/12/2024
 670;Auto Omnibus Floramar - Cartão Municipal Poços de Caldas;Auto Omnibus Floramar;5,00;5;10;MG;Poços de Caldas;05/03/2026
+19748;AVSL - Cartão Água Limpa X Belo Horizonte (sem taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;20,55;5;10;MG;Congonhas;16/06/2026
+19749;AVSL - Cartão Belo Horizonte X Congonhas (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;53,60;5;10;MG;Congonhas;16/06/2026
+19750;AVSL - Cartão Congonhas X Entre Rios (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;22,15;5;10;MG;Congonhas;16/06/2026
+19751;AVSL - Cartão Congonhas X Entre Rios (sem taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;21,55;5;10;MG;Congonhas;16/06/2026
+19752;AVSL - Cartão Entre Rios X Congonhas (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;21,55;5;10;MG;Congonhas;16/06/2026
+19753;AVSL - Cartão Entre Rios X Congonhas (sem taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;21,55;5;10;MG;Congonhas;16/06/2026
+19754;AVSL - Cartão Lagoa Grande X Conselheiro Lafaiete (sem taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;33,30;5;10;MG;Congonhas;16/06/2026
+19755;AVSL - Cartão Conselheiro Lafaiete X Lagoa Grande (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;36,40;5;10;MG;Congonhas;16/06/2026
+19756;AVSL - Cartão Belo Horizonte X Conselheiro Lafaiete (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;63,55;5;10;MG;Congonhas;16/06/2026
+19757;AVSL - Cartão Conselheiro Lafaiete X Belo Horizonte (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;56,60;5;10;MG;Congonhas;16/06/2026
+19758;AVSL - Cartão Congonhas X Ribeirão do Eixo (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;13,05;5;10;MG;Congonhas;16/06/2026
+19759;AVSL - Cartão Ribeirão do Eixo X Congonhas (sem taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;12,45;5;10;MG;Congonhas;16/06/2026
+19760;AVSL - Cartão Belo Horizonte X Água Limpa (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;27,72;5;10;MG;Congonhas;16/06/2026
+19761;AVSL - Cartão Congonhas X Alphaville (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;26,50;5;10;MG;Congonhas;16/06/2026
+19762;AVSL - Cartão Lagoa Grande X Congonhas (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;23,55;5;10;MG;Congonhas;16/06/2026
+19763;AVSL - Cartão Congonhas X Lagoa Grande (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;23,55;5;10;MG;Congonhas;16/06/2026
 1035;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;5,00;5;10;MG;Ipatinga;08/04/2025
 2614;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Timóteo;Autotrans (Buse) - Ipatinga/Timóteo;5,00;5;10;MG;Ipatinga;08/04/2025
 3808;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente;Autotrans (Buse) - Ipatinga/Timóteo;20,30;5;10;MG;Ipatinga;13/03/2026
