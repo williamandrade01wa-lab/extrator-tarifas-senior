@@ -2392,6 +2392,14 @@
         "cidade": "Luziânia"
     },
     {
+        "codigo": "9807",
+        "nome": "Passe Livre SIT - Cartão Passe Livre SIT",
+        "fornecedor": "Passe Livre SIT",
+        "valor": "180,00",
+        "uf": "GO",
+        "cidade": "Goiania"
+    },
+    {
         "codigo": "1340",
         "nome": "SITPASS - Cartão Municipal Goiânia",
         "fornecedor": "Sitpass",
@@ -6304,14 +6312,6 @@
         "cidade": "Itauna"
     },
     {
-        "codigo": "15919",
-        "nome": "Viação José Maria - Cartão Coronel Pacheco X Juiz de Fora",
-        "fornecedor": "Viação José Maria - PIX",
-        "valor": "16,75",
-        "uf": "MG",
-        "cidade": "Juiz de Fora"
-    },
-    {
         "codigo": "19484",
         "nome": "Viação Oliveira - Eletrônico - Cartão Governador Valadares X Era Nova",
         "fornecedor": "Viação Oliveira - Eletrônico",
@@ -7571,7 +7571,7 @@
         "codigo": "15995",
         "nome": "Araucária - Cartão Angélica X Guadalupe",
         "fornecedor": "Araucária",
-        "valor": "5,50",
+        "valor": "5,90",
         "uf": "PR",
         "cidade": "Araucária"
     },
@@ -7579,7 +7579,7 @@
         "codigo": "15997",
         "nome": "Campo Largo - Cartão Terminal Campo Largo X Estação Ferrari",
         "fornecedor": "Campo Largo",
-        "valor": "5,50",
+        "valor": "5,90",
         "uf": "PR",
         "cidade": "Campo Largo"
     },
@@ -7691,7 +7691,7 @@
         "codigo": "15989",
         "nome": "Expresso Azul - Pinhais - Cartão Pinhais X Campo Comprido",
         "fornecedor": "Expresso Azul - Pinhais",
-        "valor": "5,50",
+        "valor": "5,90",
         "uf": "PR",
         "cidade": "Pinhais"
     },
@@ -7819,7 +7819,7 @@
         "codigo": "15993",
         "nome": "Nobel - Cartão Santa Terezinha X Ipê",
         "fornecedor": "Nobel",
-        "valor": "5,50",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "Fazenda Rio Grande"
     },
@@ -7875,7 +7875,7 @@
         "codigo": "15991",
         "nome": "Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque)",
         "fornecedor": "Piraquara",
-        "valor": "5,50",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "Piraquara"
     },
@@ -8043,7 +8043,7 @@
         "codigo": "15990",
         "nome": "Santo Ângelo - Cartão Colombo X Cic",
         "fornecedor": "Santo Ângelo",
-        "valor": "5,50",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "Colombo"
     },
@@ -8059,7 +8059,7 @@
         "codigo": "16001",
         "nome": "São Braz - Cartão Campo Novo X Santa Felicidade",
         "fornecedor": "São Braz",
-        "valor": "5,50",
+        "valor": "5,90",
         "uf": "PR",
         "cidade": "Campo Magro"
     },
@@ -8067,7 +8067,7 @@
         "codigo": "15992",
         "nome": "São José - São José dos Pinhais - Cartão Quississana X Guadalupe",
         "fornecedor": "São José - São José dos Pinhais",
-        "valor": "5,50",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "São José dos Pinhais"
     },
@@ -8139,7 +8139,7 @@
         "codigo": "2184",
         "nome": "Til transportes - Cartão CT Cambé X Ibiporã - Metropolitano / Curitiba",
         "fornecedor": "TCR",
-        "valor": "6,20",
+        "valor": "6,50",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8187,7 +8187,7 @@
         "codigo": "15999",
         "nome": "Viação do Sul - Itaperuçu - Cartão Itaperuçu X Praça 19",
         "fornecedor": "Viação do Sul - Itaperuçu",
-        "valor": "5,50",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "Itaperuçu"
     },
@@ -8203,7 +8203,7 @@
         "codigo": "2285",
         "nome": "Viação Garcia - Cartão Maringá X Nova Esperança",
         "fornecedor": "Viação Garcia",
-        "valor": "8,75",
+        "valor": "9,20",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8219,7 +8219,7 @@
         "codigo": "2319",
         "nome": "Viação Garcia - Cartão Maringá X Mandaguaçu",
         "fornecedor": "Viação Garcia",
-        "valor": "6,55",
+        "valor": "6,90",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8259,7 +8259,7 @@
         "codigo": "6025",
         "nome": "Viação Garcia - Cartão Londrina X Assai",
         "fornecedor": "Viação Garcia - (Lond - Assai)",
-        "valor": "9,10",
+        "valor": "9,55",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -8283,7 +8283,7 @@
         "codigo": "6001",
         "nome": "Viação Garcia - Cartão Jataizinho x Londrina",
         "fornecedor": "Viação Garcia - (Lond - Jataiz)",
-        "valor": "6,55",
+        "valor": "6,90",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -8339,7 +8339,7 @@
         "codigo": "4844",
         "nome": "Viação Iapó - Cartão Ponta Grossa X Castro",
         "fornecedor": "Viação Iapó",
-        "valor": "8,55",
+        "valor": "8,95",
         "uf": "PR",
         "cidade": "Ponta Grossa"
     },
@@ -8347,7 +8347,7 @@
         "codigo": "5926",
         "nome": "Viação Iapó - Castro X Piraí do Sul",
         "fornecedor": "Viação Iapó",
-        "valor": "6,75",
+        "valor": "7,10",
         "uf": "PR",
         "cidade": "Ponta Grossa"
     },
@@ -10267,7 +10267,7 @@
         "codigo": "6205",
         "nome": "Expresso Vitória - Charqueadas X Ipiranga Semi Direto (com seguro) Linha 898",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "22,55",
+        "valor": "28,55",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10275,7 +10275,7 @@
         "codigo": "6206",
         "nome": "Expresso Vitória - Charqueadas X São Jerônimo (sem seguro) Linha 382",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "8,60",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10291,7 +10291,7 @@
         "codigo": "6211",
         "nome": "Expresso Vitória - Porto Alegre X Charqueadas Comum (sem seguro) (Linha 898)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "22,55",
+        "valor": "24,20",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10299,7 +10299,7 @@
         "codigo": "6212",
         "nome": "Expresso Vitória - Porto Alegre X Charqueadas Semi Direto (com seguro) (Linha 898)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "28,65",
+        "valor": "30,60",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10307,7 +10307,7 @@
         "codigo": "6213",
         "nome": "Expresso Vitória - Porto Alegre X São Jerônimo Comum (com seguro) (Linha 382)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "28,55",
+        "valor": "30,45",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10315,7 +10315,7 @@
         "codigo": "6215",
         "nome": "Expresso Vitória - Porto Alegre X São Jerônimo Comum (sem seguro (Linha 382)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "26,50",
+        "valor": "28,40",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10323,7 +10323,7 @@
         "codigo": "6217",
         "nome": "Expresso Vitória - Porto Alegre X São Jerônimo Semi Direto (sem seguro) (Linha 382)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "31,15",
+        "valor": "33,45",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10331,7 +10331,7 @@
         "codigo": "6219",
         "nome": "Expresso Vitória - São Jerônimo X Ipiranga Comum (sem seguro) (Linha 382)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "19,40",
+        "valor": "20,85",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10339,7 +10339,7 @@
         "codigo": "6221",
         "nome": "Expresso Vitória - São Jerônimo X Ipiranga Semi Direto (sem seguro) (Linha 382)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "22,95",
+        "valor": "24,65",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10347,7 +10347,7 @@
         "codigo": "6223",
         "nome": "Expresso Vitória - Porto Alegre X São Jerônimo Semi Direto (com seguro)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "33,20",
+        "valor": "35,50",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10355,7 +10355,7 @@
         "codigo": "6703",
         "nome": "Expresso Vitória - Cartão Charqueadas X São Jerônimo (Circular)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "6,70",
+        "valor": "7,20",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10363,7 +10363,7 @@
         "codigo": "9411",
         "nome": "Expresso Vitória - Cartão Arroio dos Ratos X Charqueadas",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "10,00",
+        "valor": "10,70",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10371,7 +10371,7 @@
         "codigo": "10046",
         "nome": "Expresso Vitória - São Jerônimo X Guaiba Comum (sem seguro)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "24,40",
+        "valor": "26,15",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10379,7 +10379,7 @@
         "codigo": "15167",
         "nome": "Expresso Vitória - São Jerônimo (via Charqueadas) X Guaiba - Comum (sem seguro)",
         "fornecedor": "Expresso Vitória - (VT Metroplan)",
-        "valor": "24,40",
+        "valor": "26,15",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10387,7 +10387,7 @@
         "codigo": "6203",
         "nome": "Expresso Vitória - Charqueadas X Eldorado (sem seguro)",
         "fornecedor": "Expresso Vitória - VT Daer",
-        "valor": "16,45",
+        "valor": "17,80",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10395,7 +10395,7 @@
         "codigo": "6207",
         "nome": "Expresso Vitória - Charqueadas X São Jerônimo (sem seguro) Linha 813",
         "fornecedor": "Expresso Vitória - VT Daer",
-        "valor": "7,65",
+        "valor": "8,25",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10403,7 +10403,7 @@
         "codigo": "6209",
         "nome": "Expresso Vitória - General Câmara X Charqueada Linha 813 (sem seguro)",
         "fornecedor": "Expresso Vitória - VT Daer",
-        "valor": "7,65",
+        "valor": "8,25",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10411,7 +10411,7 @@
         "codigo": "6210",
         "nome": "Expresso Vitória - Porto Alegre X Charqueadas (Linha 813)",
         "fornecedor": "Expresso Vitória - VT Daer",
-        "valor": "23,10",
+        "valor": "24,95",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10419,7 +10419,7 @@
         "codigo": "6214",
         "nome": "Expresso Vitória - Porto Alegre X São Jerônimo Comum (com seguro) (Linha 813)",
         "fornecedor": "Expresso Vitória - VT Daer",
-        "valor": "29,50",
+        "valor": "31,95",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10427,7 +10427,7 @@
         "codigo": "6216",
         "nome": "Expresso Vitória - Porto Alegre X São Jerônimo Comum (sem seguro) (Linha 813)",
         "fornecedor": "Expresso Vitória - VT Daer",
-        "valor": "27,45",
+        "valor": "29,75",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10435,7 +10435,7 @@
         "codigo": "6218",
         "nome": "Expresso Vitória - Porto Alegre X General Câmara Comum (sem seguro)",
         "fornecedor": "Expresso Vitória - VT Daer",
-        "valor": "33,90",
+        "valor": "34,45",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10443,7 +10443,7 @@
         "codigo": "6220",
         "nome": "Expresso Vitória - São Jerônimo X Ipiranga Comum (sem seguro) (Linha 813)",
         "fornecedor": "Expresso Vitória - VT Daer",
-        "valor": "17,50",
+        "valor": "18,90",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10451,7 +10451,7 @@
         "codigo": "9645",
         "nome": "Expresso Vitória - Charqueadas X Eldorado (com seguro)",
         "fornecedor": "Expresso Vitória - VT Daer",
-        "valor": "17,30",
+        "valor": "18,70",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -12814,22 +12814,6 @@
         "valor": "3,00",
         "uf": "SC",
         "cidade": "Imbituba"
-    },
-    {
-        "codigo": "8370",
-        "nome": "Consorcio Cidade Azul - Cartão Andrino Urbano",
-        "fornecedor": "Consorcio Cidade Azul",
-        "valor": "4,84",
-        "uf": "SC",
-        "cidade": "Tubarão"
-    },
-    {
-        "codigo": "8371",
-        "nome": "Consorcio Cidade Azul - Cartão Tubarão Urbano",
-        "fornecedor": "Consorcio Cidade Azul",
-        "valor": "4,84",
-        "uf": "SC",
-        "cidade": "Tubarão"
     },
     {
         "codigo": "19572",
@@ -25243,7 +25227,7 @@
         "codigo": "8144",
         "nome": "Viação Trevisan - Cartão Piracicaba X Charqueada",
         "fornecedor": "Viação Trevisan",
-        "valor": "11,00",
+        "valor": "11,05",
         "uf": "SP",
         "cidade": "Piracicaba"
     },

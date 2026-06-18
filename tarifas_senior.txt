@@ -298,6 +298,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15582;CT Expresso - Cartão Luziânia X Taguatinga;CT Expresso;12,30;5;10;GO;Luziânia;11/03/2026
 15583;CT Expresso - Cartão Luziânia X Gama;CT Expresso;8,15;5;10;GO;Luziânia;11/03/2026
 15584;CT Expresso - Cartão Luziânia X BRT (Santa Maria);CT Expresso;10,95;5;10;GO;Luziânia;08/05/2026
+9807;Passe Livre SIT - Cartão Passe Livre SIT;Passe Livre SIT;180,00;5;10;GO;Goiania;23/09/2022
 1340;SITPASS - Cartão Municipal Goiânia;Sitpass;4,30;3;10;GO;Goiânia;19/04/2019
 5533;Transduarte Passaredo - Cartão Municipal Catalão;Transduarte;5,00;5;10;GO;Catalão;13/01/2023
 9933;Translocave - Cartão Municipal Jataí;Translocave - Jataí;4,30;5;10;GO;Jataí;26/12/2022
@@ -787,7 +788,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10879;Viação Itaúna (QR-Code) - Cartão Belo Horizonte X Juatuba;Viação Itaúna - QR-Code;27,35;5;10;MG;Itauna;15/09/2025
 10880;Viação Itaúna (QR-Code) - Cartão Betim X Juatuba;Viação Itaúna - QR-Code;10,80;5;10;MG;Itauna;15/09/2025
 10881;Viação Itaúna (QR-Code) - Cartão Belo Horizonte X Itaúna;Viação Itaúna - QR-Code;46,40;5;10;MG;Itauna;15/09/2025
-15919;Viação José Maria - Cartão Coronel Pacheco X Juiz de Fora;Viação José Maria - PIX;16,75;5;10;MG;Juiz de Fora;15/12/2025
 19484;Viação Oliveira - Eletrônico - Cartão Governador Valadares X Era Nova;Viação Oliveira - Eletrônico;6,10;5;10;MG;Governador Valadares;22/01/2026
 19583;Viação Oliveira - Eletrônico - Cartão Governador Valadares X Alpercata;Viação Oliveira - Eletrônico;8,35;5;10;MG;Governador Valadares;02/04/2026
 1269;Viação Pássaro Branco - Cartão Municipal Patos de Minas;Viação Pássaro Branco;3,00;5;10;MG;Patos de Minas;05/02/2025
@@ -945,8 +945,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2924;SETRANS Vem Grande Recife - Cartão Recife Municipal (Tarifa G);SETRANS Vem Grande Recife;3,00;5;10;PE;Recife;03/02/2026
 8865;SETRANS Vem Grande Recife - Cartão 214 – UR-02/Ibura (opcional);SETRANS Vem Grande Recife;8,70;5;10;PE;Recife;03/02/2026
 1358;Setut - Cartão Setut Urbano Teresina;Setut;4,00;5;10;PI;Teresina;03/02/2020
-15995;Araucária - Cartão Angélica X Guadalupe;Araucária;5,50;5;10;PR;Araucária;19/08/2025
-15997;Campo Largo - Cartão Terminal Campo Largo X Estação Ferrari;Campo Largo;5,50;5;10;PR;Campo Largo;19/08/2025
+15995;Araucária - Cartão Angélica X Guadalupe;Araucária;5,90;5;10;PR;Araucária;17/06/2026
+15997;Campo Largo - Cartão Terminal Campo Largo X Estação Ferrari;Campo Largo;5,90;5;10;PR;Campo Largo;17/06/2026
 16000;Castelo Branco - Cartão Eugênia Maria X Jardim Paulista;Castelo Branco;5,50;5;10;PR;Campina Grande do Sul;20/08/2025
 2188;Cidade de Castro - Cartão Urbano Cidade de Castro;Cidade de Castro;5,00;5;10;PR;Castro;24/10/2023
 2189;Cidade de Castro - Cartão Carambeí;Cidade de Castro;6,75;5;10;PR;Castro;09/03/2026
@@ -960,7 +960,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9100;Cidade Verde - Cartão Maringá X Ivatuba;Cidade Verde;6,20;5;10;PR;Maringá;23/03/2026
 15388;Cidade Verde - Cartão Maringá X Floresta;Cidade Verde;6,55;5;10;PR;Maringá;18/02/2026
 6681;Consorcio Tupa - Cartão Urbano Pato Branco;Consorcio Tupa;5,00;5;10;PR;Pato Branco;01/04/2025
-15989;Expresso Azul - Pinhais - Cartão Pinhais X Campo Comprido;Expresso Azul - Pinhais;5,50;5;10;PR;Pinhais;19/08/2025
+15989;Expresso Azul - Pinhais - Cartão Pinhais X Campo Comprido;Expresso Azul - Pinhais;5,90;5;10;PR;Pinhais;17/06/2026
 6304;Expresso Nordeste - Cartão Cafelândia X Nova Aurora;Expresso Nordeste - Novo Sistema;8,50;5;10;PR;Apucarana;14/05/2026
 6305;Expresso Nordeste - Cartão Marilândia X Apucarana;Expresso Nordeste - Novo Sistema;6,50;5;10;PR;Apucarana;14/05/2026
 6306;Expresso Nordeste - Cartão Nova Aurora X Cafelândia;Expresso Nordeste - Novo Sistema;9,76;5;10;PR;Apucarana;14/05/2026
@@ -976,14 +976,14 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7074;Metrocard - Cartão Linhas Metropolitanas Integradas (R$ 6,00);Metrocard;6,00;5;10;PR;Curitiba;06/02/2024
 7075;Metrocard - Cartão Linhas Metropolitanas Integradas (R$5,00);Metrocard;5,00;5;10;PR;Curitiba;15/03/2022
 7076;Metrocard - Cartão Linhas Metropolitanas Integradas (R$ 5,50);Metrocard;5,50;5;10;PR;Curitiba;06/02/2024
-15993;Nobel - Cartão Santa Terezinha X Ipê;Nobel;5,50;5;10;SP;Fazenda Rio Grande;19/08/2025
+15993;Nobel - Cartão Santa Terezinha X Ipê;Nobel;5,90;5;10;SP;Fazenda Rio Grande;17/06/2026
 16002;Oceânica - Guaratuba - Cartão Municipal Guaratuba;Oceânica - Guaratuba;6,10;5;10;PR;Guaratuba;20/08/2025
 16003;Oceânica - Itapoá - Cartão Municipal Itapoá;Oceânica - Itapoá - QR-Code;5,00;5;10;SC;Itapoá;20/08/2025
 16005;Oceânica - Lapa - Cartão Municipal Lapa;Oceânica - Lapa - QR-Code;4,30;5;10;PR;Lapa;20/08/2025
 9872;Oceânica Sul - Cartão Lapa X Araucária;Oceânica Sul (Lapa - Arauc.) - QR-Code;8,50;5;10;PR;Pontal do Paraná;04/03/2026
 9618;Panamera Oceânica Sul - Cartão Pontal do Paraná Municipal;Panamera - OCEANICA PONTAL Sul;3,25;5;10;PR;Pontal do Paraná;04/08/2025
 2193;Pérola do Oeste - Cartão Pérola do Oeste Urbano;Pérola do Oeste;4,00;5;10;PR;Guarapuava;19/02/2025
-15991;Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque);Piraquara;5,50;5;10;SP;Piraquara;19/08/2025
+15991;Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque);Piraquara;5,90;5;10;SP;Piraquara;17/06/2026
 15764;Prefeitura de Campo Largo - Cartão Municipal Campo Largo;Prefeitura de Campo Largo;5,80;5;10;PR;Campo Largo;12/06/2025
 748;Princesa do Norte - Cartão Marília X Pompéia;Princesa do Norte;10,15;5;10;SP;Bauru;08/07/2025
 2849;Princesa do Norte - Cartão Marília X Tupã;Princesa do Norte;23,30;5;10;SP;Bauru;10/06/2026
@@ -1004,10 +1004,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10900;Princesa do Norte - Cartão Marques dos Reis X Ourinhos;Princesa do Norte - QR-Code;7,20;5;10;PR;Santo Antonio da Platina;25/03/2024
 19422;Princesa do Norte - Cartão Santo Antônio da Platina X Ourinhos;Princesa do Norte - QR-Code;11,90;5;10;PR;Santo Antonio da Platina;08/12/2025
 15994;Reunidas - Mandirituba - Cartão Areia Branca X Rui Barbosa;Reunidas - Mandirituba;6,50;5;10;SP;Mandirituba;19/08/2025
-15990;Santo Ângelo - Cartão Colombo X Cic;Santo Ângelo;5,50;5;10;SP;Colombo;19/08/2025
+15990;Santo Ângelo - Cartão Colombo X Cic;Santo Ângelo;5,90;5;10;SP;Colombo;17/06/2026
 15996;São Bento - Agudos do Sul - Cartão Fazenda X Agudos do Sul;São Bento - Agudos do Sul;6,50;5;10;SP;Agudos do Sul;19/08/2025
-16001;São Braz - Cartão Campo Novo X Santa Felicidade;São Braz;5,50;5;10;PR;Campo Magro;20/08/2025
-15992;São José - São José dos Pinhais - Cartão Quississana X Guadalupe;São José - São José dos Pinhais;5,50;5;10;SP;São José dos Pinhais;19/08/2025
+16001;São Braz - Cartão Campo Novo X Santa Felicidade;São Braz;5,90;5;10;PR;Campo Magro;17/06/2026
+15992;São José - São José dos Pinhais - Cartão Quississana X Guadalupe;São José - São José dos Pinhais;5,90;5;10;SP;São José dos Pinhais;17/06/2026
 8233;Sorrido de Toledo - Cartão São José X Toledo (Seccionado);Sorriso de Toledo - Metropolitano;9,30;5;10;PR;Toledo;19/05/2026
 15639;Sorriso de Toledo - Cartão Municipal Sorriso de Toledo;Sorriso de Toledo - Municipal Novo Sistema;3,50;5;10;PR;Toledo;11/03/2025
 19721;Sorriso de Toledo - Cartão Distrital Sorriso de Toledo;Sorriso de Toledo - Municipal Novo Sistema;5,00;5;10;PR;Toledo;26/05/2026
@@ -1016,33 +1016,33 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 1255;TCGL - Cartão CT Londrina Urbano / Curitiba;TCGL;6,25;5;10;PR;Londrina;19/01/2026
 6081;Transpiedade - Cartão União da Vitória e Porto União Rural;TCI;11,90;5;10;PR;União da Vitória;04/05/2022
 6082;Transpiedade - Cartão União da Vitória e Porto União Urbano;TCI;5,00;5;10;PR;União da Vitória;04/05/2022
-2184;Til transportes - Cartão CT Cambé X Ibiporã - Metropolitano / Curitiba;TCR;6,20;5;10;PR;Londrina;18/02/2026
+2184;Til transportes - Cartão CT Cambé X Ibiporã - Metropolitano / Curitiba;TCR;6,50;5;10;PR;Londrina;17/06/2026
 2266;TUA Transporte Urbano Arapongas - Cartão TUA Arapongas Municipal;TUA Transporte Urbano Arapongas;5,00;5;10;PR;Arapongas;02/01/2026
 315;Urbs Curitiba - Cartão Urbs / Curitiba;URBS Curitiba;6,00;5;10;PR;Curitiba;02/03/2023
 1087;Valesim - Cartão Cascavel - Centro / Curitiba;Valesim;4,65;5;10;PR;Cascavel;08/09/2023
 2267;Viação Apucarana - Cartão Apucarana Municipal;Viação Apucarana - (Novo Sistema);5,20;5;10;PR;Apucarana;15/12/2025
 15865;Viação Campos Gerais - Cartão Municipal Ponta Grossa;Viação Campos Gerais - Novo Sistema;6,00;5;10;PR;Ponta Grossa;13/04/2026
-15999;Viação do Sul - Itaperuçu - Cartão Itaperuçu X Praça 19;Viação do Sul - Itaperuçu;5,50;5;10;SP;Itaperuçu;20/08/2025
+15999;Viação do Sul - Itaperuçu - Cartão Itaperuçu X Praça 19;Viação do Sul - Itaperuçu;5,90;5;10;SP;Itaperuçu;17/06/2026
 2284;Viação Garcia - Cartão Mandaguari X Maringá;Viação Garcia;6,85;5;10;PR;Londrina;14/05/2026
-2285;Viação Garcia - Cartão Maringá X Nova Esperança;Viação Garcia;8,75;5;10;PR;Londrina;14/05/2026
+2285;Viação Garcia - Cartão Maringá X Nova Esperança;Viação Garcia;9,20;5;10;PR;Londrina;17/06/2026
 2310;Viação Garcia - Cartão Maringá X Iguaraçu - Metropolitano;Viação Garcia;6,90;5;10;PR;Londrina;19/02/2026
-2319;Viação Garcia - Cartão Maringá X Mandaguaçu;Viação Garcia;6,55;5;10;PR;Londrina;19/02/2026
+2319;Viação Garcia - Cartão Maringá X Mandaguaçu;Viação Garcia;6,90;5;10;PR;Londrina;17/06/2026
 4160;Viação Garcia - Cartão Paranavaí X Nova Esperança;Viação Garcia;6,75;5;10;PR;Londrina;19/02/2026
 4472;Viação Garcia - Cartão Astorga x Maringá;Viação Garcia;10,15;5;10;PR;Londrina;19/02/2026
 4475;Viação Garcia - Cartão Maringá x Marialva;Viação Garcia;6,20;5;10;PR;Londrina;19/02/2026
 6023;Viação Garcia - Cartão Araponga X Astorga;Viação Garcia - (Arapon - Astor);7,00;5;10;PR;Maringá;19/02/2026
-6025;Viação Garcia - Cartão Londrina X Assai;Viação Garcia - (Lond - Assai);9,10;5;10;PR;Maringá;13/05/2026
+6025;Viação Garcia - Cartão Londrina X Assai;Viação Garcia - (Lond - Assai);9,55;5;10;PR;Maringá;17/06/2026
 15316;Viação Garcia - Cartão Londrina X Bela Vista do Paraíso;Viação Garcia - (Lond - B. Vista do Par);9,10;5;10;PR;Maringá;07/05/2025
 6026;Viação Garcia - Cartão Londrina X Bela Vista;Viação Garcia - (Lond - B. Vista);9,45;5;10;PR;Maringá;19/02/2026
-6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,55;5;10;PR;Maringá;19/02/2026
+6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,90;5;10;PR;Maringá;17/06/2026
 6028;Viação Garcia - Cartão Londrina X Rolandia;Viação Garcia - (Lond - Rolan);6,55;5;10;PR;Maringá;19/02/2026
 6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;6,75;5;10;PR;Londrina;19/02/2026
 6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;7,15;5;10;PR;Maringá;14/05/2026
 15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;10,15;5;10;PR;Curitiba;02/04/2026
 15889;Viação Graciosa - Curitiba x Morretes;Viação Graciosa - QR-Code;39,98;5;10;PR;Curitiba;02/04/2026
 15890;Viação Graciosa - Morretes x Curitiba;Viação Graciosa - QR-Code;34,99;5;10;PR;Curitiba;02/04/2026
-4844;Viação Iapó - Cartão Ponta Grossa X Castro;Viação Iapó;8,55;5;10;PR;Ponta Grossa;04/03/2026
-5926;Viação Iapó - Castro X Piraí do Sul;Viação Iapó;6,75;5;10;PR;Ponta Grossa;04/03/2026
+4844;Viação Iapó - Cartão Ponta Grossa X Castro;Viação Iapó;8,95;5;10;PR;Ponta Grossa;17/06/2026
+5926;Viação Iapó - Castro X Piraí do Sul;Viação Iapó;7,10;5;10;PR;Ponta Grossa;17/06/2026
 6852;Viação Rocio - Cartão Paranaguá Municipal;Viação Rocio;3,70;5;10;PR;Paranaguá;21/03/2022
 9800;Viação Rocio - Cartão VIP;Viação Rocio;0,01;5;10;PR;Paranaguá;21/09/2022
 2268;Viação Santa Clara Foz do Iguaçu - Cartão Municipal Foz do Iguaçu;Viação Santa Clara - Foz do Iguaçu;5,00;5;10;PR;Foz do Iguaçu;16/05/2024
@@ -1282,30 +1282,30 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19467;Expresso São José - Cartão Curumim X Atlântidasul (Linha E107);Expresso São José;6,70;5;10;RS;Tramandaí;08/06/2026
 19623;Expresso São José - Cartão Municipal Tramandaí;Expresso São José;5,20;5;10;RS;Tramandaí;05/05/2026
 6755;Expresso Vitória - Cartão Charqueada Urbano;Expresso Vitória (VT Metroplan);3,60;5;10;RS;Porto Alegre;01/06/2019
-6205;Expresso Vitória - Charqueadas X Ipiranga Semi Direto (com seguro) Linha 898;Expresso Vitória - (VT Metroplan);22,55;5;10;RS;Porto Alegre;07/07/2025
-6206;Expresso Vitória - Charqueadas X São Jerônimo (sem seguro) Linha 382;Expresso Vitória - (VT Metroplan);8,60;5;10;RS;Porto Alegre;07/07/2025
+6205;Expresso Vitória - Charqueadas X Ipiranga Semi Direto (com seguro) Linha 898;Expresso Vitória - (VT Metroplan);28,55;5;10;RS;Porto Alegre;17/06/2026
+6206;Expresso Vitória - Charqueadas X São Jerônimo (sem seguro) Linha 382;Expresso Vitória - (VT Metroplan);9,25;5;10;RS;Porto Alegre;17/06/2026
 6208;Expresso Vitória - Charqueadas X Poa (G. Carola) Semi Direto (sem seguro);Expresso Vitória - (VT Metroplan);26,60;5;10;RS;Porto Alegre;07/07/2025
-6211;Expresso Vitória - Porto Alegre X Charqueadas Comum (sem seguro) (Linha 898);Expresso Vitória - (VT Metroplan);22,55;5;10;RS;Porto Alegre;07/07/2025
-6212;Expresso Vitória - Porto Alegre X Charqueadas Semi Direto (com seguro) (Linha 898);Expresso Vitória - (VT Metroplan);28,65;5;10;RS;Porto Alegre;07/07/2025
-6213;Expresso Vitória - Porto Alegre X São Jerônimo Comum (com seguro) (Linha 382);Expresso Vitória - (VT Metroplan);28,55;5;10;RS;Porto Alegre;07/07/2025
-6215;Expresso Vitória - Porto Alegre X São Jerônimo Comum (sem seguro (Linha 382);Expresso Vitória - (VT Metroplan);26,50;5;10;RS;Porto Alegre;07/07/2025
-6217;Expresso Vitória - Porto Alegre X São Jerônimo Semi Direto (sem seguro) (Linha 382);Expresso Vitória - (VT Metroplan);31,15;5;10;RS;Porto Alegre;07/07/2025
-6219;Expresso Vitória - São Jerônimo X Ipiranga Comum (sem seguro) (Linha 382);Expresso Vitória - (VT Metroplan);19,40;5;10;RS;Porto Alegre;07/07/2025
-6221;Expresso Vitória - São Jerônimo X Ipiranga Semi Direto (sem seguro) (Linha 382);Expresso Vitória - (VT Metroplan);22,95;5;10;RS;Porto Alegre;07/07/2025
-6223;Expresso Vitória - Porto Alegre X São Jerônimo Semi Direto (com seguro);Expresso Vitória - (VT Metroplan);33,20;5;10;RS;Porto Alegre;07/07/2025
-6703;Expresso Vitória - Cartão Charqueadas X São Jerônimo (Circular);Expresso Vitória - (VT Metroplan);6,70;5;10;RS;Porto Alegre;07/07/2025
-9411;Expresso Vitória - Cartão Arroio dos Ratos X Charqueadas;Expresso Vitória - (VT Metroplan);10,00;5;10;RS;Porto Alegre;07/07/2025
-10046;Expresso Vitória - São Jerônimo X Guaiba Comum (sem seguro);Expresso Vitória - (VT Metroplan);24,40;5;10;RS;Porto Alegre;07/07/2025
-15167;Expresso Vitória - São Jerônimo (via Charqueadas) X Guaiba - Comum (sem seguro);Expresso Vitória - (VT Metroplan);24,40;5;10;RS;Porto Alegre;07/07/2025
-6203;Expresso Vitória - Charqueadas X Eldorado (sem seguro);Expresso Vitória - VT Daer;16,45;5;10;RS;Porto Alegre;05/12/2024
-6207;Expresso Vitória - Charqueadas X São Jerônimo (sem seguro) Linha 813;Expresso Vitória - VT Daer;7,65;5;10;RS;Porto Alegre;05/12/2024
-6209;Expresso Vitória - General Câmara X Charqueada Linha 813 (sem seguro);Expresso Vitória - VT Daer;7,65;5;10;RS;Porto Alegre;05/12/2024
-6210;Expresso Vitória - Porto Alegre X Charqueadas (Linha 813);Expresso Vitória - VT Daer;23,10;5;10;RS;Porto Alegre;05/12/2024
-6214;Expresso Vitória - Porto Alegre X São Jerônimo Comum (com seguro) (Linha 813);Expresso Vitória - VT Daer;29,50;5;10;RS;Porto Alegre;05/12/2024
-6216;Expresso Vitória - Porto Alegre X São Jerônimo Comum (sem seguro) (Linha 813);Expresso Vitória - VT Daer;27,45;5;10;RS;Porto Alegre;05/12/2024
-6218;Expresso Vitória - Porto Alegre X General Câmara Comum (sem seguro);Expresso Vitória - VT Daer;33,90;5;10;RS;Porto Alegre;05/12/2024
-6220;Expresso Vitória - São Jerônimo X Ipiranga Comum (sem seguro) (Linha 813);Expresso Vitória - VT Daer;17,50;5;10;RS;Porto Alegre;05/12/2024
-9645;Expresso Vitória - Charqueadas X Eldorado (com seguro);Expresso Vitória - VT Daer;17,30;5;10;RS;Porto Alegre;05/12/2024
+6211;Expresso Vitória - Porto Alegre X Charqueadas Comum (sem seguro) (Linha 898);Expresso Vitória - (VT Metroplan);24,20;5;10;RS;Porto Alegre;17/06/2026
+6212;Expresso Vitória - Porto Alegre X Charqueadas Semi Direto (com seguro) (Linha 898);Expresso Vitória - (VT Metroplan);30,60;5;10;RS;Porto Alegre;17/06/2026
+6213;Expresso Vitória - Porto Alegre X São Jerônimo Comum (com seguro) (Linha 382);Expresso Vitória - (VT Metroplan);30,45;5;10;RS;Porto Alegre;17/06/2026
+6215;Expresso Vitória - Porto Alegre X São Jerônimo Comum (sem seguro (Linha 382);Expresso Vitória - (VT Metroplan);28,40;5;10;RS;Porto Alegre;17/06/2026
+6217;Expresso Vitória - Porto Alegre X São Jerônimo Semi Direto (sem seguro) (Linha 382);Expresso Vitória - (VT Metroplan);33,45;5;10;RS;Porto Alegre;17/06/2026
+6219;Expresso Vitória - São Jerônimo X Ipiranga Comum (sem seguro) (Linha 382);Expresso Vitória - (VT Metroplan);20,85;5;10;RS;Porto Alegre;17/06/2026
+6221;Expresso Vitória - São Jerônimo X Ipiranga Semi Direto (sem seguro) (Linha 382);Expresso Vitória - (VT Metroplan);24,65;5;10;RS;Porto Alegre;17/06/2026
+6223;Expresso Vitória - Porto Alegre X São Jerônimo Semi Direto (com seguro);Expresso Vitória - (VT Metroplan);35,50;5;10;RS;Porto Alegre;17/06/2026
+6703;Expresso Vitória - Cartão Charqueadas X São Jerônimo (Circular);Expresso Vitória - (VT Metroplan);7,20;5;10;RS;Porto Alegre;17/06/2026
+9411;Expresso Vitória - Cartão Arroio dos Ratos X Charqueadas;Expresso Vitória - (VT Metroplan);10,70;5;10;RS;Porto Alegre;17/06/2026
+10046;Expresso Vitória - São Jerônimo X Guaiba Comum (sem seguro);Expresso Vitória - (VT Metroplan);26,15;5;10;RS;Porto Alegre;17/06/2026
+15167;Expresso Vitória - São Jerônimo (via Charqueadas) X Guaiba - Comum (sem seguro);Expresso Vitória - (VT Metroplan);26,15;5;10;RS;Porto Alegre;17/06/2026
+6203;Expresso Vitória - Charqueadas X Eldorado (sem seguro);Expresso Vitória - VT Daer;17,80;5;10;RS;Porto Alegre;17/06/2026
+6207;Expresso Vitória - Charqueadas X São Jerônimo (sem seguro) Linha 813;Expresso Vitória - VT Daer;8,25;5;10;RS;Porto Alegre;17/06/2026
+6209;Expresso Vitória - General Câmara X Charqueada Linha 813 (sem seguro);Expresso Vitória - VT Daer;8,25;5;10;RS;Porto Alegre;17/06/2026
+6210;Expresso Vitória - Porto Alegre X Charqueadas (Linha 813);Expresso Vitória - VT Daer;24,95;5;10;RS;Porto Alegre;17/06/2026
+6214;Expresso Vitória - Porto Alegre X São Jerônimo Comum (com seguro) (Linha 813);Expresso Vitória - VT Daer;31,95;5;10;RS;Porto Alegre;17/06/2026
+6216;Expresso Vitória - Porto Alegre X São Jerônimo Comum (sem seguro) (Linha 813);Expresso Vitória - VT Daer;29,75;5;10;RS;Porto Alegre;17/06/2026
+6218;Expresso Vitória - Porto Alegre X General Câmara Comum (sem seguro);Expresso Vitória - VT Daer;34,45;5;10;RS;Porto Alegre;17/06/2026
+6220;Expresso Vitória - São Jerônimo X Ipiranga Comum (sem seguro) (Linha 813);Expresso Vitória - VT Daer;18,90;5;10;RS;Porto Alegre;17/06/2026
+9645;Expresso Vitória - Charqueadas X Eldorado (com seguro);Expresso Vitória - VT Daer;18,70;5;10;RS;Porto Alegre;17/06/2026
 16201;Expresso Vitória - São Jerônimo X Eldorado (comum e sem seguro);Expresso Vitória - VT Daer;19,95;5;10;RS;Porto Alegre;16/10/2025
 8668;Fátima Transportes - Cartão Boa Vista X Porto Garibaldi Interm. (sem seguro);Fátima Transportes;9,25;5;10;RS;Nova Santa Rita;12/06/2026
 8669;Fátima Transportes - Cartão Coxilha Velha X Monte Negro (sem seguro);Fátima Transportes;9,45;5;10;RS;Nova Santa Rita;13/04/2026
@@ -1601,8 +1601,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16191;Coletivos Rainha - Cartão Municipal São Bento do Sul;Coletivos Rainha - Eletrônico;5,30;5;10;SC;São Bento do Sul;16/10/2025
 19486;Coletivos Rainha - Cartão São Bento X Rio Negrinho;Coletivos Rainha - Eletrônico;9,25;5;10;SC;São Bento do Sul;23/01/2026
 15823;Coleurb Imbituba - Cartão Municipal Imbituba;Coleurb - Imbituba;3,00;5;10;SC;Imbituba;24/06/2025
-8370;Consorcio Cidade Azul - Cartão Andrino Urbano;Consorcio Cidade Azul;4,84;5;10;SC;Tubarão;07/06/2022
-8371;Consorcio Cidade Azul - Cartão Tubarão Urbano;Consorcio Cidade Azul;4,84;5;10;SC;Tubarão;21/06/2022
 19572;Viação São José - Cartão Urussanga X Criciúma;Empresa Auto Viação São José;7,00;5;10;SC;Urussanga;01/04/2026
 19574;Viação São José - Cartão Cocal X Criciúma;Empresa Auto Viação São José;4,90;5;10;SC;Urussanga;01/04/2026
 19575;Viação São José - Cartão Cocal X Urussunga;Empresa Auto Viação São José;4,00;5;10;SC;Urussanga;01/04/2026
@@ -3154,7 +3152,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15730;Viação São Bento - Cartão Ribeirão Preto X Altinópolis;Viação São Bento - Novo Sistema;22,35;5;10;SP;Ribeirão Preto;09/01/2026
 19584;Viação São Bento - Cartão Ribeirão Preto X Orlândia;Viação São Bento - Novo Sistema;17,00;5;10;SP;Ribeirão Preto;02/04/2026
 8143;Viação Trevisan - Cartão Rio das Pedras X Piracicaba;Viação Trevisan;6,95;5;10;SP;Piracicaba;07/07/2025
-8144;Viação Trevisan - Cartão Piracicaba X Charqueada;Viação Trevisan;11,00;5;10;SP;Piracicaba;07/07/2025
+8144;Viação Trevisan - Cartão Piracicaba X Charqueada;Viação Trevisan;11,05;5;10;SP;Piracicaba;17/06/2026
 9000;Viação Trevisan - Cartão Piracicaba X Saltinho;Viação Trevisan;6,95;5;10;SP;Piracicaba;07/07/2025
 6851;Viação Vale do Ribeira - Cartão Municipal Registro;Viação Vale do Ribeira;3,80;5;10;SP;Registro;01/01/2022
 3647;Viasol - Cartão Rio Claro X Santa Gertrudes Suburbana;Viasol;6,60;5;10;SP;Rio Claro;07/07/2025
