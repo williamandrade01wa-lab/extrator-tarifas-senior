@@ -104,6 +104,14 @@
         "cidade": "Itabuna"
     },
     {
+        "codigo": "19600",
+        "nome": "Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro",
+        "fornecedor": "Atlântico Transportes - Juazeiro - Distrito - PIX",
+        "valor": "5,25",
+        "uf": "BA",
+        "cidade": "Juazeiro"
+    },
+    {
         "codigo": "19601",
         "nome": "Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro",
         "fornecedor": "Atlântico Transportes - Juazeiro - Interestadual - PIX",
@@ -116,14 +124,6 @@
         "nome": "Atlântico Transportes - Juazeiro - Cartão Municipal Juazeiro",
         "fornecedor": "Atlântico Transportes - Juazeiro - PIX",
         "valor": "4,25",
-        "uf": "BA",
-        "cidade": "Juazeiro"
-    },
-    {
-        "codigo": "19600",
-        "nome": "Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro",
-        "fornecedor": "Atlântico Transportes - Juazeiro - PIX",
-        "valor": "5,25",
         "uf": "BA",
         "cidade": "Juazeiro"
     },
@@ -8195,7 +8195,7 @@
         "codigo": "2284",
         "nome": "Viação Garcia - Cartão Mandaguari X Maringá",
         "fornecedor": "Viação Garcia",
-        "valor": "6,85",
+        "valor": "7,20",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8243,7 +8243,7 @@
         "codigo": "4475",
         "nome": "Viação Garcia - Cartão Maringá x Marialva",
         "fornecedor": "Viação Garcia",
-        "valor": "6,20",
+        "valor": "6,50",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8291,7 +8291,7 @@
         "codigo": "6028",
         "nome": "Viação Garcia - Cartão Londrina X Rolandia",
         "fornecedor": "Viação Garcia - (Lond - Rolan)",
-        "valor": "6,55",
+        "valor": "6,90",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -8299,7 +8299,7 @@
         "codigo": "6022",
         "nome": "Viação Garcia - Cartão Apucarana X Mandaguari",
         "fornecedor": "Viação Garcia - Apucarana Mandaguari",
-        "valor": "6,75",
+        "valor": "7,10",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -9752,6 +9752,14 @@
         "cidade": "Natal"
     },
     {
+        "codigo": "15852",
+        "nome": "J L Turismo - Municipal Candeias do Jamari",
+        "fornecedor": "J L Turismo",
+        "valor": "5,30",
+        "uf": "RO",
+        "cidade": "Candeias do Jamari"
+    },
+    {
         "codigo": "15762",
         "nome": "JTP Transportes - Cartão Municipal Porto Velho",
         "fornecedor": "JTP Transportes - Porto Velho - Novo Sistema",
@@ -9835,7 +9843,7 @@
         "codigo": "2837",
         "nome": "Caxiense - Cartão Caxias do Sul X Flores da Cunha / Porto Alegre e Região",
         "fornecedor": "Caxiense",
-        "valor": "8,50",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -13918,14 +13926,6 @@
         "valor": "10,30",
         "uf": "SE",
         "cidade": "Aracajú"
-    },
-    {
-        "codigo": "19593",
-        "nome": "Coopetaju - Povoado X Terra Dura (Vencimento 30 dias)",
-        "fornecedor": "Coopetaju",
-        "valor": "14,00",
-        "uf": "SE",
-        "cidade": "Aracaju"
     },
     {
         "codigo": "19427",
@@ -21339,7 +21339,7 @@
         "codigo": "730",
         "nome": "Rápido Fênix - Cartão Itatiba X Bragança (nominal)",
         "fornecedor": "Rápido Fênix",
-        "valor": "9,10",
+        "valor": "14,90",
         "uf": "SP",
         "cidade": "Itatiba"
     },

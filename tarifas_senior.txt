@@ -12,9 +12,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 381;Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá;Setap - Intermunicipal;4,00;5;10;AP;Macapá;16/08/2023
 2583;Alagoinhas - Cartão Urbano Alagoinhas;Alagoinhas;4,60;5;10;BA;Alagoinhas;12/02/2026
 8600;Atlântico Transportes (Itabuna) - Cartão Municipal Itabuna;Atlântico Transportes - Itabuna;4,30;5;10;BA;Itabuna;01/10/2025
+19600;Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro;Atlântico Transportes - Juazeiro - Distrito - PIX;5,25;5;10;BA;Juazeiro;23/04/2026
 19601;Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro;Atlântico Transportes - Juazeiro - Interestadual - PIX;5,00;5;10;BA;Juazeiro;23/04/2026
 19519;Atlântico Transportes - Juazeiro - Cartão Municipal Juazeiro;Atlântico Transportes - Juazeiro - PIX;4,25;5;10;BA;Juazeiro;23/04/2026
-19600;Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro;Atlântico Transportes - Juazeiro - PIX;5,25;5;10;BA;Juazeiro;23/04/2026
 7449;Atlântico Transportes (Paulo Afonso) - Cartão Municipal Paulo Afonso;Atlântico Transportes - Paulo Afonso;4,00;5;10;BA;Paulo Afonso;01/05/2021
 15624;Atranspi - Cartão Municipal Ilhéus;Atranspi - Novo Sistema;4,50;5;10;BA;Ilheus;17/06/2025
 10841;ATUV - Cartório Municipal Vitória da Conquista;ATUV - Novo Sistema;4,00;5;10;BA;Vitória da Conquista;02/01/2026
@@ -1023,20 +1023,20 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2267;Viação Apucarana - Cartão Apucarana Municipal;Viação Apucarana - (Novo Sistema);5,20;5;10;PR;Apucarana;15/12/2025
 15865;Viação Campos Gerais - Cartão Municipal Ponta Grossa;Viação Campos Gerais - Novo Sistema;6,00;5;10;PR;Ponta Grossa;13/04/2026
 15999;Viação do Sul - Itaperuçu - Cartão Itaperuçu X Praça 19;Viação do Sul - Itaperuçu;5,90;5;10;SP;Itaperuçu;17/06/2026
-2284;Viação Garcia - Cartão Mandaguari X Maringá;Viação Garcia;6,85;5;10;PR;Londrina;14/05/2026
+2284;Viação Garcia - Cartão Mandaguari X Maringá;Viação Garcia;7,20;5;10;PR;Londrina;18/06/2026
 2285;Viação Garcia - Cartão Maringá X Nova Esperança;Viação Garcia;9,20;5;10;PR;Londrina;17/06/2026
 2310;Viação Garcia - Cartão Maringá X Iguaraçu - Metropolitano;Viação Garcia;6,90;5;10;PR;Londrina;19/02/2026
 2319;Viação Garcia - Cartão Maringá X Mandaguaçu;Viação Garcia;6,90;5;10;PR;Londrina;17/06/2026
 4160;Viação Garcia - Cartão Paranavaí X Nova Esperança;Viação Garcia;6,75;5;10;PR;Londrina;19/02/2026
 4472;Viação Garcia - Cartão Astorga x Maringá;Viação Garcia;10,15;5;10;PR;Londrina;19/02/2026
-4475;Viação Garcia - Cartão Maringá x Marialva;Viação Garcia;6,20;5;10;PR;Londrina;19/02/2026
+4475;Viação Garcia - Cartão Maringá x Marialva;Viação Garcia;6,50;5;10;PR;Londrina;18/06/2026
 6023;Viação Garcia - Cartão Araponga X Astorga;Viação Garcia - (Arapon - Astor);7,00;5;10;PR;Maringá;19/02/2026
 6025;Viação Garcia - Cartão Londrina X Assai;Viação Garcia - (Lond - Assai);9,55;5;10;PR;Maringá;17/06/2026
 15316;Viação Garcia - Cartão Londrina X Bela Vista do Paraíso;Viação Garcia - (Lond - B. Vista do Par);9,10;5;10;PR;Maringá;07/05/2025
 6026;Viação Garcia - Cartão Londrina X Bela Vista;Viação Garcia - (Lond - B. Vista);9,45;5;10;PR;Maringá;19/02/2026
 6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,90;5;10;PR;Maringá;17/06/2026
-6028;Viação Garcia - Cartão Londrina X Rolandia;Viação Garcia - (Lond - Rolan);6,55;5;10;PR;Maringá;19/02/2026
-6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;6,75;5;10;PR;Londrina;19/02/2026
+6028;Viação Garcia - Cartão Londrina X Rolandia;Viação Garcia - (Lond - Rolan);6,90;5;10;PR;Maringá;18/06/2026
+6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;7,10;5;10;PR;Londrina;18/06/2026
 6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;7,15;5;10;PR;Maringá;14/05/2026
 15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;10,15;5;10;PR;Curitiba;02/04/2026
 15889;Viação Graciosa - Curitiba x Morretes;Viação Graciosa - QR-Code;39,98;5;10;PR;Curitiba;02/04/2026
@@ -1218,6 +1218,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15344;Trampolim - Cartão Pirangi X Natal (Linha 24 / Nível 03);Trampolim;6,00;5;10;RN;Natal;20/04/2026
 15673;Trampolim - Cartão Ruy Pereira (Linha 207 / Nível 12);Trampolim;4,00;5;10;RN;Natal;25/04/2025
 15674;Trampolim - Cartão Aeroporto (Linha 208 / Nível 12);Trampolim;4,00;5;10;RN;Natal;25/04/2025
+15852;J L Turismo - Municipal Candeias do Jamari;J L Turismo;5,30;5;10;RO;Candeias do Jamari;27/06/2025
 15762;JTP Transportes - Cartão Municipal Porto Velho;JTP Transportes - Porto Velho - Novo Sistema;3,00;5;10;RO;Porto Velho;12/06/2025
 10904;Boa Vista - Cartão Municipal Boa Vista;Boa Vista;5,50;5;10;RR;Boa Vista;28/03/2024
 9701;Agente de Turismo Santa Cruz - Cartão Zona Rural Pelotas;Agente de Turismo Santa Cruz;6,25;5;10;RS;Pelotas;13/03/2026
@@ -1228,7 +1229,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8960;Bento Transportes (Farroupilha) - Cartão Farroupilha X Carlos Barbosa;Bento Transportes - Farroupilha;8,50;5;10;RS;Farroupilha;05/11/2025
 8961;Bento Transportes (Farroupilha) - Cartão Nova Sardenha X Carlos Barbosa;Bento Transportes - Farroupilha;8,50;5;10;RS;Farroupilha;05/11/2025
 15556;Caiense - Cartão Municipal São Sebastião do Caí;Caiense;5,25;5;10;RS;São Sebastião do Caí;14/01/2025
-2837;Caxiense - Cartão Caxias do Sul X Flores da Cunha / Porto Alegre e Região;Caxiense;8,50;5;10;RS;Porto Alegre;07/10/2025
+2837;Caxiense - Cartão Caxias do Sul X Flores da Cunha / Porto Alegre e Região;Caxiense;9,25;5;10;RS;Porto Alegre;18/06/2026
 2847;Caxiense - Cartão Otávio Rocha X Caxias do Sul (Vila Santa Justina) / Porto Alegre e Região;Caxiense;8,15;5;10;RS;Porto Alegre;21/03/2025
 3353;Caxiense - Cartão Antônio Prado X Caxias do Sul;Caxiense;22,40;5;10;RS;Porto Alegre;07/10/2025
 3355;Caxiense - Cartão Caxias do Sul X Nova Pádua;Caxiense;15,20;5;10;RS;Porto Alegre;07/10/2025
@@ -1739,7 +1740,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7427;Coopertalse - Cartão Aracaju X Malhador;Coopertalse;12,60;5;10;SE;Aracajú;28/04/2025
 7429;Coopertalse - Cartão Aracaju X Divina Pastora;Coopertalse;10,30;5;10;SE;Aracajú;28/04/2025
 7430;Coopertalse - Cartão Aracaju X Santa Rosa De Lima;Coopertalse;10,30;5;10;SE;Aracajú;28/04/2025
-19593;Coopetaju - Povoado X Terra Dura (Vencimento 30 dias);Coopetaju;14,00;5;10;SE;Aracaju;16/04/2026
 19427;Pagowaju - Cartão Municipal Aracaju;Pagowaju;4,50;5;10;SE;Aracaju;10/12/2025
 1092;ABC Caçapava - Cartão Caçapava Urbano;ABC Caçapava;4,75;5;10;SP;Caçapava;15/07/2019
 7350;ABC Caçapava - Integração;ABC Caçapava;1,45;5;10;SP;Caçapava;10/07/2019
@@ -2666,7 +2666,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6717;Rápido D Oeste - Cartão Ribeirão Preto X Jardinópolis;Rápido D Oeste;8,25;5;10;SP;Ribeirão Preto;07/07/2025
 9727;Rápido D Oeste - Cartão Ribeirão Preto X Cravinhos;Rápido D Oeste;8,25;5;10;SP;Ribeirão Preto;07/07/2025
 9901;Rápido D Oeste - Cartão Pontal X Candia;Rápido D Oeste;7,35;5;10;SP;Ribeirão Preto;07/07/2025
-730;Rápido Fênix - Cartão Itatiba X Bragança (nominal);Rápido Fênix;9,10;5;10;SP;Itatiba;30/09/2025
+730;Rápido Fênix - Cartão Itatiba X Bragança (nominal);Rápido Fênix;14,90;5;10;SP;Itatiba;18/06/2026
 788;Rápido Fênix - Cartão Itatiba X Jundiaí (nominal);Rápido Fênix;9,65;5;10;SP;Itatiba;07/07/2025
 4149;Rápido Fênix - Cartão Bragança Paulista X São Sebastião (nominal);Rápido Fênix;10,40;5;10;SP;Itatiba;07/07/2025
 5118;Rápido Fênix - Cartão Itatiba X Atibaia (nominal);Rápido Fênix;13,10;5;10;SP;Itatiba;07/07/2025
