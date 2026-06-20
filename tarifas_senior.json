@@ -7424,6 +7424,14 @@
         "cidade": "Jaboatão dos Guararapes"
     },
     {
+        "codigo": "19765",
+        "nome": "Expresso 1002 - Cartão Recife X Tracunhaém",
+        "fornecedor": "Expresso 1002",
+        "valor": "19,50",
+        "uf": "PE",
+        "cidade": "Jaboatão dos Guararapes"
+    },
+    {
         "codigo": "5416",
         "nome": "Rodotur Turismo - Cartão Goiana X Igarassu",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
@@ -8211,7 +8219,7 @@
         "codigo": "2310",
         "nome": "Viação Garcia - Cartão Maringá X Iguaraçu - Metropolitano",
         "fornecedor": "Viação Garcia",
-        "valor": "6,90",
+        "valor": "7,25",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8227,7 +8235,7 @@
         "codigo": "4160",
         "nome": "Viação Garcia - Cartão Paranavaí X Nova Esperança",
         "fornecedor": "Viação Garcia",
-        "valor": "6,75",
+        "valor": "7,10",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8235,7 +8243,7 @@
         "codigo": "4472",
         "nome": "Viação Garcia - Cartão Astorga x Maringá",
         "fornecedor": "Viação Garcia",
-        "valor": "10,15",
+        "valor": "10,65",
         "uf": "PR",
         "cidade": "Londrina"
     },
@@ -8251,7 +8259,7 @@
         "codigo": "6023",
         "nome": "Viação Garcia - Cartão Araponga X Astorga",
         "fornecedor": "Viação Garcia - (Arapon - Astor)",
-        "valor": "7,00",
+        "valor": "7,35",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -8267,7 +8275,7 @@
         "codigo": "15316",
         "nome": "Viação Garcia - Cartão Londrina X Bela Vista do Paraíso",
         "fornecedor": "Viação Garcia - (Lond - B. Vista do Par)",
-        "valor": "9,10",
+        "valor": "9,90",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -8307,7 +8315,7 @@
         "codigo": "6021",
         "nome": "Viação Garcia - Cartão Apucarana X Rolandia",
         "fornecedor": "Viação Garcia - Apucarana Rolandia",
-        "valor": "7,15",
+        "valor": "7,50",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -8884,6 +8892,14 @@
         "nome": "Setransol - Cartão Municipal Arraial do Cabo",
         "fornecedor": "Setransol",
         "valor": "2,00",
+        "uf": "RJ",
+        "cidade": "Cabo Frio"
+    },
+    {
+        "codigo": "19766",
+        "nome": "Setransol - Cartão Programa Busão de Tamoios",
+        "fornecedor": "Setransol",
+        "valor": "3,00",
         "uf": "RJ",
         "cidade": "Cabo Frio"
     },
