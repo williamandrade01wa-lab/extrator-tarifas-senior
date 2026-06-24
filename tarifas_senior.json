@@ -14344,6 +14344,14 @@
         "cidade": "Ourinhos"
     },
     {
+        "codigo": "19767",
+        "nome": "Bauru - Comodato",
+        "fornecedor": "Bauru - Comodato",
+        "valor": "5,75",
+        "uf": "SP",
+        "cidade": "Bauru"
+    },
+    {
         "codigo": "19449",
         "nome": "BB Turismo - Cartão Municipal Barueri",
         "fornecedor": "BB Turismo (Benfácil) - Barueri",

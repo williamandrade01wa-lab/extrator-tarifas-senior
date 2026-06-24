@@ -1792,6 +1792,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10398;Auto Viação Ouro Verde - (Sumaré) - Cartão CIT Sumaré Urbano;Auto Viação Ouro Verde - Sumaré;5,45;5;10;SP;Sumaré;03/10/2023
 8127;Auto Viação Suzano (Catanduva) - Cartão Municipal Catanduva;Auto Viação Suzano (Catanduva);4,00;5;10;SP;Catanduva;03/01/2020
 15696;Avoa - Cartão Municipal Ourinhos;Avoa - Novo Sistema;4,50;5;10;SP;Ourinhos;02/05/2025
+19767;Bauru - Comodato;Bauru - Comodato;5,75;5;10;SP;Bauru;23/06/2026
 19449;BB Turismo - Cartão Municipal Barueri;BB Turismo (Benfácil) - Barueri;6,10;5;10;SP;Barueri;05/01/2026
 19450;BB Turismo - Cartão Barueri Integração;BB Turismo (Benfácil) - Barueri;10,00;5;10;SP;Barueri;05/01/2026
 19455;Repasse BB Turismo - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;18,30;5;10;SP;Barueri;06/01/2026
