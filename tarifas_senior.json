@@ -8283,7 +8283,7 @@
         "codigo": "6026",
         "nome": "Viação Garcia - Cartão Londrina X Bela Vista",
         "fornecedor": "Viação Garcia - (Lond - B. Vista)",
-        "valor": "9,45",
+        "valor": "9,90",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -9416,6 +9416,14 @@
         "cidade": "Barra Mansa"
     },
     {
+        "codigo": "19768",
+        "nome": "Sindpass - Cartão Dorândia X Volta Redonda",
+        "fornecedor": "Sindpass",
+        "valor": "10,60",
+        "uf": "RJ",
+        "cidade": "Barra Mansa"
+    },
+    {
         "codigo": "19580",
         "nome": "SRP- RJ",
         "fornecedor": "SRP- RJ",
@@ -9891,7 +9899,7 @@
         "codigo": "15613",
         "nome": "Caxiense - Cartão São Sebastião do Caí X São Leopoldo",
         "fornecedor": "Caxiense",
-        "valor": "13,90",
+        "valor": "14,95",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -9899,7 +9907,7 @@
         "codigo": "15625",
         "nome": "Caxiense - Cartão Estação Portão X São Leopoldo",
         "fornecedor": "Caxiense",
-        "valor": "6,55",
+        "valor": "7,00",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -9907,7 +9915,7 @@
         "codigo": "15626",
         "nome": "Caxiense - Cartão Portão X São Leopoldo",
         "fornecedor": "Caxiense",
-        "valor": "9,60",
+        "valor": "10,30",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -9963,7 +9971,7 @@
         "codigo": "15633",
         "nome": "Caxiense - Cartão São Sebastião do Caí X Portão",
         "fornecedor": "Caxiense",
-        "valor": "9,60",
+        "valor": "10,30",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },
@@ -10763,7 +10771,7 @@
         "codigo": "15173",
         "nome": "Fátima Transportes - Cartão Porto Alegre X Canoas",
         "fornecedor": "Fátima Transportes - Esteio",
-        "valor": "8,45",
+        "valor": "9,05",
         "uf": "RS",
         "cidade": "Esteio"
     },

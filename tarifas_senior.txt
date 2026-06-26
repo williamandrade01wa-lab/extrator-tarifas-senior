@@ -1034,7 +1034,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6023;Viação Garcia - Cartão Araponga X Astorga;Viação Garcia - (Arapon - Astor);7,35;5;10;PR;Maringá;19/06/2026
 6025;Viação Garcia - Cartão Londrina X Assai;Viação Garcia - (Lond - Assai);9,55;5;10;PR;Maringá;17/06/2026
 15316;Viação Garcia - Cartão Londrina X Bela Vista do Paraíso;Viação Garcia - (Lond - B. Vista do Par);9,90;5;10;PR;Maringá;19/06/2026
-6026;Viação Garcia - Cartão Londrina X Bela Vista;Viação Garcia - (Lond - B. Vista);9,45;5;10;PR;Maringá;19/02/2026
+6026;Viação Garcia - Cartão Londrina X Bela Vista;Viação Garcia - (Lond - B. Vista);9,90;5;10;PR;Maringá;25/06/2026
 6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,90;5;10;PR;Maringá;17/06/2026
 6028;Viação Garcia - Cartão Londrina X Rolandia;Viação Garcia - (Lond - Rolan);6,90;5;10;PR;Maringá;18/06/2026
 6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;7,10;5;10;PR;Londrina;18/06/2026
@@ -1176,6 +1176,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15078;Sindpass - Cartão Circular 15 X Vila Americana;Sindpass;5,90;5;10;RJ;Barra Mansa;06/02/2026
 19480;Sindpass - Cartão Corisco (Colitur);Sindpass;5,00;5;10;RJ;Barra Mansa;20/01/2026
 19546;Sindpass - Cartão Floriano X Porto Real;Sindpass;5,40;5;10;RJ;Barra Mansa;16/03/2026
+19768;Sindpass - Cartão Dorândia X Volta Redonda;Sindpass;10,60;5;10;RJ;Barra Mansa;25/06/2026
 19580;SRP- RJ;SRP- RJ;0,01;5;10;RJ;Rio de Janeiro;01/04/2026
 15589;Transa Transporte - Cartão Intermunicipal Levy Gasparian;Transa Transporte - Eletrônico;6,50;5;10;RJ;Três Rios;09/03/2026
 10929;Vancard - Cartão Municipal Armação de Búzios;Vancard;5,00;5;10;RJ;Armação de Búzios;25/04/2024
@@ -1235,16 +1236,16 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2847;Caxiense - Cartão Otávio Rocha X Caxias do Sul (Vila Santa Justina) / Porto Alegre e Região;Caxiense;8,15;5;10;RS;Porto Alegre;21/03/2025
 3353;Caxiense - Cartão Antônio Prado X Caxias do Sul;Caxiense;22,40;5;10;RS;Porto Alegre;07/10/2025
 3355;Caxiense - Cartão Caxias do Sul X Nova Pádua;Caxiense;15,20;5;10;RS;Porto Alegre;07/10/2025
-15613;Caxiense - Cartão São Sebastião do Caí X São Leopoldo;Caxiense;13,90;5;10;RS;Porto Alegre;08/07/2025
-15625;Caxiense - Cartão Estação Portão X São Leopoldo;Caxiense;6,55;5;10;RS;Porto Alegre;08/07/2025
-15626;Caxiense - Cartão Portão X São Leopoldo;Caxiense;9,60;5;10;RS;Porto Alegre;08/07/2025
+15613;Caxiense - Cartão São Sebastião do Caí X São Leopoldo;Caxiense;14,95;5;10;RS;Porto Alegre;25/06/2026
+15625;Caxiense - Cartão Estação Portão X São Leopoldo;Caxiense;7,00;5;10;RS;Porto Alegre;25/06/2026
+15626;Caxiense - Cartão Portão X São Leopoldo;Caxiense;10,30;5;10;RS;Porto Alegre;25/06/2026
 15627;Caxiense - Cartão Vila Baum X Canoas;Caxiense;12,25;5;10;RS;Porto Alegre;08/07/2025
 15628;Caxiense - Cartão Canoas X Rincão;Caxiense;16,10;5;10;RS;Porto Alegre;08/07/2025
 15629;Caxiense - Cartão Scharlau X Porto Alegre;Caxiense;16,10;5;10;RS;Porto Alegre;08/07/2025
 15630;Caxiense - Cartão Scharlau X Canoas;Caxiense;10,50;5;10;RS;Porto Alegre;08/07/2025
 15631;Caxiense - Cartão Porto Alegre X São Sebastião do Caí;Caxiense;28,95;5;10;RS;Porto Alegre;08/07/2025
 15632;Caxiense - Cartão São Sebastião do Caí X Scharlau;Caxiense;12,60;5;10;RS;Porto Alegre;08/07/2025
-15633;Caxiense - Cartão São Sebastião do Caí X Portão;Caxiense;9,60;5;10;RS;Porto Alegre;08/07/2025
+15633;Caxiense - Cartão São Sebastião do Caí X Portão;Caxiense;10,30;5;10;RS;Porto Alegre;25/06/2026
 15634;Caxiense - Cartão Vila Baum X Porto Alegre;Caxiense;17,80;5;10;RS;Porto Alegre;08/07/2025
 15635;Caxiense - Cartão Portão X Rincão do Cascalho;Caxiense;9,60;5;10;RS;Porto Alegre;08/07/2025
 15636;Caxiense - Cartão Portão X Sapucaia;Caxiense;9,60;5;10;RS;Porto Alegre;08/07/2025
@@ -1344,7 +1345,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19542;Fátima Transportes - Cartão Municipal Triunfo;Fátima Transportes;5,70;5;10;RS;Nova Santa Rita;13/03/2026
 15170;Fátima Transportes - Cartão Mínima Intermunicipal;Fátima Transportes - Esteio;7,65;5;10;RS;Esteio;12/06/2026
 15172;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Esteio;9,05;5;10;RS;Esteio;12/06/2026
-15173;Fátima Transportes - Cartão Porto Alegre X Canoas;Fátima Transportes - Esteio;8,45;5;10;RS;Esteio;15/07/2025
+15173;Fátima Transportes - Cartão Porto Alegre X Canoas;Fátima Transportes - Esteio;9,05;5;10;RS;Esteio;25/06/2026
 15174;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto);Fátima Transportes - Esteio;13,95;5;10;RS;Esteio;12/06/2026
 8185;Gaurama - Cartão Erechim Urbano;Gaurama - Eletrônico;5,50;5;10;RS;Erechim;22/04/2024
 15936;Laranjal - Candiota - Cartão Municipal Candiota;Laranjal - Candiota;6,00;5;10;RS;Candiota;31/07/2025
