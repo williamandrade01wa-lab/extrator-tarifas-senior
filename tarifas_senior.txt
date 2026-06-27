@@ -1481,7 +1481,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10625;Valesul Porto Alegre - 22 Cachoeirinha Urbana Seletiva (Transbus);Valesul - Porto Alegre;4,50;5;10;RS;Cachoeirinha;05/03/2025
 10626;Valesul Porto Alegre - 609 Guaíba – Bom Retiro (Rio Guaíba - 00007);Valesul - Porto Alegre;8,90;5;10;RS;Cachoeirinha;08/06/2026
 10627;Valesul Porto Alegre - 509 Cachoeirinha – Alvorada/Canoas (Transcal - 00004);Valesul - Porto Alegre;9,75;5;10;RS;Cachoeirinha;08/06/2026
-10630;Valesul Porto Alegre - 627 Poa – Eldorado do Sul Via Me Semi-Direto (Rio Guaíba - 00007);Valesul - Porto Alegre;10,00;5;10;RS;Cachoeirinha;08/06/2026
+10630;Valesul Porto Alegre - 627 Poa – Eldorado do Sul Via Me Semi-Direto (Rio Guaíba - 00007);Valesul - Porto Alegre;10,25;5;10;RS;Cachoeirinha;26/06/2026
 10631;Valesul Porto Alegre - 264 Urbana Mínima Rural Vialeste (Viamão / Vialeste - 00012);Valesul - Porto Alegre;4,45;5;10;RS;Cachoeirinha;18/10/2023
 10632;Valesul Porto Alegre - 230 Urbana Sapiranga (TCI SAPI);Valesul - Porto Alegre;4,00;5;10;RS;Cachoeirinha;18/10/2023
 10633;Valesul Porto Alegre - 913 Poa – Sapucaia (Semi-Direto) (Central – 00022);Valesul - Porto Alegre;13,85;5;10;RS;Cachoeirinha;08/06/2026
