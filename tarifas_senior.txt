@@ -1040,8 +1040,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;7,10;5;10;PR;Londrina;18/06/2026
 6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;7,50;5;10;PR;Maringá;19/06/2026
 15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;10,15;5;10;PR;Curitiba;02/04/2026
-15889;Viação Graciosa - Curitiba x Morretes;Viação Graciosa - QR-Code;39,98;5;10;PR;Curitiba;02/04/2026
-15890;Viação Graciosa - Morretes x Curitiba;Viação Graciosa - QR-Code;34,99;5;10;PR;Curitiba;02/04/2026
+15889;Viação Graciosa - Cartão Curitiba X Morretes;Viação Graciosa - QR-Code;39,98;5;10;PR;Curitiba;02/04/2026
+15890;Viação Graciosa - Cartão Morretes X Curitiba;Viação Graciosa - QR-Code;34,99;5;10;PR;Curitiba;02/04/2026
+19770;Viação Graciosa - Cartão Morretes X Paranaguá;Viação Graciosa - QR-Code;10,65;5;10;PR;Curitiba;29/06/2026
 4844;Viação Iapó - Cartão Ponta Grossa X Castro;Viação Iapó;8,95;5;10;PR;Ponta Grossa;17/06/2026
 5926;Viação Iapó - Castro X Piraí do Sul;Viação Iapó;7,10;5;10;PR;Ponta Grossa;17/06/2026
 6852;Viação Rocio - Cartão Paranaguá Municipal;Viação Rocio;3,70;5;10;PR;Paranaguá;21/03/2022
@@ -1621,6 +1622,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16082;Expresso Içarense - Cartão Içara X Criciúma;Expresso Içarense - Eletrônico;4,10;5;10;SC;Criciúma;05/09/2025
 16083;Expresso Içarense - Cartão Içara X Balneário Rincão;Expresso Içarense - Eletrônico;7,15;5;10;SC;Criciúma;05/09/2025
 19560;Expresso Içarense - Cartão Criciúma X Rincão (Direto);Expresso Içarense - Eletrônico;12,70;5;10;SC;Criciúma;25/03/2026
+19769;Expresso Içarense - Cartão Criciúma X Aurora;Expresso Içarense - Eletrônico;7,95;5;10;SC;Criciúma;29/06/2026
 6893;Expresso Presidente (Timbó) - Cartão Timbó Municipal;Expresso Presidente (Timbó);4,00;5;10;SC;Timbó;01/01/2017
 9469;Expresso Presidente - (Gaspar) - Cartão Municipal Gaspar;Expresso Presidente - (Gaspar);4,80;5;10;SC;Presidente Getúlio;30/12/2022
 15964;Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau;Expresso Presidente - Intermunicipal;6,00;5;10;SP;;01/08/2025
@@ -2999,7 +3001,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3419;Viação Paraty - Cartão Itirapina X São Carlos;Viação Paraty - Intermunicipal;11,10;5;10;SP;Araraquara;03/07/2025
 5172;Viação Paraty - Cartão Guariba X Jaboticabal;Viação Paraty - Intermunicipal;8,25;5;10;SP;Araraquara;01/07/2025
 15342;Viação Paraty - Cartão Santa Lucia X Araraquara;Viação Paraty - Intermunicipal;8,25;5;10;SP;Araraquara;01/07/2025
-19463;Viação Paraty - Cartão Araraquara X Bela Vista;Viação Paraty - Intermunicipal;5,25;5;10;SP;Araraquara;06/02/2026
 717;Viação Paraty Municipal - Cartão Novo Card Araraquara Municipal;Viação Paraty - Municipal Novo Sistema;5,25;5;10;SP;Araraquara;12/02/2026
 263;Viação Piracicabana - Cartão Piracicabana - Metropolitano;Viação Piracicabana;0,01;5;10;SP;São Vicente;26/07/2019
 800;Viação Piracicabana - Cartão Piracicabana Tarifa 2 - Integração;Viação Piracicabana;3,95;5;10;SP;São Vicente;20/02/2022

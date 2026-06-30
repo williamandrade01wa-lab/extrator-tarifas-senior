@@ -8329,7 +8329,7 @@
     },
     {
         "codigo": "15889",
-        "nome": "Viação Graciosa - Curitiba x Morretes",
+        "nome": "Viação Graciosa - Cartão Curitiba X Morretes",
         "fornecedor": "Viação Graciosa - QR-Code",
         "valor": "39,98",
         "uf": "PR",
@@ -8337,9 +8337,17 @@
     },
     {
         "codigo": "15890",
-        "nome": "Viação Graciosa - Morretes x Curitiba",
+        "nome": "Viação Graciosa - Cartão Morretes X Curitiba",
         "fornecedor": "Viação Graciosa - QR-Code",
         "valor": "34,99",
+        "uf": "PR",
+        "cidade": "Curitiba"
+    },
+    {
+        "codigo": "19770",
+        "nome": "Viação Graciosa - Cartão Morretes X Paranaguá",
+        "fornecedor": "Viação Graciosa - QR-Code",
+        "valor": "10,65",
         "uf": "PR",
         "cidade": "Curitiba"
     },
@@ -12972,6 +12980,14 @@
         "nome": "Expresso Içarense - Cartão Criciúma X Rincão (Direto)",
         "fornecedor": "Expresso Içarense - Eletrônico",
         "valor": "12,70",
+        "uf": "SC",
+        "cidade": "Criciúma"
+    },
+    {
+        "codigo": "19769",
+        "nome": "Expresso Içarense - Cartão Criciúma X Aurora",
+        "fornecedor": "Expresso Içarense - Eletrônico",
+        "valor": "7,95",
         "uf": "SC",
         "cidade": "Criciúma"
     },
@@ -23996,14 +24012,6 @@
         "nome": "Viação Paraty - Cartão Santa Lucia X Araraquara",
         "fornecedor": "Viação Paraty - Intermunicipal",
         "valor": "8,25",
-        "uf": "SP",
-        "cidade": "Araraquara"
-    },
-    {
-        "codigo": "19463",
-        "nome": "Viação Paraty - Cartão Araraquara X Bela Vista",
-        "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "5,25",
         "uf": "SP",
         "cidade": "Araraquara"
     },
