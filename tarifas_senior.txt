@@ -168,16 +168,16 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15738;Catedral - Cartão Jardim Ingá X Lago Sul;Catedral - Eletrônico;9,30;5;10;DF;Brasília;26/02/2026
 15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;11,00;5;11;DF;Brasília;21/05/2026
 10308;Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas;Taguatur - Águas Lindas de Goiás;11,45;5;10;DF;Brasília;26/02/2026
-10309;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga;Taguatur - Águas Lindas de Goiás;6,75;5;10;DF;Brasília;15/08/2023
-10310;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Ceilândia;Taguatur - Águas Lindas de Goiás;5,15;5;10;DF;Brasília;15/08/2023
-10311;Taguatur Águas Lindas de Goiás - Cartão Girassol X Brasília;Taguatur - Águas Lindas de Goiás;10,95;5;10;DF;Brasília;26/09/2025
+10309;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga;Taguatur - Águas Lindas de Goiás;7,65;5;10;DF;Brasília;30/06/2026
+10310;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Ceilândia;Taguatur - Águas Lindas de Goiás;5,85;5;10;DF;Brasília;30/06/2026
+10311;Taguatur Águas Lindas de Goiás - Cartão Girassol X Brasília;Taguatur - Águas Lindas de Goiás;11,45;5;10;DF;Brasília;30/06/2026
 10312;Taguatur Águas Lindas de Goiás - Cartão Girassol X Taguatinga;Taguatur - Águas Lindas de Goiás;6,75;5;10;DF;Brasília;15/08/2023
-10313;Taguatur Águas Lindas de Goiás - Cartão Lago Azul X Gama;Taguatur - Águas Lindas de Goiás;3,80;5;10;DF;Brasília;15/08/2023
+10313;Taguatur Águas Lindas de Goiás - Cartão Lago Azul X Gama;Taguatur - Águas Lindas de Goiás;3,40;5;10;DF;Brasília;30/06/2026
 10314;Taguatur Águas Lindas de Goiás - Cartão Novo Gama X Gama;Taguatur - Águas Lindas de Goiás;1,75;5;10;DF;Brasília;16/08/2023
-10315;Taguatur Águas Lindas de Goiás - Cartão Pedregal X Gama;Taguatur - Águas Lindas de Goiás;3,65;5;10;DF;Brasília;16/08/2023
+10315;Taguatur Águas Lindas de Goiás - Cartão Pedregal X Gama;Taguatur - Águas Lindas de Goiás;3,40;5;10;DF;Brasília;30/06/2026
 10316;Taguatur Águas Lindas de Goiás - Cartão Novo Gama X Brasília;Taguatur - Águas Lindas de Goiás;7,85;5;10;DF;Brasília;16/08/2023
-10317;Taguatur Águas Lindas de Goiás - Cartão Lago Azul X Santa Maria;Taguatur - Águas Lindas de Goiás;3,80;5;10;DF;Brasília;15/08/2023
-10318;Taguatur Águas Lindas de Goiás - Cartão Gama X Taguatinga;Taguatur - Águas Lindas de Goiás;7,85;5;10;DF;Brasília;16/08/2023
+10317;Taguatur Águas Lindas de Goiás - Cartão Lago Azul X Santa Maria;Taguatur - Águas Lindas de Goiás;3,40;5;10;DF;Brasília;30/06/2026
+10318;Taguatur Águas Lindas de Goiás - Cartão Gama X Taguatinga;Taguatur - Águas Lindas de Goiás;8,75;5;10;DF;Brasília;30/06/2026
 10319;Taguatur Santo Antonio do Descoberto - Cartão Santo Antônio X Brasília;Taguatur - Santo Antonio do Descoberto;10,75;5;10;DF;Brasília;26/02/2026
 10320;Taguatur Santo Antonio do Descoberto - Cartão Santo Antonio X Taguatinga;Taguatur - Santo Antonio do Descoberto;8,60;5;10;DF;Brasília;26/02/2026
 10321;Taguatur Santo Antonio do Descoberto - Cartão Brasília X Águas Claras;Taguatur - Santo Antonio do Descoberto;10,75;5;10;DF;Brasília;26/02/2026
@@ -1704,19 +1704,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2274;Transul - Cartão Bela Lages;Transul - PIX;4,90;5;10;SC;Lages;08/01/2026
 6270;Viação Cidade - Cartão Araranguá Intermunicipal;Viação Cidade - Novo Sistema;4,50;5;10;SC;Araranguá;24/08/2022
 5591;Viação Curitibanos - Cartão Ligadinho Curitibanos Urbano;Viação Curitibanos;5,00;5;10;SC;Curitibanos;03/03/2026
-2239;Viação Navegantes - Cartão Viação Navegantes;Viação Navegantes;4,60;5;10;SC;Navegantes;17/03/2023
-2444;Viação Navegantes - Cartão Viação Dentro de Piçarras;Viação Navegantes;2,85;5;10;SC;Navegantes;14/03/2023
-2445;Viação Navegantes - Cartão Viação Dentro de Penha;Viação Navegantes;3,95;5;10;SC;Navegantes;07/03/2023
-2446;Viação Navegantes - Cartão Navegantes Urbano;Viação Navegantes;4,60;5;10;SC;Navegantes;17/03/2023
-2447;Viação Navegantes - Cartão Viação Dentro de Machados;Viação Navegantes;4,60;5;10;SC;Navegantes;14/03/2023
-2458;Viação Navegantes - Cartão Piçarras X Penha;Viação Navegantes;5,25;5;10;SC;Navegantes;09/05/2025
-2459;Viação Navegantes - Cartão Piçarras X Navegantes (sem taxa e sem seguro);Viação Navegantes;7,80;5;10;SC;Navegantes;09/05/2025
-2461;Viação Navegantes - Cartão Piçarras X Machados;Viação Navegantes;9,80;5;10;SC;Navegantes;09/05/2025
-2464;Viação Navegantes - Cartão Penha X Navegantes;Viação Navegantes;6,55;5;10;SC;Navegantes;21/09/2022
-2465;Viação Navegantes - Cartão Penha X Machados;Viação Navegantes;8,55;5;10;SC;Navegantes;14/03/2023
-2467;Viação Navegantes - Cartão Navegantes X Machados;Viação Navegantes;4,60;5;10;SC;Navegantes;14/03/2023
-5130;Viação Navegantes -Cartão Navegantes X Gravata;Viação Navegantes;4,60;5;10;SC;Navegantes;27/06/2024
-19729;Viação Navegantes - Cartão Blumenau X Luiz Alves;Viação Navegantes;9,11;5;10;SC;Navegantes;02/06/2026
 6543;Viação Praiana - Cartão Itajaí X Camboriú;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
 6544;Viação Praiana - Cartão Balneário Camboriú X Porto Belo;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
 6545;Viação Praiana - Cartão Porto Belo X Itajaí;Viação Praiana;10,40;5;10;SC;Itajaí;04/03/2026
@@ -2791,6 +2778,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3845;Sancetur Valinhos - Cartão SOU Valinhos - Valinhos Municipal;Sou - Valinhos;3,70;5;10;SP;Valinhos;01/07/2025
 19469;Sou - Diadema - Cartão Municipal Diadema;SOU Diadema;7,50;5;10;SP;Diadema;14/01/2026
 19470;Repasse Sou - Diadema - Cartão Municipal Diadema (Blacklist);SOU Diadema;9,99;5;10;SP;Diadema;15/01/2026
+19773;Sou Diadema - Cartão Municipal Diadema;Sou Diadema - QR-Code;7,50;5;10;SP;Diadema;30/06/2026
 6134;Sou Indaiatuba - Cartão Sou Indaiatuba;Sou Indaiatuba;4,10;5;10;SP;INDAIATUBA;10/02/2019
 89;SPTRANS - Bilhete Único - Municipal / São Paulo;SPTrans;5,82;3;5;SP;São Paulo;05/01/2026
 214;SPTRANS - Bilhete Único - Integração Ônibus/Metrô / CPTM / São Paulo;SPTrans;11,32;3;5;SP;São Paulo;05/01/2026

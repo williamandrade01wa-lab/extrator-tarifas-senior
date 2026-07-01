@@ -1355,7 +1355,7 @@
         "codigo": "10309",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
-        "valor": "6,75",
+        "valor": "7,65",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1363,7 +1363,7 @@
         "codigo": "10310",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Ceilândia",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
-        "valor": "5,15",
+        "valor": "5,85",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1371,7 +1371,7 @@
         "codigo": "10311",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Girassol X Brasília",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
-        "valor": "10,95",
+        "valor": "11,45",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1387,7 +1387,7 @@
         "codigo": "10313",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Lago Azul X Gama",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
-        "valor": "3,80",
+        "valor": "3,40",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1403,7 +1403,7 @@
         "codigo": "10315",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Pedregal X Gama",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
-        "valor": "3,65",
+        "valor": "3,40",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1419,7 +1419,7 @@
         "codigo": "10317",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Lago Azul X Santa Maria",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
-        "valor": "3,80",
+        "valor": "3,40",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1427,7 +1427,7 @@
         "codigo": "10318",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Gama X Taguatinga",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
-        "valor": "7,85",
+        "valor": "8,75",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -13640,110 +13640,6 @@
         "cidade": "Curitibanos"
     },
     {
-        "codigo": "2239",
-        "nome": "Viação Navegantes - Cartão Viação Navegantes",
-        "fornecedor": "Viação Navegantes",
-        "valor": "4,60",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2444",
-        "nome": "Viação Navegantes - Cartão Viação Dentro de Piçarras",
-        "fornecedor": "Viação Navegantes",
-        "valor": "2,85",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2445",
-        "nome": "Viação Navegantes - Cartão Viação Dentro de Penha",
-        "fornecedor": "Viação Navegantes",
-        "valor": "3,95",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2446",
-        "nome": "Viação Navegantes - Cartão Navegantes Urbano",
-        "fornecedor": "Viação Navegantes",
-        "valor": "4,60",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2447",
-        "nome": "Viação Navegantes - Cartão Viação Dentro de Machados",
-        "fornecedor": "Viação Navegantes",
-        "valor": "4,60",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2458",
-        "nome": "Viação Navegantes - Cartão Piçarras X Penha",
-        "fornecedor": "Viação Navegantes",
-        "valor": "5,25",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2459",
-        "nome": "Viação Navegantes - Cartão Piçarras X Navegantes (sem taxa e sem seguro)",
-        "fornecedor": "Viação Navegantes",
-        "valor": "7,80",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2461",
-        "nome": "Viação Navegantes - Cartão Piçarras X Machados",
-        "fornecedor": "Viação Navegantes",
-        "valor": "9,80",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2464",
-        "nome": "Viação Navegantes - Cartão Penha X Navegantes",
-        "fornecedor": "Viação Navegantes",
-        "valor": "6,55",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2465",
-        "nome": "Viação Navegantes - Cartão Penha X Machados",
-        "fornecedor": "Viação Navegantes",
-        "valor": "8,55",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "2467",
-        "nome": "Viação Navegantes - Cartão Navegantes X Machados",
-        "fornecedor": "Viação Navegantes",
-        "valor": "4,60",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "5130",
-        "nome": "Viação Navegantes -Cartão Navegantes X Gravata",
-        "fornecedor": "Viação Navegantes",
-        "valor": "4,60",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
-        "codigo": "19729",
-        "nome": "Viação Navegantes - Cartão Blumenau X Luiz Alves",
-        "fornecedor": "Viação Navegantes",
-        "valor": "9,11",
-        "uf": "SC",
-        "cidade": "Navegantes"
-    },
-    {
         "codigo": "6543",
         "nome": "Viação Praiana - Cartão Itajaí X Camboriú",
         "fornecedor": "Viação Praiana",
@@ -22332,6 +22228,14 @@
         "nome": "Repasse Sou - Diadema - Cartão Municipal Diadema (Blacklist)",
         "fornecedor": "SOU Diadema",
         "valor": "9,99",
+        "uf": "SP",
+        "cidade": "Diadema"
+    },
+    {
+        "codigo": "19773",
+        "nome": "Sou Diadema - Cartão Municipal Diadema",
+        "fornecedor": "Sou Diadema - QR-Code",
+        "valor": "7,50",
         "uf": "SP",
         "cidade": "Diadema"
     },
