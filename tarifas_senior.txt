@@ -181,7 +181,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10319;Taguatur Santo Antonio do Descoberto - Cartão Santo Antônio X Brasília;Taguatur - Santo Antonio do Descoberto;10,75;5;10;DF;Brasília;26/02/2026
 10320;Taguatur Santo Antonio do Descoberto - Cartão Santo Antonio X Taguatinga;Taguatur - Santo Antonio do Descoberto;8,60;5;10;DF;Brasília;26/02/2026
 10321;Taguatur Santo Antonio do Descoberto - Cartão Brasília X Águas Claras;Taguatur - Santo Antonio do Descoberto;10,75;5;10;DF;Brasília;26/02/2026
-19725;Taguatur Santo Antônio do Descoberto - Cartão Circular Santo Antônio do Descoberto;Taguatur - Santo Antonio do Descoberto;4,75;5;10;DF;Brasília;29/05/2026
 5860;UTB - Eletrônico - Cartão Águas Lindas X Brasília;UTB - Eletrônico;11,45;5;10;DF;Brasília;26/02/2026
 5975;UTB - Eletrônico - Cartão Monte Alto X Brasília;UTB - Eletrônico;10,40;5;10;DF;Brasília;26/02/2026
 5976;UTB - Eletrônico - Cartão Monte Alto X Brazilândia;UTB - Eletrônico;3,00;5;10;DF;Brasília;26/02/2026
@@ -331,7 +330,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19761;AVSL - Cartão Congonhas X Alphaville (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;26,50;5;10;MG;Congonhas;16/06/2026
 19762;AVSL - Cartão Lagoa Grande X Congonhas (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;23,55;5;10;MG;Congonhas;16/06/2026
 19763;AVSL - Cartão Congonhas X Lagoa Grande (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;23,55;5;10;MG;Congonhas;16/06/2026
-1035;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;5,00;5;10;MG;Ipatinga;08/04/2025
+1035;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;5,50;5;10;MG;Ipatinga;01/07/2026
 2614;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Timóteo;Autotrans (Buse) - Ipatinga/Timóteo;5,00;5;10;MG;Ipatinga;08/04/2025
 3808;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente;Autotrans (Buse) - Ipatinga/Timóteo;20,30;5;10;MG;Ipatinga;13/03/2026
 3809;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Cachoeira Escura;Autotrans (Buse) - Ipatinga/Timóteo;14,75;5;10;MG;Ipatinga;13/03/2026
@@ -1337,12 +1336,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9150;Fátima Transportes - Cartão General Neto X Triunfo (com seguro);Fátima Transportes;8,95;5;10;RS;Nova Santa Rita;15/07/2025
 9151;Fátima Transportes - Cartão Triunfo X Boa Vista (sem seguro);Fátima Transportes;10,10;5;10;RS;Nova Santa Rita;15/07/2025
 9152;Fátima Transportes - Cartão Triunfo X Boa Vista com seguro;Fátima Transportes;10,45;5;10;RS;Nova Santa Rita;15/07/2025
-10859;Fátima Transportes - Cartão Santa Rita X Porto Alegre;Fátima Transportes;11,45;5;10;RS;Nova Santa Rita;12/06/2026
-10860;Fátima Transportes - Cartão Santa Rita X Canoas;Fátima Transportes;8,00;5;10;RS;Nova Santa Rita;12/06/2026
 15570;Fátima Transportes - Cartão Taquari x Triunfo (Sem Seguro);Fátima Transportes;21,50;5;10;RS;Nova Santa Rita;29/01/2025
 15574;Fátima Transportes - Cartão Taquari x Triunfo (Com Seguro);Fátima Transportes;23,55;5;10;RS;Nova Santa Rita;29/01/2025
 15701;Fátima Transportes - Cartão Triunfo X Canoas;Fátima Transportes;25,45;5;10;RS;Nova Santa Rita;12/06/2026
-15763;Fátima Transportes - Cartão Municipal Nova Santa Rita;Fátima Transportes;5,26;5;10;RS;Nova Santa Rita;12/06/2025
 19542;Fátima Transportes - Cartão Municipal Triunfo;Fátima Transportes;5,70;5;10;RS;Nova Santa Rita;13/03/2026
 15170;Fátima Transportes - Cartão Mínima Intermunicipal;Fátima Transportes - Esteio;7,65;5;10;RS;Esteio;12/06/2026
 15172;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Esteio;9,05;5;10;RS;Esteio;12/06/2026
@@ -2779,6 +2775,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19469;Sou - Diadema - Cartão Municipal Diadema;SOU Diadema;7,50;5;10;SP;Diadema;14/01/2026
 19470;Repasse Sou - Diadema - Cartão Municipal Diadema (Blacklist);SOU Diadema;9,99;5;10;SP;Diadema;15/01/2026
 19773;Sou Diadema - Cartão Municipal Diadema;Sou Diadema - QR-Code;7,50;5;10;SP;Diadema;30/06/2026
+19774;Repasse - Cartão Municipal Diadema (Blacklist);Sou Diadema - QR-Code;9,99;5;10;SP;Diadema;01/07/2026
 6134;Sou Indaiatuba - Cartão Sou Indaiatuba;Sou Indaiatuba;4,10;5;10;SP;INDAIATUBA;10/02/2019
 89;SPTRANS - Bilhete Único - Municipal / São Paulo;SPTrans;5,82;3;5;SP;São Paulo;05/01/2026
 214;SPTRANS - Bilhete Único - Integração Ônibus/Metrô / CPTM / São Paulo;SPTrans;11,32;3;5;SP;São Paulo;05/01/2026
@@ -2980,7 +2977,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9267;Viação Paraty (Jaboticabal) - Cartão Municipal Jaboticabal;Viação Paraty (Jaboticabal);3,40;5;10;SP;Araraquara;03/03/2022
 3405;Viação Paraty - Cartão Araraquara X São Carlos;Viação Paraty - Intermunicipal;11,55;5;10;SP;Araraquara;03/07/2025
 3406;Viação Paraty - Cartão Matão X Araraquara;Viação Paraty - Intermunicipal;10,55;5;10;SP;Araraquara;01/07/2025
-3407;Viação Paraty - Cartão Matão Municipal;Viação Paraty - Intermunicipal;5,50;5;10;SP;Araraquara;05/01/2026
+3407;Viação Paraty - Cartão Matão Municipal;Viação Paraty - Intermunicipal;2,80;5;10;SP;Araraquara;01/07/2026
 3410;Viação Paraty - Cartão Matão (Dobrada) X Santa Ernestina;Viação Paraty - Intermunicipal;6,60;5;10;SP;Araraquara;01/07/2025
 3412;Viação Paraty - Cartão Matão X Taquaritinga (Suburbana);Viação Paraty - Intermunicipal;10,25;5;10;SP;Araraquara;01/07/2025
 3414;Viação Paraty - Cartão São Carlos X Ibaté (Suburbano);Viação Paraty - Intermunicipal;7,25;5;10;SP;Araraquara;03/07/2025

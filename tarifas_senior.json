@@ -1456,14 +1456,6 @@
         "cidade": "Brasília"
     },
     {
-        "codigo": "19725",
-        "nome": "Taguatur Santo Antônio do Descoberto - Cartão Circular Santo Antônio do Descoberto",
-        "fornecedor": "Taguatur - Santo Antonio do Descoberto",
-        "valor": "4,75",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
         "codigo": "5860",
         "nome": "UTB - Eletrônico - Cartão Águas Lindas X Brasília",
         "fornecedor": "UTB - Eletrônico",
@@ -2659,7 +2651,7 @@
         "codigo": "1035",
         "nome": "Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Ipatinga",
         "fornecedor": "Autotrans (Buse) - Ipatinga/Timóteo",
-        "valor": "5,00",
+        "valor": "5,50",
         "uf": "MG",
         "cidade": "Ipatinga"
     },
@@ -10704,22 +10696,6 @@
         "cidade": "Nova Santa Rita"
     },
     {
-        "codigo": "10859",
-        "nome": "Fátima Transportes - Cartão Santa Rita X Porto Alegre",
-        "fornecedor": "Fátima Transportes",
-        "valor": "11,45",
-        "uf": "RS",
-        "cidade": "Nova Santa Rita"
-    },
-    {
-        "codigo": "10860",
-        "nome": "Fátima Transportes - Cartão Santa Rita X Canoas",
-        "fornecedor": "Fátima Transportes",
-        "valor": "8,00",
-        "uf": "RS",
-        "cidade": "Nova Santa Rita"
-    },
-    {
         "codigo": "15570",
         "nome": "Fátima Transportes - Cartão Taquari x Triunfo (Sem Seguro)",
         "fornecedor": "Fátima Transportes",
@@ -10740,14 +10716,6 @@
         "nome": "Fátima Transportes - Cartão Triunfo X Canoas",
         "fornecedor": "Fátima Transportes",
         "valor": "25,45",
-        "uf": "RS",
-        "cidade": "Nova Santa Rita"
-    },
-    {
-        "codigo": "15763",
-        "nome": "Fátima Transportes - Cartão Municipal Nova Santa Rita",
-        "fornecedor": "Fátima Transportes",
-        "valor": "5,26",
         "uf": "RS",
         "cidade": "Nova Santa Rita"
     },
@@ -22240,6 +22208,14 @@
         "cidade": "Diadema"
     },
     {
+        "codigo": "19774",
+        "nome": "Repasse - Cartão Municipal Diadema (Blacklist)",
+        "fornecedor": "Sou Diadema - QR-Code",
+        "valor": "9,99",
+        "uf": "SP",
+        "cidade": "Diadema"
+    },
+    {
         "codigo": "6134",
         "nome": "Sou Indaiatuba - Cartão Sou Indaiatuba",
         "fornecedor": "Sou Indaiatuba",
@@ -23851,7 +23827,7 @@
         "codigo": "3407",
         "nome": "Viação Paraty - Cartão Matão Municipal",
         "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "5,50",
+        "valor": "2,80",
         "uf": "SP",
         "cidade": "Araraquara"
     },
