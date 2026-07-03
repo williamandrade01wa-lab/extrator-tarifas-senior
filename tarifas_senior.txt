@@ -2411,6 +2411,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15367;JTU Jacareí - Cartão Jacareí Urbano Variável;JTU Jacareí;0,01;5;10;SP;Jacareí;20/09/2024
 355;JTU Santa Branca - Cartão Santa Branca X Jacareí / Jacareí e Região;JTU Santa Branca;6,10;5;10;SP;Jacareí;27/01/2026
 8588;Jundiá (São Roque) - Cartão São Roque Urbano;Jundiá (São Roque);8,00;5;10;SP;São Roque;20/10/2025
+16051;Jundiá - Cartão Municipal Mairinque;Jundiá - Mairinque - QR-Code;8,00;5;10;SP;Mairinque;02/07/2026
+16050;Jundiá - Cartão Municipal São Roque;Jundiá - São Roque - QR-Code;8,00;5;10;SP;São Roque;02/07/2026
 492;Jundiá - Cartão Multiuso - Mairinque Municipal;Jundiá Mairinque;8,00;5;10;SP;Mairinque;01/12/2025
 5712;Lim MA - Cartão Municipal;Lim MA;4,30;5;10;SP;Mauá;28/12/2021
 10463;Liminar SA;Liminar SA - Documentação Judicial;5,90;5;10;SP;Santo André;22/01/2025
@@ -2421,7 +2423,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8923;Luwasa (Expresso Itamarati) - Cartão Catanduva X Palmares Paulista;Luwasa (Expresso Itamarati);7,95;5;10;SP;São José do Rio Preto;07/07/2025
 8924;Luwasa (Expresso Itamarati) - Cartão Catanduva X Santa Adélia;Luwasa (Expresso Itamarati);8,25;5;10;SP;São José do Rio Preto;07/07/2025
 8925;Luwasa (Expresso Itamarati) - Cartão Catanduva X Elisiário;Luwasa (Expresso Itamarati);7,25;5;10;SP;São José do Rio Preto;07/07/2025
-8926;Luwasa (Expresso Itamarati) - Cartão Catanduva X Pindorama;Luwasa (Expresso Itamarati);6,95;5;10;SP;São José do Rio Preto;07/07/2025
+8926;Luwasa (Expresso Itamarati) - Cartão Catanduva X Pindorama;Luwasa (Expresso Itamarati);7,25;5;10;SP;São José do Rio Preto;02/07/2026
 8927;Luwasa (Expresso Itamarati) - Cartão Catanduva X São José do Rio Preto;Luwasa (Expresso Itamarati);18,80;5;10;SP;São José do Rio Preto;07/07/2025
 8928;Luwasa (Expresso Itamarati) - Cartão Júlio Mesquita X Marília;Luwasa (Expresso Itamarati);12,95;5;10;SP;São José do Rio Preto;07/07/2025
 8929;Luwasa (Expresso Itamarati) - Cartão Catanduva X Urupês;Luwasa (Expresso Itamarati);15,00;5;10;SP;São José do Rio Preto;07/07/2025

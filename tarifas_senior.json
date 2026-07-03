@@ -19296,6 +19296,22 @@
         "cidade": "São Roque"
     },
     {
+        "codigo": "16051",
+        "nome": "Jundiá - Cartão Municipal Mairinque",
+        "fornecedor": "Jundiá - Mairinque - QR-Code",
+        "valor": "8,00",
+        "uf": "SP",
+        "cidade": "Mairinque"
+    },
+    {
+        "codigo": "16050",
+        "nome": "Jundiá - Cartão Municipal São Roque",
+        "fornecedor": "Jundiá - São Roque - QR-Code",
+        "valor": "8,00",
+        "uf": "SP",
+        "cidade": "São Roque"
+    },
+    {
         "codigo": "492",
         "nome": "Jundiá - Cartão Multiuso - Mairinque Municipal",
         "fornecedor": "Jundiá Mairinque",
@@ -19379,7 +19395,7 @@
         "codigo": "8926",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Catanduva X Pindorama",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
