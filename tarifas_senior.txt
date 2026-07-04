@@ -680,7 +680,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15416;Transcotta Consórcio - Cartão Morro São Sebastião X São Cristóvão;Transcotta Consórcio;2,00;5;10;MG;Ouro Preto;01/10/2025
 353;Transfacil BH - Cartão Bhbus Ônibus Tarifa A (Linha A);Transfácil;6,25;5;10;MG;Belo Horizonte;02/01/2026
 464;Transfacil BH - Cartão Bhbus Ônibus Tarifa B (Linha B);Transfácil;6,00;5;10;MG;Belo Horizonte;02/01/2026
-466;Transfacil BH - Cartão Bhbus Metrô - Tarifa Unitária (Linha R);Transfácil;5,80;5;10;MG;Belo Horizonte;01/07/2025
+466;Transfacil BH - Cartão Bhbus Metrô - Tarifa Unitária (Linha R);Transfácil;6,00;5;10;MG;Belo Horizonte;03/07/2026
 467;Transfacil BH - Cartão Bhbus Ônibus A - Integração Origem A (Linha Y);Transfácil;3,13;5;10;MG;Belo Horizonte;02/01/2026
 468;Transfacil BH - Cartão Bhbus Integração Ônibus: B + A (Linha G);Transfácil;3,25;5;10;MG;Belo Horizonte;02/01/2026
 469;Transfacil BH - Cartão Bhbus Integração Meia Tarifa B (Linha F);Transfácil;3,00;5;10;MG;Belo Horizonte;02/01/2026
@@ -1178,7 +1178,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19546;Sindpass - Cartão Floriano X Porto Real;Sindpass;5,40;5;10;RJ;Barra Mansa;16/03/2026
 19768;Sindpass - Cartão Dorândia X Volta Redonda;Sindpass;10,60;5;10;RJ;Barra Mansa;25/06/2026
 19580;SRP- RJ;SRP- RJ;0,01;5;10;RJ;Rio de Janeiro;01/04/2026
-15589;Transa Transporte - Cartão Intermunicipal Levy Gasparian;Transa Transporte - Eletrônico;6,50;5;10;RJ;Três Rios;09/03/2026
+15589;Transa Transporte - Cartão Intermunicipal Levy Gasparian;Transa Transporte - Levy Gasparian;6,50;5;10;RJ;Três Rios;09/03/2026
 10929;Vancard - Cartão Municipal Armação de Búzios;Vancard;5,00;5;10;RJ;Armação de Búzios;25/04/2024
 19722;Vancard - Cartão Municipal Rio das Ostras;Vancard;4,00;5;10;RJ;Armação de Búzios;27/05/2026
 19723;Vancard - Cartão Rural Rio das Ostras;Vancard;4,40;5;10;RJ;Armação de Búzios;27/05/2026
@@ -1251,6 +1251,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15636;Caxiense - Cartão Portão X Sapucaia;Caxiense;9,60;5;10;RS;Porto Alegre;08/07/2025
 15637;Caxiense - Cartão São Sebastião do Caí X Sapucaia do Sul;Caxiense;16,90;5;10;RS;Porto Alegre;08/07/2025
 15638;Caxiense - Cartão Portão X Porto Alegre;Caxiense;19,55;5;10;RS;Porto Alegre;08/07/2025
+16058;CCTU - Cartão Municipal Criciúma;CCTU;5,75;5;10;SC;Criciúma;28/08/2025
 16182;Coleo - Cartão Municipal São Leopoldo;Coleo;5,85;5;10;RS;São Leopoldo;14/10/2025
 15193;Coleurb - Eletrônico - Cartão Municipal Passo Fundo;Coleurb - Eletrônico;6,00;5;10;RS;Passo Fundo;03/11/2025
 15352;Comur - Esteio - Cartão Municipal Esteio;Comur - Esteio;4,00;5;10;RS;Esteio;12/09/2024
@@ -1377,7 +1378,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6084;Torrescar - Cartão Torres Municipal;Torrescar (Torres);5,00;5;10;RS;Torres;07/03/2022
 19523;Torrescar - Arroio do Sal - Cartão Municipal Arroio do Sal;Torrescar - Arroio do Sal;6,00;5;10;RS;Torres;20/02/2026
 5321;Transfatima - Cartão Municipal de Vacaria;Transfatima;5,00;5;10;RS;Vacaria;18/04/2023
-6856;Transnorte - Cartão Travessia Aquaviária de São José do Norte;Transnorte;6,50;5;10;RS;São José do Norte;23/09/2025
+6856;Transnorte - Cartão Travessia Aquaviária de São José do Norte;Transnorte;6,75;5;10;RS;São José do Norte;03/07/2026
 10703;Transpar - Eletrônico - Cartão Municipal Taquara;Transpar - Eletrônico;3,95;5;10;RS;Taquara;28/11/2023
 10208;Transpessoal - Cartão Rio Grande Municipal;Transpessoal;6,25;5;10;RS;Rio Grande;28/04/2026
 10209;Transpessoal - Cartão Rio Grande Seletivo;Transpessoal;10,25;5;10;RS;Rio Grande;28/04/2026
@@ -1559,7 +1560,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2275;Viação Santo Antônio - Cartão Bento Gonçalves - Vino;Viação Santo Antônio;7,90;5;10;RS;Bento Gonçalves;03/06/2025
 9218;Viação Tiaraju - Cartão Santo Ângelo Urbano;Viação Tiaraju;5,00;5;10;RS;Santo Ângelo;02/01/2024
 522;Visate - Cartão Municipal Caxias do Sul;Visate;8,30;5;10;RS;Caxias do Sul;31/12/2025
-2265;ACTU Associação Criciumense - Cartão Criciúma Urbano;ACTU Associação Criciumense;5,25;5;10;SC;Criciúma;03/02/2025
 15724;Alvorada - Cartão Laguna X Tubarão;Alvorada - Eletrônico;12,00;5;10;SC;Laguna;11/06/2025
 15737;Alvorada - Cartão Capivari de Baixo X Cabeçudas;Alvorada - Eletrônico;6,58;5;10;SC;Laguna;11/06/2025
 15744;Alvorada - Cartão Capivari de Baixo X Indaial;Alvorada - Eletrônico;4,00;5;10;SC;Laguna;11/06/2025
@@ -1621,7 +1621,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19769;Expresso Içarense - Cartão Criciúma X Aurora;Expresso Içarense - Eletrônico;7,95;5;10;SC;Criciúma;29/06/2026
 6893;Expresso Presidente (Timbó) - Cartão Timbó Municipal;Expresso Presidente (Timbó);4,00;5;10;SC;Timbó;01/01/2017
 9469;Expresso Presidente - (Gaspar) - Cartão Municipal Gaspar;Expresso Presidente - (Gaspar);4,80;5;10;SC;Presidente Getúlio;30/12/2022
-15964;Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau;Expresso Presidente - Intermunicipal;6,00;5;10;SP;;01/08/2025
+15964;Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau;Expresso Presidente - Intermunicipal;6,00;5;10;SC;Gaspar;01/08/2025
 4721;Forquilhinha - Cartão Criciúma X Forquilhinha (via Santa Cruz);Forquilhinha;5,15;5;10;SC;Criciúma;28/07/2023
 9372;Hodierna - Cartão Municipal Concórdia;Hodierna;1,50;5;10;SC;Concórdia;05/05/2025
 5749;Lagunatur - Cartão Laguna Municipal;Lagunatur;6,00;5;10;SC;Laguna;06/01/2025
@@ -2410,10 +2410,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 178;JTU Jacareí- Cartão Jacareí Urbano / Jacareí e Região;JTU Jacareí;8,06;5;10;SP;Jacareí;06/05/2026
 15367;JTU Jacareí - Cartão Jacareí Urbano Variável;JTU Jacareí;0,01;5;10;SP;Jacareí;20/09/2024
 355;JTU Santa Branca - Cartão Santa Branca X Jacareí / Jacareí e Região;JTU Santa Branca;6,10;5;10;SP;Jacareí;27/01/2026
-8588;Jundiá (São Roque) - Cartão São Roque Urbano;Jundiá (São Roque);8,00;5;10;SP;São Roque;20/10/2025
 16051;Jundiá - Cartão Municipal Mairinque;Jundiá - Mairinque - QR-Code;8,00;5;10;SP;Mairinque;02/07/2026
 16050;Jundiá - Cartão Municipal São Roque;Jundiá - São Roque - QR-Code;8,00;5;10;SP;São Roque;02/07/2026
-492;Jundiá - Cartão Multiuso - Mairinque Municipal;Jundiá Mairinque;8,00;5;10;SP;Mairinque;01/12/2025
 5712;Lim MA - Cartão Municipal;Lim MA;4,30;5;10;SP;Mauá;28/12/2021
 10463;Liminar SA;Liminar SA - Documentação Judicial;5,90;5;10;SP;Santo André;22/01/2025
 7624;LimSP - Municipal;LimSP;5,30;5;10;SP;São Paulo;05/01/2026
@@ -2774,8 +2772,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10036;Sou Sebastião - Cartão Barra do Una X Centro (TR02);Sou - Sebastião;2,95;5;10;SP;São Sebastião;17/06/2025
 1230;Sou - Ubatuba - Cartão Municipal Ubatuba;Sou - Ubatuba;5,00;5;10;SP;Ubatuba;06/06/2022
 3845;Sancetur Valinhos - Cartão SOU Valinhos - Valinhos Municipal;Sou - Valinhos;3,70;5;10;SP;Valinhos;01/07/2025
-19469;Sou - Diadema - Cartão Municipal Diadema;SOU Diadema;7,50;5;10;SP;Diadema;14/01/2026
-19470;Repasse Sou - Diadema - Cartão Municipal Diadema (Blacklist);SOU Diadema;9,99;5;10;SP;Diadema;15/01/2026
 19773;Sou Diadema - Cartão Municipal Diadema;Sou Diadema - QR-Code;7,50;5;10;SP;Diadema;30/06/2026
 19774;Repasse - Cartão Municipal Diadema (Blacklist);Sou Diadema - QR-Code;9,99;5;10;SP;Diadema;01/07/2026
 6134;Sou Indaiatuba - Cartão Sou Indaiatuba;Sou Indaiatuba;4,10;5;10;SP;INDAIATUBA;10/02/2019

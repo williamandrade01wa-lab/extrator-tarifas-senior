@@ -5451,7 +5451,7 @@
         "codigo": "466",
         "nome": "Transfacil BH - Cartão Bhbus Metrô - Tarifa Unitária (Linha R)",
         "fornecedor": "Transfácil",
-        "valor": "5,80",
+        "valor": "6,00",
         "uf": "MG",
         "cidade": "Belo Horizonte"
     },
@@ -9434,7 +9434,7 @@
     {
         "codigo": "15589",
         "nome": "Transa Transporte - Cartão Intermunicipal Levy Gasparian",
-        "fornecedor": "Transa Transporte - Eletrônico",
+        "fornecedor": "Transa Transporte - Levy Gasparian",
         "valor": "6,50",
         "uf": "RJ",
         "cidade": "Três Rios"
@@ -10014,6 +10014,14 @@
         "valor": "19,55",
         "uf": "RS",
         "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "16058",
+        "nome": "CCTU - Cartão Municipal Criciúma",
+        "fornecedor": "CCTU",
+        "valor": "5,75",
+        "uf": "SC",
+        "cidade": "Criciúma"
     },
     {
         "codigo": "16182",
@@ -11027,7 +11035,7 @@
         "codigo": "6856",
         "nome": "Transnorte - Cartão Travessia Aquaviária de São José do Norte",
         "fornecedor": "Transnorte",
-        "valor": "6,50",
+        "valor": "6,75",
         "uf": "RS",
         "cidade": "São José do Norte"
     },
@@ -12480,14 +12488,6 @@
         "cidade": "Caxias do Sul"
     },
     {
-        "codigo": "2265",
-        "nome": "ACTU Associação Criciumense - Cartão Criciúma Urbano",
-        "fornecedor": "ACTU Associação Criciumense",
-        "valor": "5,25",
-        "uf": "SC",
-        "cidade": "Criciúma"
-    },
-    {
         "codigo": "15724",
         "nome": "Alvorada - Cartão Laguna X Tubarão",
         "fornecedor": "Alvorada - Eletrônico",
@@ -12980,8 +12980,8 @@
         "nome": "Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau",
         "fornecedor": "Expresso Presidente - Intermunicipal",
         "valor": "6,00",
-        "uf": "SP",
-        "cidade": ""
+        "uf": "SC",
+        "cidade": "Gaspar"
     },
     {
         "codigo": "4721",
@@ -19288,14 +19288,6 @@
         "cidade": "Jacareí"
     },
     {
-        "codigo": "8588",
-        "nome": "Jundiá (São Roque) - Cartão São Roque Urbano",
-        "fornecedor": "Jundiá (São Roque)",
-        "valor": "8,00",
-        "uf": "SP",
-        "cidade": "São Roque"
-    },
-    {
         "codigo": "16051",
         "nome": "Jundiá - Cartão Municipal Mairinque",
         "fornecedor": "Jundiá - Mairinque - QR-Code",
@@ -19310,14 +19302,6 @@
         "valor": "8,00",
         "uf": "SP",
         "cidade": "São Roque"
-    },
-    {
-        "codigo": "492",
-        "nome": "Jundiá - Cartão Multiuso - Mairinque Municipal",
-        "fornecedor": "Jundiá Mairinque",
-        "valor": "8,00",
-        "uf": "SP",
-        "cidade": "Mairinque"
     },
     {
         "codigo": "5712",
@@ -22198,22 +22182,6 @@
         "valor": "3,70",
         "uf": "SP",
         "cidade": "Valinhos"
-    },
-    {
-        "codigo": "19469",
-        "nome": "Sou - Diadema - Cartão Municipal Diadema",
-        "fornecedor": "SOU Diadema",
-        "valor": "7,50",
-        "uf": "SP",
-        "cidade": "Diadema"
-    },
-    {
-        "codigo": "19470",
-        "nome": "Repasse Sou - Diadema - Cartão Municipal Diadema (Blacklist)",
-        "fornecedor": "SOU Diadema",
-        "valor": "9,99",
-        "uf": "SP",
-        "cidade": "Diadema"
     },
     {
         "codigo": "19773",
