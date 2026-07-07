@@ -620,7 +620,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15925;Expresso Três Fronteiras - Cartão Municipal Nanuque;Expresso Três Fronteiras;4,50;5;10;MG;Nanuque;01/12/2025
 15932;Expresso Três Fronteiras - Cartão Intermunicipal Serra dos Aimores;Expresso Três Fronteiras;6,65;5;10;MG;Nanuque;19/05/2026
 529;Expresso Valônia - Cartão Municipal Itajubá;Expresso Valônia;3,90;5;10;MG;Itajubá;23/08/2023
-2948;Fabri Fácil - Cartão Municipal Coronel Fabriciano;Fabri Fácil;5,00;5;10;MG;Coronel Fabriciano;15/07/2025
+2948;Fabri Fácil - Cartão Municipal Coronel Fabriciano;Fabri Fácil;5,80;5;10;MG;Coronel Fabriciano;06/07/2026
 15503;Fernando Turismo - Cartão Municipal Matias Barbosa;Fernando Turismo - Eletrônico;4,25;5;10;MG;Matias Barbosa;01/09/2025
 19482;Irmãos Teixeira - Eletrônico - Cartão São José dos Salgados X Divinopolis;Irmãos Teixeira - Eletrônico;6,20;5;10;MG;Divinópolis;22/01/2026
 19483;Irmãos Teixeira - Eletrônico - Cartão São José dos Salgados X Divinopolis;Irmãos Teixeira - Eletrônico;6,20;5;10;MG;Divinópolis;22/01/2026
@@ -958,7 +958,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4763;Cidade Verde - Cartão Itambé X Floresta;Cidade Verde;6,20;5;10;PR;Maringá;18/02/2026
 6099;Cidade Verde - Cartão Maringá X Dr. Camargo;Cidade Verde;7,65;5;10;PR;Maringá;18/02/2026
 9100;Cidade Verde - Cartão Maringá X Ivatuba;Cidade Verde;6,20;5;10;PR;Maringá;23/03/2026
-15388;Cidade Verde - Cartão Maringá X Floresta;Cidade Verde;6,55;5;10;PR;Maringá;18/02/2026
+15388;Cidade Verde - Cartão Maringá X Floresta;Cidade Verde;6,90;5;10;PR;Maringá;06/07/2026
 6681;Consorcio Tupa - Cartão Urbano Pato Branco;Consorcio Tupa;5,00;5;10;PR;Pato Branco;01/04/2025
 15989;Expresso Azul - Pinhais - Cartão Pinhais X Campo Comprido;Expresso Azul - Pinhais;5,90;5;10;PR;Pinhais;17/06/2026
 6304;Expresso Nordeste - Cartão Cafelândia X Nova Aurora;Expresso Nordeste - Novo Sistema;8,50;5;10;PR;Apucarana;14/05/2026
@@ -1350,24 +1350,24 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5528;Mtu Medianeira - Cartão Ijuí Municipal;MTU Medianeira;6,00;5;10;RS;Ijui;07/07/2025
 5330;Nossa senhora das Graças - Cartão Cachoeira do Sul Urbano;Nossa Senhora das Graças;5,70;5;10;RS;Cachoeira do Sul;24/06/2025
 5793;Nossa Senhora de Fátima - Cruz Alta Municipal;Nossa Senhora de Fátima;3,60;5;10;RS;Cruz Alta;26/03/2019
-1311;Ozelame - Cartão Caxias do Sul X Farroupilha / Porto Alegre e Região;Ozelame;8,75;5;10;RS;Caxias do Sul;23/10/2025
-4701;Ozelame - Cartão Bento X Forqueta;Ozelame;12,55;5;10;RS;Caxias do Sul;23/10/2025
-4707;Ozelame - Cartão Farroupilha X Buratti;Ozelame;8,50;5;10;RS;Caxias do Sul;23/10/2025
-4709;Ozelame - Cartão Farroupilha X Bento Gonçalves;Ozelame;11,45;5;10;RS;Caxias do Sul;23/10/2025
-4712;Ozelame - Cartão Garibaldi X Caxias do Sul;Ozelame;23,65;5;10;RS;Caxias do Sul;05/11/2025
-5750;Ozelame - Cartão Bento Gonçalves x Carlos Barbosa;Ozelame;8,50;5;10;RS;Caxias do Sul;23/10/2025
-5751;Ozelame - Cartão Garibaldi x Carlos Barbosa;Ozelame;8,50;5;10;RS;Caxias do Sul;23/10/2025
-5807;Ozelame - Cartão Caxias X Olaria;Ozelame;8,50;5;10;RS;Caxias do Sul;23/10/2025
-5883;Ozelame - Bento X Caxias (via Farroupilha) (comum);Ozelame;19,15;5;10;RS;Caxias do Sul;23/10/2025
-5884;Ozelame - Cartão Bento X Olaria;Ozelame;14,95;5;10;RS;Caxias do Sul;05/11/2025
-5885;Ozelame - Desvio X Rizo;Ozelame;8,50;5;10;RS;Caxias do Sul;23/10/2025
-5886;Ozelame - Farroupilha X Olaria;Ozelame;8,50;5;10;RS;Caxias do Sul;23/10/2025
+1311;Ozelame - Cartão Caxias do Sul X Farroupilha / Porto Alegre e Região;Ozelame;9,55;5;10;RS;Caxias do Sul;06/07/2026
+4701;Ozelame - Cartão Bento X Forqueta;Ozelame;13,65;5;10;RS;Caxias do Sul;06/07/2026
+4707;Ozelame - Cartão Farroupilha X Buratti;Ozelame;9,25;5;10;RS;Caxias do Sul;06/07/2026
+4709;Ozelame - Cartão Farroupilha X Bento Gonçalves;Ozelame;12,45;5;10;RS;Caxias do Sul;06/07/2026
+4712;Ozelame - Cartão Garibaldi X Caxias do Sul;Ozelame;25,70;5;10;RS;Caxias do Sul;06/07/2026
+5750;Ozelame - Cartão Bento Gonçalves x Carlos Barbosa;Ozelame;9,25;5;10;RS;Caxias do Sul;06/07/2026
+5751;Ozelame - Cartão Garibaldi x Carlos Barbosa;Ozelame;9,25;5;10;RS;Caxias do Sul;06/07/2026
+5807;Ozelame - Cartão Caxias X Olaria;Ozelame;9,25;5;10;RS;Caxias do Sul;06/07/2026
+5883;Ozelame - Bento X Caxias (via Farroupilha) (comum);Ozelame;20,85;5;10;RS;Caxias do Sul;06/07/2026
+5884;Ozelame - Cartão Bento X Olaria;Ozelame;16,10;5;10;RS;Caxias do Sul;06/07/2026
+5885;Ozelame - Desvio X Rizo;Ozelame;9,25;5;10;RS;Caxias do Sul;06/07/2026
+5886;Ozelame - Farroupilha X Olaria;Ozelame;9,25;5;10;RS;Caxias do Sul;06/07/2026
 8891;Ozelame - Cartão Ozelame;Ozelame;0,01;5;10;RS;Caxias do Sul;01/01/2000
-10840;Ozelame - Cartão Bento X Caxias (semi-direto);Ozelame;22,40;5;10;RS;Caxias do Sul;23/10/2025
+10840;Ozelame - Cartão Bento X Caxias (semi-direto);Ozelame;24,30;5;10;RS;Caxias do Sul;06/07/2026
 3132;Panambiense - Cartão Panambi Intermunicipal;Panambiense;7,45;5;10;RS;Panambi;27/04/2026
 3133;Panambiense - Cartão Panambi Municipal;Panambiense;6,82;5;10;RS;Panambi;12/06/2025
-19619;Prati - Capão do Leão - Cartão Pelotas X Capão do Leão;Prati - Capão do Leão;7,40;5;10;RS;Pelotas;28/04/2026
-19620;Prati - Capão do Leão - Cartão Pelotas X Jardim América;Prati - Capão do Leão;6,05;5;10;RS;Pelotas;28/04/2026
+19619;Prati - Capão do Leão - Cartão Pelotas X Capão do Leão;Prati - Capão do Leão;8,00;5;10;RS;Pelotas;06/07/2026
+19620;Prati - Capão do Leão - Cartão Pelotas X Jardim América;Prati - Capão do Leão;6,50;5;10;RS;Pelotas;06/07/2026
 19621;Prati - Pelotas - Cartão Municipal Pelotas;Prati - Pelotas;6,25;5;10;RS;Pelotas;28/04/2026
 10834;Riomafra - Cartão Municipal Mafra;Riomafra;4,50;5;10;SC;Mafra;29/01/2024
 2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;5,00;5;10;RS;São Borja;12/06/2026
@@ -1621,7 +1621,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19769;Expresso Içarense - Cartão Criciúma X Aurora;Expresso Içarense - Eletrônico;7,95;5;10;SC;Criciúma;29/06/2026
 6893;Expresso Presidente (Timbó) - Cartão Timbó Municipal;Expresso Presidente (Timbó);4,00;5;10;SC;Timbó;01/01/2017
 9469;Expresso Presidente - (Gaspar) - Cartão Municipal Gaspar;Expresso Presidente - (Gaspar);4,80;5;10;SC;Presidente Getúlio;30/12/2022
-15964;Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau;Expresso Presidente - Intermunicipal;6,00;5;10;SC;Gaspar;01/08/2025
+15964;Expresso Presidente - Intermunicipal - Cartão Poço Grande X Blumenau;Expresso Presidente - Intermunicipal;11,10;5;10;SC;Gaspar;06/07/2026
 4721;Forquilhinha - Cartão Criciúma X Forquilhinha (via Santa Cruz);Forquilhinha;5,15;5;10;SC;Criciúma;28/07/2023
 9372;Hodierna - Cartão Municipal Concórdia;Hodierna;1,50;5;10;SC;Concórdia;05/05/2025
 5749;Lagunatur - Cartão Laguna Municipal;Lagunatur;6,00;5;10;SC;Laguna;06/01/2025
@@ -2382,23 +2382,23 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19747;Guerino Seiscentos - Cartão Ouro Verde X Dracena;Guerino Seiscentos;7,55;5;10;SP;Tupã;15/06/2026
 15836;Itacard - Cartão Municipal Itapecerica da Serra;Itacard - Novo Sistema - Pix;5,50;5;10;SP;Itapecerica da Serra;15/01/2026
 15360;Produto Itaqua;Itaqua;7,10;5;10;SP;Itaquaquecetuba;07/01/2026
-8713;Jandaia - Cartão Álvares Machado X Presidente Prudente;Jandaia;6,60;5;10;SP;Presidente Prudente;03/07/2025
-8714;Jandaia - Cartão Presidente Bernardes X Emilianópolis;Jandaia;7,95;5;10;SP;Presidente Prudente;03/07/2025
-8715;Jandaia - Cartão Presidente Prudente X Emilianópolis;Jandaia;12,90;5;10;SP;Presidente Prudente;03/07/2025
-8716;Jandaia - Cartão Presidente Prudente X Santo Expedito;Jandaia;12,90;5;10;SP;Presidente Prudente;03/07/2025
-8717;Jandaia - Cartão Regente X Taciba;Jandaia;7,95;5;10;SP;Presidente Prudente;03/07/2025
-8718;Jandaia - Cartão Indiana X Presidente Prudente;Jandaia;9,70;5;10;SP;Presidente Prudente;03/07/2025
-8728;Jandaia - Regente Feijó/Anhumas X Presidente Prudente;Jandaia;7,25;5;10;SP;Presidente Prudente;03/07/2025
+8713;Jandaia - Cartão Álvares Machado X Presidente Prudente;Jandaia;6,95;5;10;SP;Presidente Prudente;06/07/2026
+8714;Jandaia - Cartão Presidente Bernardes X Emilianópolis;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
+8715;Jandaia - Cartão Presidente Prudente X Emilianópolis;Jandaia;13,50;5;10;SP;Presidente Prudente;06/07/2026
+8716;Jandaia - Cartão Presidente Prudente X Santo Expedito;Jandaia;13,50;5;10;SP;Presidente Prudente;06/07/2026
+8717;Jandaia - Cartão Regente X Taciba;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
+8718;Jandaia - Cartão Indiana X Presidente Prudente;Jandaia;10,00;5;10;SP;Presidente Prudente;06/07/2026
+8728;Jandaia - Regente Feijó/Anhumas X Presidente Prudente;Jandaia;7,60;5;10;SP;Presidente Prudente;06/07/2026
 8729;Jandaia - Presidente Prudente X Martinópolis;Jandaia;9,70;5;10;SP;Presidente Prudente;03/07/2025
-8824;Jandaia - Jandaia de Pirapozinho X Presidente Prudente;Jandaia;8,00;5;10;SP;Presidente Prudente;03/07/2025
-8825;Jandaia - Presidente Prudente X Taciba;Jandaia;10,25;5;10;SP;Presidente Prudente;03/07/2025
-8826;Jandaia - Presidente Prudente X Presidente Bernardes;Jandaia;8,60;5;10;SP;Presidente Prudente;03/07/2025
-8879;Jandaia - Cartão Presidente Prudente X Alfredo Marcondes;Jandaia;8,60;5;10;SP;Presidente Prudente;03/07/2025
-9144;Jandaia - Cartão Presidente Prudente X Narandiba;Jandaia;8,60;5;10;SP;Presidente Prudente;03/07/2025
-9684;Jandaia - Cartão Tarabai X Presidente Prudente;Jandaia;8,00;5;10;SP;Presidente Prudente;07/07/2025
+8824;Jandaia - Jandaia de Pirapozinho X Presidente Prudente;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
+8825;Jandaia - Presidente Prudente X Taciba;Jandaia;10,75;5;10;SP;Presidente Prudente;06/07/2026
+8826;Jandaia - Presidente Prudente X Presidente Bernardes;Jandaia;9,00;5;10;SP;Presidente Prudente;06/07/2026
+8879;Jandaia - Cartão Presidente Prudente X Alfredo Marcondes;Jandaia;9,00;5;10;SP;Presidente Prudente;06/07/2026
+9144;Jandaia - Cartão Presidente Prudente X Narandiba;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
+9684;Jandaia - Cartão Tarabai X Presidente Prudente;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
 10264;Jandaia - Cartão Presidente Prudente x Parque dos Pinheiros;Jandaia;5,70;5;10;SP;Presidente Prudente;05/07/2023
-15357;Jandaia - Estrela do Norte X Presidente Prudente;Jandaia;13,45;5;10;SP;Presidente Prudente;16/09/2024
-19511;Jandaia - Cartão Adamantina X Mariápolis (Linha 011);Jandaia;7,55;5;10;SP;Presidente Prudente;12/02/2026
+15357;Jandaia - Estrela do Norte X Presidente Prudente;Jandaia;14,85;5;10;SP;Presidente Prudente;06/07/2026
+19511;Jandaia - Cartão Adamantina X Mariápolis (Linha 011);Jandaia;7,95;5;10;SP;Presidente Prudente;06/07/2026
 9359;Jodi - Cartão Itaboa X Lajeado;Jodi;7,85;5;10;SP;Itapeva;19/02/2025
 9360;Jodi - Cartão Itaoca X Taquariguaçu;Jodi;12,00;5;10;SP;Itapeva;19/02/2025
 9361;Jodi - Cartão Itapeva X Itaboa;Jodi;11,00;5;10;SP;Itapeva;19/02/2025
@@ -2585,10 +2585,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5974;Pássaro Marron - Cartão Taubaté X Pinda;Pássaro Marron - URBANO - (Taub - Pind));5,55;5;10;SP;Guarulhos;08/01/2026
 6019;Pássaro Marron - Cartão Taubaté X Pindamonhangaba;Pássaro Marron - URBANO - (Taub - Pind));5,50;5;10;SP;Guarulhos;08/01/2026
 6015;Pássaro Marron - Cartão Jambeiro X S.J.dos Campos;Pássaro Marron -URBANO - (Jambeiro - S.J.dos Campos);9,00;5;10;SP;Guarulhos;08/01/2026
-10750;Petitto - Cartão Pradópolis X Ribeirão Preto;Petitto - Eletrônico;11,55;5;10;SP;Pradópolis;08/07/2025
-10751;Petitto - Cartão Dummond X Ribeirão Preto;Petitto - Eletrônico;7,90;5;10;SP;Pradópolis;01/07/2025
-10752;Petitto - Cartão Guariba X Ribeirão Preto;Petitto - Eletrônico;20,95;5;10;SP;Pradópolis;01/07/2025
-10753;Petitto - Cartão Pradópolis X Dumont;Petitto - Eletrônico;7,25;5;10;SP;Pradópolis;01/07/2025
+10750;Petitto - Cartão Pradópolis X Ribeirão Preto;Petitto - Eletrônico;12,10;5;10;SP;Pradópolis;06/07/2026
+10751;Petitto - Cartão Dummond X Ribeirão Preto;Petitto - Eletrônico;8,35;5;10;SP;Pradópolis;06/07/2026
+10752;Petitto - Cartão Guariba X Ribeirão Preto;Petitto - Eletrônico;22,10;5;10;SP;Pradópolis;06/07/2026
+10753;Petitto - Cartão Pradópolis X Dumont;Petitto - Eletrônico;7,60;5;10;SP;Pradópolis;06/07/2026
 2554;Pevê Tur - Cartão Mifare;Pevê Tur;0,01;5;10;SP;São José do Rio Preto;01/02/2018
 6959;Pevê Tur - Cartão Adolfo X Fazenda Biroli;Pevê Tur;6,60;5;10;SP;São José do Rio Preto;07/07/2025
 6961;Pevê Tur - Cartão Bady Bassit X Adolfo;Pevê Tur;11,55;5;10;SP;São José do Rio Preto;07/07/2025
@@ -2775,12 +2775,12 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19773;Sou Diadema - Cartão Municipal Diadema;Sou Diadema - QR-Code;7,50;5;10;SP;Diadema;30/06/2026
 19774;Repasse - Cartão Municipal Diadema (Blacklist);Sou Diadema - QR-Code;9,99;5;10;SP;Diadema;01/07/2026
 6134;Sou Indaiatuba - Cartão Sou Indaiatuba;Sou Indaiatuba;4,10;5;10;SP;INDAIATUBA;10/02/2019
-89;SPTRANS - Bilhete Único - Municipal / São Paulo;SPTrans;5,82;3;5;SP;São Paulo;05/01/2026
-214;SPTRANS - Bilhete Único - Integração Ônibus/Metrô / CPTM / São Paulo;SPTrans;11,32;3;5;SP;São Paulo;05/01/2026
-218;SPTRANS - Bilhete Único - Metrô / São Paulo;SPTrans;5,92;3;5;SP;São Paulo;05/01/2026
-384;SPTRANS - Bilhete Único - CPTM / São Paulo;SPTrans;5,92;3;5;SP;São Paulo;05/01/2026
-8126;SPTRANS - Bilhete Único - Integração Ônibus + Metrô/CPTM Madrugador;SPTrans;10,28;3;5;SP;São Paulo;05/01/2026
-15366;SPTRANS - Bilhete Único Variável;SPTrans;0,01;3;5;SP;São Paulo;20/09/2024
+89;SPTRANS - Bilhete Único - Municipal / São Paulo;SPTrans;5,82;5;5;SP;São Paulo;05/01/2026
+214;SPTRANS - Bilhete Único - Integração Ônibus/Metrô / CPTM / São Paulo;SPTrans;11,32;5;5;SP;São Paulo;05/01/2026
+218;SPTRANS - Bilhete Único - Metrô / São Paulo;SPTrans;5,92;5;5;SP;São Paulo;05/01/2026
+384;SPTRANS - Bilhete Único - CPTM / São Paulo;SPTrans;5,92;5;5;SP;São Paulo;05/01/2026
+8126;SPTRANS - Bilhete Único - Integração Ônibus + Metrô/CPTM Madrugador;SPTrans;10,28;5;5;SP;São Paulo;05/01/2026
+15366;SPTRANS - Bilhete Único Variável;SPTrans;0,01;5;5;SP;São Paulo;20/09/2024
 3273;Sou - São Carlos - Cartão Municipal São Carlos;Suzantur (Sancetur);5,25;5;10;SP;São Carlos;13/01/2025
 15739;TCA Araras - Cartão Municipal Araras;TCA Araras - Novo Sistema;4,50;5;10;SP;Araras;06/06/2025
 693;TCI Transporte - Cartão Municipal Itatiba;TCI Transporte;9,22;5;10;SP;Itatiba;14/05/2026
@@ -3139,9 +3139,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15729;Viação São Bento - Cartão Batatais X Brodowski;Viação São Bento - Novo Sistema;8,15;5;10;SP;Ribeirão Preto;16/10/2025
 15730;Viação São Bento - Cartão Ribeirão Preto X Altinópolis;Viação São Bento - Novo Sistema;22,35;5;10;SP;Ribeirão Preto;09/01/2026
 19584;Viação São Bento - Cartão Ribeirão Preto X Orlândia;Viação São Bento - Novo Sistema;17,00;5;10;SP;Ribeirão Preto;02/04/2026
-8143;Viação Trevisan - Cartão Rio das Pedras X Piracicaba;Viação Trevisan;6,95;5;10;SP;Piracicaba;07/07/2025
-8144;Viação Trevisan - Cartão Piracicaba X Charqueada;Viação Trevisan;11,05;5;10;SP;Piracicaba;17/06/2026
-9000;Viação Trevisan - Cartão Piracicaba X Saltinho;Viação Trevisan;6,95;5;10;SP;Piracicaba;07/07/2025
+8143;Viação Trevisan - Cartão Rio das Pedras X Piracicaba;Viação Trevisan;7,25;5;10;SP;Piracicaba;06/07/2026
+8144;Viação Trevisan - Cartão Piracicaba X Charqueada;Viação Trevisan;11,40;5;10;SP;Piracicaba;06/07/2026
+9000;Viação Trevisan - Cartão Piracicaba X Saltinho;Viação Trevisan;7,25;5;10;SP;Piracicaba;06/07/2026
 6851;Viação Vale do Ribeira - Cartão Municipal Registro;Viação Vale do Ribeira;3,80;5;10;SP;Registro;01/01/2022
 3647;Viasol - Cartão Rio Claro X Santa Gertrudes Suburbana;Viasol;6,60;5;10;SP;Rio Claro;07/07/2025
 10698;Viasol - Cartão Rio Claro X Santa Gertrudes (Suburbana);Viasol;6,60;5;10;SP;Rio Claro;07/07/2025

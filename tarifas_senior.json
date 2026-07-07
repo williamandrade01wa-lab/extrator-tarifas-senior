@@ -4971,7 +4971,7 @@
         "codigo": "2948",
         "nome": "Fabri Fácil - Cartão Municipal Coronel Fabriciano",
         "fornecedor": "Fabri Fácil",
-        "valor": "5,00",
+        "valor": "5,80",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -7675,7 +7675,7 @@
         "codigo": "15388",
         "nome": "Cidade Verde - Cartão Maringá X Floresta",
         "fornecedor": "Cidade Verde",
-        "valor": "6,55",
+        "valor": "6,90",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -10811,7 +10811,7 @@
         "codigo": "1311",
         "nome": "Ozelame - Cartão Caxias do Sul X Farroupilha / Porto Alegre e Região",
         "fornecedor": "Ozelame",
-        "valor": "8,75",
+        "valor": "9,55",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10819,7 +10819,7 @@
         "codigo": "4701",
         "nome": "Ozelame - Cartão Bento X Forqueta",
         "fornecedor": "Ozelame",
-        "valor": "12,55",
+        "valor": "13,65",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10827,7 +10827,7 @@
         "codigo": "4707",
         "nome": "Ozelame - Cartão Farroupilha X Buratti",
         "fornecedor": "Ozelame",
-        "valor": "8,50",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10835,7 +10835,7 @@
         "codigo": "4709",
         "nome": "Ozelame - Cartão Farroupilha X Bento Gonçalves",
         "fornecedor": "Ozelame",
-        "valor": "11,45",
+        "valor": "12,45",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10843,7 +10843,7 @@
         "codigo": "4712",
         "nome": "Ozelame - Cartão Garibaldi X Caxias do Sul",
         "fornecedor": "Ozelame",
-        "valor": "23,65",
+        "valor": "25,70",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10851,7 +10851,7 @@
         "codigo": "5750",
         "nome": "Ozelame - Cartão Bento Gonçalves x Carlos Barbosa",
         "fornecedor": "Ozelame",
-        "valor": "8,50",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10859,7 +10859,7 @@
         "codigo": "5751",
         "nome": "Ozelame - Cartão Garibaldi x Carlos Barbosa",
         "fornecedor": "Ozelame",
-        "valor": "8,50",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10867,7 +10867,7 @@
         "codigo": "5807",
         "nome": "Ozelame - Cartão Caxias X Olaria",
         "fornecedor": "Ozelame",
-        "valor": "8,50",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10875,7 +10875,7 @@
         "codigo": "5883",
         "nome": "Ozelame - Bento X Caxias (via Farroupilha) (comum)",
         "fornecedor": "Ozelame",
-        "valor": "19,15",
+        "valor": "20,85",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10883,7 +10883,7 @@
         "codigo": "5884",
         "nome": "Ozelame - Cartão Bento X Olaria",
         "fornecedor": "Ozelame",
-        "valor": "14,95",
+        "valor": "16,10",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10891,7 +10891,7 @@
         "codigo": "5885",
         "nome": "Ozelame - Desvio X Rizo",
         "fornecedor": "Ozelame",
-        "valor": "8,50",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10899,7 +10899,7 @@
         "codigo": "5886",
         "nome": "Ozelame - Farroupilha X Olaria",
         "fornecedor": "Ozelame",
-        "valor": "8,50",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10915,7 +10915,7 @@
         "codigo": "10840",
         "nome": "Ozelame - Cartão Bento X Caxias (semi-direto)",
         "fornecedor": "Ozelame",
-        "valor": "22,40",
+        "valor": "24,30",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -10939,7 +10939,7 @@
         "codigo": "19619",
         "nome": "Prati - Capão do Leão - Cartão Pelotas X Capão do Leão",
         "fornecedor": "Prati - Capão do Leão",
-        "valor": "7,40",
+        "valor": "8,00",
         "uf": "RS",
         "cidade": "Pelotas"
     },
@@ -10947,7 +10947,7 @@
         "codigo": "19620",
         "nome": "Prati - Capão do Leão - Cartão Pelotas X Jardim América",
         "fornecedor": "Prati - Capão do Leão",
-        "valor": "6,05",
+        "valor": "6,50",
         "uf": "RS",
         "cidade": "Pelotas"
     },
@@ -12977,9 +12977,9 @@
     },
     {
         "codigo": "15964",
-        "nome": "Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau",
+        "nome": "Expresso Presidente - Intermunicipal - Cartão Poço Grande X Blumenau",
         "fornecedor": "Expresso Presidente - Intermunicipal",
-        "valor": "6,00",
+        "valor": "11,10",
         "uf": "SC",
         "cidade": "Gaspar"
     },
@@ -19067,7 +19067,7 @@
         "codigo": "8713",
         "nome": "Jandaia - Cartão Álvares Machado X Presidente Prudente",
         "fornecedor": "Jandaia",
-        "valor": "6,60",
+        "valor": "6,95",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19075,7 +19075,7 @@
         "codigo": "8714",
         "nome": "Jandaia - Cartão Presidente Bernardes X Emilianópolis",
         "fornecedor": "Jandaia",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19083,7 +19083,7 @@
         "codigo": "8715",
         "nome": "Jandaia - Cartão Presidente Prudente X Emilianópolis",
         "fornecedor": "Jandaia",
-        "valor": "12,90",
+        "valor": "13,50",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19091,7 +19091,7 @@
         "codigo": "8716",
         "nome": "Jandaia - Cartão Presidente Prudente X Santo Expedito",
         "fornecedor": "Jandaia",
-        "valor": "12,90",
+        "valor": "13,50",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19099,7 +19099,7 @@
         "codigo": "8717",
         "nome": "Jandaia - Cartão Regente X Taciba",
         "fornecedor": "Jandaia",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19107,7 +19107,7 @@
         "codigo": "8718",
         "nome": "Jandaia - Cartão Indiana X Presidente Prudente",
         "fornecedor": "Jandaia",
-        "valor": "9,70",
+        "valor": "10,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19115,7 +19115,7 @@
         "codigo": "8728",
         "nome": "Jandaia - Regente Feijó/Anhumas X Presidente Prudente",
         "fornecedor": "Jandaia",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19131,7 +19131,7 @@
         "codigo": "8824",
         "nome": "Jandaia - Jandaia de Pirapozinho X Presidente Prudente",
         "fornecedor": "Jandaia",
-        "valor": "8,00",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19139,7 +19139,7 @@
         "codigo": "8825",
         "nome": "Jandaia - Presidente Prudente X Taciba",
         "fornecedor": "Jandaia",
-        "valor": "10,25",
+        "valor": "10,75",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19147,7 +19147,7 @@
         "codigo": "8826",
         "nome": "Jandaia - Presidente Prudente X Presidente Bernardes",
         "fornecedor": "Jandaia",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19155,7 +19155,7 @@
         "codigo": "8879",
         "nome": "Jandaia - Cartão Presidente Prudente X Alfredo Marcondes",
         "fornecedor": "Jandaia",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19163,7 +19163,7 @@
         "codigo": "9144",
         "nome": "Jandaia - Cartão Presidente Prudente X Narandiba",
         "fornecedor": "Jandaia",
-        "valor": "8,60",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19171,7 +19171,7 @@
         "codigo": "9684",
         "nome": "Jandaia - Cartão Tarabai X Presidente Prudente",
         "fornecedor": "Jandaia",
-        "valor": "8,00",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19187,7 +19187,7 @@
         "codigo": "15357",
         "nome": "Jandaia - Estrela do Norte X Presidente Prudente",
         "fornecedor": "Jandaia",
-        "valor": "13,45",
+        "valor": "14,85",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -19195,7 +19195,7 @@
         "codigo": "19511",
         "nome": "Jandaia - Cartão Adamantina X Mariápolis (Linha 011)",
         "fornecedor": "Jandaia",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -20691,7 +20691,7 @@
         "codigo": "10750",
         "nome": "Petitto - Cartão Pradópolis X Ribeirão Preto",
         "fornecedor": "Petitto - Eletrônico",
-        "valor": "11,55",
+        "valor": "12,10",
         "uf": "SP",
         "cidade": "Pradópolis"
     },
@@ -20699,7 +20699,7 @@
         "codigo": "10751",
         "nome": "Petitto - Cartão Dummond X Ribeirão Preto",
         "fornecedor": "Petitto - Eletrônico",
-        "valor": "7,90",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Pradópolis"
     },
@@ -20707,7 +20707,7 @@
         "codigo": "10752",
         "nome": "Petitto - Cartão Guariba X Ribeirão Preto",
         "fornecedor": "Petitto - Eletrônico",
-        "valor": "20,95",
+        "valor": "22,10",
         "uf": "SP",
         "cidade": "Pradópolis"
     },
@@ -20715,7 +20715,7 @@
         "codigo": "10753",
         "nome": "Petitto - Cartão Pradópolis X Dumont",
         "fornecedor": "Petitto - Eletrônico",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "Pradópolis"
     },
@@ -25123,7 +25123,7 @@
         "codigo": "8143",
         "nome": "Viação Trevisan - Cartão Rio das Pedras X Piracicaba",
         "fornecedor": "Viação Trevisan",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -25131,7 +25131,7 @@
         "codigo": "8144",
         "nome": "Viação Trevisan - Cartão Piracicaba X Charqueada",
         "fornecedor": "Viação Trevisan",
-        "valor": "11,05",
+        "valor": "11,40",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -25139,7 +25139,7 @@
         "codigo": "9000",
         "nome": "Viação Trevisan - Cartão Piracicaba X Saltinho",
         "fornecedor": "Viação Trevisan",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
