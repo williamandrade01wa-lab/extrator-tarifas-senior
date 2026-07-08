@@ -1743,7 +1743,17 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10479;ABC Transportes - Cartão Taubaté X Caçapava;ABC Transportes;7,10;5;10;SP;Taubaté;14/04/2026
 10480;ABC Transportes - Cartão Tremembé X Caçapava;ABC Transportes;7,05;5;10;SP;Taubaté;06/02/2025
 164;AESA - Bilhete Único Andreense - Santo André Municipal;AESA;7,25;5;10;SP;Santo André;03/01/2025
-15515;AETUR Del Rey - Cartão Pec - Municipal Carapicuíba;AETUR Del Rey - Novo Sistema;6,10;5;10;SP;Carapicuíba;05/01/2026
+15515;AETUR Del Rey - Cartão Pec - Municipal Carapicuíba;AETUR DEL REY - NOVO SISTEMA;6,10;5;10;SP;Carapicuíba;05/01/2026
+19449;BB Turismo - Cartão Municipal Barueri;AETUR DEL REY - NOVO SISTEMA;6,10;5;10;SP;Barueri;05/01/2026
+19450;BB Turismo - Cartão Barueri Integração;AETUR DEL REY - NOVO SISTEMA;10,00;5;10;SP;Barueri;05/01/2026
+19455;Repasse BB Turismo - Cartão Municipal Barueri (Blacklist);AETUR DEL REY - NOVO SISTEMA;18,30;5;10;SP;Barueri;06/01/2026
+19457;Repasse BB Turismo - Cartão Barueri Integração (Blacklist);AETUR DEL REY - NOVO SISTEMA;18,30;5;10;SP;Barueri;06/01/2026
+19651;BB Turismo - Cartão Municipal Barueri;AETUR DEL REY - NOVO SISTEMA;6,10;5;10;SP;Barueri;12/05/2026
+19652;BB Turismo - Cartão Barueri Integração;AETUR DEL REY - NOVO SISTEMA;10,00;5;10;SP;Barueri;12/05/2026
+19663;Repasse - BB Turismo - Cartão Municipal Barueri (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;18/05/2026
+19665;Repasse - BB Turismo - Cartão Barueri Integração (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;18/05/2026
+19739;Repasse - Cartão Municipal Barueri (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;12/06/2026
+19741;Repasse - Cartão Barueri Integração (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;12/06/2026
 1828;AMTU Marilia - Marília Card;AMTU Marilia;5,75;5;10;SP;Marilia;02/05/2024
 816;Andorinha - Cartão Presidente Prudente X Venceslau;Andorinha;16,95;5;10;SP;Presidente Prudente;07/07/2025
 2343;Andorinha - Cartão Santo Anastácio X Presidente Prudente (com pedágio) (ida e volta);Andorinha;10,00;5;10;SP;Presidente Prudente;07/07/2025
@@ -1779,16 +1789,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8127;Auto Viação Suzano (Catanduva) - Cartão Municipal Catanduva;Auto Viação Suzano (Catanduva);4,00;5;10;SP;Catanduva;03/01/2020
 15696;Avoa - Cartão Municipal Ourinhos;Avoa - Novo Sistema;4,50;5;10;SP;Ourinhos;02/05/2025
 19767;Bauru - Comodato;Bauru - Comodato;5,75;5;10;SP;Bauru;23/06/2026
-19449;BB Turismo - Cartão Municipal Barueri;BB Turismo (Benfácil) - Barueri;6,10;5;10;SP;Barueri;05/01/2026
-19450;BB Turismo - Cartão Barueri Integração;BB Turismo (Benfácil) - Barueri;10,00;5;10;SP;Barueri;05/01/2026
-19455;Repasse BB Turismo - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;18,30;5;10;SP;Barueri;06/01/2026
-19457;Repasse BB Turismo - Cartão Barueri Integração (Blacklist);BB Turismo (Benfácil) - Barueri;18,30;5;10;SP;Barueri;06/01/2026
-19651;BB Turismo - Cartão Municipal Barueri;BB Turismo (Benfácil) - Barueri;6,10;5;10;SP;Barueri;12/05/2026
-19652;BB Turismo - Cartão Barueri Integração;BB Turismo (Benfácil) - Barueri;10,00;5;10;SP;Barueri;12/05/2026
-19663;Repasse - BB Turismo - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;18/05/2026
-19665;Repasse - BB Turismo - Cartão Barueri Integração (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;18/05/2026
-19739;Repasse - Cartão Municipal Barueri (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;12/06/2026
-19741;Repasse - Cartão Barueri Integração (Blacklist);BB Turismo (Benfácil) - Barueri;24,40;5;10;SP;Barueri;12/06/2026
 19451;BB Turismo - Cartão Municipal Itapevi;BB Turismo (Benfácil) - Itapevi;6,10;5;10;SP;Barueri;05/01/2026
 19452;BB Turismo - Cartão Itapevi Integração;BB Turismo (Benfácil) - Itapevi;10,00;5;10;SP;Barueri;05/01/2026
 19459;Repasse BB Turismo - Cartão Municipal Itapevi (Blacklist);BB Turismo (Benfácil) - Itapevi;18,30;5;10;SP;Barueri;06/01/2026

@@ -13954,10 +13954,90 @@
     {
         "codigo": "15515",
         "nome": "AETUR Del Rey - Cartão Pec - Municipal Carapicuíba",
-        "fornecedor": "AETUR Del Rey - Novo Sistema",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
         "valor": "6,10",
         "uf": "SP",
         "cidade": "Carapicuíba"
+    },
+    {
+        "codigo": "19449",
+        "nome": "BB Turismo - Cartão Municipal Barueri",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "6,10",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19450",
+        "nome": "BB Turismo - Cartão Barueri Integração",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "10,00",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19455",
+        "nome": "Repasse BB Turismo - Cartão Municipal Barueri (Blacklist)",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "18,30",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19457",
+        "nome": "Repasse BB Turismo - Cartão Barueri Integração (Blacklist)",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "18,30",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19651",
+        "nome": "BB Turismo - Cartão Municipal Barueri",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "6,10",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19652",
+        "nome": "BB Turismo - Cartão Barueri Integração",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "10,00",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19663",
+        "nome": "Repasse - BB Turismo - Cartão Municipal Barueri (Blacklist)",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19665",
+        "nome": "Repasse - BB Turismo - Cartão Barueri Integração (Blacklist)",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19739",
+        "nome": "Repasse - Cartão Municipal Barueri (Blacklist)",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
+    },
+    {
+        "codigo": "19741",
+        "nome": "Repasse - Cartão Barueri Integração (Blacklist)",
+        "fornecedor": "AETUR DEL REY - NOVO SISTEMA",
+        "valor": "24,40",
+        "uf": "SP",
+        "cidade": "Barueri"
     },
     {
         "codigo": "1828",
@@ -14238,86 +14318,6 @@
         "valor": "5,75",
         "uf": "SP",
         "cidade": "Bauru"
-    },
-    {
-        "codigo": "19449",
-        "nome": "BB Turismo - Cartão Municipal Barueri",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "6,10",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19450",
-        "nome": "BB Turismo - Cartão Barueri Integração",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "10,00",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19455",
-        "nome": "Repasse BB Turismo - Cartão Municipal Barueri (Blacklist)",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "18,30",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19457",
-        "nome": "Repasse BB Turismo - Cartão Barueri Integração (Blacklist)",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "18,30",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19651",
-        "nome": "BB Turismo - Cartão Municipal Barueri",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "6,10",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19652",
-        "nome": "BB Turismo - Cartão Barueri Integração",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "10,00",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19663",
-        "nome": "Repasse - BB Turismo - Cartão Municipal Barueri (Blacklist)",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "24,40",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19665",
-        "nome": "Repasse - BB Turismo - Cartão Barueri Integração (Blacklist)",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "24,40",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19739",
-        "nome": "Repasse - Cartão Municipal Barueri (Blacklist)",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "24,40",
-        "uf": "SP",
-        "cidade": "Barueri"
-    },
-    {
-        "codigo": "19741",
-        "nome": "Repasse - Cartão Barueri Integração (Blacklist)",
-        "fornecedor": "BB Turismo (Benfácil) - Barueri",
-        "valor": "24,40",
-        "uf": "SP",
-        "cidade": "Barueri"
     },
     {
         "codigo": "19451",
