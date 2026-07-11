@@ -2775,12 +2775,12 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19773;Sou Diadema - Cartão Municipal Diadema;Sou Diadema - QR-Code;7,50;5;10;SP;Diadema;30/06/2026
 19774;Repasse - Cartão Municipal Diadema (Blacklist);Sou Diadema - QR-Code;9,99;5;10;SP;Diadema;01/07/2026
 6134;Sou Indaiatuba - Cartão Sou Indaiatuba;Sou Indaiatuba;4,10;5;10;SP;INDAIATUBA;10/02/2019
-89;SPTRANS - Bilhete Único - Municipal / São Paulo;SPTrans;5,82;5;5;SP;São Paulo;05/01/2026
-214;SPTRANS - Bilhete Único - Integração Ônibus/Metrô / CPTM / São Paulo;SPTrans;11,32;5;5;SP;São Paulo;05/01/2026
-218;SPTRANS - Bilhete Único - Metrô / São Paulo;SPTrans;5,92;5;5;SP;São Paulo;05/01/2026
-384;SPTRANS - Bilhete Único - CPTM / São Paulo;SPTrans;5,92;5;5;SP;São Paulo;05/01/2026
-8126;SPTRANS - Bilhete Único - Integração Ônibus + Metrô/CPTM Madrugador;SPTrans;10,28;5;5;SP;São Paulo;05/01/2026
-15366;SPTRANS - Bilhete Único Variável;SPTrans;0,01;5;5;SP;São Paulo;20/09/2024
+89;SPTRANS - Bilhete Único - Municipal / São Paulo;SPTrans;5,82;3;5;SP;São Paulo;05/01/2026
+214;SPTRANS - Bilhete Único - Integração Ônibus/Metrô / CPTM / São Paulo;SPTrans;11,32;3;5;SP;São Paulo;05/01/2026
+218;SPTRANS - Bilhete Único - Metrô / São Paulo;SPTrans;5,92;3;5;SP;São Paulo;05/01/2026
+384;SPTRANS - Bilhete Único - CPTM / São Paulo;SPTrans;5,92;3;5;SP;São Paulo;05/01/2026
+8126;SPTRANS - Bilhete Único - Integração Ônibus + Metrô/CPTM Madrugador;SPTrans;10,28;3;5;SP;São Paulo;05/01/2026
+15366;SPTRANS - Bilhete Único Variável;SPTrans;0,01;3;5;SP;São Paulo;20/09/2024
 3273;Sou - São Carlos - Cartão Municipal São Carlos;Suzantur (Sancetur);5,25;5;10;SP;São Carlos;13/01/2025
 15739;TCA Araras - Cartão Municipal Araras;TCA Araras - Novo Sistema;4,50;5;10;SP;Araras;06/06/2025
 693;TCI Transporte - Cartão Municipal Itatiba;TCI Transporte;9,22;5;10;SP;Itatiba;14/05/2026
