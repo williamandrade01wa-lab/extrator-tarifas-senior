@@ -1012,7 +1012,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15639;Sorriso de Toledo - Cartão Municipal Sorriso de Toledo;Sorriso de Toledo - Municipal Novo Sistema;3,50;5;10;PR;Toledo;11/03/2025
 19721;Sorriso de Toledo - Cartão Distrital Sorriso de Toledo;Sorriso de Toledo - Municipal Novo Sistema;5,00;5;10;PR;Toledo;26/05/2026
 15988;Tamandaré - Cartão Caiuá X Cachoeira;Tamandaré;5,50;5;10;PR;Almirante Tamandaré;19/08/2025
-2278;TCCC Maringá - Cartão Passe-Fácil Maringá Urbano;TCCC Maringá - Cidade Canção;5,20;5;10;PR;MARINGÁ;03/06/2025
+2278;TCCC Maringá - Cartão Passe-Fácil Maringá Urbano;TCCC Maringá - Cidade Canção;5,80;5;10;PR;MARINGÁ;14/07/2026
 1255;TCGL - Cartão CT Londrina Urbano / Curitiba;TCGL;6,25;5;10;PR;Londrina;19/01/2026
 6081;Transpiedade - Cartão União da Vitória e Porto União Rural;TCI;11,90;5;10;PR;União da Vitória;04/05/2022
 6082;Transpiedade - Cartão União da Vitória e Porto União Urbano;TCI;5,00;5;10;PR;União da Vitória;04/05/2022
@@ -2918,7 +2918,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15463;Viação Bragança - QR-Code - Cartão Socorro X São Paulo (Tietê);Viação Bragança - QR-Code - Grupo Vida;65,70;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
 16183;Viação Bragança - QR-Code - Cartão Bragança Paulista X São Paulo (com seguro);Viação Bragança - QR-Code - Grupo Vida;49,60;5;10;SP;Santa Rita do Passa Quatro;14/10/2025
 2153;Viação Calvip - Cartão Cerquilho X Tietê;Viação Calvip;5,80;5;10;SP;Laranjal paulista;05/01/2026
-19532;Viação Cidade das Artes - Cartão Municipal Embu das Artes;Viação Cidade das Artes - PIX;5,80;5;15;SP;Itapecerica da Serra;26/02/2026
+19532;Viação Cidade das Artes - Cartão Municipal Embu das Artes;Viação Cidade das Artes - PIX;5,80;5;15;SP;Embu das Artes;26/02/2026
 9013;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;15,85;5;10;SP;Piracicaba;10/06/2026
 9014;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;14,65;5;10;SP;Piracicaba;10/06/2026
 9015;Viação Itaqueri - Cartão Águas de São Pedro X São Pedro (sem seguro);Viação Itaqueri - QR-Code;6,65;5;10;SP;Piracicaba;07/07/2025
