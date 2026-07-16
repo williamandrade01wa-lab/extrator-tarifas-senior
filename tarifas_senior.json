@@ -7635,7 +7635,7 @@
         "codigo": "2279",
         "nome": "Cidade Verde - Cartão Urbano Sarandi",
         "fornecedor": "Cidade Verde",
-        "valor": "6,20",
+        "valor": "6,50",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -7643,7 +7643,7 @@
         "codigo": "2280",
         "nome": "Cidade Verde - Cartão Urbano Paiçandu",
         "fornecedor": "Cidade Verde",
-        "valor": "6,20",
+        "valor": "6,50",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -7651,7 +7651,7 @@
         "codigo": "4763",
         "nome": "Cidade Verde - Cartão Itambé X Floresta",
         "fornecedor": "Cidade Verde",
-        "valor": "6,20",
+        "valor": "6,50",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -7667,7 +7667,7 @@
         "codigo": "9100",
         "nome": "Cidade Verde - Cartão Maringá X Ivatuba",
         "fornecedor": "Cidade Verde",
-        "valor": "6,20",
+        "valor": "6,50",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -7891,7 +7891,7 @@
         "codigo": "748",
         "nome": "Princesa do Norte - Cartão Marília X Pompéia",
         "fornecedor": "Princesa do Norte",
-        "valor": "10,15",
+        "valor": "10,45",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7899,7 +7899,7 @@
         "codigo": "2849",
         "nome": "Princesa do Norte - Cartão Marília X Tupã",
         "fornecedor": "Princesa do Norte",
-        "valor": "23,30",
+        "valor": "24,15",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7907,7 +7907,7 @@
         "codigo": "2852",
         "nome": "Princesa do Norte - Cartão Marília X Quintana",
         "fornecedor": "Princesa do Norte",
-        "valor": "15,40",
+        "valor": "15,95",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7915,7 +7915,7 @@
         "codigo": "2853",
         "nome": "Princesa do Norte - Cartão Pompéia X Oriente",
         "fornecedor": "Princesa do Norte",
-        "valor": "7,85",
+        "valor": "7,30",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7923,7 +7923,7 @@
         "codigo": "2860",
         "nome": "Princesa do Norte - Cartão Pompéia X Paulópolis",
         "fornecedor": "Princesa do Norte",
-        "valor": "5,60",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7931,7 +7931,7 @@
         "codigo": "2862",
         "nome": "Princesa do Norte - Cartão Pompéia X Quintana / São Paulo",
         "fornecedor": "Princesa do Norte",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7939,7 +7939,7 @@
         "codigo": "5096",
         "nome": "Princesa do Norte - Cartão Marília X Oriente",
         "fornecedor": "Princesa do Norte",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7947,7 +7947,7 @@
         "codigo": "8199",
         "nome": "Princesa do Norte - Cartão Marília X Lupércio",
         "fornecedor": "Princesa do Norte",
-        "valor": "10,00",
+        "valor": "10,30",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7955,7 +7955,7 @@
         "codigo": "8206",
         "nome": "Princesa do Norte - Cartão Marília X Santa Teresinha (Alvilândia)",
         "fornecedor": "Princesa do Norte",
-        "valor": "12,65",
+        "valor": "13,05",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7963,7 +7963,7 @@
         "codigo": "8605",
         "nome": "Princesa do Norte - Cartão Santa Teresinha X Lupércio",
         "fornecedor": "Princesa do Norte",
-        "valor": "5,60",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7971,7 +7971,7 @@
         "codigo": "10152",
         "nome": "Princesa do Norte - Cartão Alvinlândia X Marília",
         "fornecedor": "Princesa do Norte",
-        "valor": "15,25",
+        "valor": "15,80",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -7979,7 +7979,7 @@
         "codigo": "10360",
         "nome": "Princesa do Norte - Cartão Santa Cruz do Rio Pardo X Espírito Santo do Turvo",
         "fornecedor": "Princesa do Norte",
-        "valor": "10,00",
+        "valor": "10,30",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -11155,7 +11155,7 @@
         "codigo": "10521",
         "nome": "Valesul Porto Alegre - 503 Canoas – Poa (Via) Cachoeirinha (Vicasa - 00003)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "10,10",
+        "valor": "10,80",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -14051,7 +14051,7 @@
         "codigo": "816",
         "nome": "Andorinha - Cartão Presidente Prudente X Venceslau",
         "fornecedor": "Andorinha",
-        "valor": "16,95",
+        "valor": "17,55",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14059,7 +14059,7 @@
         "codigo": "2343",
         "nome": "Andorinha - Cartão Santo Anastácio X Presidente Prudente (com pedágio) (ida e volta)",
         "fornecedor": "Andorinha",
-        "valor": "10,00",
+        "valor": "10,35",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14067,7 +14067,7 @@
         "codigo": "2395",
         "nome": "Andorinha - Cartão Presidente Prudente X Presidente Bernardes / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14075,7 +14075,7 @@
         "codigo": "2396",
         "nome": "Andorinha - Cartão Presidente Prudente X Presidente Venceslau (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "16,95",
+        "valor": "17,55",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14083,7 +14083,7 @@
         "codigo": "2398",
         "nome": "Andorinha - Cartão Presidente Prudente X Presidente Epitácio (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "28,25",
+        "valor": "29,20",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14091,7 +14091,7 @@
         "codigo": "2399",
         "nome": "Andorinha - Cartão Presidente Prudente X Álvares Machado / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14099,7 +14099,7 @@
         "codigo": "2401",
         "nome": "Andorinha - Cartão Presidente Prudente X Piquerobi (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "15,65",
+        "valor": "16,20",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14107,7 +14107,7 @@
         "codigo": "2403",
         "nome": "Andorinha - Cartão Presidente Prudente X Caiuá (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "21,30",
+        "valor": "22,10",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14115,7 +14115,7 @@
         "codigo": "2406",
         "nome": "Andorinha - Cartão Santo Anastácio X Presidente Bernardes com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "10,00",
+        "valor": "10,35",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14123,7 +14123,7 @@
         "codigo": "2408",
         "nome": "Andorinha - Cartão Santo Anastácio X Presidente Venceslau (Suburbano)",
         "fornecedor": "Andorinha",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14131,7 +14131,7 @@
         "codigo": "2410",
         "nome": "Andorinha - Cartão Santo Anastácio X Presidente Epitácio (com pedágio) (Suburbano)",
         "fornecedor": "Andorinha",
-        "valor": "17,85",
+        "valor": "18,55",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14139,7 +14139,7 @@
         "codigo": "2414",
         "nome": "Andorinha - Cartão Santo Anastácio X Álvares Machado (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "10,00",
+        "valor": "10,35",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14147,7 +14147,7 @@
         "codigo": "2417",
         "nome": "Andorinha - Cartão Presidente Epitácio X Presidente Prudente (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "28,25",
+        "valor": "29,20",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14155,7 +14155,7 @@
         "codigo": "2421",
         "nome": "Andorinha - Cartão Presidente Epitácio X Presidente Venceslau (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "12,65",
+        "valor": "13,10",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14163,7 +14163,7 @@
         "codigo": "2422",
         "nome": "Andorinha - Cartão Presidente Epitácio X Presidente Bernardes (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "23,70",
+        "valor": "24,40",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14171,7 +14171,7 @@
         "codigo": "2423",
         "nome": "Andorinha - Cartão Presidente Epitácio X Santo Anastácio (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "17,85",
+        "valor": "18,55",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14179,7 +14179,7 @@
         "codigo": "2424",
         "nome": "Andorinha - Cartão Presidente Epitácio X Álvares Machado (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "26,15",
+        "valor": "27,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14187,7 +14187,7 @@
         "codigo": "2426",
         "nome": "Andorinha - Cartão Presidente Bernardes X Presidente Venceslau (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "13,00",
+        "valor": "13,45",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14195,7 +14195,7 @@
         "codigo": "2427",
         "nome": "Andorinha - Cartão Presidente Bernardes X Epitácio (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "23,70",
+        "valor": "24,40",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14203,7 +14203,7 @@
         "codigo": "2428",
         "nome": "Andorinha - Cartão Presidente Bernardes X Santo Anastácio (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "10,00",
+        "valor": "10,35",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14211,7 +14211,7 @@
         "codigo": "2429",
         "nome": "Andorinha - Cartão Presidente Bernardes X Álvares Machado / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14219,7 +14219,7 @@
         "codigo": "5334",
         "nome": "Andorinha - Cartão Caiuá X Presidente Epitácio",
         "fornecedor": "Andorinha",
-        "valor": "9,70",
+        "valor": "10,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14227,7 +14227,7 @@
         "codigo": "6301",
         "nome": "Andorinha - Cartão Presidente Venceslau X Piquerobi",
         "fornecedor": "Andorinha",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14235,7 +14235,7 @@
         "codigo": "10287",
         "nome": "Andorinha - Cartão Caiuá X Presidente Venceslau",
         "fornecedor": "Andorinha",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -17787,7 +17787,7 @@
         "codigo": "4351",
         "nome": "Expresso de Prata - Cartão Bauru X Duartina (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "15,50",
+        "valor": "16,05",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17795,7 +17795,7 @@
         "codigo": "4359",
         "nome": "Expresso de Prata - Cartão Agudos X Bauru (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17803,7 +17803,7 @@
         "codigo": "5758",
         "nome": "Expresso de Prata - Cartão Lençóis Paulista X Areiópolis (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "8,50",
+        "valor": "8,75",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17811,7 +17811,7 @@
         "codigo": "5786",
         "nome": "Expresso de Prata - Cartão Bauru X Lençóis Paulista (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "15,10",
+        "valor": "15,65",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17819,7 +17819,7 @@
         "codigo": "6102",
         "nome": "Expresso de Prata - Cartão Botucatu X São Manuel (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "9,10",
+        "valor": "9,40",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17827,7 +17827,7 @@
         "codigo": "6104",
         "nome": "Expresso de Prata - Cartão Lençóis Paulista X Macatuba (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17835,7 +17835,7 @@
         "codigo": "6844",
         "nome": "Expresso de Prata - Cartão Areiópolis X Bauru (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "21,70",
+        "valor": "22,45",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17843,7 +17843,7 @@
         "codigo": "7948",
         "nome": "Expresso de Prata - Cartão Areiópolis X Botucatu (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "11,10",
+        "valor": "11,45",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17851,7 +17851,7 @@
         "codigo": "9044",
         "nome": "Expresso de Prata - Cartão Bauru X Cabrália",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "14,40",
+        "valor": "14,85",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17859,7 +17859,7 @@
         "codigo": "10924",
         "nome": "Expresso de Prata - Cartão Bauru X Piratininga",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "6,95",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17867,7 +17867,7 @@
         "codigo": "15186",
         "nome": "Expresso de Prata - Cartão Araçatuba X Guararapes",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17875,7 +17875,7 @@
         "codigo": "15189",
         "nome": "Expresso de Prata - Cartão Boa Esperança X Araraquara",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17883,7 +17883,7 @@
         "codigo": "15200",
         "nome": "Expresso de Prata - Cartão Bento de Abreu X Araçatuba",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "12,55",
+        "valor": "13,75",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17891,7 +17891,7 @@
         "codigo": "15206",
         "nome": "Expresso de Prata - Cartão Dourado X São Carlos",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "14,20",
+        "valor": "14,85",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17899,7 +17899,7 @@
         "codigo": "15330",
         "nome": "Expresso de Prata - Cartão Bauru X Bocaina",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "26,10",
+        "valor": "27,00",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17907,7 +17907,7 @@
         "codigo": "15351",
         "nome": "Expresso de Prata - Cartão Bauru X Bariri",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "23,60",
+        "valor": "24,70",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17915,7 +17915,7 @@
         "codigo": "15420",
         "nome": "Expresso de Prata - Cartão Bocaina X Jaú",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17923,7 +17923,7 @@
         "codigo": "15427",
         "nome": "Expresso de Prata - Cartão Pederneiras X Jaú",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "10,10",
+        "valor": "10,35",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17931,7 +17931,7 @@
         "codigo": "15585",
         "nome": "Expresso de Prata - Cartão Bauru x Pirajui (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "20,70",
+        "valor": "21,60",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17939,7 +17939,7 @@
         "codigo": "15588",
         "nome": "Expresso de Prata - Cartão Garça X Marília",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "15,40",
+        "valor": "15,95",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17947,7 +17947,7 @@
         "codigo": "15660",
         "nome": "Expresso de Prata - Cartão Bauru X Arealva (Linha 21)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "12,90",
+        "valor": "13,50",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17955,7 +17955,7 @@
         "codigo": "16172",
         "nome": "Expresso de Prata - Cartão Bauru X Avaí",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "12,40",
+        "valor": "12,90",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17963,7 +17963,7 @@
         "codigo": "16173",
         "nome": "Expresso de Prata - Cartão Bauru X Iacanga",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "14,20",
+        "valor": "14,85",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17971,7 +17971,7 @@
         "codigo": "16180",
         "nome": "Expresso de Prata - Cartão Bauru X Jaú",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "20,25",
+        "valor": "20,90",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -17979,7 +17979,7 @@
         "codigo": "16198",
         "nome": "Expresso de Prata - Cartão Bauru X Piratininga (Rural)",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "10,05",
+        "valor": "10,35",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -18803,7 +18803,7 @@
         "codigo": "741",
         "nome": "Guerino Seiscentos - Cartão Araçatuba X Birigui",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18811,7 +18811,7 @@
         "codigo": "1335",
         "nome": "Guerino Seiscentos - Cartão Marília X Assis / São Paulo",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "23,00",
+        "valor": "24,00",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18819,7 +18819,7 @@
         "codigo": "4801",
         "nome": "Guerino Seiscentos - Cartão Assis X Paraguaçu Paulista (Suburbano)",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "9,75",
+        "valor": "10,25",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18827,7 +18827,7 @@
         "codigo": "4802",
         "nome": "Guerino Seiscentos - Cartão Echaporã X Marília",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "13,00",
+        "valor": "13,50",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18835,7 +18835,7 @@
         "codigo": "4807",
         "nome": "Guerino Seiscentos - Cartão Guaimbê X Marília",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "13,00",
+        "valor": "13,50",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18851,7 +18851,7 @@
         "codigo": "4821",
         "nome": "Guerino Seiscentos - Cartão Marília X Assis Suburbano (ida e volta)",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "23,00",
+        "valor": "24,00",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18859,7 +18859,7 @@
         "codigo": "4832",
         "nome": "Guerino Seiscentos - Cartão Oriente X Marília",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18875,7 +18875,7 @@
         "codigo": "4841",
         "nome": "Guerino Seiscentos - Cartão Tupã X Marília",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "23,25",
+        "valor": "24,25",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18883,7 +18883,7 @@
         "codigo": "6086",
         "nome": "Guerino Seiscentos - Cartão Martinópolis X Presidente Prudente",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "9,70",
+        "valor": "10,00",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18891,7 +18891,7 @@
         "codigo": "6157",
         "nome": "Guerino Seiscentos - Cartão Marilia X Presidente Prudente",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "60,00",
+        "valor": "62,75",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18899,7 +18899,7 @@
         "codigo": "6235",
         "nome": "Guerino Seiscentos - Cartão Marília X Herculândia",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "18,00",
+        "valor": "18,75",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18907,7 +18907,7 @@
         "codigo": "6712",
         "nome": "Guerino Seiscentos - Cartão Quatá X Paraguaçu Paulista (Suburbano)",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18915,7 +18915,7 @@
         "codigo": "6901",
         "nome": "Guerino Seiscentos - Cartão Pompéia X Marília",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "10,15",
+        "valor": "10,50",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18923,7 +18923,7 @@
         "codigo": "8114",
         "nome": "Guerino Seiscentos - Cartão Araçatuba X Tupã",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "39,00",
+        "valor": "40,75",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18931,7 +18931,7 @@
         "codigo": "8120",
         "nome": "Guerino Seiscentos - Cartão Araçatuba X Piacatu",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "18,65",
+        "valor": "19,55",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18939,7 +18939,7 @@
         "codigo": "8161",
         "nome": "Guerino Seiscentos - Cartão Echaporã X Assis",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18947,7 +18947,7 @@
         "codigo": "9162",
         "nome": "Guerino Seiscentos - Cartão Getulina X Lins",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "9,00",
+        "valor": "9,50",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18955,7 +18955,7 @@
         "codigo": "10284",
         "nome": "Guerino Seiscentos - Cartão Getulina X Marília",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "17,00",
+        "valor": "17,75",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18979,7 +18979,7 @@
         "codigo": "15671",
         "nome": "Guerino Seiscentos - Cartão Lins X Guaiçara",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "5,95",
+        "valor": "6,20",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18987,7 +18987,7 @@
         "codigo": "15765",
         "nome": "Guerino Seiscentos - Cartão Ribeirão do Sul X Ourinhos",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "10,25",
+        "valor": "10,75",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -18995,7 +18995,7 @@
         "codigo": "16133",
         "nome": "Guerino Seiscentos - Cartão Assis X Cândido Mota",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -19003,7 +19003,7 @@
         "codigo": "16246",
         "nome": "Guerino Seiscentos - Cartão Tupi X Dracena",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -19011,7 +19011,7 @@
         "codigo": "16274",
         "nome": "Guerino Seiscentos - Cartão Florínea X Assis",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "12,90",
+        "valor": "13,50",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -19019,7 +19019,7 @@
         "codigo": "16276",
         "nome": "Guerino Seiscentos - Cartão Flórida Paulista X Adamantina",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -19027,7 +19027,7 @@
         "codigo": "19512",
         "nome": "Guerino Seiscentos - Cartão Assis X Tarumã",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -19035,7 +19035,7 @@
         "codigo": "19551",
         "nome": "Guerino Seiscentos - Cartão Assis X Ourinhos",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "29,00",
+        "valor": "30,25",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -19043,7 +19043,7 @@
         "codigo": "19747",
         "nome": "Guerino Seiscentos - Cartão Ouro Verde X Dracena",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -20979,7 +20979,7 @@
         "codigo": "6991",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Nova Aliança",
         "fornecedor": "Pevê Tur",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21043,7 +21043,7 @@
         "codigo": "8901",
         "nome": "Pevê Tur - Cartão São José do Rio Petro X Bady Bassit",
         "fornecedor": "Pevê Tur",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21123,7 +21123,7 @@
         "codigo": "16197",
         "nome": "Princesa do Norte - Cartão Ourinhos X São Pedro do Turvo",
         "fornecedor": "Princesa do Norte",
-        "valor": "19,85",
+        "valor": "20,80",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -21179,7 +21179,7 @@
         "codigo": "264",
         "nome": "Rápido D Oeste - Cartão Cravinho X Ribeirão Preto",
         "fornecedor": "Rápido D Oeste",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21187,7 +21187,7 @@
         "codigo": "2257",
         "nome": "Rápido D Oeste - Cartão Luiz Antonio X Ribeirão Preto / Osasco e Barueri",
         "fornecedor": "Rápido D Oeste",
-        "valor": "16,75",
+        "valor": "17,55",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21195,7 +21195,7 @@
         "codigo": "3854",
         "nome": "Rápido D Oeste - Cartão Ribeirão Preto x Sertãozinho",
         "fornecedor": "Rápido D Oeste",
-        "valor": "8,95",
+        "valor": "9,25",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21203,7 +21203,7 @@
         "codigo": "4603",
         "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Cruz das Posses (Sub)",
         "fornecedor": "Rápido D Oeste",
-        "valor": "7,25",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21211,7 +21211,7 @@
         "codigo": "5103",
         "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Pontal",
         "fornecedor": "Rápido D Oeste",
-        "valor": "8,95",
+        "valor": "9,25",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21227,7 +21227,7 @@
         "codigo": "6717",
         "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Jardinópolis",
         "fornecedor": "Rápido D Oeste",
-        "valor": "8,25",
+        "valor": "8,70",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21235,7 +21235,7 @@
         "codigo": "9727",
         "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Cravinhos",
         "fornecedor": "Rápido D Oeste",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21243,7 +21243,7 @@
         "codigo": "9901",
         "nome": "Rápido D Oeste - Cartão Pontal X Candia",
         "fornecedor": "Rápido D Oeste",
-        "valor": "7,35",
+        "valor": "9,40",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21371,7 +21371,7 @@
         "codigo": "6921",
         "nome": "Estâncias Metrópolis - Cartão Serra Negra X Lindoia",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "6,60",
+        "valor": "6,90",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -21395,7 +21395,7 @@
         "codigo": "275",
         "nome": "Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí (Linha 601)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,90",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21403,7 +21403,7 @@
         "codigo": "276",
         "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo X Várzea Paulista (Linha 201)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21411,7 +21411,7 @@
         "codigo": "277",
         "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo X Jundiaí (Linhas 201,202,203)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21419,7 +21419,7 @@
         "codigo": "317",
         "nome": "Rápido Luxo Campo Limpo - Cartão Indaiatuba X Jundiaí (Linha 961)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "12,10",
+        "valor": "13,50",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21427,7 +21427,7 @@
         "codigo": "378",
         "nome": "Rápido Luxo Campo Limpo - Cartão Cajamar (Polvilho) X Jundiaí (Linha 301)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "11,50",
+        "valor": "12,10",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21435,7 +21435,7 @@
         "codigo": "735",
         "nome": "Rápido Luxo Campo Limpo - Cartão Jacaré do Bonfim X Jundiaí (Linha 803)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "9,50",
+        "valor": "10,05",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21443,7 +21443,7 @@
         "codigo": "763",
         "nome": "Rápido Luxo Campo Limpo - Cartão Várzea Paulista X Jundiaí (Linhas 101 a 109)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,35",
+        "valor": "7,70",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21451,7 +21451,7 @@
         "codigo": "765",
         "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva (Cesp via cururu) X Jundiaí (Linha 802)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "10,25",
+        "valor": "10,70",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21459,7 +21459,7 @@
         "codigo": "766",
         "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (Linha 701)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,90",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21467,7 +21467,7 @@
         "codigo": "767",
         "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí via Traviú (Linha 703)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,10",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21475,7 +21475,7 @@
         "codigo": "1813",
         "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista X Cajamar (Linha 205)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,40",
+        "valor": "8,80",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21483,7 +21483,7 @@
         "codigo": "2369",
         "nome": "Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí via Cajamar (Linha 602)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,95",
+        "valor": "9,50",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21491,7 +21491,7 @@
         "codigo": "2558",
         "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí - via Independência (Linha 707)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21499,7 +21499,7 @@
         "codigo": "3312",
         "nome": "Rápido Luxo Campo Limpo - Cartão Cajamar (Jordanésia) X Jundiaí (Linha 302)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,90",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21507,7 +21507,7 @@
         "codigo": "4022",
         "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Independencia) (Linha 804)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "10,25",
+        "valor": "10,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21531,7 +21531,7 @@
         "codigo": "4127",
         "nome": "Rápido Luxo Campo Limpo - Cartão Indaiatuba X Itupeva (Linha 962)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,00",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21547,7 +21547,7 @@
         "codigo": "4577",
         "nome": "Rápido Luxo Campo Limpo - Cartão Integração X Campo Limpo Paulista",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "2,50",
+        "valor": "2,60",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21555,7 +21555,7 @@
         "codigo": "5082",
         "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo X Franco da Rocha (Linha 207)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,40",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21563,7 +21563,7 @@
         "codigo": "5083",
         "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Via Guacuri) (Linha 704)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,90",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21571,7 +21571,7 @@
         "codigo": "5085",
         "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via vila Bom Jardim)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,10",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21579,7 +21579,7 @@
         "codigo": "6098",
         "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via Chave) (Linha 702)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21587,7 +21587,7 @@
         "codigo": "10455",
         "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva (Pinhal) X Jundiaí (Linha 801)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "10,25",
+        "valor": "10,70",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21595,7 +21595,7 @@
         "codigo": "10456",
         "nome": "Rápido Luxo Campo Limpo - Cartão Jundiaí X Outlet Premium (Linha 705)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,10",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21603,7 +21603,7 @@
         "codigo": "15130",
         "nome": "Rápido Luxo Campo Limpo - Cartão Botujuru X Jardim Paulista (Linha 208)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,90",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21611,7 +21611,7 @@
         "codigo": "19558",
         "nome": "Rápido Luxo Campo Limpo - Cartão Krupp X Vila Popular (Linha 209)",
         "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,90",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Campo Limpo Paulista"
     },
@@ -21907,7 +21907,7 @@
         "codigo": "1857",
         "nome": "Ribe Transportes - Cartão Ribefácil - Ribeirão Preto X Jardinópolis",
         "fornecedor": "Ribe Transportes",
-        "valor": "8,25",
+        "valor": "8,70",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -23435,7 +23435,7 @@
         "codigo": "9022",
         "nome": "Viação Itaqueri - Cartão Piracicaba X São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "20,25",
+        "valor": "20,85",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23467,7 +23467,7 @@
         "codigo": "9026",
         "nome": "Viação Itaqueri - Cartão São Pedro X Piracicaba (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "20,30",
+        "valor": "20,95",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -25067,7 +25067,7 @@
         "codigo": "15725",
         "nome": "Viação São Bento - Cartão Ribeirão Preto X Barrinha",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "11,25",
+        "valor": "11,60",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25206,6 +25206,14 @@
         "valor": "4,30",
         "uf": "SP",
         "cidade": "Laranjal Paulista"
+    },
+    {
+        "codigo": "19778",
+        "nome": "Vipe - Cartão São Caetano do Sul Municipal",
+        "fornecedor": "Vipe",
+        "valor": "5,00",
+        "uf": "SP",
+        "cidade": "São Caetano do Sul"
     },
     {
         "codigo": "10173",
