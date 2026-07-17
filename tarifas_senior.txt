@@ -2222,6 +2222,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4410;Expresso Amarelinho - Votorantim - Cartão Araçoiaba X Sorocaba (Linha 6335) - Grupo São João;Expresso Amarelinho - Votorantim;9,25;5;10;SP;Votorantim;07/01/2026
 5568;Expresso Amarelinho - Votorantim - Cartão Sorocaba X Porto Feliz (Linha 6201) - Grupo São João;Expresso Amarelinho - Votorantim;9,25;5;10;SP;Votorantim;07/01/2026
 7045;Expresso Amarelinho - Votorantim - Cartão Piedade X Tapiraí (Linha 6302) - Grupo São João;Expresso Amarelinho - Votorantim;7,20;5;10;SP;Votorantim;07/01/2026
+19779;Expresso Amarelinho - Cartão Pilar do Sul X Sorocaba;Expresso Amarelinho - Votorantim;18,80;5;10;SP;Votorantim;16/07/2026
 4351;Expresso de Prata - Cartão Bauru X Duartina (Suburbana);Expresso de Prata - Eletrônico;16,05;5;10;SP;Bauru;15/07/2026
 4359;Expresso de Prata - Cartão Agudos X Bauru (Suburbana);Expresso de Prata - Eletrônico;8,35;5;10;SP;Bauru;15/07/2026
 5758;Expresso de Prata - Cartão Lençóis Paulista X Areiópolis (Suburbana);Expresso de Prata - Eletrônico;8,75;5;10;SP;Bauru;15/07/2026
@@ -2591,44 +2592,44 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10753;Petitto - Cartão Pradópolis X Dumont;Petitto - Eletrônico;7,60;5;10;SP;Pradópolis;06/07/2026
 2554;Pevê Tur - Cartão Mifare;Pevê Tur;0,01;5;10;SP;São José do Rio Preto;01/02/2018
 6959;Pevê Tur - Cartão Adolfo X Fazenda Biroli;Pevê Tur;6,60;5;10;SP;São José do Rio Preto;07/07/2025
-6961;Pevê Tur - Cartão Bady Bassit X Adolfo;Pevê Tur;11,55;5;10;SP;São José do Rio Preto;07/07/2025
-6962;Pevê Tur - Cartão Bady Bassit X Fazenda Biroli;Pevê Tur;11,55;5;10;SP;São José do Rio Preto;07/07/2025
-6963;Pevê Tur - Cartão Bady Bassit X Mendonça;Pevê Tur;10,25;5;10;SP;São José do Rio Preto;07/07/2025
+6961;Pevê Tur - Cartão Bady Bassit X Adolfo;Pevê Tur;12,10;5;10;SP;São José do Rio Preto;16/07/2026
+6962;Pevê Tur - Cartão Bady Bassit X Fazenda Biroli;Pevê Tur;12,10;5;10;SP;São José do Rio Preto;16/07/2026
+6963;Pevê Tur - Cartão Bady Bassit X Mendonça;Pevê Tur;10,75;5;10;SP;São José do Rio Preto;16/07/2026
 6964;Pevê Tur - Cartão Bady Bassit X Nova Aliança;Pevê Tur;6,60;5;10;SP;São José do Rio Preto;11/03/2026
-6965;Pevê Tur - Cartão Bady Bassit X Nova Itapirema;Pevê Tur;7,55;5;10;SP;São José do Rio Preto;07/07/2025
-6966;Pevê Tur - Cartão Bady Bassit X Sales;Pevê Tur;15,50;5;10;SP;São José do Rio Preto;07/07/2025
-6967;Pevê Tur - Cartão Fazenda Biroli X Sales;Pevê Tur;7,25;5;10;SP;São José do Rio Preto;07/07/2025
-6968;Pevê Tur - Cartão Ipiguá X Macaúbas;Pevê Tur;7,25;5;10;SP;São José do Rio Preto;07/07/2025
-6969;Pevê Tur - Cartão Ipiguá X Mirassolândia;Pevê Tur;5,95;5;10;SP;São José do Rio Preto;07/07/2025
-6970;Pevê Tur - Cartão José Bonifácio X Adolfo;Pevê Tur;10,25;5;10;SP;São José do Rio Preto;07/07/2025
-6971;Pevê Tur - Cartão José Bonifácio X Mendonça;Pevê Tur;8,25;5;10;SP;São José do Rio Preto;07/07/2025
-6972;Pevê Tur - Cartão Mendonça X Adolfo;Pevê Tur;5,60;5;10;SP;São José do Rio Preto;07/07/2025
-6973;Pevê Tur - Cartão Mendonça X Fazenda Biroli;Pevê Tur;5,60;5;10;SP;São José do Rio Preto;07/07/2025
-6974;Pevê Tur - Cartão Mendonça X Sales;Pevê Tur;7,95;5;10;SP;São José do Rio Preto;07/07/2025
+6965;Pevê Tur - Cartão Bady Bassit X Nova Itapirema;Pevê Tur;7,95;5;10;SP;São José do Rio Preto;16/07/2026
+6966;Pevê Tur - Cartão Bady Bassit X Sales;Pevê Tur;16,20;5;10;SP;São José do Rio Preto;16/07/2026
+6967;Pevê Tur - Cartão Fazenda Biroli X Sales;Pevê Tur;7,60;5;10;SP;São José do Rio Preto;16/07/2026
+6968;Pevê Tur - Cartão Ipiguá X Macaúbas;Pevê Tur;7,60;5;10;SP;São José do Rio Preto;16/07/2026
+6969;Pevê Tur - Cartão Ipiguá X Mirassolândia;Pevê Tur;6,20;5;10;SP;São José do Rio Preto;16/07/2026
+6970;Pevê Tur - Cartão José Bonifácio X Adolfo;Pevê Tur;10,75;5;10;SP;São José do Rio Preto;16/07/2026
+6971;Pevê Tur - Cartão José Bonifácio X Mendonça;Pevê Tur;8,65;5;10;SP;São José do Rio Preto;16/07/2026
+6972;Pevê Tur - Cartão Mendonça X Adolfo;Pevê Tur;5,90;5;10;SP;São José do Rio Preto;16/07/2026
+6973;Pevê Tur - Cartão Mendonça X Fazenda Biroli;Pevê Tur;5,90;5;10;SP;São José do Rio Preto;16/07/2026
+6974;Pevê Tur - Cartão Mendonça X Sales;Pevê Tur;8,35;5;10;SP;São José do Rio Preto;16/07/2026
 6975;Pevê Tur - Cartão Mirassolândia X Macaúbas;Pevê Tur;5,60;5;10;SP;São José do Rio Preto;07/07/2025
-6976;Pevê Tur - Cartão Mirassolândia X São José do Rio Preto;Pevê Tur;8,95;5;10;SP;São José do Rio Preto;07/07/2025
-6977;Pevê Tur - Cartão Nova Aliança X Adolfo;Pevê Tur;8,95;5;10;SP;São José do Rio Preto;07/07/2025
-6978;Pevê Tur - Cartão Nova Aliança X Fazenda Biroli;Pevê Tur;8,60;5;10;SP;São José do Rio Preto;07/07/2025
-6979;Pevê Tur - Cartão Nova Aliança X Mendonça;Pevê Tur;7,95;5;10;SP;São José do Rio Preto;07/07/2025
-6980;Pevê Tur - Cartão Nova Aliança X Nova Itapirema;Pevê Tur;5,60;5;10;SP;São José do Rio Preto;07/07/2025
-6981;Pevê Tur - Cartão Nova Aliança X Sales;Pevê Tur;12,90;5;10;SP;São José do Rio Preto;07/07/2025
-6982;Pevê Tur - Cartão Nova Itapirema X Adolfo;Pevê Tur;8,95;5;10;SP;São José do Rio Preto;11/03/2026
-6983;Pevê Tur - Cartão Nova Itapirema X Fazenda Biroli;Pevê Tur;7,55;5;10;SP;São José do Rio Preto;07/07/2025
-6984;Pevê Tur - Cartão Nova Itapirema X Mendonça;Pevê Tur;6,60;5;10;SP;São José do Rio Preto;07/07/2025
-6985;Pevê Tur - Cartão Nova Itapirema X Sales;Pevê Tur;10,25;5;10;SP;São José do Rio Preto;07/07/2025
-6986;Pevê Tur - Cartão São José do Rio Preto X Adolfo;Pevê Tur;16,75;5;10;SP;São José do Rio Preto;07/07/2025
-6987;Pevê Tur - Cartão São José do Rio Preto X Fazenda Biroli;Pevê Tur;15,50;5;10;SP;São José do Rio Preto;07/07/2025
-6988;Pevê Tur - Cartão São José do Rio Preto X Macaúbas;Pevê Tur;10,25;5;10;SP;São José do Rio Preto;07/07/2025
-6989;Pevê Tur - Cartão São José do Rio Preto X Mendonça;Pevê Tur;14,20;5;10;SP;São José do Rio Preto;07/07/2025
-6990;Pevê Tur - Cartão São José do Rio Preto X Mirassolândia;Pevê Tur;8,95;5;10;SP;São José do Rio Preto;07/07/2025
+6976;Pevê Tur - Cartão Mirassolândia X São José do Rio Preto;Pevê Tur;9,35;5;10;SP;São José do Rio Preto;16/07/2026
+6977;Pevê Tur - Cartão Nova Aliança X Adolfo;Pevê Tur;9,35;5;10;SP;São José do Rio Preto;16/07/2026
+6978;Pevê Tur - Cartão Nova Aliança X Fazenda Biroli;Pevê Tur;9,00;5;10;SP;São José do Rio Preto;16/07/2026
+6979;Pevê Tur - Cartão Nova Aliança X Mendonça;Pevê Tur;8,35;5;10;SP;São José do Rio Preto;16/07/2026
+6980;Pevê Tur - Cartão Nova Aliança X Nova Itapirema;Pevê Tur;5,90;5;10;SP;São José do Rio Preto;16/07/2026
+6981;Pevê Tur - Cartão Nova Aliança X Sales;Pevê Tur;13,50;5;10;SP;São José do Rio Preto;16/07/2026
+6982;Pevê Tur - Cartão Nova Itapirema X Adolfo;Pevê Tur;8,35;5;10;SP;São José do Rio Preto;16/07/2026
+6983;Pevê Tur - Cartão Nova Itapirema X Fazenda Biroli;Pevê Tur;7,95;5;10;SP;São José do Rio Preto;16/07/2026
+6984;Pevê Tur - Cartão Nova Itapirema X Mendonça;Pevê Tur;6,95;5;10;SP;São José do Rio Preto;16/07/2026
+6985;Pevê Tur - Cartão Nova Itapirema X Sales;Pevê Tur;10,75;5;10;SP;São José do Rio Preto;16/07/2026
+6986;Pevê Tur - Cartão São José do Rio Preto X Adolfo;Pevê Tur;17,55;5;10;SP;São José do Rio Preto;16/07/2026
+6987;Pevê Tur - Cartão São José do Rio Preto X Fazenda Biroli;Pevê Tur;16,20;5;10;SP;São José do Rio Preto;16/07/2026
+6988;Pevê Tur - Cartão São José do Rio Preto X Macaúbas;Pevê Tur;10,75;5;10;SP;São José do Rio Preto;16/07/2026
+6989;Pevê Tur - Cartão São José do Rio Preto X Mendonça;Pevê Tur;14,85;5;10;SP;São José do Rio Preto;16/07/2026
+6990;Pevê Tur - Cartão São José do Rio Preto X Mirassolândia;Pevê Tur;9,35;5;10;SP;São José do Rio Preto;16/07/2026
 6991;Pevê Tur - Cartão São José do Rio Preto X Nova Aliança;Pevê Tur;9,35;5;10;SP;São José do Rio Preto;15/07/2026
-6992;Pevê Tur - Cartão São José do Rio Preto X Nova Itapirema;Pevê Tur;10,25;5;10;SP;São José do Rio Preto;07/07/2025
-6993;Pevê Tur - Cartão São José do Rio Preto X Sales;Pevê Tur;21,10;5;10;SP;São José do Rio Preto;07/07/2025
-6994;Pevê Tur - Cartão São José do Rio Preto X Bady Bassit (Linha 9391);Pevê Tur;7,95;5;10;SP;São José do Rio Preto;07/07/2025
-6995;Pevê Tur - Cartão São José do Rio Preto X Ipiguá;Pevê Tur;7,25;5;10;SP;São José do Rio Preto;07/07/2025
-6996;Pevê Tur - Cartão Ubarana X Adolfo;Pevê Tur;14,20;5;10;SP;São José do Rio Preto;07/07/2025
-6997;Pevê Tur - Cartão Ubarana X José Bonifácio;Pevê Tur;6,95;5;10;SP;São José do Rio Preto;07/07/2025
-6998;Pevê Tur - Cartão Ubarana X Mendonça;Pevê Tur;11,55;5;10;SP;São José do Rio Preto;07/07/2025
+6992;Pevê Tur - Cartão São José do Rio Preto X Nova Itapirema;Pevê Tur;10,75;5;10;SP;São José do Rio Preto;16/07/2026
+6993;Pevê Tur - Cartão São José do Rio Preto X Sales;Pevê Tur;22,10;5;10;SP;São José do Rio Preto;16/07/2026
+6994;Pevê Tur - Cartão São José do Rio Preto X Bady Bassit (Linha 9391);Pevê Tur;8,35;5;10;SP;São José do Rio Preto;16/07/2026
+6995;Pevê Tur - Cartão São José do Rio Preto X Ipiguá;Pevê Tur;7,60;5;10;SP;São José do Rio Preto;16/07/2026
+6996;Pevê Tur - Cartão Ubarana X Adolfo;Pevê Tur;14,85;5;10;SP;São José do Rio Preto;16/07/2026
+6997;Pevê Tur - Cartão Ubarana X José Bonifácio;Pevê Tur;7,25;5;10;SP;São José do Rio Preto;16/07/2026
+6998;Pevê Tur - Cartão Ubarana X Mendonça;Pevê Tur;12,10;5;10;SP;São José do Rio Preto;16/07/2026
 8901;Pevê Tur - Cartão São José do Rio Petro X Bady Bassit;Pevê Tur;8,35;5;10;SP;São José do Rio Preto;15/07/2026
 15389;Pira Mobilidade - Cartão Municipal Piracicaba;Pira Mobilidade;6,58;5;10;SP;Piracicaba;20/06/2025
 2324;Princesa dos Campos - Cartão Cajati X Registro;Porto de Registro (Princesa dos Campos);13,35;5;10;SP;Registro;07/07/2025

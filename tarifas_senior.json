@@ -17784,6 +17784,14 @@
         "cidade": "Votorantim"
     },
     {
+        "codigo": "19779",
+        "nome": "Expresso Amarelinho - Cartão Pilar do Sul X Sorocaba",
+        "fornecedor": "Expresso Amarelinho - Votorantim",
+        "valor": "18,80",
+        "uf": "SP",
+        "cidade": "Votorantim"
+    },
+    {
         "codigo": "4351",
         "nome": "Expresso de Prata - Cartão Bauru X Duartina (Suburbana)",
         "fornecedor": "Expresso de Prata - Eletrônico",
@@ -20739,7 +20747,7 @@
         "codigo": "6961",
         "nome": "Pevê Tur - Cartão Bady Bassit X Adolfo",
         "fornecedor": "Pevê Tur",
-        "valor": "11,55",
+        "valor": "12,10",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20747,7 +20755,7 @@
         "codigo": "6962",
         "nome": "Pevê Tur - Cartão Bady Bassit X Fazenda Biroli",
         "fornecedor": "Pevê Tur",
-        "valor": "11,55",
+        "valor": "12,10",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20755,7 +20763,7 @@
         "codigo": "6963",
         "nome": "Pevê Tur - Cartão Bady Bassit X Mendonça",
         "fornecedor": "Pevê Tur",
-        "valor": "10,25",
+        "valor": "10,75",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20771,7 +20779,7 @@
         "codigo": "6965",
         "nome": "Pevê Tur - Cartão Bady Bassit X Nova Itapirema",
         "fornecedor": "Pevê Tur",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20779,7 +20787,7 @@
         "codigo": "6966",
         "nome": "Pevê Tur - Cartão Bady Bassit X Sales",
         "fornecedor": "Pevê Tur",
-        "valor": "15,50",
+        "valor": "16,20",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20787,7 +20795,7 @@
         "codigo": "6967",
         "nome": "Pevê Tur - Cartão Fazenda Biroli X Sales",
         "fornecedor": "Pevê Tur",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20795,7 +20803,7 @@
         "codigo": "6968",
         "nome": "Pevê Tur - Cartão Ipiguá X Macaúbas",
         "fornecedor": "Pevê Tur",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20803,7 +20811,7 @@
         "codigo": "6969",
         "nome": "Pevê Tur - Cartão Ipiguá X Mirassolândia",
         "fornecedor": "Pevê Tur",
-        "valor": "5,95",
+        "valor": "6,20",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20811,7 +20819,7 @@
         "codigo": "6970",
         "nome": "Pevê Tur - Cartão José Bonifácio X Adolfo",
         "fornecedor": "Pevê Tur",
-        "valor": "10,25",
+        "valor": "10,75",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20819,7 +20827,7 @@
         "codigo": "6971",
         "nome": "Pevê Tur - Cartão José Bonifácio X Mendonça",
         "fornecedor": "Pevê Tur",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20827,7 +20835,7 @@
         "codigo": "6972",
         "nome": "Pevê Tur - Cartão Mendonça X Adolfo",
         "fornecedor": "Pevê Tur",
-        "valor": "5,60",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20835,7 +20843,7 @@
         "codigo": "6973",
         "nome": "Pevê Tur - Cartão Mendonça X Fazenda Biroli",
         "fornecedor": "Pevê Tur",
-        "valor": "5,60",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20843,7 +20851,7 @@
         "codigo": "6974",
         "nome": "Pevê Tur - Cartão Mendonça X Sales",
         "fornecedor": "Pevê Tur",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20859,7 +20867,7 @@
         "codigo": "6976",
         "nome": "Pevê Tur - Cartão Mirassolândia X São José do Rio Preto",
         "fornecedor": "Pevê Tur",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20867,7 +20875,7 @@
         "codigo": "6977",
         "nome": "Pevê Tur - Cartão Nova Aliança X Adolfo",
         "fornecedor": "Pevê Tur",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20875,7 +20883,7 @@
         "codigo": "6978",
         "nome": "Pevê Tur - Cartão Nova Aliança X Fazenda Biroli",
         "fornecedor": "Pevê Tur",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20883,7 +20891,7 @@
         "codigo": "6979",
         "nome": "Pevê Tur - Cartão Nova Aliança X Mendonça",
         "fornecedor": "Pevê Tur",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20891,7 +20899,7 @@
         "codigo": "6980",
         "nome": "Pevê Tur - Cartão Nova Aliança X Nova Itapirema",
         "fornecedor": "Pevê Tur",
-        "valor": "5,60",
+        "valor": "5,90",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20899,7 +20907,7 @@
         "codigo": "6981",
         "nome": "Pevê Tur - Cartão Nova Aliança X Sales",
         "fornecedor": "Pevê Tur",
-        "valor": "12,90",
+        "valor": "13,50",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20907,7 +20915,7 @@
         "codigo": "6982",
         "nome": "Pevê Tur - Cartão Nova Itapirema X Adolfo",
         "fornecedor": "Pevê Tur",
-        "valor": "8,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20915,7 +20923,7 @@
         "codigo": "6983",
         "nome": "Pevê Tur - Cartão Nova Itapirema X Fazenda Biroli",
         "fornecedor": "Pevê Tur",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20923,7 +20931,7 @@
         "codigo": "6984",
         "nome": "Pevê Tur - Cartão Nova Itapirema X Mendonça",
         "fornecedor": "Pevê Tur",
-        "valor": "6,60",
+        "valor": "6,95",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20931,7 +20939,7 @@
         "codigo": "6985",
         "nome": "Pevê Tur - Cartão Nova Itapirema X Sales",
         "fornecedor": "Pevê Tur",
-        "valor": "10,25",
+        "valor": "10,75",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20939,7 +20947,7 @@
         "codigo": "6986",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Adolfo",
         "fornecedor": "Pevê Tur",
-        "valor": "16,75",
+        "valor": "17,55",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20947,7 +20955,7 @@
         "codigo": "6987",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Fazenda Biroli",
         "fornecedor": "Pevê Tur",
-        "valor": "15,50",
+        "valor": "16,20",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20955,7 +20963,7 @@
         "codigo": "6988",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Macaúbas",
         "fornecedor": "Pevê Tur",
-        "valor": "10,25",
+        "valor": "10,75",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20963,7 +20971,7 @@
         "codigo": "6989",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Mendonça",
         "fornecedor": "Pevê Tur",
-        "valor": "14,20",
+        "valor": "14,85",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20971,7 +20979,7 @@
         "codigo": "6990",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Mirassolândia",
         "fornecedor": "Pevê Tur",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20987,7 +20995,7 @@
         "codigo": "6992",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Nova Itapirema",
         "fornecedor": "Pevê Tur",
-        "valor": "10,25",
+        "valor": "10,75",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20995,7 +21003,7 @@
         "codigo": "6993",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Sales",
         "fornecedor": "Pevê Tur",
-        "valor": "21,10",
+        "valor": "22,10",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21003,7 +21011,7 @@
         "codigo": "6994",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Bady Bassit (Linha 9391)",
         "fornecedor": "Pevê Tur",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21011,7 +21019,7 @@
         "codigo": "6995",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Ipiguá",
         "fornecedor": "Pevê Tur",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21019,7 +21027,7 @@
         "codigo": "6996",
         "nome": "Pevê Tur - Cartão Ubarana X Adolfo",
         "fornecedor": "Pevê Tur",
-        "valor": "14,20",
+        "valor": "14,85",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21027,7 +21035,7 @@
         "codigo": "6997",
         "nome": "Pevê Tur - Cartão Ubarana X José Bonifácio",
         "fornecedor": "Pevê Tur",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21035,7 +21043,7 @@
         "codigo": "6998",
         "nome": "Pevê Tur - Cartão Ubarana X Mendonça",
         "fornecedor": "Pevê Tur",
-        "valor": "11,55",
+        "valor": "12,10",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
