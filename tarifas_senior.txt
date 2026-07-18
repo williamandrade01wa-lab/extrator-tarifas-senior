@@ -901,41 +901,41 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;5,00;5;10;PE;Caruaru;25/05/2026
 15495;Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329);Coletivos Viagens;19,00;5;10;PE;Caruaru;20/04/2026
 19730;Coletivos Viagens - Cartão São Caetano X Caruaru;Coletivos Viagens;6,00;5;10;PE;Caruaru;02/06/2026
-6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;5,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-8226;Expresso 1002 - Cartão Surubim X Toritama;Expresso 1002;12,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-8279;Expresso 1002 - Cartão Carpina X Limoeiro;Expresso 1002;7,00;5;10;PE;Jaboatão dos Guararapes;06/04/2026
-8280;Expresso 1002 - Cartão Recife X Limeiro;Expresso 1002;25,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;16,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;5,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+8226;Expresso 1002 - Cartão Surubim X Toritama;Expresso 1002;14,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+8279;Expresso 1002 - Cartão Carpina X Limoeiro;Expresso 1002;8,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+8280;Expresso 1002 - Cartão Recife X Limeiro;Expresso 1002;28,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
 8281;Expresso 1002 - Cartão Timbaúba X Itambé;Expresso 1002;11,00;5;10;PE;Jaboatão dos Guararapes;13/02/2025
 8427;Expresso 1002 - Cartão Goiana X Timbaúba;Expresso 1002;13,00;5;10;PE;Jaboatão dos Guararapes;13/06/2024
-8628;Expresso 1002 - Cartão Recife X Lagoa de Itaenga;Expresso 1002;23,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-8638;Expresso 1002 - Cartão Nazaré da Mata X Aliança;Expresso 1002;6,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
+8628;Expresso 1002 - Cartão Recife X Lagoa de Itaenga;Expresso 1002;26,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+8638;Expresso 1002 - Cartão Nazaré da Mata X Aliança;Expresso 1002;6,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
 8639;Expresso 1002 - Cartão Aliança X Goiana;Expresso 1002;8,50;5;10;PE;Jaboatão dos Guararapes;13/06/2024
-8640;Expresso 1002 - Cartão Nazaré da Mata X Carpina;Expresso 1002;6,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-9117;Expresso 1002 - Cartão Paudalho X Carpina;Expresso 1002;5,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-9141;Expresso 1002 - Cartão Recife X Carpina;Expresso 1002;19,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-9259;Expresso 1002 - Cartão Recife X Feira Nova;Expresso 1002;28,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-9280;Expresso 1002 - Cartão Limoeiro X Surubim;Expresso 1002;14,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-9747;Expresso 1002 - Cartão Camaragibe X Bar Chã;Expresso 1002;7,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-9748;Expresso 1002 - Cartão São Lourenço da Mata X Paudalho;Expresso 1002;7,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-9749;Expresso 1002 - Cartão São Lourenço da Mata X Carpina;Expresso 1002;11,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-9750;Expresso 1002 - Cartão Camaragibe X Nazaré da Mata;Expresso 1002;15,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-9751;Expresso 1002 - Cartão Lagoa do Itaenga X Carpina;Expresso 1002;5,50;5;10;PE;Jaboatão dos Guararapes;13/02/2025
-9752;Expresso 1002 - Cartão Limoeiro X Paudalho;Expresso 1002;11,00;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-10126;Expresso 1002 - Cartão Carpina X Timbaúba;Expresso 1002;17,50;5;10;PE;Jaboatão dos Guararapes;25/02/2026
-15076;Expresso 1002 - Cartão Paudalho X Camaragibe;Expresso 1002;10,00;5;10;PE;Jaboatão dos Guararapes;02/03/2026
-16029;Expresso 1002 - Cartão Recife X Nazaré da Mata (Linha 30);Expresso 1002;20,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-16030;Expresso 1002 - Cartão Recife X São Lourenço da Mata;Expresso 1002;7,50;5;10;PE;Jaboatão dos Guararapes;03/03/2026
-19765;Expresso 1002 - Cartão Recife X Tracunhaém;Expresso 1002;19,50;5;10;PE;Jaboatão dos Guararapes;19/06/2026
-5416;Rodotur Turismo - Cartão Goiana X Igarassu;Rodotur Turismo - Novo Sistema;8,50;5;10;PE;Olinda;14/07/2023
-5417;Rodotur Turismo - Cartão Goiana X Paulista;Rodotur Turismo - Novo Sistema;12,00;5;10;PE;Olinda;14/07/2023
-5418;Rodotur Turismo - Cartão Goiana X Recife;Rodotur Turismo - Novo Sistema;16,40;5;10;PE;Olinda;14/07/2023
-9045;Rodotur Turismo - Cartão Igarassu X Ponta de Pedra;Rodotur Turismo - Novo Sistema;11,50;5;10;PE;Olinda;21/07/2023
+8640;Expresso 1002 - Cartão Nazaré da Mata X Carpina;Expresso 1002;6,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9117;Expresso 1002 - Cartão Paudalho X Carpina;Expresso 1002;5,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9141;Expresso 1002 - Cartão Recife X Carpina;Expresso 1002;21,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9259;Expresso 1002 - Cartão Recife X Feira Nova;Expresso 1002;31,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9280;Expresso 1002 - Cartão Limoeiro X Surubim;Expresso 1002;16,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9747;Expresso 1002 - Cartão Camaragibe X Bar Chã;Expresso 1002;8,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9748;Expresso 1002 - Cartão São Lourenço da Mata X Paudalho;Expresso 1002;8,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9749;Expresso 1002 - Cartão São Lourenço da Mata X Carpina;Expresso 1002;12,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9750;Expresso 1002 - Cartão Camaragibe X Nazaré da Mata;Expresso 1002;17,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9751;Expresso 1002 - Cartão Lagoa do Itaenga X Carpina;Expresso 1002;6,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+9752;Expresso 1002 - Cartão Limoeiro X Paudalho;Expresso 1002;12,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+10126;Expresso 1002 - Cartão Carpina X Timbaúba;Expresso 1002;19,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+15076;Expresso 1002 - Cartão Paudalho X Camaragibe;Expresso 1002;11,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+16029;Expresso 1002 - Cartão Recife X Nazaré da Mata (Linha 30);Expresso 1002;22,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+16030;Expresso 1002 - Cartão Recife X São Lourenço da Mata;Expresso 1002;8,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+19765;Expresso 1002 - Cartão Recife X Tracunhaém;Expresso 1002;21,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
+5416;Rodotur Turismo - Cartão Goiana X Igarassu;Rodotur Turismo - Novo Sistema;9,50;5;10;PE;Olinda;17/07/2026
+5417;Rodotur Turismo - Cartão Goiana X Paulista;Rodotur Turismo - Novo Sistema;13,50;5;10;PE;Olinda;17/07/2026
+5418;Rodotur Turismo - Cartão Goiana X Recife;Rodotur Turismo - Novo Sistema;18,00;5;10;PE;Olinda;17/07/2026
+9045;Rodotur Turismo - Cartão Igarassu X Ponta de Pedra;Rodotur Turismo - Novo Sistema;13,00;5;10;PE;Olinda;17/07/2026
 9273;Rodotur Turismo - Cartão Goiana X Itaquitinga;Rodotur Turismo - Novo Sistema;6,00;5;10;PE;Olinda;07/12/2023
-9753;Rodotur Turismo - Cartão Abreu e Lima X Goiana;Rodotur Turismo - Novo Sistema;10,00;5;10;PE;Olinda;14/07/2023
-10885;Rodotur Turismo - Cartão Goiana X Goiana;Rodotur Turismo - Novo Sistema;3,50;5;10;PE;Olinda;11/03/2024
-16214;Rodotur Turismo - Cartão Tejucupapo X Goiana;Rodotur Turismo - Novo Sistema;5,00;5;10;PE;Olinda;24/10/2025
-16226;Rodotur Turismo - Cartão Paulista X Ponta de Pedras;Rodotur Turismo - Novo Sistema;15,00;5;10;PE;Olinda;31/10/2025
+9753;Rodotur Turismo - Cartão Abreu e Lima X Goiana;Rodotur Turismo - Novo Sistema;11,00;5;10;PE;Olinda;17/07/2026
+10885;Rodotur Turismo - Cartão Goiana X Goiana;Rodotur Turismo - Novo Sistema;4,50;5;10;PE;Olinda;17/07/2026
+16214;Rodotur Turismo - Cartão Tejucupapo X Goiana;Rodotur Turismo - Novo Sistema;6,50;5;10;PE;Olinda;17/07/2026
+16226;Rodotur Turismo - Cartão Paulista X Ponta de Pedras;Rodotur Turismo - Novo Sistema;16,50;5;10;PE;Olinda;17/07/2026
 490;SETRANS Vem Grande Recife - Cartão SETRANS - Vem Grande Recife;SETRANS - Vem Grande Recife;0,01;5;10;PE;Recife;01/01/2000
 2921;SETRANS Vem Grande Recife - Cartão Metrô Unitário;SETRANS - Vem Grande Recife;4,25;5;10;PE;Recife;05/01/2020
 2567;SETRANS Vem Grande Recife - Cartão Recife Municipal (Tarifa A);SETRANS Vem Grande Recife;4,50;5;10;PE;Recife;03/02/2026
@@ -1345,6 +1345,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15172;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Esteio;9,05;5;10;RS;Esteio;12/06/2026
 15173;Fátima Transportes - Cartão Porto Alegre X Canoas;Fátima Transportes - Esteio;9,05;5;10;RS;Esteio;25/06/2026
 15174;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto);Fátima Transportes - Esteio;13,95;5;10;RS;Esteio;12/06/2026
+19780;Fátima Transportes (Santa Rita) - Cartão Municipal Nova Santa Rita;Fátima Transportes - Santa Rita;5,26;5;10;RS;Nova Santa Rita;17/07/2026
+19781;Fátima Transportes (Santa Rita) - Cartão Santa Rita x Porto Alegre;Fátima Transportes - Santa Rita;11,45;5;10;RS;Nova Santa Rita;17/07/2026
+19782;Fátima Transportes (Santa Rita) - Cartão Santa Rita x Canoas;Fátima Transportes - Santa Rita;8,00;5;10;RS;Nova Santa Rita;17/07/2026
 8185;Gaurama - Cartão Erechim Urbano;Gaurama - Eletrônico;5,50;5;10;RS;Erechim;22/04/2024
 15936;Laranjal - Candiota - Cartão Municipal Candiota;Laranjal - Candiota;6,00;5;10;RS;Candiota;31/07/2025
 5528;Mtu Medianeira - Cartão Ijuí Municipal;MTU Medianeira;6,00;5;10;RS;Ijui;07/07/2025
@@ -2222,7 +2225,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4410;Expresso Amarelinho - Votorantim - Cartão Araçoiaba X Sorocaba (Linha 6335) - Grupo São João;Expresso Amarelinho - Votorantim;9,25;5;10;SP;Votorantim;07/01/2026
 5568;Expresso Amarelinho - Votorantim - Cartão Sorocaba X Porto Feliz (Linha 6201) - Grupo São João;Expresso Amarelinho - Votorantim;9,25;5;10;SP;Votorantim;07/01/2026
 7045;Expresso Amarelinho - Votorantim - Cartão Piedade X Tapiraí (Linha 6302) - Grupo São João;Expresso Amarelinho - Votorantim;7,20;5;10;SP;Votorantim;07/01/2026
-19779;Expresso Amarelinho - Cartão Pilar do Sul X Sorocaba;Expresso Amarelinho - Votorantim;18,80;5;10;SP;Votorantim;16/07/2026
+19779;Expresso Amarelinho - Votorantim - Cartão Pilar do Sul X Sorocaba;Expresso Amarelinho - Votorantim;18,80;5;10;SP;Votorantim;16/07/2026
 4351;Expresso de Prata - Cartão Bauru X Duartina (Suburbana);Expresso de Prata - Eletrônico;16,05;5;10;SP;Bauru;15/07/2026
 4359;Expresso de Prata - Cartão Agudos X Bauru (Suburbana);Expresso de Prata - Eletrônico;8,35;5;10;SP;Bauru;15/07/2026
 5758;Expresso de Prata - Cartão Lençóis Paulista X Areiópolis (Suburbana);Expresso de Prata - Eletrônico;8,75;5;10;SP;Bauru;15/07/2026
@@ -2664,7 +2667,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15478;Rápido Fênix - Cartão Lindóia X Águas de Lindóia;Rápido Fênix;6,60;5;10;SP;Itatiba;07/07/2025
 6657;Estâncias Metrópolis - Cartão Lindoia X Amparo;Rápido Fênix - Estâncias Metrópolis;8,90;5;10;SP;Itatiba;07/07/2025
 6814;Estâncias Metrópolis - Cartão Amparo X Monte Alegre do Sul;Rápido Fênix - Estâncias Metrópolis;6,95;5;10;SP;Itatiba;07/07/2025
-6815;Estâncias Metrópolis - Cartão Serra Negra X Amparo;Rápido Fênix - Estâncias Metrópolis;7,35;5;10;SP;Itatiba;07/07/2025
+6815;Estâncias Metrópolis - Cartão Serra Negra X Amparo;Rápido Fênix - Estâncias Metrópolis;7,70;5;10;SP;Itatiba;17/07/2026
 6816;Estâncias Metrópolis - Cartão Águas de Lindóia X Amparo;Rápido Fênix - Estâncias Metrópolis;11,55;5;10;SP;Itatiba;07/07/2025
 6817;Estâncias Metrópolis - Cartão Pedreira X Amparo;Rápido Fênix - Estâncias Metrópolis;7,35;5;10;SP;Itatiba;07/07/2025
 6818;Estâncias Metrópolis - Cartão Jaguariúna X Amparo;Rápido Fênix - Estâncias Metrópolis;8,90;5;10;SP;Itatiba;07/07/2025
@@ -2951,20 +2954,20 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2175;Viação Jacareí - Cartão São José dos Campos X Jacareí (via Dutra) (Linha 5114);Viação Jacareí;6,30;5;10;SP;São José dos Campos;07/01/2026
 2176;Viação Jacareí - Cartão São José dos Campos X Caçapava (Linha 5117);Viação Jacareí;6,35;5;10;SP;São José dos Campos;07/01/2026
 5822;Viação Jacareí - Cartão Jacareí X Igaratá (Artesp);Viação Jacareí;13,35;5;10;SP;São José dos Campos;26/01/2024
-7531;Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Cidade) (Artesp);Viação Jacareí;8,25;5;10;SP;São José dos Campos;15/09/2025
-7533;Viação Jacareí - Cartão Guararema (Lambarí) X Jacareí (Artesp);Viação Jacareí;11,10;5;10;SP;São José dos Campos;15/09/2025
-7534;Viação Jacareí - Cartão Guararema X Jacareí (Artesp);Viação Jacareí;8,60;5;10;SP;São José dos Campos;15/09/2025
-7535;Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via S.Silvestre) (Artesp);Viação Jacareí;15,50;5;10;SP;São José dos Campos;15/09/2025
-7860;Viação Jacareí - Cartão Guararema (Parateí) X Jacareí (Artesp);Viação Jacareí;8,15;5;10;SP;São José dos Campos;15/09/2025
-7871;Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via Leste - SP70) (Artesp);Viação Jacareí;18,40;5;10;SP;São José dos Campos;07/01/2026
-7872;Viação Jacareí - Cartão Guararema (Maracatú) X Jacareí (Artesp);Viação Jacareí;9,45;5;10;SP;São José dos Campos;15/09/2025
-7873;Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Lambarí) (Artesp);Viação Jacareí;8,75;5;10;SP;São José dos Campos;07/01/2026
-7876;Viação Jacareí - Cartão Jacareí X Santa Isabel (Artesp);Viação Jacareí;10,30;5;10;SP;São José dos Campos;15/09/2025
-7877;Viação Jacareí - Cartão Santa Isabel X Igaratá (Artesp);Viação Jacareí;7,85;5;10;SP;São José dos Campos;07/01/2026
-7961;Viação Jacareí - Cartão Guararema (Parateí) X Santa Isabel (Artesp);Viação Jacareí;7,10;5;10;SP;São José dos Campos;22/08/2025
+7531;Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Cidade) (Artesp);Viação Jacareí;8,65;5;10;SP;São José dos Campos;17/07/2026
+7533;Viação Jacareí - Cartão Guararema (Lambarí) X Jacareí (Artesp);Viação Jacareí;11,50;5;10;SP;São José dos Campos;17/07/2026
+7534;Viação Jacareí - Cartão Guararema X Jacareí (Artesp);Viação Jacareí;9,00;5;10;SP;São José dos Campos;17/07/2026
+7535;Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via S.Silvestre) (Artesp);Viação Jacareí;16,20;5;10;SP;São José dos Campos;17/07/2026
+7860;Viação Jacareí - Cartão Guararema (Parateí) X Jacareí (Artesp);Viação Jacareí;8,35;5;10;SP;São José dos Campos;17/07/2026
+7871;Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via Leste - SP70) (Artesp);Viação Jacareí;19,00;5;10;SP;São José dos Campos;17/07/2026
+7872;Viação Jacareí - Cartão Guararema (Maracatú) X Jacareí (Artesp);Viação Jacareí;9,75;5;10;SP;São José dos Campos;17/07/2026
+7873;Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Lambarí) (Artesp);Viação Jacareí;9,05;5;10;SP;São José dos Campos;17/07/2026
+7876;Viação Jacareí - Cartão Jacareí X Santa Isabel (Artesp);Viação Jacareí;10,50;5;10;SP;São José dos Campos;17/07/2026
+7877;Viação Jacareí - Cartão Santa Isabel X Igaratá (Artesp);Viação Jacareí;7,95;5;10;SP;São José dos Campos;17/07/2026
+7961;Viação Jacareí - Cartão Guararema (Parateí) X Santa Isabel (Artesp);Viação Jacareí;7,35;5;10;SP;São José dos Campos;17/07/2026
 8104;Viação Jacareí - Cartão Igr. Remédios X Mogi das Cruzes (Artesp);Viação Jacareí;9,95;5;10;SP;São José dos Campos;26/01/2024
-8107;Viação Jacareí - Cartão Guararema X São Silvestre (Artesp);Viação Jacareí;7,25;5;10;SP;São José dos Campos;15/09/2025
-8108;Viação Jacareí - Cartão São Silvestre X Mogi das Cruzes (Artesp);Viação Jacareí;12,90;5;10;SP;São José dos Campos;15/09/2025
+8107;Viação Jacareí - Cartão Guararema X São Silvestre (Artesp);Viação Jacareí;7,60;5;10;SP;São José dos Campos;17/07/2026
+8108;Viação Jacareí - Cartão São Silvestre X Mogi das Cruzes (Artesp);Viação Jacareí;13,50;5;10;SP;São José dos Campos;17/07/2026
 8401;Viação Jacareí - Cartão Viação Jacareí;Viação Jacareí;0,01;5;10;SP;São José dos Campos;01/01/2000
 10124;Viação Jacareí - Cartão Igaratá X Jacareí (via Dom Predo II) (Linha 5104);Viação Jacareí;7,95;5;10;SP;São José dos Campos;08/06/2026
 15368;Viação Jacareí - Cartão Variável;Viação Jacareí;0,01;5;10;SP;São José dos Campos;20/09/2024
@@ -3129,17 +3132,17 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19622;Viação Santa Cruz (QR-Code) - Cartão Careaçu X São Sebastião da Bela Vista;Viação Santa Cruz - QR-Code;10,85;5;10;SP;Mogi Mirim;28/04/2026
 19674;Viação Santa Cruz (QR-Code) - Cartão Alfenas X Campos Gerais;Viação Santa Cruz - QR-Code;22,30;5;10;SP;Mogi Mirim;20/05/2026
 19675;Viação Santa Cruz (QR-Code) - Cartão Campos Gerais X Alfenas;Viação Santa Cruz - QR-Code;19,95;5;10;SP;Mogi Mirim;20/05/2026
-15720;Viação São Bento - Cartão Ribeirão Preto X Brodowski;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;15/07/2025
-15721;Viação São Bento - Cartão Ribeirão Preto X Serra Azul;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;15/07/2025
-15722;Viação São Bento - Cartão Sertãozinho X Barrinha;Viação São Bento - Novo Sistema;8,60;5;10;SP;Ribeirão Preto;15/07/2025
-15723;Viação São Bento - Cartão Ribeirão Preto X Serrana;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;15/07/2025
+15720;Viação São Bento - Cartão Ribeirão Preto X Brodowski;Viação São Bento - Novo Sistema;9,35;5;10;SP;Ribeirão Preto;17/07/2026
+15721;Viação São Bento - Cartão Ribeirão Preto X Serra Azul;Viação São Bento - Novo Sistema;9,35;5;10;SP;Ribeirão Preto;17/07/2026
+15722;Viação São Bento - Cartão Sertãozinho X Barrinha;Viação São Bento - Novo Sistema;9,25;5;10;SP;Ribeirão Preto;17/07/2026
+15723;Viação São Bento - Cartão Ribeirão Preto X Serrana;Viação São Bento - Novo Sistema;9,35;5;10;SP;Ribeirão Preto;17/07/2026
 15725;Viação São Bento - Cartão Ribeirão Preto X Barrinha;Viação São Bento - Novo Sistema;11,60;5;10;SP;Ribeirão Preto;15/07/2026
-15726;Viação São Bento - Cartão Batatais X Ribeirão Preto;Viação São Bento - Novo Sistema;14,15;5;10;SP;Ribeirão Preto;09/01/2026
-15727;Viação São Bento - Cartão Ribeirão Preto X Sertãozinho;Viação São Bento - Novo Sistema;8,95;5;10;SP;Ribeirão Preto;16/10/2025
-15728;Viação São Bento - Cartão Batatais X Altinópolis;Viação São Bento - Novo Sistema;8,60;5;10;SP;Ribeirão Preto;15/07/2025
-15729;Viação São Bento - Cartão Batatais X Brodowski;Viação São Bento - Novo Sistema;8,15;5;10;SP;Ribeirão Preto;16/10/2025
-15730;Viação São Bento - Cartão Ribeirão Preto X Altinópolis;Viação São Bento - Novo Sistema;22,35;5;10;SP;Ribeirão Preto;09/01/2026
-19584;Viação São Bento - Cartão Ribeirão Preto X Orlândia;Viação São Bento - Novo Sistema;17,00;5;10;SP;Ribeirão Preto;02/04/2026
+15726;Viação São Bento - Cartão Batatais X Ribeirão Preto;Viação São Bento - Novo Sistema;14,60;5;10;SP;Ribeirão Preto;17/07/2026
+15727;Viação São Bento - Cartão Ribeirão Preto X Sertãozinho;Viação São Bento - Novo Sistema;9,25;5;10;SP;Ribeirão Preto;17/07/2026
+15728;Viação São Bento - Cartão Batatais X Altinópolis;Viação São Bento - Novo Sistema;9,00;5;10;SP;Ribeirão Preto;17/07/2026
+15729;Viação São Bento - Cartão Batatais X Brodowski;Viação São Bento - Novo Sistema;8,35;5;10;SP;Ribeirão Preto;17/07/2026
+15730;Viação São Bento - Cartão Ribeirão Preto X Altinópolis;Viação São Bento - Novo Sistema;23,20;5;10;SP;Ribeirão Preto;17/07/2026
+19584;Viação São Bento - Cartão Ribeirão Preto X Orlândia;Viação São Bento - Novo Sistema;17,60;5;10;SP;Ribeirão Preto;17/07/2026
 8143;Viação Trevisan - Cartão Rio das Pedras X Piracicaba;Viação Trevisan;7,25;5;10;SP;Piracicaba;06/07/2026
 8144;Viação Trevisan - Cartão Piracicaba X Charqueada;Viação Trevisan;11,40;5;10;SP;Piracicaba;06/07/2026
 9000;Viação Trevisan - Cartão Piracicaba X Saltinho;Viação Trevisan;7,25;5;10;SP;Piracicaba;06/07/2026

@@ -7219,7 +7219,7 @@
         "codigo": "6686",
         "nome": "Expresso 1002 - Cartão Paudalho X Recife",
         "fornecedor": "Expresso 1002",
-        "valor": "14,50",
+        "valor": "16,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7227,7 +7227,7 @@
         "codigo": "7670",
         "nome": "Expresso 1002 - Cartão Carpina X Lagoa do Carro",
         "fornecedor": "Expresso 1002",
-        "valor": "5,00",
+        "valor": "5,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7235,7 +7235,7 @@
         "codigo": "8226",
         "nome": "Expresso 1002 - Cartão Surubim X Toritama",
         "fornecedor": "Expresso 1002",
-        "valor": "12,50",
+        "valor": "14,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7243,7 +7243,7 @@
         "codigo": "8279",
         "nome": "Expresso 1002 - Cartão Carpina X Limoeiro",
         "fornecedor": "Expresso 1002",
-        "valor": "7,00",
+        "valor": "8,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7251,7 +7251,7 @@
         "codigo": "8280",
         "nome": "Expresso 1002 - Cartão Recife X Limeiro",
         "fornecedor": "Expresso 1002",
-        "valor": "25,50",
+        "valor": "28,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7275,7 +7275,7 @@
         "codigo": "8628",
         "nome": "Expresso 1002 - Cartão Recife X Lagoa de Itaenga",
         "fornecedor": "Expresso 1002",
-        "valor": "23,50",
+        "valor": "26,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7283,7 +7283,7 @@
         "codigo": "8638",
         "nome": "Expresso 1002 - Cartão Nazaré da Mata X Aliança",
         "fornecedor": "Expresso 1002",
-        "valor": "6,00",
+        "valor": "6,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7299,7 +7299,7 @@
         "codigo": "8640",
         "nome": "Expresso 1002 - Cartão Nazaré da Mata X Carpina",
         "fornecedor": "Expresso 1002",
-        "valor": "6,00",
+        "valor": "6,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7307,7 +7307,7 @@
         "codigo": "9117",
         "nome": "Expresso 1002 - Cartão Paudalho X Carpina",
         "fornecedor": "Expresso 1002",
-        "valor": "5,00",
+        "valor": "5,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7315,7 +7315,7 @@
         "codigo": "9141",
         "nome": "Expresso 1002 - Cartão Recife X Carpina",
         "fornecedor": "Expresso 1002",
-        "valor": "19,00",
+        "valor": "21,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7323,7 +7323,7 @@
         "codigo": "9259",
         "nome": "Expresso 1002 - Cartão Recife X Feira Nova",
         "fornecedor": "Expresso 1002",
-        "valor": "28,00",
+        "valor": "31,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7331,7 +7331,7 @@
         "codigo": "9280",
         "nome": "Expresso 1002 - Cartão Limoeiro X Surubim",
         "fornecedor": "Expresso 1002",
-        "valor": "14,50",
+        "valor": "16,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7339,7 +7339,7 @@
         "codigo": "9747",
         "nome": "Expresso 1002 - Cartão Camaragibe X Bar Chã",
         "fornecedor": "Expresso 1002",
-        "valor": "7,00",
+        "valor": "8,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7347,7 +7347,7 @@
         "codigo": "9748",
         "nome": "Expresso 1002 - Cartão São Lourenço da Mata X Paudalho",
         "fornecedor": "Expresso 1002",
-        "valor": "7,00",
+        "valor": "8,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7355,7 +7355,7 @@
         "codigo": "9749",
         "nome": "Expresso 1002 - Cartão São Lourenço da Mata X Carpina",
         "fornecedor": "Expresso 1002",
-        "valor": "11,00",
+        "valor": "12,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7363,7 +7363,7 @@
         "codigo": "9750",
         "nome": "Expresso 1002 - Cartão Camaragibe X Nazaré da Mata",
         "fornecedor": "Expresso 1002",
-        "valor": "15,50",
+        "valor": "17,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7371,7 +7371,7 @@
         "codigo": "9751",
         "nome": "Expresso 1002 - Cartão Lagoa do Itaenga X Carpina",
         "fornecedor": "Expresso 1002",
-        "valor": "5,50",
+        "valor": "6,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7379,7 +7379,7 @@
         "codigo": "9752",
         "nome": "Expresso 1002 - Cartão Limoeiro X Paudalho",
         "fornecedor": "Expresso 1002",
-        "valor": "11,00",
+        "valor": "12,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7387,7 +7387,7 @@
         "codigo": "10126",
         "nome": "Expresso 1002 - Cartão Carpina X Timbaúba",
         "fornecedor": "Expresso 1002",
-        "valor": "17,50",
+        "valor": "19,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7395,7 +7395,7 @@
         "codigo": "15076",
         "nome": "Expresso 1002 - Cartão Paudalho X Camaragibe",
         "fornecedor": "Expresso 1002",
-        "valor": "10,00",
+        "valor": "11,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7403,7 +7403,7 @@
         "codigo": "16029",
         "nome": "Expresso 1002 - Cartão Recife X Nazaré da Mata (Linha 30)",
         "fornecedor": "Expresso 1002",
-        "valor": "20,50",
+        "valor": "22,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7411,7 +7411,7 @@
         "codigo": "16030",
         "nome": "Expresso 1002 - Cartão Recife X São Lourenço da Mata",
         "fornecedor": "Expresso 1002",
-        "valor": "7,50",
+        "valor": "8,00",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7419,7 +7419,7 @@
         "codigo": "19765",
         "nome": "Expresso 1002 - Cartão Recife X Tracunhaém",
         "fornecedor": "Expresso 1002",
-        "valor": "19,50",
+        "valor": "21,50",
         "uf": "PE",
         "cidade": "Jaboatão dos Guararapes"
     },
@@ -7427,7 +7427,7 @@
         "codigo": "5416",
         "nome": "Rodotur Turismo - Cartão Goiana X Igarassu",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
-        "valor": "8,50",
+        "valor": "9,50",
         "uf": "PE",
         "cidade": "Olinda"
     },
@@ -7435,7 +7435,7 @@
         "codigo": "5417",
         "nome": "Rodotur Turismo - Cartão Goiana X Paulista",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
-        "valor": "12,00",
+        "valor": "13,50",
         "uf": "PE",
         "cidade": "Olinda"
     },
@@ -7443,7 +7443,7 @@
         "codigo": "5418",
         "nome": "Rodotur Turismo - Cartão Goiana X Recife",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
-        "valor": "16,40",
+        "valor": "18,00",
         "uf": "PE",
         "cidade": "Olinda"
     },
@@ -7451,7 +7451,7 @@
         "codigo": "9045",
         "nome": "Rodotur Turismo - Cartão Igarassu X Ponta de Pedra",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
-        "valor": "11,50",
+        "valor": "13,00",
         "uf": "PE",
         "cidade": "Olinda"
     },
@@ -7467,7 +7467,7 @@
         "codigo": "9753",
         "nome": "Rodotur Turismo - Cartão Abreu e Lima X Goiana",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
-        "valor": "10,00",
+        "valor": "11,00",
         "uf": "PE",
         "cidade": "Olinda"
     },
@@ -7475,7 +7475,7 @@
         "codigo": "10885",
         "nome": "Rodotur Turismo - Cartão Goiana X Goiana",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
-        "valor": "3,50",
+        "valor": "4,50",
         "uf": "PE",
         "cidade": "Olinda"
     },
@@ -7483,7 +7483,7 @@
         "codigo": "16214",
         "nome": "Rodotur Turismo - Cartão Tejucupapo X Goiana",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
-        "valor": "5,00",
+        "valor": "6,50",
         "uf": "PE",
         "cidade": "Olinda"
     },
@@ -7491,7 +7491,7 @@
         "codigo": "16226",
         "nome": "Rodotur Turismo - Cartão Paulista X Ponta de Pedras",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
-        "valor": "15,00",
+        "valor": "16,50",
         "uf": "PE",
         "cidade": "Olinda"
     },
@@ -10766,6 +10766,30 @@
         "valor": "13,95",
         "uf": "RS",
         "cidade": "Esteio"
+    },
+    {
+        "codigo": "19780",
+        "nome": "Fátima Transportes (Santa Rita) - Cartão Municipal Nova Santa Rita",
+        "fornecedor": "Fátima Transportes - Santa Rita",
+        "valor": "5,26",
+        "uf": "RS",
+        "cidade": "Nova Santa Rita"
+    },
+    {
+        "codigo": "19781",
+        "nome": "Fátima Transportes (Santa Rita) - Cartão Santa Rita x Porto Alegre",
+        "fornecedor": "Fátima Transportes - Santa Rita",
+        "valor": "11,45",
+        "uf": "RS",
+        "cidade": "Nova Santa Rita"
+    },
+    {
+        "codigo": "19782",
+        "nome": "Fátima Transportes (Santa Rita) - Cartão Santa Rita x Canoas",
+        "fornecedor": "Fátima Transportes - Santa Rita",
+        "valor": "8,00",
+        "uf": "RS",
+        "cidade": "Nova Santa Rita"
     },
     {
         "codigo": "8185",
@@ -17785,7 +17809,7 @@
     },
     {
         "codigo": "19779",
-        "nome": "Expresso Amarelinho - Cartão Pilar do Sul X Sorocaba",
+        "nome": "Expresso Amarelinho - Votorantim - Cartão Pilar do Sul X Sorocaba",
         "fornecedor": "Expresso Amarelinho - Votorantim",
         "valor": "18,80",
         "uf": "SP",
@@ -21323,7 +21347,7 @@
         "codigo": "6815",
         "nome": "Estâncias Metrópolis - Cartão Serra Negra X Amparo",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "7,35",
+        "valor": "7,70",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -23619,7 +23643,7 @@
         "codigo": "7531",
         "nome": "Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Cidade) (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23627,7 +23651,7 @@
         "codigo": "7533",
         "nome": "Viação Jacareí - Cartão Guararema (Lambarí) X Jacareí (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "11,10",
+        "valor": "11,50",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23635,7 +23659,7 @@
         "codigo": "7534",
         "nome": "Viação Jacareí - Cartão Guararema X Jacareí (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23643,7 +23667,7 @@
         "codigo": "7535",
         "nome": "Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via S.Silvestre) (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "15,50",
+        "valor": "16,20",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23651,7 +23675,7 @@
         "codigo": "7860",
         "nome": "Viação Jacareí - Cartão Guararema (Parateí) X Jacareí (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "8,15",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23659,7 +23683,7 @@
         "codigo": "7871",
         "nome": "Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via Leste - SP70) (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "18,40",
+        "valor": "19,00",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23667,7 +23691,7 @@
         "codigo": "7872",
         "nome": "Viação Jacareí - Cartão Guararema (Maracatú) X Jacareí (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "9,45",
+        "valor": "9,75",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23675,7 +23699,7 @@
         "codigo": "7873",
         "nome": "Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Lambarí) (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "8,75",
+        "valor": "9,05",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23683,7 +23707,7 @@
         "codigo": "7876",
         "nome": "Viação Jacareí - Cartão Jacareí X Santa Isabel (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "10,30",
+        "valor": "10,50",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23691,7 +23715,7 @@
         "codigo": "7877",
         "nome": "Viação Jacareí - Cartão Santa Isabel X Igaratá (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "7,85",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23699,7 +23723,7 @@
         "codigo": "7961",
         "nome": "Viação Jacareí - Cartão Guararema (Parateí) X Santa Isabel (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "7,10",
+        "valor": "7,35",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23715,7 +23739,7 @@
         "codigo": "8107",
         "nome": "Viação Jacareí - Cartão Guararema X São Silvestre (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -23723,7 +23747,7 @@
         "codigo": "8108",
         "nome": "Viação Jacareí - Cartão São Silvestre X Mogi das Cruzes (Artesp)",
         "fornecedor": "Viação Jacareí",
-        "valor": "12,90",
+        "valor": "13,50",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
@@ -25043,7 +25067,7 @@
         "codigo": "15720",
         "nome": "Viação São Bento - Cartão Ribeirão Preto X Brodowski",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25051,7 +25075,7 @@
         "codigo": "15721",
         "nome": "Viação São Bento - Cartão Ribeirão Preto X Serra Azul",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25059,7 +25083,7 @@
         "codigo": "15722",
         "nome": "Viação São Bento - Cartão Sertãozinho X Barrinha",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "8,60",
+        "valor": "9,25",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25067,7 +25091,7 @@
         "codigo": "15723",
         "nome": "Viação São Bento - Cartão Ribeirão Preto X Serrana",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25083,7 +25107,7 @@
         "codigo": "15726",
         "nome": "Viação São Bento - Cartão Batatais X Ribeirão Preto",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "14,15",
+        "valor": "14,60",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25091,7 +25115,7 @@
         "codigo": "15727",
         "nome": "Viação São Bento - Cartão Ribeirão Preto X Sertãozinho",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "8,95",
+        "valor": "9,25",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25099,7 +25123,7 @@
         "codigo": "15728",
         "nome": "Viação São Bento - Cartão Batatais X Altinópolis",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "8,60",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25107,7 +25131,7 @@
         "codigo": "15729",
         "nome": "Viação São Bento - Cartão Batatais X Brodowski",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "8,15",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25115,7 +25139,7 @@
         "codigo": "15730",
         "nome": "Viação São Bento - Cartão Ribeirão Preto X Altinópolis",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "22,35",
+        "valor": "23,20",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -25123,7 +25147,7 @@
         "codigo": "19584",
         "nome": "Viação São Bento - Cartão Ribeirão Preto X Orlândia",
         "fornecedor": "Viação São Bento - Novo Sistema",
-        "valor": "17,00",
+        "valor": "17,60",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
