@@ -626,10 +626,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19483;Irmãos Teixeira - Eletrônico - Cartão São José dos Salgados X Divinopolis;Irmãos Teixeira - Eletrônico;6,20;5;10;MG;Divinópolis;22/01/2026
 1809;Sulminas - Cartão Salto / Juncal / Godoi - Rural;Max Tour (Sulminas);4,00;5;10;MG;Extrema;12/03/2019
 1810;Sulminas - Cartão Municipal Extrema;Max Tour (Sulminas);3,30;5;10;MG;Extrema;12/03/2019
-1074;Valadarense Mobi Card - Cartão Municipal Governador Valadares;Mobi Valadarense;4,35;5;10;MG;Governador Valadares;01/07/2025
-1075;Valadarense Mobi Card - Cartão Baguari X Intermunicipal;Mobi Valadarense;4,90;5;10;MG;Governador Valadares;13/07/2023
+1074;Valadarense Mobi Card - Cartão Municipal Governador Valadares;Mobi Valadarense;5,31;5;10;MG;Governador Valadares;20/07/2026
+1075;Valadarense Mobi Card - Cartão Baguari X Intermunicipal;Mobi Valadarense;5,75;5;10;MG;Governador Valadares;20/07/2026
 1078;Valadarense Mobi Card - Cartão Frei Inocêncio X Intermunicipal;Mobi Valadarense;14,50;5;10;MG;Governador Valadares;17/09/2025
-1080;Valadarense Mobi Card - Cartão Chonin de Cima e Chonin de Baixo X Intermunicipal;Mobi Valadarense;8,00;5;10;MG;Governador Valadares;13/07/2023
+1080;Valadarense Mobi Card - Cartão Chonin de Cima e Chonin de Baixo X Intermunicipal;Mobi Valadarense;9,40;5;10;MG;Governador Valadares;20/07/2026
 1272;Mocbus - Cartão Municipal Montes Claros;Mocbus;4,60;5;10;MG;MONTES CLAROS;06/03/2025
 15719;MocBus Montes Claros (Hipolabor);MocBus Montes Claros (Hipolabor);4,60;5;10;MG;MONTES CLAROS;30/05/2025
 15144;Moov - Juiz de Fora - Cartão Municipal Juiz de Fora;Moov - Juiz de Fora;3,75;5;10;MG;Juiz de Fora;26/06/2024
@@ -1051,7 +1051,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2271;Viação Umuarama - Cartão Umuarama Municipal;Viação Umuarama;4,00;5;10;PR;Umuarama;30/09/2022
 3815;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
 6097;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
-15069;Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu;Viza Transportes - Eletrônico;6,75;5;10;PR;Foz do Iguaçu;03/03/2026
+15069;Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu;Viza Transportes - Eletrônico;7,10;5;10;PR;Foz do Iguaçu;20/07/2026
 15423;Bamonte - Cartão Municipal Barra do Piraí;Bamonte;3,60;5;10;RJ;Barra do Piraí;13/11/2024
 15191;Fênix RJ;Fênix RJ;0,01;5;10;RJ;Rio de Janeiro;14/08/2024
 19602;Jaé - Cartão Municipal Rio de Janeiro;Jaé;5,00;3;10;RJ;Rio de Janeiro;23/04/2026
@@ -2204,8 +2204,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2346;Dersa - Cartão Balsa Santos X Guarujá / São Paulo;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
 6598;Dersa - Cartão Balsa - Santos X Vicente de Carvalho;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
 9056;Dinatur - Cartão Mairiporã Municipal;Dinatur;6,00;5;10;SP;Mairiporã;11/03/2026
-1016;Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Centro);Empresa Cruz;7,95;5;10;SP;Araraquara;07/07/2025
-1886;Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Bairro);Empresa Cruz;6,95;5;10;SP;Araraquara;07/07/2025
+1016;Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Centro);Empresa Cruz;8,35;5;10;SP;Araraquara;20/07/2026
+1886;Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Bairro);Empresa Cruz;7,25;5;10;SP;Araraquara;20/07/2026
 15655;ETM Mairiporã - Cartão Mairiporã X Nazaré Paulista (Bairro Ponte Alta) (Linha 9539A);ETM - Mairiporã;6,90;5;10;SP;Mairiporã;23/07/2025
 9186;Expresso Amarelinho - Cartão Itapeva X Taquarivaí;Expresso Amarelinho;8,25;5;10;SP;Capão Bonito;07/07/2025
 9188;Expresso Amarelinho - Cartão Buri X Itapeva;Expresso Amarelinho;14,20;5;10;SP;Capão Bonito;07/07/2025
@@ -2423,17 +2423,17 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10792;LimSP - Metrô / CPTM;LimSP;5,40;5;10;SP;São Paulo;05/01/2026
 3876;Lira Bus - Cartão Municipal Hortolândia;Lira Bus;4,30;5;10;SP;Hortolândia;02/02/2019
 8923;Luwasa (Expresso Itamarati) - Cartão Catanduva X Palmares Paulista;Luwasa (Expresso Itamarati);7,95;5;10;SP;São José do Rio Preto;07/07/2025
-8924;Luwasa (Expresso Itamarati) - Cartão Catanduva X Santa Adélia;Luwasa (Expresso Itamarati);8,25;5;10;SP;São José do Rio Preto;07/07/2025
+8924;Luwasa (Expresso Itamarati) - Cartão Catanduva X Santa Adélia;Luwasa (Expresso Itamarati);8,65;5;10;SP;São José do Rio Preto;20/07/2026
 8925;Luwasa (Expresso Itamarati) - Cartão Catanduva X Elisiário;Luwasa (Expresso Itamarati);7,25;5;10;SP;São José do Rio Preto;07/07/2025
 8926;Luwasa (Expresso Itamarati) - Cartão Catanduva X Pindorama;Luwasa (Expresso Itamarati);7,25;5;10;SP;São José do Rio Preto;02/07/2026
-8927;Luwasa (Expresso Itamarati) - Cartão Catanduva X São José do Rio Preto;Luwasa (Expresso Itamarati);18,80;5;10;SP;São José do Rio Preto;07/07/2025
-8928;Luwasa (Expresso Itamarati) - Cartão Júlio Mesquita X Marília;Luwasa (Expresso Itamarati);12,95;5;10;SP;São José do Rio Preto;07/07/2025
+8927;Luwasa (Expresso Itamarati) - Cartão Catanduva X São José do Rio Preto;Luwasa (Expresso Itamarati);19,35;5;10;SP;São José do Rio Preto;20/07/2026
+8928;Luwasa (Expresso Itamarati) - Cartão Júlio Mesquita X Marília;Luwasa (Expresso Itamarati);13,35;5;10;SP;São José do Rio Preto;20/07/2026
 8929;Luwasa (Expresso Itamarati) - Cartão Catanduva X Urupês;Luwasa (Expresso Itamarati);15,00;5;10;SP;São José do Rio Preto;07/07/2025
 9031;Luwasa (Expresso Itamarati) - Cartão Catiguá X Tabapuã;Luwasa (Expresso Itamarati);5,95;5;10;SP;São José do Rio Preto;07/07/2025
-9037;Luwasa (Expresso Itamarati) - Cartão Catiguá X Catanduva;Luwasa (Expresso Itamarati);6,60;5;10;SP;São José do Rio Preto;07/07/2025
-9038;Luwasa (Expresso Itamarati) - Cartão Cajobi X Olímpia;Luwasa (Expresso Itamarati);8,95;5;10;SP;São José do Rio Preto;07/07/2025
-9155;Luwasa (Expresso Itamarati) - Cartão Tabapuã X Catanduva;Luwasa (Expresso Itamarati);8,25;5;10;SP;São José do Rio Preto;07/07/2025
-15345;Luwasa (Expresso Itamarati) - Cartão Severinia X Olimpia;Luwasa (Expresso Itamarati);6,95;5;10;SP;São José do Rio Preto;07/07/2025
+9037;Luwasa (Expresso Itamarati) - Cartão Catiguá X Catanduva;Luwasa (Expresso Itamarati);6,95;5;10;SP;São José do Rio Preto;20/07/2026
+9038;Luwasa (Expresso Itamarati) - Cartão Cajobi X Olímpia;Luwasa (Expresso Itamarati);9,35;5;10;SP;São José do Rio Preto;20/07/2026
+9155;Luwasa (Expresso Itamarati) - Cartão Tabapuã X Catanduva;Luwasa (Expresso Itamarati);8,65;5;10;SP;São José do Rio Preto;20/07/2026
+15345;Luwasa (Expresso Itamarati) - Cartão Severinia X Olimpia;Luwasa (Expresso Itamarati);7,25;5;10;SP;São José do Rio Preto;20/07/2026
 2987;Manoel Rodrigues - Cartão Arandu X Avaré;Manoel Rodrigues;6,95;5;10;SP;Avaré;03/10/2025
 2988;Manoel Rodrigues - Cartão Avaré X Fartura;Manoel Rodrigues;26,55;5;10;SP;Avaré;07/01/2026
 2989;Manoel Rodrigues - Cartão Avaré X Itaí;Manoel Rodrigues;11,55;5;10;SP;Avaré;03/10/2025
@@ -2628,7 +2628,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6991;Pevê Tur - Cartão São José do Rio Preto X Nova Aliança;Pevê Tur;9,35;5;10;SP;São José do Rio Preto;15/07/2026
 6992;Pevê Tur - Cartão São José do Rio Preto X Nova Itapirema;Pevê Tur;10,75;5;10;SP;São José do Rio Preto;16/07/2026
 6993;Pevê Tur - Cartão São José do Rio Preto X Sales;Pevê Tur;22,10;5;10;SP;São José do Rio Preto;16/07/2026
-6994;Pevê Tur - Cartão São José do Rio Preto X Bady Bassit (Linha 9391);Pevê Tur;8,35;5;10;SP;São José do Rio Preto;16/07/2026
+6994;Pevê Tur - Cartão São José do Rio Preto X Bady Bassit (Linha 9391);Pevê Tur;8,25;5;10;SP;São José do Rio Preto;20/07/2026
 6995;Pevê Tur - Cartão São José do Rio Preto X Ipiguá;Pevê Tur;7,60;5;10;SP;São José do Rio Preto;16/07/2026
 6996;Pevê Tur - Cartão Ubarana X Adolfo;Pevê Tur;14,85;5;10;SP;São José do Rio Preto;16/07/2026
 6997;Pevê Tur - Cartão Ubarana X José Bonifácio;Pevê Tur;7,25;5;10;SP;São José do Rio Preto;16/07/2026
@@ -2665,17 +2665,17 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5118;Rápido Fênix - Cartão Itatiba X Atibaia (nominal);Rápido Fênix;13,10;5;10;SP;Itatiba;07/07/2025
 9249;Rápido Fênix - Cartão Faz.Sta.Adelaide X Bragança Paulista;Rápido Fênix;7,40;5;10;SP;Itatiba;07/07/2025
 15478;Rápido Fênix - Cartão Lindóia X Águas de Lindóia;Rápido Fênix;6,60;5;10;SP;Itatiba;07/07/2025
-6657;Estâncias Metrópolis - Cartão Lindoia X Amparo;Rápido Fênix - Estâncias Metrópolis;8,90;5;10;SP;Itatiba;07/07/2025
-6814;Estâncias Metrópolis - Cartão Amparo X Monte Alegre do Sul;Rápido Fênix - Estâncias Metrópolis;6,95;5;10;SP;Itatiba;07/07/2025
+6657;Estâncias Metrópolis - Cartão Lindoia X Amparo;Rápido Fênix - Estâncias Metrópolis;9,30;5;10;SP;Itatiba;20/07/2026
+6814;Estâncias Metrópolis - Cartão Amparo X Monte Alegre do Sul;Rápido Fênix - Estâncias Metrópolis;7,25;5;10;SP;Itatiba;20/07/2026
 6815;Estâncias Metrópolis - Cartão Serra Negra X Amparo;Rápido Fênix - Estâncias Metrópolis;7,70;5;10;SP;Itatiba;17/07/2026
 6816;Estâncias Metrópolis - Cartão Águas de Lindóia X Amparo;Rápido Fênix - Estâncias Metrópolis;11,55;5;10;SP;Itatiba;07/07/2025
 6817;Estâncias Metrópolis - Cartão Pedreira X Amparo;Rápido Fênix - Estâncias Metrópolis;7,35;5;10;SP;Itatiba;07/07/2025
-6818;Estâncias Metrópolis - Cartão Jaguariúna X Amparo;Rápido Fênix - Estâncias Metrópolis;8,90;5;10;SP;Itatiba;07/07/2025
-6819;Estâncias Metrópolis - Cartão Pedreira X Jaguariúna;Rápido Fênix - Estâncias Metrópolis;7,35;5;10;SP;Itatiba;07/07/2025
-6820;Estâncias Metrópolis - Cartão Amparo X Mostarda (Suburbano);Rápido Fênix - Estâncias Metrópolis;8,30;5;10;SP;Itatiba;07/07/2025
-6822;Estâncias Metrópolis - Cartão Amparo X Ponte Preta;Rápido Fênix - Estâncias Metrópolis;5,80;5;10;SP;Itatiba;07/07/2025
+6818;Estâncias Metrópolis - Cartão Jaguariúna X Amparo;Rápido Fênix - Estâncias Metrópolis;9,30;5;10;SP;Itatiba;20/07/2026
+6819;Estâncias Metrópolis - Cartão Pedreira X Jaguariúna;Rápido Fênix - Estâncias Metrópolis;7,70;5;10;SP;Itatiba;20/07/2026
+6820;Estâncias Metrópolis - Cartão Amparo X Mostarda (Suburbano);Rápido Fênix - Estâncias Metrópolis;8,70;5;10;SP;Itatiba;20/07/2026
+6822;Estâncias Metrópolis - Cartão Amparo X Ponte Preta;Rápido Fênix - Estâncias Metrópolis;6,05;5;10;SP;Itatiba;20/07/2026
 6921;Estâncias Metrópolis - Cartão Serra Negra X Lindoia;Rápido Fênix - Estâncias Metrópolis;6,90;5;10;SP;Itatiba;15/07/2026
-9058;Estâncias Metrópolis - Cartão Amparo X Pedreira;Rápido Fênix - Estâncias Metrópolis;7,35;5;10;SP;Itatiba;07/07/2025
+9058;Estâncias Metrópolis - Cartão Amparo X Pedreira;Rápido Fênix - Estâncias Metrópolis;7,70;5;10;SP;Itatiba;20/07/2026
 238;Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista Urbano (Linhas 400 a 417);Rápido Luxo - Campo Limpo;5,90;5;10;SP;Campo Limpo Paulista;22/03/2024
 275;Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí (Linha 601);Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
 276;Rápido Luxo Campo Limpo - Cartão Campo Limpo X Várzea Paulista (Linha 201);Rápido Luxo - Campo Limpo;7,25;5;10;SP;Campo Limpo Paulista;15/07/2026
@@ -3154,7 +3154,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5714;Vicampe - Cartão Laranjal Paulista Municipal;Vicampe;4,50;5;10;SP;Laranjal Paulista;04/11/2022
 5892;Vicampe - Laranjal PTA Muni (0 a 24 creditos);Vicampe;4,50;5;10;SP;Laranjal Paulista;19/01/2023
 6033;Vicampe - LARANJAL PTA MUNI (A PARTIR DE 25 CRED.);Vicampe;4,30;5;10;SP;Laranjal Paulista;23/01/2023
-19778;Vipe - Cartão São Caetano do Sul Municipal;Vipe;5,00;5;10;SP;São Caetano do Sul;15/07/2026
+19778;Vipe - Cartão São Caetano do Sul Municipal;VIPE;5,00;5;10;SP;São Caetano do Sul;15/07/2026
 10173;Viva Pinda - Cartão Municipal Pindamonhangaba;Viva Pinda - Novo Sistema;4,50;5;10;SP;Pindamonhangaba;20/09/2023
 7575;West Side Louveira - Cartão Louveira Urbano (West Side);West Side Louveira;6,00;5;10;SP;Louveira;09/11/2023
 15661;Expresso Miracema - Cartão Municipal Luzimangues;Expresso Miracema;7,50;5;10;TO;Porto Nacional;30/12/2025

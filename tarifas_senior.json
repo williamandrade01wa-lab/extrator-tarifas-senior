@@ -5019,7 +5019,7 @@
         "codigo": "1074",
         "nome": "Valadarense Mobi Card - Cartão Municipal Governador Valadares",
         "fornecedor": "Mobi Valadarense",
-        "valor": "4,35",
+        "valor": "5,31",
         "uf": "MG",
         "cidade": "Governador Valadares"
     },
@@ -5027,7 +5027,7 @@
         "codigo": "1075",
         "nome": "Valadarense Mobi Card - Cartão Baguari X Intermunicipal",
         "fornecedor": "Mobi Valadarense",
-        "valor": "4,90",
+        "valor": "5,75",
         "uf": "MG",
         "cidade": "Governador Valadares"
     },
@@ -5043,7 +5043,7 @@
         "codigo": "1080",
         "nome": "Valadarense Mobi Card - Cartão Chonin de Cima e Chonin de Baixo X Intermunicipal",
         "fornecedor": "Mobi Valadarense",
-        "valor": "8,00",
+        "valor": "9,40",
         "uf": "MG",
         "cidade": "Governador Valadares"
     },
@@ -8419,7 +8419,7 @@
         "codigo": "15069",
         "nome": "Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu",
         "fornecedor": "Viza Transportes - Eletrônico",
-        "valor": "6,75",
+        "valor": "7,10",
         "uf": "PR",
         "cidade": "Foz do Iguaçu"
     },
@@ -17643,7 +17643,7 @@
         "codigo": "1016",
         "nome": "Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Centro)",
         "fornecedor": "Empresa Cruz",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Araraquara"
     },
@@ -17651,7 +17651,7 @@
         "codigo": "1886",
         "nome": "Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Bairro)",
         "fornecedor": "Empresa Cruz",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Araraquara"
     },
@@ -19395,7 +19395,7 @@
         "codigo": "8924",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Catanduva X Santa Adélia",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -19419,7 +19419,7 @@
         "codigo": "8927",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Catanduva X São José do Rio Preto",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "18,80",
+        "valor": "19,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -19427,7 +19427,7 @@
         "codigo": "8928",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Júlio Mesquita X Marília",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "12,95",
+        "valor": "13,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -19451,7 +19451,7 @@
         "codigo": "9037",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Catiguá X Catanduva",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "6,60",
+        "valor": "6,95",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -19459,7 +19459,7 @@
         "codigo": "9038",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Cajobi X Olímpia",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -19467,7 +19467,7 @@
         "codigo": "9155",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Tabapuã X Catanduva",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -19475,7 +19475,7 @@
         "codigo": "15345",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Severinia X Olimpia",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21035,7 +21035,7 @@
         "codigo": "6994",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Bady Bassit (Linha 9391)",
         "fornecedor": "Pevê Tur",
-        "valor": "8,35",
+        "valor": "8,25",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21331,7 +21331,7 @@
         "codigo": "6657",
         "nome": "Estâncias Metrópolis - Cartão Lindoia X Amparo",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "8,90",
+        "valor": "9,30",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -21339,7 +21339,7 @@
         "codigo": "6814",
         "nome": "Estâncias Metrópolis - Cartão Amparo X Monte Alegre do Sul",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -21371,7 +21371,7 @@
         "codigo": "6818",
         "nome": "Estâncias Metrópolis - Cartão Jaguariúna X Amparo",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "8,90",
+        "valor": "9,30",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -21379,7 +21379,7 @@
         "codigo": "6819",
         "nome": "Estâncias Metrópolis - Cartão Pedreira X Jaguariúna",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "7,35",
+        "valor": "7,70",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -21387,7 +21387,7 @@
         "codigo": "6820",
         "nome": "Estâncias Metrópolis - Cartão Amparo X Mostarda (Suburbano)",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "8,30",
+        "valor": "8,70",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -21395,7 +21395,7 @@
         "codigo": "6822",
         "nome": "Estâncias Metrópolis - Cartão Amparo X Ponte Preta",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "5,80",
+        "valor": "6,05",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -21411,7 +21411,7 @@
         "codigo": "9058",
         "nome": "Estâncias Metrópolis - Cartão Amparo X Pedreira",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "7,35",
+        "valor": "7,70",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -25242,7 +25242,7 @@
     {
         "codigo": "19778",
         "nome": "Vipe - Cartão São Caetano do Sul Municipal",
-        "fornecedor": "Vipe",
+        "fornecedor": "VIPE",
         "valor": "5,00",
         "uf": "SP",
         "cidade": "São Caetano do Sul"
