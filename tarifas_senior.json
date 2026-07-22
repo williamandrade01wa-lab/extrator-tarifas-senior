@@ -9488,6 +9488,14 @@
         "cidade": "Itaperuna"
     },
     {
+        "codigo": "19785",
+        "nome": "Viação Santa Lucia - Cartão Itaperuna X Lage do Muriaé",
+        "fornecedor": "Viação Santa Lucia",
+        "valor": "8,30",
+        "uf": "RJ",
+        "cidade": "Itaperuna"
+    },
+    {
         "codigo": "15491",
         "nome": "Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa A)",
         "fornecedor": "Viação Senhor do Bonfim - PIX",
@@ -25240,7 +25248,7 @@
         "cidade": "Laranjal Paulista"
     },
     {
-        "codigo": "19778",
+        "codigo": "19783",
         "nome": "Vipe - Cartão São Caetano do Sul Municipal",
         "fornecedor": "VIPE",
         "valor": "5,00",

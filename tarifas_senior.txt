@@ -1185,6 +1185,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15169;Viação Conecta - Cartão Municipal Paraíba do Sul;Viação Conecta;5,00;5;10;RJ;Paraíba do Sul;08/09/2025
 2169;Viação Itapetinga (Princesinha do Vale) - Cartão Municipal São Miguel de Resende;Viação Itapetinga Princesinha do Vale;4,40;5;10;RJ;Resende;06/06/2023
 9308;Viação Santa Lucia - Cartão Itaperuna Municipal;Viação Santa Lucia;5,00;5;10;RJ;Itaperuna;01/02/2024
+19785;Viação Santa Lucia - Cartão Itaperuna X Lage do Muriaé;Viação Santa Lucia;8,30;5;10;RJ;Itaperuna;21/07/2026
 15491;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa A);Viação Senhor do Bonfim - PIX;5,80;3;10;RJ;Angra dos Reis;09/03/2026
 15492;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa B);Viação Senhor do Bonfim - PIX;7,00;3;10;RJ;Angra dos Reis;09/03/2026
 15493;Viação Senhor do Bonfim - Cartão Municipal Angra dos Reis (Tarifa C);Viação Senhor do Bonfim - PIX;9,15;3;10;RJ;Angra dos Reis;09/03/2026
@@ -3154,7 +3155,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5714;Vicampe - Cartão Laranjal Paulista Municipal;Vicampe;4,50;5;10;SP;Laranjal Paulista;04/11/2022
 5892;Vicampe - Laranjal PTA Muni (0 a 24 creditos);Vicampe;4,50;5;10;SP;Laranjal Paulista;19/01/2023
 6033;Vicampe - LARANJAL PTA MUNI (A PARTIR DE 25 CRED.);Vicampe;4,30;5;10;SP;Laranjal Paulista;23/01/2023
-19778;Vipe - Cartão São Caetano do Sul Municipal;VIPE;5,00;5;10;SP;São Caetano do Sul;15/07/2026
+19783;Vipe - Cartão São Caetano do Sul Municipal;VIPE;5,00;5;10;SP;São Caetano do Sul;21/07/2026
 10173;Viva Pinda - Cartão Municipal Pindamonhangaba;Viva Pinda - Novo Sistema;4,50;5;10;SP;Pindamonhangaba;20/09/2023
 7575;West Side Louveira - Cartão Louveira Urbano (West Side);West Side Louveira;6,00;5;10;SP;Louveira;09/11/2023
 15661;Expresso Miracema - Cartão Municipal Luzimangues;Expresso Miracema;7,50;5;10;TO;Porto Nacional;30/12/2025
