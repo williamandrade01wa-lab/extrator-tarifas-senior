@@ -7019,7 +7019,7 @@
         "codigo": "5246",
         "nome": "Borborema - Cartão Escada X Recife",
         "fornecedor": "Borborema - Escada/Recife",
-        "valor": "20,00",
+        "valor": "22,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -7659,7 +7659,7 @@
         "codigo": "6099",
         "nome": "Cidade Verde - Cartão Maringá X Dr. Camargo",
         "fornecedor": "Cidade Verde",
-        "valor": "7,65",
+        "valor": "8,05",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -7667,7 +7667,7 @@
         "codigo": "9100",
         "nome": "Cidade Verde - Cartão Maringá X Ivatuba",
         "fornecedor": "Cidade Verde",
-        "valor": "6,50",
+        "valor": "8,05",
         "uf": "PR",
         "cidade": "Maringá"
     },
@@ -10952,6 +10952,14 @@
         "cidade": "Caxias do Sul"
     },
     {
+        "codigo": "19786",
+        "nome": "Ozelame - Cartão Caxias do Sul X Farroupilha (seletivo) (linha 122.1 / 123.0)",
+        "fornecedor": "Ozelame",
+        "valor": "13,40",
+        "uf": "RS",
+        "cidade": "Caxias do Sul"
+    },
+    {
         "codigo": "3132",
         "nome": "Panambiense - Cartão Panambi Intermunicipal",
         "fornecedor": "Panambiense",
@@ -13016,6 +13024,22 @@
         "cidade": "Gaspar"
     },
     {
+        "codigo": "19787",
+        "nome": "Expresso Presidente - Intermunicipal - Cartão Ilhota X Blumenau",
+        "fornecedor": "Expresso Presidente - Intermunicipal",
+        "valor": "13,00",
+        "uf": "SC",
+        "cidade": "Gaspar"
+    },
+    {
+        "codigo": "19788",
+        "nome": "Expresso Presidente - Intermunicipal - Cartão Ilhota X Gaspar",
+        "fornecedor": "Expresso Presidente - Intermunicipal",
+        "valor": "6,10",
+        "uf": "SC",
+        "cidade": "Gaspar"
+    },
+    {
         "codigo": "4721",
         "nome": "Forquilhinha - Cartão Criciúma X Forquilhinha (via Santa Cruz)",
         "fornecedor": "Forquilhinha",
@@ -13870,6 +13894,238 @@
         "valor": "4,50",
         "uf": "SE",
         "cidade": "Aracaju"
+    },
+    {
+        "codigo": "238",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista Urbano (Linhas 400 a 417)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "5,90",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "275",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí (Linha 601)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "9,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "276",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo X Várzea Paulista (Linha 201)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "7,25",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "277",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo X Jundiaí (Linhas 201,202,203)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "7,25",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "317",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Indaiatuba X Jundiaí (Linha 961)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "13,50",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "378",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Cajamar (Polvilho) X Jundiaí (Linha 301)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "12,10",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "735",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Jacaré do Bonfim X Jundiaí (Linha 803)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "10,05",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "763",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Várzea Paulista X Jundiaí (Linhas 101 a 109)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "7,70",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "765",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva (Cesp via cururu) X Jundiaí (Linha 802)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "10,70",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "766",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (Linha 701)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "8,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "767",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí via Traviú (Linha 703)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "9,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "1813",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista X Cajamar (Linha 205)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "8,80",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "2369",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí via Cajamar (Linha 602)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "9,50",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "2558",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí - via Independência (Linha 707)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "8,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "3312",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Cajamar (Jordanésia) X Jundiaí (Linha 302)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "9,00",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "4022",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Independencia) (Linha 804)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "10,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "4054",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Várzea Paulista Urbano (Linhas 01 a 06)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "4,99",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "4090",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva Urbano (Linhas 111 a 115)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "5,00",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "4127",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Indaiatuba X Itupeva (Linha 962)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "8,65",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "4264",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Rápido Luxo Campo Limpo",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "0,01",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "4577",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Integração X Campo Limpo Paulista",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "2,60",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "5082",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo X Franco da Rocha (Linha 207)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "9,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "5083",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Via Guacuri) (Linha 704)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "9,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "5085",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via vila Bom Jardim)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "8,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "6098",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via Chave) (Linha 702)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "8,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "10455",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva (Pinhal) X Jundiaí (Linha 801)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "10,70",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "10456",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Jundiaí X Outlet Premium (Linha 705)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "9,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "15130",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Botujuru X Jardim Paulista (Linha 208)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "7,95",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
+        "codigo": "19558",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Krupp X Vila Popular (Linha 209)",
+        "fornecedor": "133 Rápido Luxo - Campo Limpo",
+        "valor": "8,35",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
     },
     {
         "codigo": "1092",
@@ -19163,7 +19419,7 @@
         "codigo": "8729",
         "nome": "Jandaia - Presidente Prudente X Martinópolis",
         "fornecedor": "Jandaia",
-        "valor": "9,70",
+        "valor": "10,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -21043,7 +21299,7 @@
         "codigo": "6994",
         "nome": "Pevê Tur - Cartão São José do Rio Preto X Bady Bassit (Linha 9391)",
         "fornecedor": "Pevê Tur",
-        "valor": "8,25",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -21299,7 +21555,7 @@
         "codigo": "788",
         "nome": "Rápido Fênix - Cartão Itatiba X Jundiaí (nominal)",
         "fornecedor": "Rápido Fênix",
-        "valor": "9,65",
+        "valor": "10,10",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -21422,238 +21678,6 @@
         "valor": "7,70",
         "uf": "SP",
         "cidade": "Itatiba"
-    },
-    {
-        "codigo": "238",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista Urbano (Linhas 400 a 417)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "5,90",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "275",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí (Linha 601)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "9,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "276",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo X Várzea Paulista (Linha 201)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,25",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "277",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo X Jundiaí (Linhas 201,202,203)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,25",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "317",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Indaiatuba X Jundiaí (Linha 961)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "13,50",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "378",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Cajamar (Polvilho) X Jundiaí (Linha 301)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "12,10",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "735",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Jacaré do Bonfim X Jundiaí (Linha 803)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "10,05",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "763",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Várzea Paulista X Jundiaí (Linhas 101 a 109)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,70",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "765",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva (Cesp via cururu) X Jundiaí (Linha 802)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "10,70",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "766",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (Linha 701)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "767",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí via Traviú (Linha 703)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "9,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "1813",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista X Cajamar (Linha 205)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,80",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "2369",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí via Cajamar (Linha 602)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "9,50",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "2558",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí - via Independência (Linha 707)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "3312",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Cajamar (Jordanésia) X Jundiaí (Linha 302)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "9,00",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "4022",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Independencia) (Linha 804)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "10,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "4054",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Várzea Paulista Urbano (Linhas 01 a 06)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "4,99",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "4090",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva Urbano (Linhas 111 a 115)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "5,00",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "4127",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Indaiatuba X Itupeva (Linha 962)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,65",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "4264",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Rápido Luxo Campo Limpo",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "0,01",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "4577",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Integração X Campo Limpo Paulista",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "2,60",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "5082",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Campo Limpo X Franco da Rocha (Linha 207)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "9,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "5083",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Via Guacuri) (Linha 704)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "9,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "5085",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via vila Bom Jardim)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "6098",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via Chave) (Linha 702)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "10455",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Cabreúva (Pinhal) X Jundiaí (Linha 801)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "10,70",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "10456",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Jundiaí X Outlet Premium (Linha 705)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "9,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "15130",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Botujuru X Jardim Paulista (Linha 208)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "7,95",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
-    },
-    {
-        "codigo": "19558",
-        "nome": "Rápido Luxo Campo Limpo - Cartão Krupp X Vila Popular (Linha 209)",
-        "fornecedor": "Rápido Luxo - Campo Limpo",
-        "valor": "8,35",
-        "uf": "SP",
-        "cidade": "Campo Limpo Paulista"
     },
     {
         "codigo": "10481",
@@ -22083,7 +22107,7 @@
         "codigo": "8614",
         "nome": "Sou - Mogi - Cartão Mogi Mirim X Mogi Guaçu",
         "fornecedor": "Sou - Mogi",
-        "valor": "7,57",
+        "valor": "7,93",
         "uf": "SP",
         "cidade": "Mogi Guaçu"
     },
@@ -22091,7 +22115,7 @@
         "codigo": "8615",
         "nome": "Sou - Mogi - Cartão Mogi Guaçu X Estiva Gerbi",
         "fornecedor": "Sou - Mogi",
-        "valor": "7,57",
+        "valor": "7,93",
         "uf": "SP",
         "cidade": "Mogi Guaçu"
     },
@@ -23835,7 +23859,7 @@
         "codigo": "3405",
         "nome": "Viação Paraty - Cartão Araraquara X São Carlos",
         "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "11,55",
+        "valor": "12,10",
         "uf": "SP",
         "cidade": "Araraquara"
     },
@@ -23851,7 +23875,7 @@
         "codigo": "3407",
         "nome": "Viação Paraty - Cartão Matão Municipal",
         "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "2,80",
+        "valor": "5,60",
         "uf": "SP",
         "cidade": "Araraquara"
     },
@@ -23867,7 +23891,7 @@
         "codigo": "3412",
         "nome": "Viação Paraty - Cartão Matão X Taquaritinga (Suburbana)",
         "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "10,25",
+        "valor": "10,75",
         "uf": "SP",
         "cidade": "Araraquara"
     },
@@ -23875,7 +23899,7 @@
         "codigo": "3414",
         "nome": "Viação Paraty - Cartão São Carlos X Ibaté (Suburbano)",
         "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "Araraquara"
     },
@@ -23891,7 +23915,7 @@
         "codigo": "3416",
         "nome": "Viação Paraty - Cartão Rincão X Araraquara",
         "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "Araraquara"
     },
@@ -23899,7 +23923,7 @@
         "codigo": "3419",
         "nome": "Viação Paraty - Cartão Itirapina X São Carlos",
         "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "11,10",
+        "valor": "11,45",
         "uf": "SP",
         "cidade": "Araraquara"
     },
@@ -23907,7 +23931,7 @@
         "codigo": "5172",
         "nome": "Viação Paraty - Cartão Guariba X Jaboticabal",
         "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "Araraquara"
     },
@@ -23915,7 +23939,7 @@
         "codigo": "15342",
         "nome": "Viação Paraty - Cartão Santa Lucia X Araraquara",
         "fornecedor": "Viação Paraty - Intermunicipal",
-        "valor": "8,25",
+        "valor": "8,65",
         "uf": "SP",
         "cidade": "Araraquara"
     },

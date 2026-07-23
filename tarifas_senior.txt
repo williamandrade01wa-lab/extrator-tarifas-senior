@@ -876,7 +876,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5245;Borborema - Cartão Escada X Fontes dos Carvalhos;Borborema - Escada/Fontes dos Carvalhos;15,00;5;10;PE;Recife;20/02/2026
 9825;Borborema - Cartão Escada X Frexeiras;Borborema - Escada/Frexeiras;8,00;5;10;PE;Recife;20/02/2026
 7536;Borborema - Cartão Escada X Primavera (Linha 1313);Borborema - Escada/Primavera (Linha 1313);8,00;5;10;PE;Recife;01/07/2025
-5246;Borborema - Cartão Escada X Recife;Borborema - Escada/Recife;20,00;5;10;PE;Recife;20/02/2026
+5246;Borborema - Cartão Escada X Recife;Borborema - Escada/Recife;22,00;5;10;PE;Recife;22/07/2026
 9809;Borborema - Cartão Escada X Timboassú;Borborema - Escada/Timboassú;8,00;5;10;PE;Recife;20/02/2026
 9824;Borborema - Cartão Frexeiras X Aripibú;Borborema - Frexeiras/Aripibú;10,00;5;10;PE;Recife;03/10/2024
 9826;Borborema - Cartão Frexeiras X Frexeiras;Borborema - Frexeiras/Frexeiras;6,00;5;10;PE;Recife;20/02/2026
@@ -956,8 +956,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2279;Cidade Verde - Cartão Urbano Sarandi;Cidade Verde;6,50;5;10;PR;Maringá;15/07/2026
 2280;Cidade Verde - Cartão Urbano Paiçandu;Cidade Verde;6,50;5;10;PR;Maringá;15/07/2026
 4763;Cidade Verde - Cartão Itambé X Floresta;Cidade Verde;6,50;5;10;PR;Maringá;15/07/2026
-6099;Cidade Verde - Cartão Maringá X Dr. Camargo;Cidade Verde;7,65;5;10;PR;Maringá;18/02/2026
-9100;Cidade Verde - Cartão Maringá X Ivatuba;Cidade Verde;6,50;5;10;PR;Maringá;15/07/2026
+6099;Cidade Verde - Cartão Maringá X Dr. Camargo;Cidade Verde;8,05;5;10;PR;Maringá;22/07/2026
+9100;Cidade Verde - Cartão Maringá X Ivatuba;Cidade Verde;8,05;5;10;PR;Maringá;22/07/2026
 15388;Cidade Verde - Cartão Maringá X Floresta;Cidade Verde;6,90;5;10;PR;Maringá;06/07/2026
 6681;Consorcio Tupa - Cartão Urbano Pato Branco;Consorcio Tupa;5,00;5;10;PR;Pato Branco;01/04/2025
 15989;Expresso Azul - Pinhais - Cartão Pinhais X Campo Comprido;Expresso Azul - Pinhais;5,90;5;10;PR;Pinhais;17/06/2026
@@ -1368,6 +1368,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5886;Ozelame - Farroupilha X Olaria;Ozelame;9,25;5;10;RS;Caxias do Sul;06/07/2026
 8891;Ozelame - Cartão Ozelame;Ozelame;0,01;5;10;RS;Caxias do Sul;01/01/2000
 10840;Ozelame - Cartão Bento X Caxias (semi-direto);Ozelame;24,30;5;10;RS;Caxias do Sul;06/07/2026
+19786;Ozelame - Cartão Caxias do Sul X Farroupilha (seletivo) (linha 122.1 / 123.0);Ozelame;13,40;5;10;RS;Caxias do Sul;22/07/2026
 3132;Panambiense - Cartão Panambi Intermunicipal;Panambiense;7,45;5;10;RS;Panambi;27/04/2026
 3133;Panambiense - Cartão Panambi Municipal;Panambiense;6,82;5;10;RS;Panambi;12/06/2025
 19619;Prati - Capão do Leão - Cartão Pelotas X Capão do Leão;Prati - Capão do Leão;8,00;5;10;RS;Pelotas;06/07/2026
@@ -1626,6 +1627,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6893;Expresso Presidente (Timbó) - Cartão Timbó Municipal;Expresso Presidente (Timbó);4,00;5;10;SC;Timbó;01/01/2017
 9469;Expresso Presidente - (Gaspar) - Cartão Municipal Gaspar;Expresso Presidente - (Gaspar);4,80;5;10;SC;Presidente Getúlio;30/12/2022
 15964;Expresso Presidente - Intermunicipal - Cartão Poço Grande X Blumenau;Expresso Presidente - Intermunicipal;11,10;5;10;SC;Gaspar;06/07/2026
+19787;Expresso Presidente - Intermunicipal - Cartão Ilhota X Blumenau;Expresso Presidente - Intermunicipal;13,00;5;10;SC;Gaspar;22/07/2026
+19788;Expresso Presidente - Intermunicipal - Cartão Ilhota X Gaspar;Expresso Presidente - Intermunicipal;6,10;5;10;SC;Gaspar;22/07/2026
 4721;Forquilhinha - Cartão Criciúma X Forquilhinha (via Santa Cruz);Forquilhinha;5,15;5;10;SC;Criciúma;28/07/2023
 9372;Hodierna - Cartão Municipal Concórdia;Hodierna;1,50;5;10;SC;Concórdia;05/05/2025
 5749;Lagunatur - Cartão Laguna Municipal;Lagunatur;6,00;5;10;SC;Laguna;06/01/2025
@@ -1733,6 +1736,35 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7429;Coopertalse - Cartão Aracaju X Divina Pastora;Coopertalse;10,30;5;10;SE;Aracajú;28/04/2025
 7430;Coopertalse - Cartão Aracaju X Santa Rosa De Lima;Coopertalse;10,30;5;10;SE;Aracajú;28/04/2025
 19427;Pagowaju - Cartão Municipal Aracaju;Pagowaju;4,50;5;10;SE;Aracaju;10/12/2025
+238;Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista Urbano (Linhas 400 a 417);133 Rápido Luxo - Campo Limpo;5,90;5;10;SP;Campo Limpo Paulista;22/03/2024
+275;Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí (Linha 601);133 Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+276;Rápido Luxo Campo Limpo - Cartão Campo Limpo X Várzea Paulista (Linha 201);133 Rápido Luxo - Campo Limpo;7,25;5;10;SP;Campo Limpo Paulista;15/07/2026
+277;Rápido Luxo Campo Limpo - Cartão Campo Limpo X Jundiaí (Linhas 201,202,203);133 Rápido Luxo - Campo Limpo;7,25;5;10;SP;Campo Limpo Paulista;15/07/2026
+317;Rápido Luxo Campo Limpo - Cartão Indaiatuba X Jundiaí (Linha 961);133 Rápido Luxo - Campo Limpo;13,50;5;10;SP;Campo Limpo Paulista;15/07/2026
+378;Rápido Luxo Campo Limpo - Cartão Cajamar (Polvilho) X Jundiaí (Linha 301);133 Rápido Luxo - Campo Limpo;12,10;5;10;SP;Campo Limpo Paulista;15/07/2026
+735;Rápido Luxo Campo Limpo - Cartão Jacaré do Bonfim X Jundiaí (Linha 803);133 Rápido Luxo - Campo Limpo;10,05;5;10;SP;Campo Limpo Paulista;15/07/2026
+763;Rápido Luxo Campo Limpo - Cartão Várzea Paulista X Jundiaí (Linhas 101 a 109);133 Rápido Luxo - Campo Limpo;7,70;5;10;SP;Campo Limpo Paulista;15/07/2026
+765;Rápido Luxo Campo Limpo - Cartão Cabreúva (Cesp via cururu) X Jundiaí (Linha 802);133 Rápido Luxo - Campo Limpo;10,70;5;10;SP;Campo Limpo Paulista;15/07/2026
+766;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (Linha 701);133 Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+767;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí via Traviú (Linha 703);133 Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+1813;Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista X Cajamar (Linha 205);133 Rápido Luxo - Campo Limpo;8,80;5;10;SP;Campo Limpo Paulista;15/07/2026
+2369;Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí via Cajamar (Linha 602);133 Rápido Luxo - Campo Limpo;9,50;5;10;SP;Campo Limpo Paulista;15/07/2026
+2558;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí - via Independência (Linha 707);133 Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+3312;Rápido Luxo Campo Limpo - Cartão Cajamar (Jordanésia) X Jundiaí (Linha 302);133 Rápido Luxo - Campo Limpo;9,00;5;10;SP;Campo Limpo Paulista;15/07/2026
+4022;Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Independencia) (Linha 804);133 Rápido Luxo - Campo Limpo;10,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+4054;Rápido Luxo Campo Limpo - Cartão Várzea Paulista Urbano (Linhas 01 a 06);133 Rápido Luxo - Campo Limpo;4,99;5;10;SP;Campo Limpo Paulista;08/09/2025
+4090;Rápido Luxo Campo Limpo - Cartão Cabreúva Urbano (Linhas 111 a 115);133 Rápido Luxo - Campo Limpo;5,00;5;10;SP;Campo Limpo Paulista;06/01/2020
+4127;Rápido Luxo Campo Limpo - Cartão Indaiatuba X Itupeva (Linha 962);133 Rápido Luxo - Campo Limpo;8,65;5;10;SP;Campo Limpo Paulista;15/07/2026
+4264;Rápido Luxo Campo Limpo - Cartão Rápido Luxo Campo Limpo;133 Rápido Luxo - Campo Limpo;0,01;5;10;SP;Campo Limpo Paulista;01/01/2000
+4577;Rápido Luxo Campo Limpo - Cartão Integração X Campo Limpo Paulista;133 Rápido Luxo - Campo Limpo;2,60;5;10;SP;Campo Limpo Paulista;15/07/2026
+5082;Rápido Luxo Campo Limpo - Cartão Campo Limpo X Franco da Rocha (Linha 207);133 Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+5083;Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Via Guacuri) (Linha 704);133 Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+5085;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via vila Bom Jardim);133 Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+6098;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via Chave) (Linha 702);133 Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+10455;Rápido Luxo Campo Limpo - Cartão Cabreúva (Pinhal) X Jundiaí (Linha 801);133 Rápido Luxo - Campo Limpo;10,70;5;10;SP;Campo Limpo Paulista;15/07/2026
+10456;Rápido Luxo Campo Limpo - Cartão Jundiaí X Outlet Premium (Linha 705);133 Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+15130;Rápido Luxo Campo Limpo - Cartão Botujuru X Jardim Paulista (Linha 208);133 Rápido Luxo - Campo Limpo;7,95;5;10;SP;Campo Limpo Paulista;15/07/2026
+19558;Rápido Luxo Campo Limpo - Cartão Krupp X Vila Popular (Linha 209);133 Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
 1092;ABC Caçapava - Cartão Caçapava Urbano;ABC Caçapava;4,75;5;10;SP;Caçapava;15/07/2019
 7350;ABC Caçapava - Integração;ABC Caçapava;1,45;5;10;SP;Caçapava;10/07/2019
 213;ABC Transportes - Cartão Taubaté Municipal;ABC Transportes;4,70;5;10;SP;Taubaté;08/03/2022
@@ -2394,7 +2426,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8717;Jandaia - Cartão Regente X Taciba;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
 8718;Jandaia - Cartão Indiana X Presidente Prudente;Jandaia;10,00;5;10;SP;Presidente Prudente;06/07/2026
 8728;Jandaia - Regente Feijó/Anhumas X Presidente Prudente;Jandaia;7,60;5;10;SP;Presidente Prudente;06/07/2026
-8729;Jandaia - Presidente Prudente X Martinópolis;Jandaia;9,70;5;10;SP;Presidente Prudente;03/07/2025
+8729;Jandaia - Presidente Prudente X Martinópolis;Jandaia;10,00;5;10;SP;Presidente Prudente;22/07/2026
 8824;Jandaia - Jandaia de Pirapozinho X Presidente Prudente;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
 8825;Jandaia - Presidente Prudente X Taciba;Jandaia;10,75;5;10;SP;Presidente Prudente;06/07/2026
 8826;Jandaia - Presidente Prudente X Presidente Bernardes;Jandaia;9,00;5;10;SP;Presidente Prudente;06/07/2026
@@ -2629,7 +2661,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6991;Pevê Tur - Cartão São José do Rio Preto X Nova Aliança;Pevê Tur;9,35;5;10;SP;São José do Rio Preto;15/07/2026
 6992;Pevê Tur - Cartão São José do Rio Preto X Nova Itapirema;Pevê Tur;10,75;5;10;SP;São José do Rio Preto;16/07/2026
 6993;Pevê Tur - Cartão São José do Rio Preto X Sales;Pevê Tur;22,10;5;10;SP;São José do Rio Preto;16/07/2026
-6994;Pevê Tur - Cartão São José do Rio Preto X Bady Bassit (Linha 9391);Pevê Tur;8,25;5;10;SP;São José do Rio Preto;20/07/2026
+6994;Pevê Tur - Cartão São José do Rio Preto X Bady Bassit (Linha 9391);Pevê Tur;8,35;5;10;SP;São José do Rio Preto;22/07/2026
 6995;Pevê Tur - Cartão São José do Rio Preto X Ipiguá;Pevê Tur;7,60;5;10;SP;São José do Rio Preto;16/07/2026
 6996;Pevê Tur - Cartão Ubarana X Adolfo;Pevê Tur;14,85;5;10;SP;São José do Rio Preto;16/07/2026
 6997;Pevê Tur - Cartão Ubarana X José Bonifácio;Pevê Tur;7,25;5;10;SP;São José do Rio Preto;16/07/2026
@@ -2661,7 +2693,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9727;Rápido D Oeste - Cartão Ribeirão Preto X Cravinhos;Rápido D Oeste;8,65;5;10;SP;Ribeirão Preto;15/07/2026
 9901;Rápido D Oeste - Cartão Pontal X Candia;Rápido D Oeste;9,40;5;10;SP;Ribeirão Preto;15/07/2026
 730;Rápido Fênix - Cartão Itatiba X Bragança (nominal);Rápido Fênix;14,90;5;10;SP;Itatiba;18/06/2026
-788;Rápido Fênix - Cartão Itatiba X Jundiaí (nominal);Rápido Fênix;9,65;5;10;SP;Itatiba;07/07/2025
+788;Rápido Fênix - Cartão Itatiba X Jundiaí (nominal);Rápido Fênix;10,10;5;10;SP;Itatiba;22/07/2026
 4149;Rápido Fênix - Cartão Bragança Paulista X São Sebastião (nominal);Rápido Fênix;10,40;5;10;SP;Itatiba;07/07/2025
 5118;Rápido Fênix - Cartão Itatiba X Atibaia (nominal);Rápido Fênix;13,10;5;10;SP;Itatiba;07/07/2025
 9249;Rápido Fênix - Cartão Faz.Sta.Adelaide X Bragança Paulista;Rápido Fênix;7,40;5;10;SP;Itatiba;07/07/2025
@@ -2677,35 +2709,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6822;Estâncias Metrópolis - Cartão Amparo X Ponte Preta;Rápido Fênix - Estâncias Metrópolis;6,05;5;10;SP;Itatiba;20/07/2026
 6921;Estâncias Metrópolis - Cartão Serra Negra X Lindoia;Rápido Fênix - Estâncias Metrópolis;6,90;5;10;SP;Itatiba;15/07/2026
 9058;Estâncias Metrópolis - Cartão Amparo X Pedreira;Rápido Fênix - Estâncias Metrópolis;7,70;5;10;SP;Itatiba;20/07/2026
-238;Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista Urbano (Linhas 400 a 417);Rápido Luxo - Campo Limpo;5,90;5;10;SP;Campo Limpo Paulista;22/03/2024
-275;Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí (Linha 601);Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-276;Rápido Luxo Campo Limpo - Cartão Campo Limpo X Várzea Paulista (Linha 201);Rápido Luxo - Campo Limpo;7,25;5;10;SP;Campo Limpo Paulista;15/07/2026
-277;Rápido Luxo Campo Limpo - Cartão Campo Limpo X Jundiaí (Linhas 201,202,203);Rápido Luxo - Campo Limpo;7,25;5;10;SP;Campo Limpo Paulista;15/07/2026
-317;Rápido Luxo Campo Limpo - Cartão Indaiatuba X Jundiaí (Linha 961);Rápido Luxo - Campo Limpo;13,50;5;10;SP;Campo Limpo Paulista;15/07/2026
-378;Rápido Luxo Campo Limpo - Cartão Cajamar (Polvilho) X Jundiaí (Linha 301);Rápido Luxo - Campo Limpo;12,10;5;10;SP;Campo Limpo Paulista;15/07/2026
-735;Rápido Luxo Campo Limpo - Cartão Jacaré do Bonfim X Jundiaí (Linha 803);Rápido Luxo - Campo Limpo;10,05;5;10;SP;Campo Limpo Paulista;15/07/2026
-763;Rápido Luxo Campo Limpo - Cartão Várzea Paulista X Jundiaí (Linhas 101 a 109);Rápido Luxo - Campo Limpo;7,70;5;10;SP;Campo Limpo Paulista;15/07/2026
-765;Rápido Luxo Campo Limpo - Cartão Cabreúva (Cesp via cururu) X Jundiaí (Linha 802);Rápido Luxo - Campo Limpo;10,70;5;10;SP;Campo Limpo Paulista;15/07/2026
-766;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (Linha 701);Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-767;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí via Traviú (Linha 703);Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-1813;Rápido Luxo Campo Limpo - Cartão Campo Limpo Paulista X Cajamar (Linha 205);Rápido Luxo - Campo Limpo;8,80;5;10;SP;Campo Limpo Paulista;15/07/2026
-2369;Rápido Luxo Campo Limpo - Cartão Franco da Rocha X Jundiaí via Cajamar (Linha 602);Rápido Luxo - Campo Limpo;9,50;5;10;SP;Campo Limpo Paulista;15/07/2026
-2558;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí - via Independência (Linha 707);Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-3312;Rápido Luxo Campo Limpo - Cartão Cajamar (Jordanésia) X Jundiaí (Linha 302);Rápido Luxo - Campo Limpo;9,00;5;10;SP;Campo Limpo Paulista;15/07/2026
-4022;Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Independencia) (Linha 804);Rápido Luxo - Campo Limpo;10,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-4054;Rápido Luxo Campo Limpo - Cartão Várzea Paulista Urbano (Linhas 01 a 06);Rápido Luxo - Campo Limpo;4,99;5;10;SP;Campo Limpo Paulista;08/09/2025
-4090;Rápido Luxo Campo Limpo - Cartão Cabreúva Urbano (Linhas 111 a 115);Rápido Luxo - Campo Limpo;5,00;5;10;SP;Campo Limpo Paulista;06/01/2020
-4127;Rápido Luxo Campo Limpo - Cartão Indaiatuba X Itupeva (Linha 962);Rápido Luxo - Campo Limpo;8,65;5;10;SP;Campo Limpo Paulista;15/07/2026
-4264;Rápido Luxo Campo Limpo - Cartão Rápido Luxo Campo Limpo;Rápido Luxo - Campo Limpo;0,01;5;10;SP;Campo Limpo Paulista;01/01/2000
-4577;Rápido Luxo Campo Limpo - Cartão Integração X Campo Limpo Paulista;Rápido Luxo - Campo Limpo;2,60;5;10;SP;Campo Limpo Paulista;15/07/2026
-5082;Rápido Luxo Campo Limpo - Cartão Campo Limpo X Franco da Rocha (Linha 207);Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-5083;Rápido Luxo Campo Limpo - Cartão Cabreúva X Itupeva (Via Guacuri) (Linha 704);Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-5085;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via vila Bom Jardim);Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-6098;Rápido Luxo Campo Limpo - Cartão Itupeva X Jundiaí (via Chave) (Linha 702);Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-10455;Rápido Luxo Campo Limpo - Cartão Cabreúva (Pinhal) X Jundiaí (Linha 801);Rápido Luxo - Campo Limpo;10,70;5;10;SP;Campo Limpo Paulista;15/07/2026
-10456;Rápido Luxo Campo Limpo - Cartão Jundiaí X Outlet Premium (Linha 705);Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
-15130;Rápido Luxo Campo Limpo - Cartão Botujuru X Jardim Paulista (Linha 208);Rápido Luxo - Campo Limpo;7,95;5;10;SP;Campo Limpo Paulista;15/07/2026
-19558;Rápido Luxo Campo Limpo - Cartão Krupp X Vila Popular (Linha 209);Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
 10481;Rápido Luxo Sorocaba - Cartão Itu X Sorocaba;Rápido Luxo - Sorocaba;8,40;5;10;SP;Sorocaba;07/01/2026
 10482;Rápido Luxo Sorocaba - Cartão Salto X Sorocaba;Rápido Luxo - Sorocaba;10,45;5;10;SP;Sorocaba;05/02/2025
 10483;Rápido Luxo Sorocaba - Cartão Iperó X Sorocaba;Rápido Luxo - Sorocaba;8,20;5;10;SP;Sorocaba;07/01/2026
@@ -2759,8 +2762,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3068;Sou - Jarinu - Cartão Municipal Jarinu;Sou - Jarinu;3,75;5;10;SP;Jarinu;01/01/2017
 10468;Sou Limeira - Cartão Limeira Urbano;Sou - Limeira;5,70;5;10;SP;Limeira;02/01/2026
 6115;Sou - Mogi Mirim - Cartão Municipal Mogi Mirim;Sou - Mogi;6,00;5;10;SP;Mogi Guaçu;15/09/2025
-8614;Sou - Mogi - Cartão Mogi Mirim X Mogi Guaçu;Sou - Mogi;7,57;5;10;SP;Mogi Guaçu;07/07/2025
-8615;Sou - Mogi - Cartão Mogi Guaçu X Estiva Gerbi;Sou - Mogi;7,57;5;10;SP;Mogi Guaçu;07/07/2025
+8614;Sou - Mogi - Cartão Mogi Mirim X Mogi Guaçu;Sou - Mogi;7,93;5;10;SP;Mogi Guaçu;22/07/2026
+8615;Sou - Mogi - Cartão Mogi Guaçu X Estiva Gerbi;Sou - Mogi;7,93;5;10;SP;Mogi Guaçu;22/07/2026
 9083;Sou - Mogi Guaçu - Cartão Municipal Mogi Guaçu;Sou - Mogi;5,30;5;10;SP;Mogi Guaçu;19/10/2021
 5505;Sou - Peruíbe - Cartão Municipal Peruíbe;Sou - Peruíbe;4,75;5;10;SP;Peruibe;10/06/2026
 10419;Sou Presidente Prudente - Cartão Presidente Prudente Municipal;Sou - Presidente Prudente;5,00;5;10;SP;Presidente Prudente;09/10/2023
@@ -2978,17 +2981,17 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6633;Viação M M Souza - (Urbano) - Cartão Urbano de Capivari;Viação M M Souza - (Urbano);5,00;5;10;SP;Capivari;05/10/2023
 715;Viação Nardelli - Cartão Salto Municipal;Viação Nardelli - Sancetur;4,20;5;10;SP;Salto;16/08/2021
 9267;Viação Paraty (Jaboticabal) - Cartão Municipal Jaboticabal;Viação Paraty (Jaboticabal);3,40;5;10;SP;Araraquara;03/03/2022
-3405;Viação Paraty - Cartão Araraquara X São Carlos;Viação Paraty - Intermunicipal;11,55;5;10;SP;Araraquara;03/07/2025
+3405;Viação Paraty - Cartão Araraquara X São Carlos;Viação Paraty - Intermunicipal;12,10;5;10;SP;Araraquara;22/07/2026
 3406;Viação Paraty - Cartão Matão X Araraquara;Viação Paraty - Intermunicipal;10,55;5;10;SP;Araraquara;01/07/2025
-3407;Viação Paraty - Cartão Matão Municipal;Viação Paraty - Intermunicipal;2,80;5;10;SP;Araraquara;01/07/2026
+3407;Viação Paraty - Cartão Matão Municipal;Viação Paraty - Intermunicipal;5,60;5;10;SP;Araraquara;22/07/2026
 3410;Viação Paraty - Cartão Matão (Dobrada) X Santa Ernestina;Viação Paraty - Intermunicipal;6,60;5;10;SP;Araraquara;01/07/2025
-3412;Viação Paraty - Cartão Matão X Taquaritinga (Suburbana);Viação Paraty - Intermunicipal;10,25;5;10;SP;Araraquara;01/07/2025
-3414;Viação Paraty - Cartão São Carlos X Ibaté (Suburbano);Viação Paraty - Intermunicipal;7,25;5;10;SP;Araraquara;03/07/2025
+3412;Viação Paraty - Cartão Matão X Taquaritinga (Suburbana);Viação Paraty - Intermunicipal;10,75;5;10;SP;Araraquara;22/07/2026
+3414;Viação Paraty - Cartão São Carlos X Ibaté (Suburbano);Viação Paraty - Intermunicipal;7,60;5;10;SP;Araraquara;22/07/2026
 3415;Viação Paraty - Cartão Américo Brasiliense Urbano;Viação Paraty - Intermunicipal;5,35;5;10;SP;Araraquara;04/02/2026
-3416;Viação Paraty - Cartão Rincão X Araraquara;Viação Paraty - Intermunicipal;8,25;5;10;SP;Araraquara;01/07/2025
-3419;Viação Paraty - Cartão Itirapina X São Carlos;Viação Paraty - Intermunicipal;11,10;5;10;SP;Araraquara;03/07/2025
-5172;Viação Paraty - Cartão Guariba X Jaboticabal;Viação Paraty - Intermunicipal;8,25;5;10;SP;Araraquara;01/07/2025
-15342;Viação Paraty - Cartão Santa Lucia X Araraquara;Viação Paraty - Intermunicipal;8,25;5;10;SP;Araraquara;01/07/2025
+3416;Viação Paraty - Cartão Rincão X Araraquara;Viação Paraty - Intermunicipal;8,65;5;10;SP;Araraquara;22/07/2026
+3419;Viação Paraty - Cartão Itirapina X São Carlos;Viação Paraty - Intermunicipal;11,45;5;10;SP;Araraquara;22/07/2026
+5172;Viação Paraty - Cartão Guariba X Jaboticabal;Viação Paraty - Intermunicipal;8,65;5;10;SP;Araraquara;22/07/2026
+15342;Viação Paraty - Cartão Santa Lucia X Araraquara;Viação Paraty - Intermunicipal;8,65;5;10;SP;Araraquara;22/07/2026
 717;Viação Paraty Municipal - Cartão Novo Card Araraquara Municipal;Viação Paraty - Municipal Novo Sistema;5,25;5;10;SP;Araraquara;12/02/2026
 263;Viação Piracicabana - Cartão Piracicabana - Metropolitano;Viação Piracicabana;0,01;5;10;SP;São Vicente;26/07/2019
 800;Viação Piracicabana - Cartão Piracicabana Tarifa 2 - Integração;Viação Piracicabana;3,95;5;10;SP;São Vicente;20/02/2022
