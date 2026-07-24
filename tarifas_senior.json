@@ -13040,6 +13040,14 @@
         "cidade": "Gaspar"
     },
     {
+        "codigo": "19789",
+        "nome": "Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau",
+        "fornecedor": "Expresso Presidente - Intermunicipal",
+        "valor": "7,30",
+        "uf": "SC",
+        "cidade": "Gaspar"
+    },
+    {
         "codigo": "4721",
         "nome": "Forquilhinha - Cartão Criciúma X Forquilhinha (via Santa Cruz)",
         "fornecedor": "Forquilhinha",
@@ -13291,7 +13299,7 @@
         "codigo": "8697",
         "nome": "Setuf - Cartão Biguaçu (Patamar I)",
         "fornecedor": "Setuf - (Biguaçu)",
-        "valor": "6,23",
+        "valor": "6,66",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13299,7 +13307,7 @@
         "codigo": "8698",
         "nome": "Setuf - Cartão Biguaçu (Patamar II)",
         "fornecedor": "Setuf - (Biguaçu)",
-        "valor": "6,77",
+        "valor": "7,24",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13307,7 +13315,7 @@
         "codigo": "8699",
         "nome": "Setuf - Cartão Biguaçu (Patamar IV)",
         "fornecedor": "Setuf - (Biguaçu)",
-        "valor": "9,45",
+        "valor": "10,10",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13315,7 +13323,7 @@
         "codigo": "8700",
         "nome": "Setuf - Cartão Biguaçu (Patamar IX)",
         "fornecedor": "Setuf - (Biguaçu)",
-        "valor": "11,41",
+        "valor": "12,18",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13323,7 +13331,7 @@
         "codigo": "8701",
         "nome": "Setuf - Cartão Biguaçu (Patamar V)",
         "fornecedor": "Setuf - (Biguaçu)",
-        "valor": "9,57",
+        "valor": "10,23",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13331,7 +13339,7 @@
         "codigo": "8702",
         "nome": "Setuf - Cartão Biguaçu (Patamar VII)",
         "fornecedor": "Setuf - (Biguaçu)",
-        "valor": "11,25",
+        "valor": "12,02",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13339,7 +13347,7 @@
         "codigo": "8703",
         "nome": "Setuf - Cartão Biguaçu (Patamar VIII)",
         "fornecedor": "Setuf - (Biguaçu)",
-        "valor": "11,31",
+        "valor": "12,08",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13347,7 +13355,7 @@
         "codigo": "8704",
         "nome": "Setuf - Cartão Biguaçu (Patamar III)",
         "fornecedor": "Setuf - (Biguaçu)",
-        "valor": "6,91",
+        "valor": "7,38",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13363,7 +13371,7 @@
         "codigo": "19419",
         "nome": "Setuf - Cartão Biguaçu (Patamar VI)",
         "fornecedor": "Setuf - (Biguaçu)",
-        "valor": "11,17",
+        "valor": "11,94",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13387,7 +13395,7 @@
         "codigo": "10662",
         "nome": "Setuf - Cartão Estrela (Patamar II) Municipal São José",
         "fornecedor": "Setuf - (Estrela)",
-        "valor": "6,50",
+        "valor": "6,90",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13403,7 +13411,7 @@
         "codigo": "10664",
         "nome": "Setuf - Cartão Estrela (Patamar I)",
         "fornecedor": "Setuf - (Estrela)",
-        "valor": "6,23",
+        "valor": "6,66",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13411,7 +13419,7 @@
         "codigo": "10665",
         "nome": "Setuf - Cartão Estrela (Patamar II)",
         "fornecedor": "Setuf - (Estrela)",
-        "valor": "6,77",
+        "valor": "7,24",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13419,7 +13427,7 @@
         "codigo": "10666",
         "nome": "Setuf - Cartão Estrela (Patamar V)",
         "fornecedor": "Setuf - (Estrela)",
-        "valor": "9,57",
+        "valor": "10,23",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13435,7 +13443,7 @@
         "codigo": "19590",
         "nome": "Setuf - Cartão Estrela (Executivo Zenaide/Barreiros Vip) (Linha 131.1)",
         "fornecedor": "Setuf - (Estrela)",
-        "valor": "13,56",
+        "valor": "14,47",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13451,7 +13459,7 @@
         "codigo": "8982",
         "nome": "Setuf - Cartão Jotur (Patamar I)",
         "fornecedor": "Setuf - (Jotur)",
-        "valor": "6,23",
+        "valor": "6,66",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13459,7 +13467,7 @@
         "codigo": "8983",
         "nome": "Setuf - Cartão Jotur (Patamar II)",
         "fornecedor": "Setuf - (Jotur)",
-        "valor": "6,77",
+        "valor": "7,24",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13467,7 +13475,7 @@
         "codigo": "8984",
         "nome": "Setuf - Cartão Jotur (Patamar IV)",
         "fornecedor": "Setuf - (Jotur)",
-        "valor": "9,45",
+        "valor": "10,10",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13475,7 +13483,7 @@
         "codigo": "8988",
         "nome": "SETUF - Cartão Jotur (Patamar V)",
         "fornecedor": "Setuf - (Jotur)",
-        "valor": "9,57",
+        "valor": "10,23",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13523,7 +13531,7 @@
         "codigo": "15769",
         "nome": "Setuf - Cartão Jotur (Patamar IV)",
         "fornecedor": "Setuf - (Jotur)",
-        "valor": "9,45",
+        "valor": "10,10",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13531,7 +13539,7 @@
         "codigo": "8932",
         "nome": "Setuf - Cartão Santa Terezinha (Patamar V)",
         "fornecedor": "Setuf - (Santa Terezinha)",
-        "valor": "9,57",
+        "valor": "10,23",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13539,7 +13547,7 @@
         "codigo": "8933",
         "nome": "Setuf - Cartão Santa Terezinha (Patamar II)",
         "fornecedor": "Setuf - (Santa Terezinha)",
-        "valor": "6,77",
+        "valor": "7,24",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13547,7 +13555,7 @@
         "codigo": "8934",
         "nome": "Setuf - Cartão Santa Terezinha (Patamar VII)",
         "fornecedor": "Setuf - (Santa Terezinha)",
-        "valor": "11,25",
+        "valor": "12,02",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -13555,7 +13563,7 @@
         "codigo": "8938",
         "nome": "Setuf - Cartão Santa Terezinha (Patamar III)",
         "fornecedor": "Setuf - (Santa Terezinha)",
-        "valor": "6,91",
+        "valor": "7,38",
         "uf": "SC",
         "cidade": "Florianópolis"
     },

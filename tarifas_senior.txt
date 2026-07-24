@@ -1629,6 +1629,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15964;Expresso Presidente - Intermunicipal - Cartão Poço Grande X Blumenau;Expresso Presidente - Intermunicipal;11,10;5;10;SC;Gaspar;06/07/2026
 19787;Expresso Presidente - Intermunicipal - Cartão Ilhota X Blumenau;Expresso Presidente - Intermunicipal;13,00;5;10;SC;Gaspar;22/07/2026
 19788;Expresso Presidente - Intermunicipal - Cartão Ilhota X Gaspar;Expresso Presidente - Intermunicipal;6,10;5;10;SC;Gaspar;22/07/2026
+19789;Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau;Expresso Presidente - Intermunicipal;7,30;5;10;SC;Gaspar;23/07/2026
 4721;Forquilhinha - Cartão Criciúma X Forquilhinha (via Santa Cruz);Forquilhinha;5,15;5;10;SC;Criciúma;28/07/2023
 9372;Hodierna - Cartão Municipal Concórdia;Hodierna;1,50;5;10;SC;Concórdia;05/05/2025
 5749;Lagunatur - Cartão Laguna Municipal;Lagunatur;6,00;5;10;SC;Laguna;06/01/2025
@@ -1660,40 +1661,40 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8991;Setuf - Cartão Jotur - Intermunicipal;Setuf (Jotur);0,01;5;10;SC;Florianópolis;01/01/2000
 9136;Setuf - Cartão Jotur (ex-Paulotur);Setuf (Jotur);4,50;5;10;SC;Florianópolis;16/07/2022
 8690;Setuf - Cartão Biguaçu (Patamar D1B);Setuf - (Biguaçu);6,00;5;10;SC;Florianópolis;08/07/2025
-8697;Setuf - Cartão Biguaçu (Patamar I);Setuf - (Biguaçu);6,23;5;10;SC;Florianópolis;03/11/2025
-8698;Setuf - Cartão Biguaçu (Patamar II);Setuf - (Biguaçu);6,77;5;10;SC;Florianópolis;03/11/2025
-8699;Setuf - Cartão Biguaçu (Patamar IV);Setuf - (Biguaçu);9,45;5;10;SC;Florianópolis;03/11/2025
-8700;Setuf - Cartão Biguaçu (Patamar IX);Setuf - (Biguaçu);11,41;5;10;SC;Florianópolis;18/11/2025
-8701;Setuf - Cartão Biguaçu (Patamar V);Setuf - (Biguaçu);9,57;5;10;SC;Florianópolis;18/11/2025
-8702;Setuf - Cartão Biguaçu (Patamar VII);Setuf - (Biguaçu);11,25;5;10;SC;Florianópolis;05/11/2025
-8703;Setuf - Cartão Biguaçu (Patamar VIII);Setuf - (Biguaçu);11,31;5;10;SC;Florianópolis;03/11/2025
-8704;Setuf - Cartão Biguaçu (Patamar III);Setuf - (Biguaçu);6,91;5;10;SC;Florianópolis;03/11/2025
+8697;Setuf - Cartão Biguaçu (Patamar I);Setuf - (Biguaçu);6,66;5;10;SC;Florianópolis;23/07/2026
+8698;Setuf - Cartão Biguaçu (Patamar II);Setuf - (Biguaçu);7,24;5;10;SC;Florianópolis;23/07/2026
+8699;Setuf - Cartão Biguaçu (Patamar IV);Setuf - (Biguaçu);10,10;5;10;SC;Florianópolis;23/07/2026
+8700;Setuf - Cartão Biguaçu (Patamar IX);Setuf - (Biguaçu);12,18;5;10;SC;Florianópolis;23/07/2026
+8701;Setuf - Cartão Biguaçu (Patamar V);Setuf - (Biguaçu);10,23;5;10;SC;Florianópolis;23/07/2026
+8702;Setuf - Cartão Biguaçu (Patamar VII);Setuf - (Biguaçu);12,02;5;10;SC;Florianópolis;23/07/2026
+8703;Setuf - Cartão Biguaçu (Patamar VIII);Setuf - (Biguaçu);12,08;5;10;SC;Florianópolis;23/07/2026
+8704;Setuf - Cartão Biguaçu (Patamar III);Setuf - (Biguaçu);7,38;5;10;SC;Florianópolis;23/07/2026
 15097;Setuf - Cartão Biguaçu (Patamar EXECSJ);Setuf - (Biguaçu);9,25;5;10;SC;Florianópolis;05/06/2024
-19419;Setuf - Cartão Biguaçu (Patamar VI);Setuf - (Biguaçu);11,17;5;10;SC;Florianópolis;01/12/2025
+19419;Setuf - Cartão Biguaçu (Patamar VI);Setuf - (Biguaçu);11,94;5;10;SC;Florianópolis;23/07/2026
 10660;Setuf - Cartão Estrela Intermunicipal;Setuf - (Estrela);0,01;5;10;SC;Florianópolis;25/10/2023
 10661;Setuf - Cartão Estrela (Patamar D1EI);Setuf - (Estrela);5,20;5;10;SC;Florianópolis;25/10/2023
-10662;Setuf - Cartão Estrela (Patamar II) Municipal São José;Setuf - (Estrela);6,50;5;10;SC;Florianópolis;09/12/2025
+10662;Setuf - Cartão Estrela (Patamar II) Municipal São José;Setuf - (Estrela);6,90;5;10;SC;Florianópolis;23/07/2026
 10663;Setuf - Cartão Estrela (Patamar EXEC2);Setuf - (Estrela);12,44;5;10;SC;Florianópolis;27/02/2025
-10664;Setuf - Cartão Estrela (Patamar I);Setuf - (Estrela);6,23;5;10;SC;Florianópolis;03/11/2025
-10665;Setuf - Cartão Estrela (Patamar II);Setuf - (Estrela);6,77;5;10;SC;Florianópolis;03/11/2025
-10666;Setuf - Cartão Estrela (Patamar V);Setuf - (Estrela);9,57;5;10;SC;Florianópolis;03/11/2025
+10664;Setuf - Cartão Estrela (Patamar I);Setuf - (Estrela);6,66;5;10;SC;Florianópolis;23/07/2026
+10665;Setuf - Cartão Estrela (Patamar II);Setuf - (Estrela);7,24;5;10;SC;Florianópolis;23/07/2026
+10666;Setuf - Cartão Estrela (Patamar V);Setuf - (Estrela);10,23;5;10;SC;Florianópolis;23/07/2026
 10667;Setuf - Cartão Estrela (Patamar VIP);Setuf - (Estrela);10,20;5;10;SC;Florianópolis;25/10/2023
-19590;Setuf - Cartão Estrela (Executivo Zenaide/Barreiros Vip) (Linha 131.1);Setuf - (Estrela);13,56;5;10;SC;Florianópolis;16/04/2026
+19590;Setuf - Cartão Estrela (Executivo Zenaide/Barreiros Vip) (Linha 131.1);Setuf - (Estrela);14,47;5;10;SC;Florianópolis;23/07/2026
 8980;Setuf - Cartão Jotur (Patamar EXEC7) - Florianópolis / Viaduto do Maciambu (Linha 11140);Setuf - (Jotur);19,62;5;10;SC;Florianópolis;24/11/2025
-8982;Setuf - Cartão Jotur (Patamar I);Setuf - (Jotur);6,23;5;10;SC;Florianópolis;03/11/2025
-8983;Setuf - Cartão Jotur (Patamar II);Setuf - (Jotur);6,77;5;10;SC;Florianópolis;03/11/2025
-8984;Setuf - Cartão Jotur (Patamar IV);Setuf - (Jotur);9,45;5;10;SC;Florianópolis;03/11/2025
-8988;SETUF - Cartão Jotur (Patamar V);Setuf - (Jotur);9,57;5;10;SC;Florianópolis;03/11/2025
+8982;Setuf - Cartão Jotur (Patamar I);Setuf - (Jotur);6,66;5;10;SC;Florianópolis;23/07/2026
+8983;Setuf - Cartão Jotur (Patamar II);Setuf - (Jotur);7,24;5;10;SC;Florianópolis;23/07/2026
+8984;Setuf - Cartão Jotur (Patamar IV);Setuf - (Jotur);10,10;5;10;SC;Florianópolis;23/07/2026
+8988;SETUF - Cartão Jotur (Patamar V);Setuf - (Jotur);10,23;5;10;SC;Florianópolis;23/07/2026
 9886;Setuf - Cartão Jotur (JSEC15);Setuf - (Jotur);15,00;5;10;SC;Florianópolis;08/11/2022
 9887;Setuf - Cartão Jotur (JSEC16);Setuf - (Jotur);18,00;5;10;SC;Florianópolis;14/01/2025
 9888;Setuf - Cartão Jotur (JSEC12);Setuf - (Jotur);15,00;5;10;SC;Florianópolis;08/11/2022
 9889;Setuf - Cartão Jotur (JSEC17);Setuf - (Jotur);15,00;5;10;SC;Florianópolis;08/11/2022
 9897;Setuf - Cartão Jotur (JSEC14);Setuf - (Jotur);13,00;5;10;SC;Florianópolis;23/11/2022
-15769;Setuf - Cartão Jotur (Patamar IV);Setuf - (Jotur);9,45;5;10;SC;Florianópolis;03/11/2025
-8932;Setuf - Cartão Santa Terezinha (Patamar V);Setuf - (Santa Terezinha);9,57;5;10;SC;Florianópolis;03/11/2025
-8933;Setuf - Cartão Santa Terezinha (Patamar II);Setuf - (Santa Terezinha);6,77;5;10;SC;Florianópolis;03/11/2025
-8934;Setuf - Cartão Santa Terezinha (Patamar VII);Setuf - (Santa Terezinha);11,25;5;10;SC;Florianópolis;03/11/2025
-8938;Setuf - Cartão Santa Terezinha (Patamar III);Setuf - (Santa Terezinha);6,91;5;10;SC;Florianópolis;03/11/2025
+15769;Setuf - Cartão Jotur (Patamar IV);Setuf - (Jotur);10,10;5;10;SC;Florianópolis;23/07/2026
+8932;Setuf - Cartão Santa Terezinha (Patamar V);Setuf - (Santa Terezinha);10,23;5;10;SC;Florianópolis;23/07/2026
+8933;Setuf - Cartão Santa Terezinha (Patamar II);Setuf - (Santa Terezinha);7,24;5;10;SC;Florianópolis;23/07/2026
+8934;Setuf - Cartão Santa Terezinha (Patamar VII);Setuf - (Santa Terezinha);12,02;5;10;SC;Florianópolis;23/07/2026
+8938;Setuf - Cartão Santa Terezinha (Patamar III);Setuf - (Santa Terezinha);7,38;5;10;SC;Florianópolis;23/07/2026
 19673;Setuf - Cartão Santa Terezinha Intermunicipal;Setuf - (Santa Terezinha);0,01;5;10;SC;Florianópolis;20/05/2026
 720;SETUF Urbano - Cartão Municipal Florianópolis (Passe Rápido SIM);Setuf - Municipal;7,20;5;10;SC;Florianópolis;06/01/2026
 7357;SETUF Urbano - Cartão Executivos (Tarifa 1) (Distrital);Setuf - Municipal;20,00;5;10;SC;Florianópolis;06/01/2026
