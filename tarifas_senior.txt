@@ -1586,8 +1586,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2273;Viação Chapecó - Cartão Municipal Chapecó;Auto Viação Chapecó;5,00;5;10;SC;Chapecó;08/09/2025
 19436;Auto Viação Pinhalzinhho - Cartão Municipal Pinhalzinho;Auto Viação Pinhalzinho;4,54;5;10;SC;Pinhalzinho;18/12/2025
 8174;Auto Viação Rainha - Cartão Indaial X Blumenau;Auto Viação Rainha;8,50;5;10;SC;Indaial;14/04/2026
-8958;Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia);Canarinho (Guaramirim);7,25;5;10;SC;Jaraguá do Sul;30/04/2026
-8959;Canarinho (Guaramirim) - Cartão Guaramirim;Canarinho (Guaramirim);5,95;5;10;SC;Jaraguá do Sul;30/04/2026
+8958;Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia);Canarinho (Guaramirim);7,75;5;10;SC;Jaraguá do Sul;27/07/2026
+8959;Canarinho (Guaramirim) - Cartão Guaramirim;Canarinho (Guaramirim);6,35;5;10;SC;Jaraguá do Sul;27/07/2026
 19617;Canarinho (Guaramirim) - Cartão Jaraguá do Sul X Guaramirim;Canarinho (Guaramirim);5,95;5;10;SC;Jaraguá do Sul;13/05/2026
 2083;Canarinho (Jaraguá do Sul) - Cartão Municipal Jaraguá do Sul;Canarinho (Jaraguá do Sul);5,25;5;10;SC;Jaraguá do Sul;31/12/2025
 2236;Canarinho (Jaraguá do Sul) - Cartão TEM - Jaraguá do Sul X Dist Nereu Ramos;Canarinho (Jaraguá do Sul);5,25;5;10;SC;Jaraguá do Sul;31/12/2025
@@ -1692,6 +1692,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8934;Setuf - Cartão Santa Terezinha (Patamar VII);Setuf - (Santa Terezinha);12,02;5;10;SC;Florianópolis;23/07/2026
 8938;Setuf - Cartão Santa Terezinha (Patamar III);Setuf - (Santa Terezinha);7,38;5;10;SC;Florianópolis;23/07/2026
 19673;Setuf - Cartão Santa Terezinha Intermunicipal;Setuf - (Santa Terezinha);0,01;5;10;SC;Florianópolis;20/05/2026
+19791;Setuf - Cartão Santa Terezinha (Diretão);Setuf - (Santa Terezinha);6,90;5;10;SC;Florianópolis;27/07/2026
 720;SETUF Urbano - Cartão Municipal Florianópolis (Passe Rápido SIM);Setuf - Municipal;7,20;5;10;SC;Florianópolis;06/01/2026
 7357;SETUF Urbano - Cartão Executivos (Tarifa 1) (Distrital);Setuf - Municipal;20,00;5;10;SC;Florianópolis;06/01/2026
 7358;SETUF Urbano - Cartão Executivos (Tarifa 2) (Urbana);Setuf - Municipal;14,00;5;10;SC;Florianópolis;09/01/2025
@@ -2236,7 +2237,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6844;Expresso de Prata - Cartão Areiópolis X Bauru (Suburbana);Expresso de Prata - Eletrônico;22,45;5;10;SP;Bauru;15/07/2026
 7948;Expresso de Prata - Cartão Areiópolis X Botucatu (Suburbana);Expresso de Prata - Eletrônico;11,45;5;10;SP;Bauru;15/07/2026
 9044;Expresso de Prata - Cartão Bauru X Cabrália;Expresso de Prata - Eletrônico;14,85;5;10;SP;Bauru;15/07/2026
-10924;Expresso de Prata - Cartão Bauru X Piratininga;Expresso de Prata - Eletrônico;7,95;5;10;SP;Bauru;15/07/2026
+10924;Expresso de Prata - Cartão Bauru X Piratininga;Expresso de Prata - Eletrônico;7,25;5;10;SP;Bauru;27/07/2026
 15186;Expresso de Prata - Cartão Araçatuba X Guararapes;Expresso de Prata - Eletrônico;9,00;5;10;SP;Bauru;15/07/2026
 15189;Expresso de Prata - Cartão Boa Esperança X Araraquara;Expresso de Prata - Eletrônico;9,35;5;10;SP;Bauru;15/07/2026
 15200;Expresso de Prata - Cartão Bento de Abreu X Araçatuba;Expresso de Prata - Eletrônico;13,75;5;10;SP;Bauru;15/07/2026
@@ -2264,7 +2265,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5614;Expresso Itamarati - Cartão Nova Granada X São José do Rio Preto;Expresso Itamarati;12,65;5;10;SP;São José do Rio Preto;03/07/2025
 5615;Expresso Itamarati - Cartão Uchoa X São José do Rio Preto;Expresso Itamarati;10,25;5;10;SP;São José do Rio Preto;03/07/2025
 5617;Expresso Itamarati - Cartão Potirendaba X São José do Rio Preto;Expresso Itamarati;10,25;5;10;SP;São José do Rio Preto;03/07/2025
-5620;Expresso Itamarati - Cartão Mirassol X São José do Rio Preto;Expresso Itamarati;7,25;5;10;SP;São José do Rio Preto;03/07/2025
+5620;Expresso Itamarati - Cartão Mirassol X São José do Rio Preto;Expresso Itamarati;7,60;5;10;SP;São José do Rio Preto;27/07/2026
 5627;Expresso Itamarati - Cartão Jaboticabal X Ribeirão Preto;Expresso Itamarati;18,30;5;10;SP;São José do Rio Preto;03/07/2025
 5628;Expresso Itamarati - Cartão São José do Rio Preto X Ibirá;Expresso Itamarati;11,55;5;10;SP;São José do Rio Preto;03/07/2025
 5629;Expresso Itamarati - Cartão Ribeirão Preto X Barrinha (Suburbano);Expresso Itamarati;11,25;5;10;SP;São José do Rio Preto;03/07/2025

@@ -12699,7 +12699,7 @@
         "codigo": "8958",
         "nome": "Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia)",
         "fornecedor": "Canarinho (Guaramirim)",
-        "valor": "7,25",
+        "valor": "7,75",
         "uf": "SC",
         "cidade": "Jaraguá do Sul"
     },
@@ -12707,7 +12707,7 @@
         "codigo": "8959",
         "nome": "Canarinho (Guaramirim) - Cartão Guaramirim",
         "fornecedor": "Canarinho (Guaramirim)",
-        "valor": "5,95",
+        "valor": "6,35",
         "uf": "SC",
         "cidade": "Jaraguá do Sul"
     },
@@ -13540,6 +13540,14 @@
         "nome": "Setuf - Cartão Santa Terezinha Intermunicipal",
         "fornecedor": "Setuf - (Santa Terezinha)",
         "valor": "0,01",
+        "uf": "SC",
+        "cidade": "Florianópolis"
+    },
+    {
+        "codigo": "19791",
+        "nome": "Setuf - Cartão Santa Terezinha (Diretão)",
+        "fornecedor": "Setuf - (Santa Terezinha)",
+        "valor": "6,90",
         "uf": "SC",
         "cidade": "Florianópolis"
     },
@@ -17899,7 +17907,7 @@
         "codigo": "10924",
         "nome": "Expresso de Prata - Cartão Bauru X Piratininga",
         "fornecedor": "Expresso de Prata - Eletrônico",
-        "valor": "7,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -18123,7 +18131,7 @@
         "codigo": "5620",
         "nome": "Expresso Itamarati - Cartão Mirassol X São José do Rio Preto",
         "fornecedor": "Expresso Itamarati",
-        "valor": "7,25",
+        "valor": "7,60",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
