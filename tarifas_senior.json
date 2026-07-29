@@ -1584,6 +1584,14 @@
         "cidade": "Brasília"
     },
     {
+        "codigo": "19792",
+        "nome": "Viação Planaltina - Cartão Formosa X Brasília",
+        "fornecedor": "Viação Planaltina",
+        "valor": "20,00",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
         "codigo": "10362",
         "nome": "CCI - QR-Code - Cartão Setiba X Vila Velha",
         "fornecedor": "CCI - QR-Code - Passepay",
@@ -7947,7 +7955,7 @@
         "codigo": "6333",
         "nome": "Princesa do Norte - Cartão Jacarezinho X Ourinhos",
         "fornecedor": "Princesa do Norte - QR-Code",
-        "valor": "7,20",
+        "valor": "7,60",
         "uf": "PR",
         "cidade": "Santo Antonio da Platina"
     },
@@ -7955,7 +7963,7 @@
         "codigo": "6334",
         "nome": "Princesa do Norte - Cartão Santo Antônio da Platina X Jacarezinho",
         "fornecedor": "Princesa do Norte - QR-Code",
-        "valor": "6,20",
+        "valor": "6,60",
         "uf": "PR",
         "cidade": "Santo Antonio da Platina"
     },
@@ -7963,7 +7971,7 @@
         "codigo": "9788",
         "nome": "Princesa do Norte - Cartão Ourinhos X Marques dos Reis",
         "fornecedor": "Princesa do Norte - QR-Code",
-        "valor": "7,20",
+        "valor": "7,60",
         "uf": "PR",
         "cidade": "Santo Antonio da Platina"
     },
@@ -7971,7 +7979,7 @@
         "codigo": "9789",
         "nome": "Princesa do Norte - Cartão Marques dos Reis X Jacarezinho",
         "fornecedor": "Princesa do Norte - QR-Code",
-        "valor": "6,20",
+        "valor": "6,60",
         "uf": "PR",
         "cidade": "Santo Antonio da Platina"
     },
@@ -7979,7 +7987,7 @@
         "codigo": "10900",
         "nome": "Princesa do Norte - Cartão Marques dos Reis X Ourinhos",
         "fornecedor": "Princesa do Norte - QR-Code",
-        "valor": "7,20",
+        "valor": "7,60",
         "uf": "PR",
         "cidade": "Santo Antonio da Platina"
     },
@@ -7987,7 +7995,7 @@
         "codigo": "19422",
         "nome": "Princesa do Norte - Cartão Santo Antônio da Platina X Ourinhos",
         "fornecedor": "Princesa do Norte - QR-Code",
-        "valor": "11,90",
+        "valor": "12,20",
         "uf": "PR",
         "cidade": "Santo Antonio da Platina"
     },
@@ -8058,7 +8066,7 @@
     {
         "codigo": "15988",
         "nome": "Tamandaré - Cartão Caiuá X Cachoeira",
-        "fornecedor": "Tamandaré",
+        "fornecedor": "Tamandaré (Metrocard)",
         "valor": "5,50",
         "uf": "PR",
         "cidade": "Almirante Tamandaré"
@@ -10741,7 +10749,7 @@
         "fornecedor": "Fátima Transportes - Santa Rita",
         "valor": "5,26",
         "uf": "RS",
-        "cidade": "Nova Santa Rita"
+        "cidade": "Esteio"
     },
     {
         "codigo": "19781",
@@ -10749,7 +10757,7 @@
         "fornecedor": "Fátima Transportes - Santa Rita",
         "valor": "11,45",
         "uf": "RS",
-        "cidade": "Nova Santa Rita"
+        "cidade": "Esteio"
     },
     {
         "codigo": "19782",
@@ -10757,7 +10765,7 @@
         "fornecedor": "Fátima Transportes - Santa Rita",
         "valor": "8,00",
         "uf": "RS",
-        "cidade": "Nova Santa Rita"
+        "cidade": "Esteio"
     },
     {
         "codigo": "8185",
@@ -12715,7 +12723,7 @@
         "codigo": "19617",
         "nome": "Canarinho (Guaramirim) - Cartão Jaraguá do Sul X Guaramirim",
         "fornecedor": "Canarinho (Guaramirim)",
-        "valor": "5,95",
+        "valor": "6,35",
         "uf": "SC",
         "cidade": "Jaraguá do Sul"
     },
@@ -13651,7 +13659,7 @@
         "codigo": "6543",
         "nome": "Viação Praiana - Cartão Itajaí X Camboriú",
         "fornecedor": "Viação Praiana",
-        "valor": "7,90",
+        "valor": "8,45",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -13667,7 +13675,7 @@
         "codigo": "6545",
         "nome": "Viação Praiana - Cartão Porto Belo X Itajaí",
         "fornecedor": "Viação Praiana",
-        "valor": "10,40",
+        "valor": "11,10",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -21379,7 +21387,7 @@
         "codigo": "6817",
         "nome": "Estâncias Metrópolis - Cartão Pedreira X Amparo",
         "fornecedor": "Rápido Fênix - Estâncias Metrópolis",
-        "valor": "7,35",
+        "valor": "7,70",
         "uf": "SP",
         "cidade": "Itatiba"
     },
@@ -23411,7 +23419,7 @@
         "codigo": "9013",
         "nome": "Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "15,85",
+        "valor": "16,25",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23419,7 +23427,7 @@
         "codigo": "9014",
         "nome": "Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "14,65",
+        "valor": "14,95",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23427,7 +23435,7 @@
         "codigo": "9015",
         "nome": "Viação Itaqueri - Cartão Águas de São Pedro X São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "6,65",
+        "valor": "6,95",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23435,7 +23443,7 @@
         "codigo": "9016",
         "nome": "Viação Itaqueri - Cartão Cerquilho X Piracicaba (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "30,40",
+        "valor": "31,10",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23443,7 +23451,7 @@
         "codigo": "9017",
         "nome": "Viação Itaqueri - Cartão Cerquilho X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "28,10",
+        "valor": "28,75",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23451,7 +23459,7 @@
         "codigo": "9018",
         "nome": "Viação Itaqueri - Cartão Cerquilho X Tatuí (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "12,65",
+        "valor": "13,20",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23459,7 +23467,7 @@
         "codigo": "9019",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "16,45",
+        "valor": "16,90",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23467,7 +23475,7 @@
         "codigo": "9020",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "15,25",
+        "valor": "15,60",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23475,7 +23483,7 @@
         "codigo": "9021",
         "nome": "Viação Itaqueri - Cartão Piracicaba X São Pedro (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "21,45",
+        "valor": "22,15",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23499,7 +23507,7 @@
         "codigo": "9024",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Tietê (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "23,00",
+        "valor": "23,50",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23507,7 +23515,7 @@
         "codigo": "9025",
         "nome": "Viação Itaqueri - Cartão São Pedro X Águas de São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "6,60",
+        "valor": "6,90",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23523,7 +23531,7 @@
         "codigo": "9027",
         "nome": "Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "19,10",
+        "valor": "19,65",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23539,7 +23547,7 @@
         "codigo": "9029",
         "nome": "Viação Itaqueri - Cartão Tatuí X Cerquilho (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "12,80",
+        "valor": "13,40",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23547,7 +23555,7 @@
         "codigo": "9030",
         "nome": "Viação Itaqueri - Cartão Tietê X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "22,05",
+        "valor": "22,55",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23555,7 +23563,7 @@
         "codigo": "10304",
         "nome": "Viação Itaqueri - Cartão Tatuí X Estrada D Oeste (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "7,80",
+        "valor": "8,15",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23563,7 +23571,7 @@
         "codigo": "10305",
         "nome": "Viação Itaqueri - Cartão Estrada D Oeste X Tatuí (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "5,95",
+        "valor": "6,25",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23571,7 +23579,7 @@
         "codigo": "10690",
         "nome": "Viação Itaqueri - Cartão Cerquilho X Tatuí (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "13,85",
+        "valor": "14,50",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23579,7 +23587,7 @@
         "codigo": "10691",
         "nome": "Viação Itaqueri - Cartão Tatuí X Cerquilho (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "14,00",
+        "valor": "14,70",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23587,7 +23595,7 @@
         "codigo": "15348",
         "nome": "Viação Itaqueri - Cartão Artemis X Águas de São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "7,90",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23603,7 +23611,7 @@
         "codigo": "15475",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Cerquilho (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "27,00",
+        "valor": "27,75",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23810,7 +23818,7 @@
     {
         "codigo": "7422",
         "nome": "Viação M M Souza - (Suburbano) - Cartão Capivari X Rafard (Suburbano)",
-        "fornecedor": "Viação M M Souza - (Suburbano)",
+        "fornecedor": "Viação M M Souza - (Suburbano) - PIX",
         "valor": "5,00",
         "uf": "SP",
         "cidade": "Capivari"
@@ -23818,7 +23826,7 @@
     {
         "codigo": "6633",
         "nome": "Viação M M Souza - (Urbano) - Cartão Urbano de Capivari",
-        "fornecedor": "Viação M M Souza - (Urbano)",
+        "fornecedor": "Viação M M Souza - (Urbano) - PIX",
         "valor": "5,00",
         "uf": "SP",
         "cidade": "Capivari"
