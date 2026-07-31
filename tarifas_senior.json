@@ -5152,6 +5152,14 @@
         "cidade": "Juiz de Fora"
     },
     {
+        "codigo": "19803",
+        "nome": "Paraibuna (QR-Code) - Cartão Cataguases X Muriaé",
+        "fornecedor": "Paraibuna - QR-Code",
+        "valor": "35,65",
+        "uf": "MG",
+        "cidade": "Juiz de Fora"
+    },
+    {
         "codigo": "10486",
         "nome": "Rápido Luxo Sorocaba - Cartão Iperó X Boituva",
         "fornecedor": "Rápido Luxo - Sorocaba",
@@ -6713,7 +6721,7 @@
     },
     {
         "codigo": "19431",
-        "nome": "PB Rio - Cartão Taquara X Fazenda (Linha 0302)",
+        "nome": "PB Rio - Cartão Taquara X Fazenda (linha 0302)",
         "fornecedor": "PB Rio",
         "valor": "14,00",
         "uf": "PB",
@@ -6721,9 +6729,17 @@
     },
     {
         "codigo": "19432",
-        "nome": "PB Rio - Cartão Caaporã X Fazenda (Linha 0302)",
+        "nome": "PB Rio - Cartão Caaporã X Fazenda (linha 0302)",
         "fornecedor": "PB Rio",
         "valor": "12,00",
+        "uf": "PB",
+        "cidade": "Alhandra"
+    },
+    {
+        "codigo": "19801",
+        "nome": "PB Rio - Cartão João Pessoa X Fazenda (linha 0301)",
+        "fornecedor": "PB Rio",
+        "valor": "5,45",
         "uf": "PB",
         "cidade": "Alhandra"
     },
@@ -13016,6 +13032,14 @@
         "cidade": "Gaspar"
     },
     {
+        "codigo": "19798",
+        "nome": "Expresso Presidente - Intermunicipal - Cartão Poço Grande X Gaspar",
+        "fornecedor": "Expresso Presidente - Intermunicipal",
+        "valor": "6,10",
+        "uf": "SC",
+        "cidade": "Gaspar"
+    },
+    {
         "codigo": "4721",
         "nome": "Forquilhinha - Cartão Criciúma X Forquilhinha (via Santa Cruz)",
         "fornecedor": "Forquilhinha",
@@ -13876,6 +13900,14 @@
         "nome": "Coopertalse - Cartão Aracaju X Santa Rosa De Lima",
         "fornecedor": "Coopertalse",
         "valor": "10,30",
+        "uf": "SE",
+        "cidade": "Aracajú"
+    },
+    {
+        "codigo": "19800",
+        "nome": "Coopertalse - Cartão Nossa Sra do Socorro X Aracaju",
+        "fornecedor": "Coopertalse",
+        "valor": "5,20",
         "uf": "SE",
         "cidade": "Aracajú"
     },
@@ -22739,7 +22771,7 @@
         "codigo": "2897",
         "nome": "Valle Sul São Paulo - Cartão Cajati X Pariquera Açu",
         "fornecedor": "Valle Sul São Paulo",
-        "valor": "13,45",
+        "valor": "13,90",
         "uf": "SP",
         "cidade": "São Paulo"
     },
@@ -22907,7 +22939,7 @@
         "codigo": "3017",
         "nome": "Valle Sul São Paulo - Cartão Registro X Pariquera Açu Rodoviário",
         "fornecedor": "Valle Sul São Paulo",
-        "valor": "9,00",
+        "valor": "9,40",
         "uf": "SP",
         "cidade": "São Paulo"
     },
@@ -23819,7 +23851,7 @@
         "codigo": "7422",
         "nome": "Viação M M Souza - (Suburbano) - Cartão Capivari X Rafard (Suburbano)",
         "fornecedor": "Viação M M Souza - (Suburbano) - PIX",
-        "valor": "5,00",
+        "valor": "6,00",
         "uf": "SP",
         "cidade": "Capivari"
     },
@@ -23827,7 +23859,7 @@
         "codigo": "6633",
         "nome": "Viação M M Souza - (Urbano) - Cartão Urbano de Capivari",
         "fornecedor": "Viação M M Souza - (Urbano) - PIX",
-        "valor": "5,00",
+        "valor": "6,00",
         "uf": "SP",
         "cidade": "Capivari"
     },

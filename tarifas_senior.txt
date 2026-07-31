@@ -643,6 +643,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9942;Paraibuna (QR-Code) - Cartão Matias Barbosa X Juiz de Fora;Paraibuna - QR-Code;9,10;5;10;MG;Juiz de Fora;29/10/2025
 10339;Paraibuna (QR-Code) - Cartão Cataguases X Miraí;Paraibuna - QR-Code;16,00;5;10;MG;Juiz de Fora;04/09/2024
 10899;Paraibuna (QR-Code) - Cartão Leopoldina X Laranjal;Paraibuna - QR-Code;14,80;5;10;MG;Juiz de Fora;03/02/2025
+19803;Paraibuna (QR-Code) - Cartão Cataguases X Muriaé;Paraibuna - QR-Code;35,65;5;10;MG;Juiz de Fora;30/07/2026
 10486;Rápido Luxo Sorocaba - Cartão Iperó X Boituva;Rápido Luxo - Sorocaba;4,85;5;10;SP;Sorocaba;07/01/2026
 1046;Santa Edwiges - Cartão Santa Edwiges;Santa Edwiges;0,01;5;10;MG;Betim;01/01/2000
 6825;Santa Edwiges - Cartão Municipal Betim;Santa Edwiges;6,25;5;10;MG;Betim;02/01/2026
@@ -838,8 +839,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19724;Ferreira Costa;Ferreira Costa;0,01;5;10;PB;João Pessoa;29/05/2026
 6330;PB Rio - Cartão João Pessoa X Alhandra;PB Rio;13,00;5;10;PB;Alhandra;06/02/2026
 10211;PB Rio - Cartão Alhandra X Fazenda;PB Rio;6,80;5;10;PB;Alhandra;27/01/2026
-19431;PB Rio - Cartão Taquara X Fazenda (Linha 0302);PB Rio;14,00;5;10;PB;Alhandra;26/02/2026
-19432;PB Rio - Cartão Caaporã X Fazenda (Linha 0302);PB Rio;12,00;5;10;PB;Alhandra;30/03/2026
+19431;PB Rio - Cartão Taquara X Fazenda (linha 0302);PB Rio;14,00;5;10;PB;Alhandra;26/02/2026
+19432;PB Rio - Cartão Caaporã X Fazenda (linha 0302);PB Rio;12,00;5;10;PB;Alhandra;30/03/2026
+19801;PB Rio - Cartão João Pessoa X Fazenda (linha 0301);PB Rio;5,45;5;10;PB;Alhandra;30/07/2026
 10466;Sitrans - Cartão Municipal Campina Grande;Sitrans;4,90;5;10;PB;Campina Grande;06/02/2026
 10910;Viação São José - QR-Code - Cartão Campina Grande X Cidade Esperança;Viação São José - QR-Code;9,00;5;10;PB;Campina Grande;24/02/2026
 10911;Viação São José - QR-Code - Cartão Cidade Esperança X Campina Grande;Viação São José - QR-Code;9,00;5;10;PB;Campina Grande;24/02/2026
@@ -1626,6 +1628,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19787;Expresso Presidente - Intermunicipal - Cartão Ilhota X Blumenau;Expresso Presidente - Intermunicipal;13,00;5;10;SC;Gaspar;22/07/2026
 19788;Expresso Presidente - Intermunicipal - Cartão Ilhota X Gaspar;Expresso Presidente - Intermunicipal;6,10;5;10;SC;Gaspar;22/07/2026
 19789;Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau;Expresso Presidente - Intermunicipal;7,30;5;10;SC;Gaspar;23/07/2026
+19798;Expresso Presidente - Intermunicipal - Cartão Poço Grande X Gaspar;Expresso Presidente - Intermunicipal;6,10;5;10;SC;Gaspar;30/07/2026
 4721;Forquilhinha - Cartão Criciúma X Forquilhinha (via Santa Cruz);Forquilhinha;5,15;5;10;SC;Criciúma;28/07/2023
 9372;Hodierna - Cartão Municipal Concórdia;Hodierna;1,50;5;10;SC;Concórdia;05/05/2025
 5749;Lagunatur - Cartão Laguna Municipal;Lagunatur;6,00;5;10;SC;Laguna;06/01/2025
@@ -1734,6 +1737,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7427;Coopertalse - Cartão Aracaju X Malhador;Coopertalse;12,60;5;10;SE;Aracajú;28/04/2025
 7429;Coopertalse - Cartão Aracaju X Divina Pastora;Coopertalse;10,30;5;10;SE;Aracajú;28/04/2025
 7430;Coopertalse - Cartão Aracaju X Santa Rosa De Lima;Coopertalse;10,30;5;10;SE;Aracajú;28/04/2025
+19800;Coopertalse - Cartão Nossa Sra do Socorro X Aracaju;Coopertalse;5,20;5;10;SE;Aracajú;30/07/2026
 19427;Pagowaju - Cartão Municipal Aracaju;Pagowaju;4,50;5;10;SE;Aracaju;10/12/2025
 1092;ABC Caçapava - Cartão Caçapava Urbano;ABC Caçapava;4,75;5;10;SP;Caçapava;15/07/2019
 7350;ABC Caçapava - Integração;ABC Caçapava;1,45;5;10;SP;Caçapava;10/07/2019
@@ -2841,7 +2845,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 1817;Valle Sul São Paulo - Cartão Vip Card;Valle Sul - São Paulo;0,01;5;10;SP;São Paulo;01/01/2000
 2936;Valle Sul São Paulo - Cartão Pedro de Toledo X Itanhaém Suburbano;Valle Sul - São Paulo;7,50;5;10;SP;São Paulo;09/09/2021
 2345;Valle Sul São Paulo - Cartão Pariquera Açu X Registro;Valle Sul São Paulo;8,60;5;10;SP;São Paulo;07/10/2025
-2897;Valle Sul São Paulo - Cartão Cajati X Pariquera Açu;Valle Sul São Paulo;13,45;5;10;SP;São Paulo;22/08/2025
+2897;Valle Sul São Paulo - Cartão Cajati X Pariquera Açu;Valle Sul São Paulo;13,90;5;10;SP;São Paulo;30/07/2026
 2899;Valle Sul São Paulo - Cartão Eldorado X Jacupiranga (ida e volta);Valle Sul São Paulo;8,95;5;10;SP;São Paulo;07/10/2025
 2900;Valle Sul São Paulo - Cartão Iguape X Ilha Comprida Suburbano;Valle Sul São Paulo;6,95;5;10;SP;São Paulo;07/10/2025
 2901;Valle Sul São Paulo - Cartão Iguape X Registro (Rodoviário);Valle Sul São Paulo;38,05;5;10;SP;São Paulo;01/12/2025
@@ -2862,7 +2866,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2964;Valle Sul São Paulo - Cartão Pedro Toledo X Santos (com taxa e com seguro) Rodoviário;Valle Sul São Paulo;55,55;5;10;SP;São Paulo;07/10/2025
 2966;Valle Sul São Paulo - Cartão Peruíbe X Pedro de Toledo Suburbano;Valle Sul São Paulo;13,70;5;10;SP;São Paulo;07/10/2025
 2975;Valle Sul São Paulo - Cartão Registro X Cananéia (ida e volta) Rodoviário;Valle Sul São Paulo;33,30;5;10;SP;São Paulo;07/10/2025
-3017;Valle Sul São Paulo - Cartão Registro X Pariquera Açu Rodoviário;Valle Sul São Paulo;9,00;5;10;SP;São Paulo;05/09/2025
+3017;Valle Sul São Paulo - Cartão Registro X Pariquera Açu Rodoviário;Valle Sul São Paulo;9,40;5;10;SP;São Paulo;30/07/2026
 3019;Valle Sul São Paulo - Cartão Registro X São Vicente Rod (com taxa e com seguro);Valle Sul São Paulo;93,15;5;10;SP;São Paulo;07/10/2025
 3021;Valle Sul São Paulo - Cartão São Vicente X Juquiá Rodoviário;Valle Sul São Paulo;78,65;5;10;SP;São Paulo;07/10/2025
 3036;Valle Sul São Paulo - Cartão Miracatu X Registro Suburbano;Valle Sul São Paulo;14,60;5;10;SP;São Paulo;02/09/2025
@@ -2976,8 +2980,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15368;Viação Jacareí - Cartão Variável;Viação Jacareí;0,01;5;10;SP;São José dos Campos;20/09/2024
 2384;Viação Jauense - Cartão Jaú X Distrito de Potunduva;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 2385;Viação Jauense - Cartão Jaú;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
-7422;Viação M M Souza - (Suburbano) - Cartão Capivari X Rafard (Suburbano);Viação M M Souza - (Suburbano) - PIX;5,00;5;10;SP;Capivari;05/10/2023
-6633;Viação M M Souza - (Urbano) - Cartão Urbano de Capivari;Viação M M Souza - (Urbano) - PIX;5,00;5;10;SP;Capivari;05/10/2023
+7422;Viação M M Souza - (Suburbano) - Cartão Capivari X Rafard (Suburbano);Viação M M Souza - (Suburbano) - PIX;6,00;5;10;SP;Capivari;30/07/2026
+6633;Viação M M Souza - (Urbano) - Cartão Urbano de Capivari;Viação M M Souza - (Urbano) - PIX;6,00;5;10;SP;Capivari;30/07/2026
 715;Viação Nardelli - Cartão Salto Municipal;Viação Nardelli - Sancetur;4,20;5;10;SP;Salto;16/08/2021
 9267;Viação Paraty (Jaboticabal) - Cartão Municipal Jaboticabal;Viação Paraty (Jaboticabal);3,40;5;10;SP;Araraquara;03/03/2022
 3405;Viação Paraty - Cartão Araraquara X São Carlos;Viação Paraty - Intermunicipal;12,10;5;10;SP;Araraquara;22/07/2026
