@@ -8,6 +8,46 @@
         "cidade": "Rio Branco"
     },
     {
+        "codigo": "15196",
+        "nome": "Bem Mobilidade - Cartão Rio Largo X Via Mata do Rolo",
+        "fornecedor": "Bem Mobilidade (Transpal)",
+        "valor": "6,90",
+        "uf": "AL",
+        "cidade": "Maceió"
+    },
+    {
+        "codigo": "15197",
+        "nome": "Bem Mobilidade - Cartão Aeroporto X Ponta Verde",
+        "fornecedor": "Bem Mobilidade (Transpal)",
+        "valor": "6,90",
+        "uf": "AL",
+        "cidade": "Maceió"
+    },
+    {
+        "codigo": "15198",
+        "nome": "Bem Mobilidade - Cartão Cruzeiro do Sul",
+        "fornecedor": "Bem Mobilidade (Transpal)",
+        "valor": "5,90",
+        "uf": "AL",
+        "cidade": "Maceió"
+    },
+    {
+        "codigo": "15199",
+        "nome": "Bem Mobilidade - Cartão Rio Largo X Via Expressa",
+        "fornecedor": "Bem Mobilidade (Transpal)",
+        "valor": "6,90",
+        "uf": "AL",
+        "cidade": "Maceió"
+    },
+    {
+        "codigo": "15407",
+        "nome": "Bem Mobilidade - Cartão Rio Largo X Gustavo Paiva",
+        "fornecedor": "Bem Mobilidade (Transpal)",
+        "valor": "6,75",
+        "uf": "AL",
+        "cidade": "Maceió"
+    },
+    {
         "codigo": "15672",
         "nome": "Simohu - Cartão Marechal X Maceió",
         "fornecedor": "Simohu",

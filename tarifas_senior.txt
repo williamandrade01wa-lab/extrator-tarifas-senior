@@ -1,5 +1,10 @@
 Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data Tarifa
 2336;RBTrans - Cartão Municipal Rio Branco;RBTrans;3,50;5;10;AC;Rio Branco;26/10/2021
+15196;Bem Mobilidade - Cartão Rio Largo X Via Mata do Rolo;Bem Mobilidade (Transpal);6,90;5;10;AL;Maceió;07/01/2025
+15197;Bem Mobilidade - Cartão Aeroporto X Ponta Verde;Bem Mobilidade (Transpal);6,90;5;10;AL;Maceió;07/01/2025
+15198;Bem Mobilidade - Cartão Cruzeiro do Sul;Bem Mobilidade (Transpal);5,90;5;10;AL;Maceió;07/01/2025
+15199;Bem Mobilidade - Cartão Rio Largo X Via Expressa;Bem Mobilidade (Transpal);6,90;5;10;AL;Maceió;07/01/2025
+15407;Bem Mobilidade - Cartão Rio Largo X Gustavo Paiva;Bem Mobilidade (Transpal);6,75;5;10;AL;Maceió;01/11/2024
 15672;Simohu - Cartão Marechal X Maceió;Simohu;8,00;5;10;AL;Maceió;08/12/2025
 19547;Simohu - Cartão Maceió X Pilar;Simohu;9,00;5;10;AL;Maceió;16/03/2026
 10794;Transpal Urbano - Cartão Urbano Maceió (Bem Legal);Vamu Mobilidade;4,00;5;10;AL;Maceió;09/01/2024
