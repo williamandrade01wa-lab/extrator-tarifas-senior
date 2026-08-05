@@ -1336,6 +1336,46 @@
         "cidade": "Brasília"
     },
     {
+        "codigo": "15092",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília",
+        "fornecedor": "GVBUS",
+        "valor": "11,60",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15093",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina",
+        "fornecedor": "GVBUS",
+        "valor": "6,20",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15094",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho",
+        "fornecedor": "GVBUS",
+        "valor": "7,60",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15095",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina",
+        "fornecedor": "GVBUS",
+        "valor": "8,20",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "19792",
+        "nome": "Viação Planaltina - Cartão Formosa X Brasília",
+        "fornecedor": "GVBUS",
+        "valor": "20,00",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
         "codigo": "15432",
         "nome": "Rota do Sol - Cartão Lago Azul X Brasília",
         "fornecedor": "Rota do Sol - Eletrônico",
@@ -1588,46 +1628,6 @@
         "nome": "UTB - Eletrônico - Cartão Águas Lindas X Circular (Semiurbano)",
         "fornecedor": "UTB - Eletrônico",
         "valor": "4,75",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15092",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília",
-        "fornecedor": "Viação Planaltina",
-        "valor": "11,60",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15093",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina",
-        "fornecedor": "Viação Planaltina",
-        "valor": "6,20",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15094",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho",
-        "fornecedor": "Viação Planaltina",
-        "valor": "7,60",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15095",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina",
-        "fornecedor": "Viação Planaltina",
-        "valor": "8,20",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "19792",
-        "nome": "Viação Planaltina - Cartão Formosa X Brasília",
-        "fornecedor": "Viação Planaltina",
-        "valor": "20,00",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -7240,6 +7240,14 @@
         "cidade": "Caruaru"
     },
     {
+        "codigo": "19804",
+        "nome": "Coletivos Viagens - Cartão Caruaru X Bezerros (Linha 1339)",
+        "fornecedor": "Coletivos Viagens",
+        "valor": "7,00",
+        "uf": "PE",
+        "cidade": "Caruaru"
+    },
+    {
         "codigo": "6686",
         "nome": "Expresso 1002 - Cartão Paudalho X Recife",
         "fornecedor": "Expresso 1002",
@@ -10048,14 +10056,6 @@
         "cidade": "Porto Alegre"
     },
     {
-        "codigo": "16058",
-        "nome": "CCTU - Cartão Municipal Criciúma",
-        "fornecedor": "CCTU",
-        "valor": "5,75",
-        "uf": "SC",
-        "cidade": "Criciúma"
-    },
-    {
         "codigo": "16182",
         "nome": "Coleo - Cartão Municipal São Leopoldo",
         "fornecedor": "Coleo",
@@ -10086,6 +10086,14 @@
         "valor": "5,20",
         "uf": "RS",
         "cidade": "Novo Hamburgo"
+    },
+    {
+        "codigo": "16058",
+        "nome": "CCTU - Cartão Municipal Criciúma",
+        "fornecedor": "Consórcio CRIBUS",
+        "valor": "5,75",
+        "uf": "SC",
+        "cidade": "Criciúma"
     },
     {
         "codigo": "2295",
@@ -19091,7 +19099,7 @@
         "codigo": "15599",
         "nome": "Guerino Seiscentos - Cartão Salto Grande X Ourinhos",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -22491,7 +22499,7 @@
         "codigo": "738",
         "nome": "Transurb Bauru - Cartão Bauru - Comum / Municipal",
         "fornecedor": "Transurb Bauru",
-        "valor": "5,75",
+        "valor": "6,25",
         "uf": "SP",
         "cidade": "Bauru"
     },

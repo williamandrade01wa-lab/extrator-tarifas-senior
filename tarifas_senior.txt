@@ -166,6 +166,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15733;Catedral - Cartão Gama X Jardim Ingá;Catedral - Eletrônico;6,10;5;10;DF;Brasília;26/02/2026
 15734;Catedral - Cartão Taguatinga X Jardim Ingá;Catedral - Eletrônico;10,65;5;10;DF;Brasília;26/02/2026
 15738;Catedral - Cartão Jardim Ingá X Lago Sul;Catedral - Eletrônico;9,30;5;10;DF;Brasília;26/02/2026
+15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;GVBUS;11,60;5;10;DF;Brasília;24/02/2026
+15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;GVBUS;6,20;5;10;DF;Brasília;24/02/2026
+15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;GVBUS;7,60;5;10;DF;Brasília;24/02/2026
+15095;Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina;GVBUS;8,20;5;10;DF;Brasília;24/02/2026
+19792;Viação Planaltina - Cartão Formosa X Brasília;GVBUS;20,00;5;10;DF;Brasília;28/07/2026
 15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;11,00;5;11;DF;Brasília;21/05/2026
 10308;Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas;Taguatur - Águas Lindas de Goiás;11,45;5;10;DF;Brasília;26/02/2026
 10309;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga;Taguatur - Águas Lindas de Goiás;7,65;5;10;DF;Brasília;30/06/2026
@@ -198,11 +203,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15431;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Linha 8250);UTB - Eletrônico;8,20;5;10;DF;Brasília;27/02/2026
 16221;UTB - Eletrônico - Cartão Águas Lindas X Brazlândia;UTB - Eletrônico;6,15;5;10;DF;Brasília;26/02/2026
 19591;UTB - Eletrônico - Cartão Águas Lindas X Circular (Semiurbano);UTB - Eletrônico;4,75;5;10;DF;Brasília;16/04/2026
-15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;Viação Planaltina;11,60;5;10;DF;Brasília;24/02/2026
-15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,20;5;10;DF;Brasília;24/02/2026
-15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Viação Planaltina;7,60;5;10;DF;Brasília;24/02/2026
-15095;Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina;Viação Planaltina;8,20;5;10;DF;Brasília;24/02/2026
-19792;Viação Planaltina - Cartão Formosa X Brasília;Viação Planaltina;20,00;5;10;DF;Brasília;28/07/2026
 10362;CCI - QR-Code - Cartão Setiba X Vila Velha;CCI - QR-Code - Passepay;15,75;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
 10363;CCI - QR-Code - Cartão Setiba X Guarapari;CCI - QR-Code - Passepay;4,70;5;10;ES;Cachoeiro de Itapemirim;16/09/2024
 10364;CCI - QR-Code - Cartão Ipiranga X Dom Bosco;CCI - QR-Code - Passepay;16,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
@@ -904,6 +904,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;5,00;5;10;PE;Caruaru;25/05/2026
 15495;Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329);Coletivos Viagens;19,00;5;10;PE;Caruaru;20/04/2026
 19730;Coletivos Viagens - Cartão São Caetano X Caruaru;Coletivos Viagens;6,00;5;10;PE;Caruaru;02/06/2026
+19804;Coletivos Viagens - Cartão Caruaru X Bezerros (Linha 1339);Coletivos Viagens;7,00;5;10;PE;Caruaru;04/08/2026
 6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;16,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
 7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;5,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
 8226;Expresso 1002 - Cartão Surubim X Toritama;Expresso 1002;14,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
@@ -1255,11 +1256,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15636;Caxiense - Cartão Portão X Sapucaia;Caxiense;9,60;5;10;RS;Porto Alegre;08/07/2025
 15637;Caxiense - Cartão São Sebastião do Caí X Sapucaia do Sul;Caxiense;16,90;5;10;RS;Porto Alegre;08/07/2025
 15638;Caxiense - Cartão Portão X Porto Alegre;Caxiense;19,55;5;10;RS;Porto Alegre;08/07/2025
-16058;CCTU - Cartão Municipal Criciúma;CCTU;5,75;5;10;SC;Criciúma;28/08/2025
 16182;Coleo - Cartão Municipal São Leopoldo;Coleo;5,85;5;10;RS;São Leopoldo;14/10/2025
 15193;Coleurb - Eletrônico - Cartão Municipal Passo Fundo;Coleurb - Eletrônico;6,00;5;10;RS;Passo Fundo;03/11/2025
 15352;Comur - Esteio - Cartão Municipal Esteio;Comur - Esteio;4,00;5;10;RS;Esteio;12/09/2024
 15131;Comur - Cartão Municipal Novo Hamburgo;Comur - Novo Hamburgo;5,20;5;10;RS;Novo Hamburgo;10/06/2024
+16058;CCTU - Cartão Municipal Criciúma;Consórcio CRIBUS;5,75;5;10;SC;Criciúma;28/08/2025
 2295;CSC Santa Cruz do Sul - Cartão Santa Cruz do Sul;CSC Santa Cruz do Sul;5,80;5;10;RS;Santa Cruz do Sul;08/06/2026
 5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,50;5;10;RS;Bagé;14/04/2026
 19476;Empresa Vencato - Cartão Porto Alegre X Mariana Pimentel;Empresa Vencato;36,55;5;10;RS;Porto Alegre;16/01/2026
@@ -2385,7 +2386,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8161;Guerino Seiscentos - Cartão Echaporã X Assis;Guerino Seiscentos;9,35;5;10;SP;Tupã;15/07/2026
 9162;Guerino Seiscentos - Cartão Getulina X Lins;Guerino Seiscentos;9,50;5;10;SP;Tupã;15/07/2026
 10284;Guerino Seiscentos - Cartão Getulina X Marília;Guerino Seiscentos;17,75;5;10;SP;Tupã;15/07/2026
-15599;Guerino Seiscentos - Cartão Salto Grande X Ourinhos;Guerino Seiscentos;7,55;5;10;SP;Tupã;15/07/2025
+15599;Guerino Seiscentos - Cartão Salto Grande X Ourinhos;Guerino Seiscentos;7,95;5;10;SP;Tupã;04/08/2026
 15649;Guerino Seiscentos - Cartão Promissão X Lins;Guerino Seiscentos;7,95;5;10;SP;Tupã;15/07/2025
 15671;Guerino Seiscentos - Cartão Lins X Guaiçara;Guerino Seiscentos;6,20;5;10;SP;Tupã;15/07/2026
 15765;Guerino Seiscentos - Cartão Ribeirão do Sul X Ourinhos;Guerino Seiscentos;10,75;5;10;SP;Tupã;15/07/2026
@@ -2810,7 +2811,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6252;Transporto - Cartão Porto Ferreira Urbano;Transporto;4,65;5;10;SP;Porto Ferreira;04/08/2025
 472;Transurb Ribeirão Preto - Cartão Ribeirão Preto Municipal;Transurb - Ribeirão Preto;5,00;5;10;SP;Ribeirão Preto;15/02/2022
 9145;Transurb Ribeirão Preto - Cartão Micro-ônibus Ribeirão Preto;Transurb - Ribeirão Preto;1,80;5;10;SP;Ribeirão Preto;06/05/2022
-738;Transurb Bauru - Cartão Bauru - Comum / Municipal;Transurb Bauru;5,75;5;10;SP;Bauru;15/05/2025
+738;Transurb Bauru - Cartão Bauru - Comum / Municipal;Transurb Bauru;6,25;5;10;SP;Bauru;04/08/2026
 5353;Transurb Bauru - Cartão Bauru Municipal (Múltiplo de 02);Transurb Bauru;11,50;5;10;SP;Bauru;15/05/2025
 282;Transurb Jundiaí - Cartão Jundiaí Municipal;Transurb Jundiaí;6,15;5;10;SP;Jundiaí;08/07/2025
 155;Transurc Campinas - Municipal Campinas;Transurc Campinas;6,50;3;10;SP;Campinas;02/01/2026
