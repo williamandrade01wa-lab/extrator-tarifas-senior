@@ -1336,46 +1336,6 @@
         "cidade": "Brasília"
     },
     {
-        "codigo": "15092",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília",
-        "fornecedor": "GVBUS",
-        "valor": "11,60",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15093",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina",
-        "fornecedor": "GVBUS",
-        "valor": "6,20",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15094",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho",
-        "fornecedor": "GVBUS",
-        "valor": "7,60",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15095",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina",
-        "fornecedor": "GVBUS",
-        "valor": "8,20",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "19792",
-        "nome": "Viação Planaltina - Cartão Formosa X Brasília",
-        "fornecedor": "GVBUS",
-        "valor": "20,00",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
         "codigo": "15432",
         "nome": "Rota do Sol - Cartão Lago Azul X Brasília",
         "fornecedor": "Rota do Sol - Eletrônico",
@@ -1628,6 +1588,46 @@
         "nome": "UTB - Eletrônico - Cartão Águas Lindas X Circular (Semiurbano)",
         "fornecedor": "UTB - Eletrônico",
         "valor": "4,75",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15092",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília",
+        "fornecedor": "Viação Planaltina",
+        "valor": "11,60",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15093",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina",
+        "fornecedor": "Viação Planaltina",
+        "valor": "6,20",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15094",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho",
+        "fornecedor": "Viação Planaltina",
+        "valor": "7,60",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15095",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina",
+        "fornecedor": "Viação Planaltina",
+        "valor": "8,20",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "19792",
+        "nome": "Viação Planaltina - Cartão Formosa X Brasília",
+        "fornecedor": "Viação Planaltina",
+        "valor": "20,00",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -22499,7 +22499,7 @@
         "codigo": "738",
         "nome": "Transurb Bauru - Cartão Bauru - Comum / Municipal",
         "fornecedor": "Transurb Bauru",
-        "valor": "6,25",
+        "valor": "5,75",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -25358,6 +25358,22 @@
         "valor": "4,50",
         "uf": "SP",
         "cidade": "Pindamonhangaba"
+    },
+    {
+        "codigo": "19805",
+        "nome": "VUG Bebedouro - Cartão Municipal Bebedouro",
+        "fornecedor": "Vug - Eletrônico",
+        "valor": "5,00",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19806",
+        "nome": "VUG Bebedouro - Cartão Municipal Bebedouro",
+        "fornecedor": "VUG Bebedouro - Eletrônico",
+        "valor": "5,00",
+        "uf": "SP",
+        "cidade": "Bebedouro"
     },
     {
         "codigo": "7575",
