@@ -1772,7 +1772,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19741;Repasse - Cartão Barueri Integração (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;12/06/2026
 1828;AMTU Marilia - Marília Card;AMTU Marilia;5,75;5;10;SP;Marilia;02/05/2024
 816;Andorinha - Cartão Presidente Prudente X Venceslau;Andorinha;17,55;5;10;SP;Presidente Prudente;15/07/2026
-2343;Andorinha - Cartão Santo Anastácio X Presidente Prudente (com pedágio) (ida e volta);Andorinha;10,35;5;10;SP;Presidente Prudente;15/07/2026
+2343;Andorinha - Cartão Santo Anastácio X Presidente Prudente (com pedágio) (ida e volta);Andorinha;10,60;5;10;SP;Presidente Prudente;07/08/2026
 2395;Andorinha - Cartão Presidente Prudente X Presidente Bernardes / São Paulo;Andorinha;9,00;5;10;SP;Presidente Prudente;15/07/2026
 2396;Andorinha - Cartão Presidente Prudente X Presidente Venceslau (com pedágio) / São Paulo;Andorinha;17,55;5;10;SP;Presidente Prudente;15/07/2026
 2398;Andorinha - Cartão Presidente Prudente X Presidente Epitácio (com pedágio) / São Paulo;Andorinha;29,20;5;10;SP;Presidente Prudente;15/07/2026
