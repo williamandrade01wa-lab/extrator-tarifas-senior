@@ -7051,7 +7051,7 @@
         "codigo": "9809",
         "nome": "Borborema - Cartão Escada X Timboassú",
         "fornecedor": "Borborema - Escada/Timboassú",
-        "valor": "8,00",
+        "valor": "10,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -13980,6 +13980,14 @@
         "nome": "ABC Caçapava - Integração",
         "fornecedor": "ABC Caçapava",
         "valor": "1,45",
+        "uf": "SP",
+        "cidade": "Caçapava"
+    },
+    {
+        "codigo": "19811",
+        "nome": "Teste",
+        "fornecedor": "ABC Caçapava",
+        "valor": "7,00",
         "uf": "SP",
         "cidade": "Caçapava"
     },
