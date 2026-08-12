@@ -4904,10 +4904,26 @@
         "cidade": "Juiz de Fora"
     },
     {
-        "codigo": "19516",
-        "nome": "Empresa Unida - Cartão Astolfo Dutra X Cataguases (Semiurbano)",
-        "fornecedor": "Empresa Unida",
+        "codigo": "19819",
+        "nome": "Empresa Unida (QR-Code) - Cartão Astolfo Dutra X Cataguases (Semiurbano)",
+        "fornecedor": "Empresa Unida - QR Code",
         "valor": "10,00",
+        "uf": "MG",
+        "cidade": "Juiz de Fora"
+    },
+    {
+        "codigo": "19820",
+        "nome": "Empresa Unida (QR-Code) - Cartão Cataguases X Dona Euzebia",
+        "fornecedor": "Empresa Unida - QR Code",
+        "valor": "8,70",
+        "uf": "MG",
+        "cidade": "Juiz de Fora"
+    },
+    {
+        "codigo": "19821",
+        "nome": "Empresa Unida (QR-Code) - Cartão Leopoldina X Cataguases",
+        "fornecedor": "Empresa Unida - QR Code",
+        "valor": "14,75",
         "uf": "MG",
         "cidade": "Juiz de Fora"
     },
@@ -8198,6 +8214,14 @@
         "valor": "4,65",
         "uf": "PR",
         "cidade": "Cascavel"
+    },
+    {
+        "codigo": "19816",
+        "nome": "VCG - Cartão Municipal Ponta Grossa",
+        "fornecedor": "VCG - Novo Sistema",
+        "valor": "6,00",
+        "uf": "PR",
+        "cidade": "Ponta Grossa"
     },
     {
         "codigo": "2267",

@@ -612,7 +612,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 653;Divpass - Cartão Municipal Divinópolis;Divpass - Novo Sistema;5,50;5;10;MG;Divinópolis;30/04/2026
 8579;Empresa Unida - Cartão Chácara X Juiz de Fora;Empresa Unida;11,40;5;10;MG;Juiz de Fora;02/10/2025
 15645;Empresa Unida - Cartão Visconde de Rio Branco X Ubá;Empresa Unida;9,50;5;10;MG;Juiz de Fora;02/10/2025
-19516;Empresa Unida - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida;10,00;5;10;MG;Juiz de Fora;13/02/2026
+19819;Empresa Unida (QR-Code) - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida - QR Code;10,00;5;10;MG;Juiz de Fora;11/08/2026
+19820;Empresa Unida (QR-Code) - Cartão Cataguases X Dona Euzebia;Empresa Unida - QR Code;8,70;5;10;MG;Juiz de Fora;11/08/2026
+19821;Empresa Unida (QR-Code) - Cartão Leopoldina X Cataguases;Empresa Unida - QR Code;14,75;5;10;MG;Juiz de Fora;11/08/2026
 3828;Enscon - Cartão Municipal João Monlevade;Enscon;3,80;5;10;MG;João Monlevade;16/09/2021
 6897;Enscon - Cartão Lages X Carneirinhos;Enscon;7,70;5;10;MG;João Monlevade;02/10/2025
 6091;Expresso Araguari - Araguari X Uberlândia;Expresso Araguari;18,30;5;10;MG;Uberlândia;30/03/2026
@@ -1024,6 +1026,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2266;TUA Transporte Urbano Arapongas - Cartão TUA Arapongas Municipal;TUA Transporte Urbano Arapongas;5,00;5;10;PR;Arapongas;02/01/2026
 315;Urbs Curitiba - Cartão Urbs / Curitiba;URBS Curitiba;6,00;5;10;PR;Curitiba;02/03/2023
 1087;Valesim - Cartão Cascavel - Centro / Curitiba;Valesim;4,65;5;10;PR;Cascavel;08/09/2023
+19816;VCG - Cartão Municipal Ponta Grossa;VCG - Novo Sistema;6,00;5;10;PR;Ponta Grossa;11/08/2026
 2267;Viação Apucarana - Cartão Apucarana Municipal;Viação Apucarana - (Novo Sistema);5,20;5;10;PR;Apucarana;15/12/2025
 15865;Viação Campos Gerais - Cartão Municipal Ponta Grossa;Viação Campos Gerais - Novo Sistema;6,00;5;10;PR;Ponta Grossa;13/04/2026
 15999;Viação do Sul - Itaperuçu - Cartão Itaperuçu X Praça 19;Viação do Sul - Itaperuçu;5,90;5;10;SP;Itaperuçu;17/06/2026
