@@ -1751,6 +1751,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 1092;ABC Caçapava - Cartão Caçapava Urbano;ABC Caçapava;4,75;5;10;SP;Caçapava;15/07/2019
 7350;ABC Caçapava - Integração;ABC Caçapava;1,45;5;10;SP;Caçapava;10/07/2019
 19811;Teste;ABC Caçapava;7,00;5;10;SP;Caçapava;08/08/2026
+19822;Viação Jacareí - Cartão Jacareí e Região;ABC Caçapava;6,10;5;10;SP;Caçapava;12/08/2026
 213;ABC Transportes - Cartão Taubaté Municipal;ABC Transportes;4,70;5;10;SP;Taubaté;08/03/2022
 10471;ABC Transportes - Cartão Taubaté X Pinda;ABC Transportes;6,45;5;10;SP;Taubaté;14/04/2026
 10472;ABC Transportes - Cartão Pindamonhangaba X Tremembé;ABC Transportes;4,10;5;10;SP;Taubaté;18/10/2023
@@ -1954,7 +1955,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7689;Cartão São José dos Campos X São Francisco Xavier;Cidade Natureza;12,35;5;10;SP;São Paulo;08/01/2026
 265;Circular Santa Luzia - Cartão Circular Santa Luzia (Rio Petrans);Circular Santa Luzia;6,50;5;10;SP;São José do Rio Preto;02/01/2024
 15863;City - Barretos - Cartão Municipal Barretos;City - Barretos;4,10;5;10;SP;Barretos;30/06/2025
-8527;City Transporte - Cartão Bertioga Municipal;City - Bertioga;5,00;5;10;SP;Bertioga;10/10/2023
+8527;City Transporte - Cartão Bertioga Municipal;City - Bertioga;5,50;5;10;SP;Bertioga;12/08/2026
 15494;City - Votorantim - Cartão Municipal Votorantim;City - Votorantim;5,00;5;10;SP;Votorantim;07/07/2025
 6751;City Transporte - Cartão Guarujá Municipal;City Transporte;5,30;5;10;SP;Guarujá;18/02/2026
 8313;Condor Tur - Cartão Monte Alto Municipal;Condor Tur;3,00;5;10;SP;São Paulo;14/07/2020
@@ -2430,7 +2431,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8403;JTP Transportes - Cartão Urbano Bragança Paulista;JTP Transportes - Bragança Paulista;6,50;5;10;SP;Bragança Paulista;02/01/2026
 178;JTU Jacareí- Cartão Jacareí Urbano / Jacareí e Região;JTU Jacareí;8,06;5;10;SP;Jacareí;06/05/2026
 15367;JTU Jacareí - Cartão Jacareí Urbano Variável;JTU Jacareí;0,01;5;10;SP;Jacareí;20/09/2024
-355;JTU Santa Branca - Cartão Santa Branca X Jacareí / Jacareí e Região;JTU Santa Branca;6,10;5;10;SP;Jacareí;27/01/2026
 16051;Jundiá - Cartão Municipal Mairinque;Jundiá - Mairinque - QR-Code;8,00;5;10;SP;Mairinque;02/07/2026
 16050;Jundiá - Cartão Municipal São Roque;Jundiá - São Roque - QR-Code;8,00;5;10;SP;São Roque;02/07/2026
 5712;Lim MA - Cartão Municipal;Lim MA;4,30;5;10;SP;Mauá;28/12/2021
@@ -2988,6 +2988,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8401;Viação Jacareí - Cartão Viação Jacareí;Viação Jacareí;0,01;5;10;SP;São José dos Campos;01/01/2000
 10124;Viação Jacareí - Cartão Igaratá X Jacareí (via Dom Predo II) (Linha 5104);Viação Jacareí;7,95;5;10;SP;São José dos Campos;08/06/2026
 15368;Viação Jacareí - Cartão Variável;Viação Jacareí;0,01;5;10;SP;São José dos Campos;20/09/2024
+19823;Viação Jacareí - Cartão Jacareí e Região;Viação Jacareí;6,10;5;10;SP;São José dos Campos;12/08/2026
 2384;Viação Jauense - Cartão Jaú X Distrito de Potunduva;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 2385;Viação Jauense - Cartão Jaú;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 7422;Viação M M Souza - (Suburbano) - Cartão Capivari X Rafard (Suburbano);Viação M M Souza - (Suburbano) - PIX;6,00;5;10;SP;Capivari;30/07/2026

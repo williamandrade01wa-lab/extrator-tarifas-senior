@@ -14016,6 +14016,14 @@
         "cidade": "Caçapava"
     },
     {
+        "codigo": "19822",
+        "nome": "Viação Jacareí - Cartão Jacareí e Região",
+        "fornecedor": "ABC Caçapava",
+        "valor": "6,10",
+        "uf": "SP",
+        "cidade": "Caçapava"
+    },
+    {
         "codigo": "213",
         "nome": "ABC Transportes - Cartão Taubaté Municipal",
         "fornecedor": "ABC Transportes",
@@ -15643,7 +15651,7 @@
         "codigo": "8527",
         "nome": "City Transporte - Cartão Bertioga Municipal",
         "fornecedor": "City - Bertioga",
-        "valor": "5,00",
+        "valor": "5,50",
         "uf": "SP",
         "cidade": "Bertioga"
     },
@@ -19444,14 +19452,6 @@
         "nome": "JTU Jacareí - Cartão Jacareí Urbano Variável",
         "fornecedor": "JTU Jacareí",
         "valor": "0,01",
-        "uf": "SP",
-        "cidade": "Jacareí"
-    },
-    {
-        "codigo": "355",
-        "nome": "JTU Santa Branca - Cartão Santa Branca X Jacareí / Jacareí e Região",
-        "fornecedor": "JTU Santa Branca",
-        "valor": "6,10",
         "uf": "SP",
         "cidade": "Jacareí"
     },
@@ -23908,6 +23908,14 @@
         "nome": "Viação Jacareí - Cartão Variável",
         "fornecedor": "Viação Jacareí",
         "valor": "0,01",
+        "uf": "SP",
+        "cidade": "São José dos Campos"
+    },
+    {
+        "codigo": "19823",
+        "nome": "Viação Jacareí - Cartão Jacareí e Região",
+        "fornecedor": "Viação Jacareí",
+        "valor": "6,10",
         "uf": "SP",
         "cidade": "São José dos Campos"
     },
