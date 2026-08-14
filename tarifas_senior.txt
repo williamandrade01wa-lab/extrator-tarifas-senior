@@ -877,10 +877,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16043;Borborema - Ribeirão X Palmeiras (Linha 1101.0);Borborema;12,00;5;10;PE;Recife;27/08/2025
 8240;Borborema - Cartão Bezerros X Gravatá (Linha 0803);Borborema - Bezerros/Gravatá (Linha 0803);10,00;5;10;PE;Recife;06/03/2026
 9823;Borborema - Cartão Bonança X Vitória (Via BR232);Borborema - Bonança/Vitória (Via BR232);10,00;5;10;PE;Recife;20/02/2026
-9808;Borborema - Cartão Escada X Escada;Borborema - Escada/Escada;6,00;5;10;PE;Recife;20/02/2026
-5245;Borborema - Cartão Escada X Fontes dos Carvalhos;Borborema - Escada/Fontes dos Carvalhos;15,00;5;10;PE;Recife;20/02/2026
-9825;Borborema - Cartão Escada X Frexeiras;Borborema - Escada/Frexeiras;8,00;5;10;PE;Recife;20/02/2026
-7536;Borborema - Cartão Escada X Primavera (Linha 1313);Borborema - Escada/Primavera (Linha 1313);8,00;5;10;PE;Recife;01/07/2025
+9808;Borborema - Cartão Escada X Escada;Borborema - Escada/Escada;10,00;5;10;PE;Recife;13/08/2026
+5245;Borborema - Cartão Escada X Fontes dos Carvalhos;Borborema - Escada/Fontes dos Carvalhos;16,00;5;10;PE;Recife;13/08/2026
+9825;Borborema - Cartão Escada X Frexeiras;Borborema - Escada/Frexeiras;10,00;5;10;PE;Recife;13/08/2026
+7536;Borborema - Cartão Escada X Primavera (Linha 1313);Borborema - Escada/Primavera (Linha 1313);10,00;5;10;PE;Recife;13/08/2026
 5246;Borborema - Cartão Escada X Recife;Borborema - Escada/Recife;22,00;5;10;PE;Recife;22/07/2026
 9809;Borborema - Cartão Escada X Timboassú;Borborema - Escada/Timboassú;10,00;5;10;PE;Recife;08/08/2026
 9824;Borborema - Cartão Frexeiras X Aripibú;Borborema - Frexeiras/Aripibú;10,00;5;10;PE;Recife;03/10/2024
@@ -1776,28 +1776,28 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19739;Repasse - Cartão Municipal Barueri (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;12/06/2026
 19741;Repasse - Cartão Barueri Integração (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;12/06/2026
 1828;AMTU Marilia - Marília Card;AMTU Marilia;5,75;5;10;SP;Marilia;02/05/2024
-816;Andorinha - Cartão Presidente Prudente X Venceslau;Andorinha;17,55;5;10;SP;Presidente Prudente;15/07/2026
+816;Andorinha - Cartão Presidente Prudente X Venceslau;Andorinha;17,80;5;10;SP;Presidente Prudente;13/08/2026
 2343;Andorinha - Cartão Santo Anastácio X Presidente Prudente (com pedágio) (ida e volta);Andorinha;10,60;5;10;SP;Presidente Prudente;07/08/2026
 2395;Andorinha - Cartão Presidente Prudente X Presidente Bernardes / São Paulo;Andorinha;9,00;5;10;SP;Presidente Prudente;15/07/2026
-2396;Andorinha - Cartão Presidente Prudente X Presidente Venceslau (com pedágio) / São Paulo;Andorinha;17,55;5;10;SP;Presidente Prudente;15/07/2026
-2398;Andorinha - Cartão Presidente Prudente X Presidente Epitácio (com pedágio) / São Paulo;Andorinha;29,20;5;10;SP;Presidente Prudente;15/07/2026
+2396;Andorinha - Cartão Presidente Prudente X Presidente Venceslau (com pedágio) / São Paulo;Andorinha;17,80;5;10;SP;Presidente Prudente;13/08/2026
+2398;Andorinha - Cartão Presidente Prudente X Presidente Epitácio (com pedágio) / São Paulo;Andorinha;29,65;5;10;SP;Presidente Prudente;13/08/2026
 2399;Andorinha - Cartão Presidente Prudente X Álvares Machado / São Paulo;Andorinha;9,00;5;10;SP;Presidente Prudente;15/07/2026
-2401;Andorinha - Cartão Presidente Prudente X Piquerobi (com pedágio) / São Paulo;Andorinha;16,20;5;10;SP;Presidente Prudente;15/07/2026
-2403;Andorinha - Cartão Presidente Prudente X Caiuá (com pedágio) / São Paulo;Andorinha;22,10;5;10;SP;Presidente Prudente;15/07/2026
-2406;Andorinha - Cartão Santo Anastácio X Presidente Bernardes com pedágio) / São Paulo;Andorinha;10,35;5;10;SP;Presidente Prudente;15/07/2026
+2401;Andorinha - Cartão Presidente Prudente X Piquerobi (com pedágio) / São Paulo;Andorinha;16,45;5;10;SP;Presidente Prudente;13/08/2026
+2403;Andorinha - Cartão Presidente Prudente X Caiuá (com pedágio) / São Paulo;Andorinha;22,40;5;10;SP;Presidente Prudente;13/08/2026
+2406;Andorinha - Cartão Santo Anastácio X Presidente Bernardes com pedágio) / São Paulo;Andorinha;10,60;5;10;SP;Presidente Prudente;13/08/2026
 2408;Andorinha - Cartão Santo Anastácio X Presidente Venceslau (Suburbano);Andorinha;8,65;5;10;SP;Presidente Prudente;15/07/2026
-2410;Andorinha - Cartão Santo Anastácio X Presidente Epitácio (com pedágio) (Suburbano);Andorinha;18,55;5;10;SP;Presidente Prudente;15/07/2026
-2414;Andorinha - Cartão Santo Anastácio X Álvares Machado (com pedágio) / São Paulo;Andorinha;10,35;5;10;SP;Presidente Prudente;15/07/2026
-2417;Andorinha - Cartão Presidente Epitácio X Presidente Prudente (com pedágio) / São Paulo;Andorinha;29,20;5;10;SP;Presidente Prudente;15/07/2026
-2421;Andorinha - Cartão Presidente Epitácio X Presidente Venceslau (com pedágio) / São Paulo;Andorinha;13,10;5;10;SP;Presidente Prudente;15/07/2026
-2422;Andorinha - Cartão Presidente Epitácio X Presidente Bernardes (com pedágio) / São Paulo;Andorinha;24,40;5;10;SP;Presidente Prudente;15/07/2026
-2423;Andorinha - Cartão Presidente Epitácio X Santo Anastácio (com pedágio) / São Paulo;Andorinha;18,55;5;10;SP;Presidente Prudente;15/07/2026
-2424;Andorinha - Cartão Presidente Epitácio X Álvares Machado (com pedágio) / São Paulo;Andorinha;27,00;5;10;SP;Presidente Prudente;15/07/2026
-2426;Andorinha - Cartão Presidente Bernardes X Presidente Venceslau (com pedágio) / São Paulo;Andorinha;13,45;5;10;SP;Presidente Prudente;15/07/2026
-2427;Andorinha - Cartão Presidente Bernardes X Epitácio (com pedágio) / São Paulo;Andorinha;24,40;5;10;SP;Presidente Prudente;15/07/2026
-2428;Andorinha - Cartão Presidente Bernardes X Santo Anastácio (com pedágio) / São Paulo;Andorinha;10,35;5;10;SP;Presidente Prudente;15/07/2026
+2410;Andorinha - Cartão Santo Anastácio X Presidente Epitácio (com pedágio) (Suburbano);Andorinha;18,75;5;10;SP;Presidente Prudente;13/08/2026
+2414;Andorinha - Cartão Santo Anastácio X Álvares Machado (com pedágio) / São Paulo;Andorinha;10,60;5;10;SP;Presidente Prudente;13/08/2026
+2417;Andorinha - Cartão Presidente Epitácio X Presidente Prudente (com pedágio) / São Paulo;Andorinha;29,65;5;10;SP;Presidente Prudente;13/08/2026
+2421;Andorinha - Cartão Presidente Epitácio X Presidente Venceslau (com pedágio) / São Paulo;Andorinha;13,30;5;10;SP;Presidente Prudente;13/08/2026
+2422;Andorinha - Cartão Presidente Epitácio X Presidente Bernardes (com pedágio) / São Paulo;Andorinha;24,90;5;10;SP;Presidente Prudente;13/08/2026
+2423;Andorinha - Cartão Presidente Epitácio X Santo Anastácio (com pedágio) / São Paulo;Andorinha;18,75;5;10;SP;Presidente Prudente;13/08/2026
+2424;Andorinha - Cartão Presidente Epitácio X Álvares Machado (com pedágio) / São Paulo;Andorinha;27,50;5;10;SP;Presidente Prudente;13/08/2026
+2426;Andorinha - Cartão Presidente Bernardes X Presidente Venceslau (com pedágio) / São Paulo;Andorinha;13,70;5;10;SP;Presidente Prudente;13/08/2026
+2427;Andorinha - Cartão Presidente Bernardes X Epitácio (com pedágio) / São Paulo;Andorinha;24,90;5;10;SP;Presidente Prudente;13/08/2026
+2428;Andorinha - Cartão Presidente Bernardes X Santo Anastácio (com pedágio) / São Paulo;Andorinha;10,60;5;10;SP;Presidente Prudente;13/08/2026
 2429;Andorinha - Cartão Presidente Bernardes X Álvares Machado / São Paulo;Andorinha;9,00;5;10;SP;Presidente Prudente;15/07/2026
-5334;Andorinha - Cartão Caiuá X Presidente Epitácio;Andorinha;10,00;5;10;SP;Presidente Prudente;15/07/2026
+5334;Andorinha - Cartão Caiuá X Presidente Epitácio;Andorinha;10,20;5;10;SP;Presidente Prudente;13/08/2026
 6301;Andorinha - Cartão Presidente Venceslau X Piquerobi;Andorinha;7,95;5;10;SP;Presidente Prudente;15/07/2026
 10287;Andorinha - Cartão Caiuá X Presidente Venceslau;Andorinha;7,95;5;10;SP;Presidente Prudente;15/07/2026
 856;Andorinha - Cartão Andorinha Urbano;Andorinha (Corumbá) (Sistema Novo);3,70;5;10;SP;Presidente Prudente;22/02/2018
@@ -2284,7 +2284,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5620;Expresso Itamarati - Cartão Mirassol X São José do Rio Preto;Expresso Itamarati;7,60;5;10;SP;São José do Rio Preto;27/07/2026
 5627;Expresso Itamarati - Cartão Jaboticabal X Ribeirão Preto;Expresso Itamarati;18,30;5;10;SP;São José do Rio Preto;03/07/2025
 5628;Expresso Itamarati - Cartão São José do Rio Preto X Ibirá;Expresso Itamarati;11,55;5;10;SP;São José do Rio Preto;03/07/2025
-5629;Expresso Itamarati - Cartão Ribeirão Preto X Barrinha (Suburbano);Expresso Itamarati;11,25;5;10;SP;São José do Rio Preto;03/07/2025
+5629;Expresso Itamarati - Cartão Ribeirão Preto X Barrinha (Suburbano);Expresso Itamarati;11,80;5;10;SP;São José do Rio Preto;13/08/2026
 5630;Expresso Itamarati - Cartão São José do Rio Preto X Ecatu - Circular;Expresso Itamarati;14,20;5;10;SP;São José do Rio Preto;03/07/2025
 5632;Expresso Itamarati - Cartão São José do Rio Preto X Icém;Expresso Itamarati;19,75;5;10;SP;São José do Rio Preto;03/07/2025
 5633;Expresso Itamarati - Cartão São José do Rio Preto X Urupês;Expresso Itamarati;15,50;5;10;SP;São José do Rio Preto;03/07/2025
@@ -2418,7 +2418,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8879;Jandaia - Cartão Presidente Prudente X Alfredo Marcondes;Jandaia;9,00;5;10;SP;Presidente Prudente;06/07/2026
 9144;Jandaia - Cartão Presidente Prudente X Narandiba;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
 9684;Jandaia - Cartão Tarabai X Presidente Prudente;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
-10264;Jandaia - Cartão Presidente Prudente x Parque dos Pinheiros;Jandaia;5,70;5;10;SP;Presidente Prudente;05/07/2023
+10264;Jandaia - Cartão Presidente Prudente x Parque dos Pinheiros;Jandaia;6,95;5;10;SP;Presidente Prudente;13/08/2026
 15357;Jandaia - Estrela do Norte X Presidente Prudente;Jandaia;14,85;5;10;SP;Presidente Prudente;06/07/2026
 19511;Jandaia - Cartão Adamantina X Mariápolis (Linha 011);Jandaia;7,95;5;10;SP;Presidente Prudente;06/07/2026
 9359;Jodi - Cartão Itaboa X Lajeado;Jodi;7,85;5;10;SP;Itapeva;19/02/2025
@@ -2669,13 +2669,13 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10780;Rápido Campinas (Artesp) - Avaré - Cartão Avaré X São Manuel;Rápido Campinas (Artesp) - Avaré;22,50;5;10;SP;Avaré;07/07/2025
 264;Rápido D Oeste - Cartão Cravinho X Ribeirão Preto;Rápido D Oeste;8,65;5;10;SP;Ribeirão Preto;15/07/2026
 2257;Rápido D Oeste - Cartão Luiz Antonio X Ribeirão Preto / Osasco e Barueri;Rápido D Oeste;17,55;5;10;SP;Ribeirão Preto;15/07/2026
-3854;Rápido D Oeste - Cartão Ribeirão Preto x Sertãozinho;Rápido D Oeste;9,25;5;10;SP;Ribeirão Preto;15/07/2026
+3854;Rápido D Oeste - Cartão Ribeirão Preto x Sertãozinho;Rápido D Oeste;9,40;5;10;SP;Ribeirão Preto;13/08/2026
 4603;Rápido D Oeste - Cartão Ribeirão Preto X Cruz das Posses (Sub);Rápido D Oeste;9,00;5;10;SP;Ribeirão Preto;15/07/2026
-5103;Rápido D Oeste - Cartão Ribeirão Preto X Pontal;Rápido D Oeste;9,25;5;10;SP;Ribeirão Preto;15/07/2026
+5103;Rápido D Oeste - Cartão Ribeirão Preto X Pontal;Rápido D Oeste;9,40;5;10;SP;Ribeirão Preto;13/08/2026
 5106;Rápido D Oeste - Cartão Sertãozinho X Pontal;Rápido D Oeste;8,45;5;10;SP;Ribeirão Preto;17/07/2024
 6717;Rápido D Oeste - Cartão Ribeirão Preto X Jardinópolis;Rápido D Oeste;8,70;5;10;SP;Ribeirão Preto;15/07/2026
 9727;Rápido D Oeste - Cartão Ribeirão Preto X Cravinhos;Rápido D Oeste;8,65;5;10;SP;Ribeirão Preto;15/07/2026
-9901;Rápido D Oeste - Cartão Pontal X Candia;Rápido D Oeste;9,40;5;10;SP;Ribeirão Preto;15/07/2026
+9901;Rápido D Oeste - Cartão Pontal X Candia;Rápido D Oeste;9,25;5;10;SP;Ribeirão Preto;13/08/2026
 730;Rápido Fênix - Cartão Itatiba X Bragança (nominal);Rápido Fênix;14,90;5;10;SP;Itatiba;18/06/2026
 788;Rápido Fênix - Cartão Itatiba X Jundiaí (nominal);Rápido Fênix;10,10;5;10;SP;Itatiba;22/07/2026
 4149;Rápido Fênix - Cartão Bragança Paulista X São Sebastião (nominal);Rápido Fênix;10,40;5;10;SP;Itatiba;07/07/2025
@@ -2899,8 +2899,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9706;VB Transportes - Cartão Circular Rio Claro X Itirapina;VB Transportes;12,75;5;10;SP;Campinas;07/07/2025
 9707;VB Transportes - Cartão Limeira X Cosmópolis;VB Transportes;8,95;5;10;SP;Campinas;07/07/2025
 9708;VB Transportes - Cartão Limeira X Iracemápolis;VB Transportes;7,25;5;10;SP;Campinas;07/07/2025
-9709;VB Transportes - Cartão Elias Fausto X Indaiatuba;VB Transportes;7,55;5;10;SP;Campinas;07/07/2025
-9710;VB Transportes - Cartão Capivari X Elias Fausto;VB Transportes;7,55;5;10;SP;Campinas;07/07/2025
+9709;VB Transportes - Cartão Elias Fausto X Indaiatuba;VB Transportes;9,00;5;10;SP;Campinas;13/08/2026
+9710;VB Transportes - Cartão Capivari X Elias Fausto;VB Transportes;7,95;5;10;SP;Campinas;13/08/2026
 9711;VB Transportes - Cartão Indaiatuba X Cardeal;VB Transportes;7,55;5;10;SP;Campinas;07/07/2025
 10802;VB Transportes - Cartão Piracicaba X Rio Claro;VB Transportes;13,85;5;10;SP;Campinas;07/07/2025
 1325;Viação Atibaia São Paulo - Cartão Suburbano - Vai Legal / São Paulo;Viação Atibaia São Paulo;0,01;5;10;SP;Atibaia;01/01/2000
@@ -2948,13 +2948,13 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9018;Viação Itaqueri - Cartão Cerquilho X Tatuí (sem seguro);Viação Itaqueri - QR-Code;13,20;5;10;SP;Piracicaba;28/07/2026
 9019;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (com seguro);Viação Itaqueri - QR-Code;16,90;5;10;SP;Piracicaba;28/07/2026
 9020;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;15,60;5;10;SP;Piracicaba;28/07/2026
-9021;Viação Itaqueri - Cartão Piracicaba X São Pedro (com seguro);Viação Itaqueri - QR-Code;22,15;5;10;SP;Piracicaba;28/07/2026
-9022;Viação Itaqueri - Cartão Piracicaba X São Pedro (sem seguro);Viação Itaqueri - QR-Code;20,85;5;10;SP;Piracicaba;15/07/2026
+9021;Viação Itaqueri - Cartão Piracicaba X São Pedro (com seguro);Viação Itaqueri - QR-Code;22,55;5;10;SP;Piracicaba;13/08/2026
+9022;Viação Itaqueri - Cartão Piracicaba X São Pedro (sem seguro);Viação Itaqueri - QR-Code;21,25;5;10;SP;Piracicaba;13/08/2026
 9023;Viação Itaqueri - Cartão Piracicaba X Sítio Novo;Viação Itaqueri - QR-Code;12,05;5;10;SP;Piracicaba;07/07/2025
 9024;Viação Itaqueri - Cartão Piracicaba X Tietê (sem seguro);Viação Itaqueri - QR-Code;23,50;5;10;SP;Piracicaba;28/07/2026
 9025;Viação Itaqueri - Cartão São Pedro X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;6,90;5;10;SP;Piracicaba;28/07/2026
-9026;Viação Itaqueri - Cartão São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;20,95;5;10;SP;Piracicaba;15/07/2026
-9027;Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;19,65;5;10;SP;Piracicaba;28/07/2026
+9026;Viação Itaqueri - Cartão São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;21,30;5;10;SP;Piracicaba;13/08/2026
+9027;Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;20,00;5;10;SP;Piracicaba;13/08/2026
 9028;Viação Itaqueri - Cartão Sítio Novo X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;10,70;5;10;SP;Piracicaba;07/07/2025
 9029;Viação Itaqueri - Cartão Tatuí X Cerquilho (sem seguro);Viação Itaqueri - QR-Code;13,40;5;10;SP;Piracicaba;28/07/2026
 9030;Viação Itaqueri - Cartão Tietê X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;22,55;5;10;SP;Piracicaba;28/07/2026
@@ -2967,28 +2967,28 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15475;Viação Itaqueri - Cartão Piracicaba X Cerquilho (sem seguro);Viação Itaqueri - QR-Code;27,75;5;10;SP;Piracicaba;28/07/2026
 7439;Viação Itupeva - Cartão Itupeva Urbano;Viação Itupeva;4,50;5;10;SP;Itupeva;28/11/2022
 16279;Viação Itupeva - Mococa - Eletrônico - Cartão Municipal Mococa;Viação Itupeva - Mococa - Eletrônico;3,00;5;10;SP;;26/11/2025
-2173;Viação Jacareí - Cartão São José dos Campos X Jacareí (Estrada Velha) (Linha 5116);Viação Jacareí;6,80;5;10;SP;São José dos Campos;07/01/2026
-2175;Viação Jacareí - Cartão São José dos Campos X Jacareí (via Dutra) (Linha 5114);Viação Jacareí;6,30;5;10;SP;São José dos Campos;07/01/2026
-2176;Viação Jacareí - Cartão São José dos Campos X Caçapava (Linha 5117);Viação Jacareí;6,35;5;10;SP;São José dos Campos;07/01/2026
-5822;Viação Jacareí - Cartão Jacareí X Igaratá (Artesp);Viação Jacareí;13,35;5;10;SP;São José dos Campos;26/01/2024
-7531;Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Cidade) (Artesp);Viação Jacareí;8,65;5;10;SP;São José dos Campos;17/07/2026
-7533;Viação Jacareí - Cartão Guararema (Lambarí) X Jacareí (Artesp);Viação Jacareí;11,50;5;10;SP;São José dos Campos;17/07/2026
-7534;Viação Jacareí - Cartão Guararema X Jacareí (Artesp);Viação Jacareí;9,00;5;10;SP;São José dos Campos;17/07/2026
-7535;Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via S.Silvestre) (Artesp);Viação Jacareí;16,20;5;10;SP;São José dos Campos;17/07/2026
-7860;Viação Jacareí - Cartão Guararema (Parateí) X Jacareí (Artesp);Viação Jacareí;8,35;5;10;SP;São José dos Campos;17/07/2026
-7871;Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via Leste - SP70) (Artesp);Viação Jacareí;19,00;5;10;SP;São José dos Campos;17/07/2026
-7872;Viação Jacareí - Cartão Guararema (Maracatú) X Jacareí (Artesp);Viação Jacareí;9,75;5;10;SP;São José dos Campos;17/07/2026
-7873;Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Lambarí) (Artesp);Viação Jacareí;9,05;5;10;SP;São José dos Campos;17/07/2026
-7876;Viação Jacareí - Cartão Jacareí X Santa Isabel (Artesp);Viação Jacareí;10,50;5;10;SP;São José dos Campos;17/07/2026
-7877;Viação Jacareí - Cartão Santa Isabel X Igaratá (Artesp);Viação Jacareí;7,95;5;10;SP;São José dos Campos;17/07/2026
-7961;Viação Jacareí - Cartão Guararema (Parateí) X Santa Isabel (Artesp);Viação Jacareí;7,35;5;10;SP;São José dos Campos;17/07/2026
-8104;Viação Jacareí - Cartão Igr. Remédios X Mogi das Cruzes (Artesp);Viação Jacareí;9,95;5;10;SP;São José dos Campos;26/01/2024
-8107;Viação Jacareí - Cartão Guararema X São Silvestre (Artesp);Viação Jacareí;7,60;5;10;SP;São José dos Campos;17/07/2026
-8108;Viação Jacareí - Cartão São Silvestre X Mogi das Cruzes (Artesp);Viação Jacareí;13,50;5;10;SP;São José dos Campos;17/07/2026
-8401;Viação Jacareí - Cartão Viação Jacareí;Viação Jacareí;0,01;5;10;SP;São José dos Campos;01/01/2000
-10124;Viação Jacareí - Cartão Igaratá X Jacareí (via Dom Predo II) (Linha 5104);Viação Jacareí;7,95;5;10;SP;São José dos Campos;08/06/2026
-15368;Viação Jacareí - Cartão Variável;Viação Jacareí;0,01;5;10;SP;São José dos Campos;20/09/2024
-19823;Viação Jacareí - Cartão Jacareí e Região;Viação Jacareí;6,10;5;10;SP;São José dos Campos;12/08/2026
+2173;Viação Jacareí - Cartão São José dos Campos X Jacareí (Estrada Velha) (Linha 5116);Viação Jacareí;6,80;5;10;SP;Jacareí;07/01/2026
+2175;Viação Jacareí - Cartão São José dos Campos X Jacareí (via Dutra) (Linha 5114);Viação Jacareí;6,30;5;10;SP;Jacareí;07/01/2026
+2176;Viação Jacareí - Cartão São José dos Campos X Caçapava (Linha 5117);Viação Jacareí;6,35;5;10;SP;Jacareí;07/01/2026
+5822;Viação Jacareí - Cartão Jacareí X Igaratá (Artesp);Viação Jacareí;13,35;5;10;SP;Jacareí;26/01/2024
+7531;Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Cidade) (Artesp);Viação Jacareí;8,65;5;10;SP;Jacareí;17/07/2026
+7533;Viação Jacareí - Cartão Guararema (Lambarí) X Jacareí (Artesp);Viação Jacareí;11,50;5;10;SP;Jacareí;17/07/2026
+7534;Viação Jacareí - Cartão Guararema X Jacareí (Artesp);Viação Jacareí;9,00;5;10;SP;Jacareí;17/07/2026
+7535;Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via S.Silvestre) (Artesp);Viação Jacareí;16,20;5;10;SP;Jacareí;17/07/2026
+7860;Viação Jacareí - Cartão Guararema (Parateí) X Jacareí (Artesp);Viação Jacareí;8,35;5;10;SP;Jacareí;17/07/2026
+7871;Viação Jacareí - Cartão Mogi das Cruzes X Jacareí (Via Leste - SP70) (Artesp);Viação Jacareí;19,00;5;10;SP;Jacareí;17/07/2026
+7872;Viação Jacareí - Cartão Guararema (Maracatú) X Jacareí (Artesp);Viação Jacareí;9,75;5;10;SP;Jacareí;17/07/2026
+7873;Viação Jacareí - Cartão Mogi das Cruzes X Guararema (Lambarí) (Artesp);Viação Jacareí;9,05;5;10;SP;Jacareí;17/07/2026
+7876;Viação Jacareí - Cartão Jacareí X Santa Isabel (Artesp);Viação Jacareí;10,50;5;10;SP;Jacareí;17/07/2026
+7877;Viação Jacareí - Cartão Santa Isabel X Igaratá (Artesp);Viação Jacareí;7,95;5;10;SP;Jacareí;17/07/2026
+7961;Viação Jacareí - Cartão Guararema (Parateí) X Santa Isabel (Artesp);Viação Jacareí;7,35;5;10;SP;Jacareí;17/07/2026
+8104;Viação Jacareí - Cartão Igr. Remédios X Mogi das Cruzes (Artesp);Viação Jacareí;9,95;5;10;SP;Jacareí;26/01/2024
+8107;Viação Jacareí - Cartão Guararema X São Silvestre (Artesp);Viação Jacareí;7,60;5;10;SP;Jacareí;17/07/2026
+8108;Viação Jacareí - Cartão São Silvestre X Mogi das Cruzes (Artesp);Viação Jacareí;13,50;5;10;SP;Jacareí;17/07/2026
+8401;Viação Jacareí - Cartão Viação Jacareí;Viação Jacareí;0,01;5;10;SP;Jacareí;01/01/2000
+10124;Viação Jacareí - Cartão Igaratá X Jacareí (via Dom Predo II) (Linha 5104);Viação Jacareí;7,95;5;10;SP;Jacareí;08/06/2026
+15368;Viação Jacareí - Cartão Variável;Viação Jacareí;0,01;5;10;SP;Jacareí;20/09/2024
+19823;Viação Jacareí - Cartão Jacareí e Região;Viação Jacareí;6,10;5;10;SP;Jacareí;12/08/2026
 2384;Viação Jauense - Cartão Jaú X Distrito de Potunduva;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 2385;Viação Jauense - Cartão Jaú;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 7422;Viação M M Souza - (Suburbano) - Cartão Capivari X Rafard (Suburbano);Viação M M Souza - (Suburbano) - PIX;6,00;5;10;SP;Capivari;30/07/2026

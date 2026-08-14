@@ -7027,7 +7027,7 @@
         "codigo": "9808",
         "nome": "Borborema - Cartão Escada X Escada",
         "fornecedor": "Borborema - Escada/Escada",
-        "valor": "6,00",
+        "valor": "10,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -7035,7 +7035,7 @@
         "codigo": "5245",
         "nome": "Borborema - Cartão Escada X Fontes dos Carvalhos",
         "fornecedor": "Borborema - Escada/Fontes dos Carvalhos",
-        "valor": "15,00",
+        "valor": "16,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -7043,7 +7043,7 @@
         "codigo": "9825",
         "nome": "Borborema - Cartão Escada X Frexeiras",
         "fornecedor": "Borborema - Escada/Frexeiras",
-        "valor": "8,00",
+        "valor": "10,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -7051,7 +7051,7 @@
         "codigo": "7536",
         "nome": "Borborema - Cartão Escada X Primavera (Linha 1313)",
         "fornecedor": "Borborema - Escada/Primavera (Linha 1313)",
-        "valor": "8,00",
+        "valor": "10,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -14219,7 +14219,7 @@
         "codigo": "816",
         "nome": "Andorinha - Cartão Presidente Prudente X Venceslau",
         "fornecedor": "Andorinha",
-        "valor": "17,55",
+        "valor": "17,80",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14243,7 +14243,7 @@
         "codigo": "2396",
         "nome": "Andorinha - Cartão Presidente Prudente X Presidente Venceslau (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "17,55",
+        "valor": "17,80",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14251,7 +14251,7 @@
         "codigo": "2398",
         "nome": "Andorinha - Cartão Presidente Prudente X Presidente Epitácio (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "29,20",
+        "valor": "29,65",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14267,7 +14267,7 @@
         "codigo": "2401",
         "nome": "Andorinha - Cartão Presidente Prudente X Piquerobi (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "16,20",
+        "valor": "16,45",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14275,7 +14275,7 @@
         "codigo": "2403",
         "nome": "Andorinha - Cartão Presidente Prudente X Caiuá (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "22,10",
+        "valor": "22,40",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14283,7 +14283,7 @@
         "codigo": "2406",
         "nome": "Andorinha - Cartão Santo Anastácio X Presidente Bernardes com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "10,35",
+        "valor": "10,60",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14299,7 +14299,7 @@
         "codigo": "2410",
         "nome": "Andorinha - Cartão Santo Anastácio X Presidente Epitácio (com pedágio) (Suburbano)",
         "fornecedor": "Andorinha",
-        "valor": "18,55",
+        "valor": "18,75",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14307,7 +14307,7 @@
         "codigo": "2414",
         "nome": "Andorinha - Cartão Santo Anastácio X Álvares Machado (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "10,35",
+        "valor": "10,60",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14315,7 +14315,7 @@
         "codigo": "2417",
         "nome": "Andorinha - Cartão Presidente Epitácio X Presidente Prudente (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "29,20",
+        "valor": "29,65",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14323,7 +14323,7 @@
         "codigo": "2421",
         "nome": "Andorinha - Cartão Presidente Epitácio X Presidente Venceslau (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "13,10",
+        "valor": "13,30",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14331,7 +14331,7 @@
         "codigo": "2422",
         "nome": "Andorinha - Cartão Presidente Epitácio X Presidente Bernardes (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "24,40",
+        "valor": "24,90",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14339,7 +14339,7 @@
         "codigo": "2423",
         "nome": "Andorinha - Cartão Presidente Epitácio X Santo Anastácio (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "18,55",
+        "valor": "18,75",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14347,7 +14347,7 @@
         "codigo": "2424",
         "nome": "Andorinha - Cartão Presidente Epitácio X Álvares Machado (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "27,00",
+        "valor": "27,50",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14355,7 +14355,7 @@
         "codigo": "2426",
         "nome": "Andorinha - Cartão Presidente Bernardes X Presidente Venceslau (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "13,45",
+        "valor": "13,70",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14363,7 +14363,7 @@
         "codigo": "2427",
         "nome": "Andorinha - Cartão Presidente Bernardes X Epitácio (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "24,40",
+        "valor": "24,90",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14371,7 +14371,7 @@
         "codigo": "2428",
         "nome": "Andorinha - Cartão Presidente Bernardes X Santo Anastácio (com pedágio) / São Paulo",
         "fornecedor": "Andorinha",
-        "valor": "10,35",
+        "valor": "10,60",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -14387,7 +14387,7 @@
         "codigo": "5334",
         "nome": "Andorinha - Cartão Caiuá X Presidente Epitácio",
         "fornecedor": "Andorinha",
-        "valor": "10,00",
+        "valor": "10,20",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -18283,7 +18283,7 @@
         "codigo": "5629",
         "nome": "Expresso Itamarati - Cartão Ribeirão Preto X Barrinha (Suburbano)",
         "fornecedor": "Expresso Itamarati",
-        "valor": "11,25",
+        "valor": "11,80",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -19355,7 +19355,7 @@
         "codigo": "10264",
         "nome": "Jandaia - Cartão Presidente Prudente x Parque dos Pinheiros",
         "fornecedor": "Jandaia",
-        "valor": "5,70",
+        "valor": "6,95",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -21363,7 +21363,7 @@
         "codigo": "3854",
         "nome": "Rápido D Oeste - Cartão Ribeirão Preto x Sertãozinho",
         "fornecedor": "Rápido D Oeste",
-        "valor": "9,25",
+        "valor": "9,40",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21379,7 +21379,7 @@
         "codigo": "5103",
         "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Pontal",
         "fornecedor": "Rápido D Oeste",
-        "valor": "9,25",
+        "valor": "9,40",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21411,7 +21411,7 @@
         "codigo": "9901",
         "nome": "Rápido D Oeste - Cartão Pontal X Candia",
         "fornecedor": "Rápido D Oeste",
-        "valor": "9,40",
+        "valor": "9,25",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -23203,7 +23203,7 @@
         "codigo": "9709",
         "nome": "VB Transportes - Cartão Elias Fausto X Indaiatuba",
         "fornecedor": "VB Transportes",
-        "valor": "7,55",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Campinas"
     },
@@ -23211,7 +23211,7 @@
         "codigo": "9710",
         "nome": "VB Transportes - Cartão Capivari X Elias Fausto",
         "fornecedor": "VB Transportes",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Campinas"
     },
@@ -23595,7 +23595,7 @@
         "codigo": "9021",
         "nome": "Viação Itaqueri - Cartão Piracicaba X São Pedro (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "22,15",
+        "valor": "22,55",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23603,7 +23603,7 @@
         "codigo": "9022",
         "nome": "Viação Itaqueri - Cartão Piracicaba X São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "20,85",
+        "valor": "21,25",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23635,7 +23635,7 @@
         "codigo": "9026",
         "nome": "Viação Itaqueri - Cartão São Pedro X Piracicaba (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "20,95",
+        "valor": "21,30",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23643,7 +23643,7 @@
         "codigo": "9027",
         "nome": "Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "19,65",
+        "valor": "20,00",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23749,7 +23749,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "6,80",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "2175",
@@ -23757,7 +23757,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "6,30",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "2176",
@@ -23765,7 +23765,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "6,35",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "5822",
@@ -23773,7 +23773,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "13,35",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7531",
@@ -23781,7 +23781,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "8,65",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7533",
@@ -23789,7 +23789,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "11,50",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7534",
@@ -23797,7 +23797,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "9,00",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7535",
@@ -23805,7 +23805,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "16,20",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7860",
@@ -23813,7 +23813,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "8,35",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7871",
@@ -23821,7 +23821,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "19,00",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7872",
@@ -23829,7 +23829,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "9,75",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7873",
@@ -23837,7 +23837,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "9,05",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7876",
@@ -23845,7 +23845,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "10,50",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7877",
@@ -23853,7 +23853,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "7,95",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "7961",
@@ -23861,7 +23861,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "7,35",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "8104",
@@ -23869,7 +23869,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "9,95",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "8107",
@@ -23877,7 +23877,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "7,60",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "8108",
@@ -23885,7 +23885,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "13,50",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "8401",
@@ -23893,7 +23893,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "0,01",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "10124",
@@ -23901,7 +23901,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "7,95",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "15368",
@@ -23909,7 +23909,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "0,01",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "19823",
@@ -23917,7 +23917,7 @@
         "fornecedor": "Viação Jacareí",
         "valor": "6,10",
         "uf": "SP",
-        "cidade": "São José dos Campos"
+        "cidade": "Jacareí"
     },
     {
         "codigo": "2384",
