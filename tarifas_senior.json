@@ -5153,9 +5153,9 @@
     },
     {
         "codigo": "9938",
-        "nome": "Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Roleta)",
+        "nome": "Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Executivo)",
         "fornecedor": "Paraibuna - QR-Code",
-        "valor": "9,45",
+        "valor": "10,20",
         "uf": "MG",
         "cidade": "Juiz de Fora"
     },
@@ -21412,6 +21412,22 @@
         "nome": "Rápido D Oeste - Cartão Pontal X Candia",
         "fornecedor": "Rápido D Oeste",
         "valor": "9,25",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19824",
+        "nome": "Rápido D Oeste - Cartão - Santa Cruz da Esperança X Ribeirão Preto",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "24,70",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19825",
+        "nome": "Rápido D Oeste - Cartão - Ribeirão Preto X Santa Cruz da Esperança",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "28,30",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },

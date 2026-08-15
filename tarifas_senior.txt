@@ -643,7 +643,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15161;Nova Esperança - Cartão Alfredo Vasconcelos X Barbacena;Nova Esperança;5,40;5;10;MG;Barbacena;03/10/2025
 15622;Nova Esperança - Cartão Campolide X Barbacena;Nova Esperança;5,40;5;10;MG;Barbacena;18/09/2025
 9937;Paraibuna (QR-Code) - Cartão Belmiro Braga X Park Sul;Paraibuna - QR-Code;11,45;5;10;MG;Juiz de Fora;04/09/2024
-9938;Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Roleta);Paraibuna - QR-Code;9,45;5;10;MG;Juiz de Fora;04/09/2024
+9938;Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Executivo);Paraibuna - QR-Code;10,20;5;10;MG;Juiz de Fora;14/08/2026
 9939;Paraibuna (QR-Code) - Cartão Juiz de Fora X Belmiro Braga;Paraibuna - QR-Code;15,95;5;10;MG;Juiz de Fora;04/09/2024
 9940;Paraibuna (QR-Code) - Cartão Juiz de Fora X Cataguases;Paraibuna - QR-Code;68,90;5;10;MG;Juiz de Fora;04/09/2024
 9941;Paraibuna (QR-Code) - Cartão Juiz de Fora X Park Sul;Paraibuna - QR-Code;3,75;5;10;MG;Juiz de Fora;28/12/2022
@@ -2676,6 +2676,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6717;Rápido D Oeste - Cartão Ribeirão Preto X Jardinópolis;Rápido D Oeste;8,70;5;10;SP;Ribeirão Preto;15/07/2026
 9727;Rápido D Oeste - Cartão Ribeirão Preto X Cravinhos;Rápido D Oeste;8,65;5;10;SP;Ribeirão Preto;15/07/2026
 9901;Rápido D Oeste - Cartão Pontal X Candia;Rápido D Oeste;9,25;5;10;SP;Ribeirão Preto;13/08/2026
+19824;Rápido D Oeste - Cartão - Santa Cruz da Esperança X Ribeirão Preto;Rápido D Oeste - Qr code;24,70;5;10;SP;Ribeirão Preto;14/08/2026
+19825;Rápido D Oeste - Cartão - Ribeirão Preto X Santa Cruz da Esperança;Rápido D Oeste - Qr code;28,30;5;10;SP;Ribeirão Preto;14/08/2026
 730;Rápido Fênix - Cartão Itatiba X Bragança (nominal);Rápido Fênix;14,90;5;10;SP;Itatiba;18/06/2026
 788;Rápido Fênix - Cartão Itatiba X Jundiaí (nominal);Rápido Fênix;10,10;5;10;SP;Itatiba;22/07/2026
 4149;Rápido Fênix - Cartão Bragança Paulista X São Sebastião (nominal);Rápido Fênix;10,40;5;10;SP;Itatiba;07/07/2025
