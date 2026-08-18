@@ -5595,7 +5595,7 @@
         "codigo": "5579",
         "nome": "Transfacil BH - Cartão Bhbus Metrô Origem Ônibus D (Linha L)",
         "fornecedor": "Transfácil",
-        "valor": "5,80",
+        "valor": "6,00",
         "uf": "MG",
         "cidade": "Belo Horizonte"
     },
@@ -11483,7 +11483,7 @@
         "codigo": "10556",
         "nome": "Valesul Porto Alegre - 557 Urbana – Sapucaia / Comunidade (Cidade Sapucaia do Sul)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "5,00",
+        "valor": "6,00",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -14020,6 +14020,30 @@
         "nome": "Viação Jacareí - Cartão Jacareí e Região",
         "fornecedor": "ABC Caçapava",
         "valor": "6,10",
+        "uf": "SP",
+        "cidade": "Caçapava"
+    },
+    {
+        "codigo": "19830",
+        "nome": "Rápido D Oeste - Itobi X São José do Rio Pardo",
+        "fornecedor": "ABC Caçapava",
+        "valor": "8,25",
+        "uf": "SP",
+        "cidade": "Caçapava"
+    },
+    {
+        "codigo": "19833",
+        "nome": "Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod)",
+        "fornecedor": "ABC Caçapava",
+        "valor": "31,70",
+        "uf": "SP",
+        "cidade": "Caçapava"
+    },
+    {
+        "codigo": "19836",
+        "nome": "Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras",
+        "fornecedor": "ABC Caçapava",
+        "valor": "11,00",
         "uf": "SP",
         "cidade": "Caçapava"
     },
@@ -21432,6 +21456,134 @@
         "cidade": "Ribeirão Preto"
     },
     {
+        "codigo": "19826",
+        "nome": "Rápido D Oeste - Cajuru X Ribeirão Preto",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "30,00",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19827",
+        "nome": "Rápido D Oeste - Bebedouro X Ribeirão Preto",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "38,35",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19828",
+        "nome": "Rápido D Oeste - Casa Branca X Palmeiras",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "10,05",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19829",
+        "nome": "Rápido D Oeste - Casa Branca X São José do Rio Pardo",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "14,65",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19831",
+        "nome": "Rápido D Oeste - Itobi X São José do Rio Pardo",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "8,25",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19832",
+        "nome": "Rápido D Oeste - Monte Azul Paulista X Bebedouro",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "8,95",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19834",
+        "nome": "Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod)",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "31,70",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19835",
+        "nome": "Rápido D Oeste - Olimpia X São José Do Rio Preto",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "22,95",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19837",
+        "nome": "Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "11,00",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19838",
+        "nome": "Rápido D Oeste - Ribeirão Preto X Bebedouro",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "38,35",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19839",
+        "nome": "Rápido D Oeste - Severina X Monte Azul Paulista",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "8,95",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19840",
+        "nome": "Rápido D Oeste - Ribeirão Preto X São João da Boa Vista",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "81,90",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19841",
+        "nome": "Rápido D Oeste - Severinia X Olimpia",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "6,95",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19842",
+        "nome": "Rápido D Oeste - Colina X Viradouro (Sub)",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "12,90",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19843",
+        "nome": "Rápido D Oeste - Jaboticabal X Bebedouro",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "13,30",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19844",
+        "nome": "Rápido D Oeste - São José do Rio Pardo X Mococa",
+        "fornecedor": "Rápido D Oeste - Qr code",
+        "valor": "14,35",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
         "codigo": "730",
         "nome": "Rápido Fênix - Cartão Itatiba X Bragança (nominal)",
         "fornecedor": "Rápido Fênix",
@@ -22139,7 +22291,7 @@
         "codigo": "8584",
         "nome": "Viação Sertanezina - Cartão Urbano Sertãozinho",
         "fornecedor": "Sertanezina",
-        "valor": "6,25",
+        "valor": "6,50",
         "uf": "SP",
         "cidade": "Sertãozinho"
     },
@@ -25323,7 +25475,7 @@
         "codigo": "8144",
         "nome": "Viação Trevisan - Cartão Piracicaba X Charqueada",
         "fornecedor": "Viação Trevisan",
-        "valor": "11,40",
+        "valor": "11,55",
         "uf": "SP",
         "cidade": "Piracicaba"
     },

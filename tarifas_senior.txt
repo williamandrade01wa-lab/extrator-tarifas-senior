@@ -698,7 +698,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3600;Transfacil BH - Cartão Bhbus - Ônibus B Meia Tarifa Origem Metrô (Linha N);Transfácil;4,10;5;10;MG;Belo Horizonte;02/01/2026
 3604;Transfacil BH - Cartão Bhbus Ônibus A - Integração Origem D (Linha W);Transfácil;6,25;5;10;MG;Belo Horizonte;02/01/2026
 3609;Transfacil BH - Cartão Bhbus Integração: A/M/P --> R (Linha J);Transfácil;4,15;5;10;MG;Belo Horizonte;02/01/2026
-5579;Transfacil BH - Cartão Bhbus Metrô Origem Ônibus D (Linha L);Transfácil;5,80;5;10;MG;Belo Horizonte;01/07/2025
+5579;Transfacil BH - Cartão Bhbus Metrô Origem Ônibus D (Linha L);Transfácil;6,00;5;10;MG;Belo Horizonte;17/08/2026
 7351;Transfacil BH - Cartão Bhbus - Tarifa B Integ Seq S Gabriel Volta B (Linha O);Transfácil;2,25;5;10;MG;Belo Horizonte;02/01/2026
 8935;Transfacil BH - Cartão BHBus;Transfácil;0,01;5;10;MG;Belo Horizonte;01/01/2000
 15064;Transluz - Cartão Municipal Nova Serrana;Transluz;5,00;5;10;MG;Nova Serrana;08/06/2026
@@ -1434,7 +1434,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10553;Valesul Porto Alegre - 156 Cmt – (Integrado) Metropolitana / Urbana (Consórcio Metropolitano De Transporte - 00013);Valesul - Porto Alegre;13,75;5;10;RS;Cachoeirinha;08/06/2026
 10554;Valesul Porto Alegre - 255/237 Viamão Municipal Urbana Vialeste (Viamão / Vialeste - 00012);Valesul - Porto Alegre;5,50;5;10;RS;Cachoeirinha;08/06/2026
 10555;Valesul Porto Alegre - 254 Poa – Viamão Executivo (Semi-Direto) (Viamão / Vialeste - 00012);Valesul - Porto Alegre;15,35;5;10;RS;Cachoeirinha;08/06/2026
-10556;Valesul Porto Alegre - 557 Urbana – Sapucaia / Comunidade (Cidade Sapucaia do Sul);Valesul - Porto Alegre;5,00;5;10;RS;Cachoeirinha;09/11/2023
+10556;Valesul Porto Alegre - 557 Urbana – Sapucaia / Comunidade (Cidade Sapucaia do Sul);Valesul - Porto Alegre;6,00;5;10;RS;Cachoeirinha;17/08/2026
 10557;Valesul Porto Alegre - 253 Viamão Mínima Metropolitana (Viamão / Vialeste - 00012);Valesul - Porto Alegre;5,50;5;10;RS;Cachoeirinha;08/06/2026
 10558;Valesul Porto Alegre - 601 Poa – Eldorado Do Sul/Sans Souci (Rio Guaíba - 00007);Valesul - Porto Alegre;8,70;5;10;RS;Cachoeirinha;08/06/2026
 10559;Valesul Porto Alegre - 602 Poa – Santa Rita / Cohab / Vila Ipê (Rio Guaíba - 00007);Valesul - Porto Alegre;11,00;5;10;RS;Cachoeirinha;08/06/2026
@@ -1752,6 +1752,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 7350;ABC Caçapava - Integração;ABC Caçapava;1,45;5;10;SP;Caçapava;10/07/2019
 19811;Teste;ABC Caçapava;7,00;5;10;SP;Caçapava;08/08/2026
 19822;Viação Jacareí - Cartão Jacareí e Região;ABC Caçapava;6,10;5;10;SP;Caçapava;12/08/2026
+19830;Rápido D Oeste - Itobi X São José do Rio Pardo;ABC Caçapava;8,25;5;10;SP;Caçapava;17/08/2026
+19833;Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod);ABC Caçapava;31,70;5;10;SP;Caçapava;17/08/2026
+19836;Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras;ABC Caçapava;11,00;5;10;SP;Caçapava;17/08/2026
 213;ABC Transportes - Cartão Taubaté Municipal;ABC Transportes;4,70;5;10;SP;Taubaté;08/03/2022
 10471;ABC Transportes - Cartão Taubaté X Pinda;ABC Transportes;6,45;5;10;SP;Taubaté;14/04/2026
 10472;ABC Transportes - Cartão Pindamonhangaba X Tremembé;ABC Transportes;4,10;5;10;SP;Taubaté;18/10/2023
@@ -2678,6 +2681,22 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9901;Rápido D Oeste - Cartão Pontal X Candia;Rápido D Oeste;9,25;5;10;SP;Ribeirão Preto;13/08/2026
 19824;Rápido D Oeste - Cartão - Santa Cruz da Esperança X Ribeirão Preto;Rápido D Oeste - Qr code;24,70;5;10;SP;Ribeirão Preto;14/08/2026
 19825;Rápido D Oeste - Cartão - Ribeirão Preto X Santa Cruz da Esperança;Rápido D Oeste - Qr code;28,30;5;10;SP;Ribeirão Preto;14/08/2026
+19826;Rápido D Oeste - Cajuru X Ribeirão Preto;Rápido D Oeste - Qr code;30,00;5;10;SP;Ribeirão Preto;14/08/2026
+19827;Rápido D Oeste - Bebedouro X Ribeirão Preto;Rápido D Oeste - Qr code;38,35;5;10;SP;Ribeirão Preto;14/08/2026
+19828;Rápido D Oeste - Casa Branca X Palmeiras;Rápido D Oeste - Qr code;10,05;5;10;SP;Ribeirão Preto;17/08/2026
+19829;Rápido D Oeste - Casa Branca X São José do Rio Pardo;Rápido D Oeste - Qr code;14,65;5;10;SP;Ribeirão Preto;17/08/2026
+19831;Rápido D Oeste - Itobi X São José do Rio Pardo;Rápido D Oeste - Qr code;8,25;5;10;SP;Ribeirão Preto;17/08/2026
+19832;Rápido D Oeste - Monte Azul Paulista X Bebedouro;Rápido D Oeste - Qr code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
+19834;Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod);Rápido D Oeste - Qr code;31,70;5;10;SP;Ribeirão Preto;17/08/2026
+19835;Rápido D Oeste - Olimpia X São José Do Rio Preto;Rápido D Oeste - Qr code;22,95;5;10;SP;Ribeirão Preto;17/08/2026
+19837;Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras;Rápido D Oeste - Qr code;11,00;5;10;SP;Ribeirão Preto;17/08/2026
+19838;Rápido D Oeste - Ribeirão Preto X Bebedouro;Rápido D Oeste - Qr code;38,35;5;10;SP;Ribeirão Preto;17/08/2026
+19839;Rápido D Oeste - Severina X Monte Azul Paulista;Rápido D Oeste - Qr code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
+19840;Rápido D Oeste - Ribeirão Preto X São João da Boa Vista;Rápido D Oeste - Qr code;81,90;1;2;SP;Ribeirão Preto;17/08/2026
+19841;Rápido D Oeste - Severinia X Olimpia;Rápido D Oeste - Qr code;6,95;5;10;SP;Ribeirão Preto;17/08/2026
+19842;Rápido D Oeste - Colina X Viradouro (Sub);Rápido D Oeste - Qr code;12,90;5;10;SP;Ribeirão Preto;17/08/2026
+19843;Rápido D Oeste - Jaboticabal X Bebedouro;Rápido D Oeste - Qr code;13,30;5;10;SP;Ribeirão Preto;17/08/2026
+19844;Rápido D Oeste - São José do Rio Pardo X Mococa;Rápido D Oeste - Qr code;14,35;5;10;SP;Ribeirão Preto;17/08/2026
 730;Rápido Fênix - Cartão Itatiba X Bragança (nominal);Rápido Fênix;14,90;5;10;SP;Itatiba;18/06/2026
 788;Rápido Fênix - Cartão Itatiba X Jundiaí (nominal);Rápido Fênix;10,10;5;10;SP;Itatiba;22/07/2026
 4149;Rápido Fênix - Cartão Bragança Paulista X São Sebastião (nominal);Rápido Fênix;10,40;5;10;SP;Itatiba;07/07/2025
@@ -2766,7 +2785,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9098;Rodoviário e Turismo - Cartão Cunha X Guaratinguetá;Rodoviário e Turismo - QR-Code;19,20;5;10;SP;Guaratinguetá;06/01/2026
 5605;Sancetur Atibaia - Cartão SOU Atibaia - Atibaia Municipal;Sancetur - Atibaia;4,60;5;10;SP;Atibaia;20/05/2019
 1071;Sbctrans - Cartão Legal São Bernardo do Campo Municipal;SBCTrans;5,95;5;10;SP;São Bernardo do Campo;02/01/2024
-8584;Viação Sertanezina - Cartão Urbano Sertãozinho;Sertanezina;6,25;5;10;SP;Sertãozinho;01/09/2025
+8584;Viação Sertanezina - Cartão Urbano Sertãozinho;Sertanezina;6,50;5;10;SP;Sertãozinho;17/08/2026
 2332;Sertran Santa Bárbara D Oeste - Cartão Santa Bárbara D Oeste Municipal;Sertran Santa Bárbara D Oeste;5,90;5;10;SP;Santa Bárbara do Oeste;16/06/2025
 1892;Sim Mauá - Cartão Sim Mauá / Mauá (Viação Barão);SIM Mauá;7,50;5;10;SP;Mauá;05/01/2026
 10656;Sou Americana - Cartão Americana Urbano;Sou - Americana;5,20;5;10;SP;Americana;22/04/2025
@@ -2817,7 +2836,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6252;Transporto - Cartão Porto Ferreira Urbano;Transporto;4,65;5;10;SP;Porto Ferreira;04/08/2025
 472;Transurb Ribeirão Preto - Cartão Ribeirão Preto Municipal;Transurb - Ribeirão Preto;5,00;5;10;SP;Ribeirão Preto;15/02/2022
 9145;Transurb Ribeirão Preto - Cartão Micro-ônibus Ribeirão Preto;Transurb - Ribeirão Preto;1,80;5;10;SP;Ribeirão Preto;06/05/2022
-738;Transurb Bauru - Cartão Bauru - Comum / Municipal;Transurb Bauru;5,75;5;10;SP;Bauru;05/08/2026
+738;Transurb Bauru - Cartão Bauru - Comum / Municipal;Transurb Bauru;5,75;5;10;SP;Bauru;17/08/2026
 5353;Transurb Bauru - Cartão Bauru Municipal (Múltiplo de 02);Transurb Bauru;11,50;5;10;SP;Bauru;15/05/2025
 282;Transurb Jundiaí - Cartão Jundiaí Municipal;Transurb Jundiaí;6,15;5;10;SP;Jundiaí;08/07/2025
 155;Transurc Campinas - Municipal Campinas;Transurc Campinas;6,50;3;10;SP;Campinas;02/01/2026
@@ -3164,7 +3183,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15730;Viação São Bento - Cartão Ribeirão Preto X Altinópolis;Viação São Bento - Novo Sistema;23,20;5;10;SP;Ribeirão Preto;17/07/2026
 19584;Viação São Bento - Cartão Ribeirão Preto X Orlândia;Viação São Bento - Novo Sistema;17,60;5;10;SP;Ribeirão Preto;17/07/2026
 8143;Viação Trevisan - Cartão Rio das Pedras X Piracicaba;Viação Trevisan;7,25;5;10;SP;Piracicaba;06/07/2026
-8144;Viação Trevisan - Cartão Piracicaba X Charqueada;Viação Trevisan;11,40;5;10;SP;Piracicaba;06/07/2026
+8144;Viação Trevisan - Cartão Piracicaba X Charqueada;Viação Trevisan;11,55;5;10;SP;Piracicaba;17/08/2026
 9000;Viação Trevisan - Cartão Piracicaba X Saltinho;Viação Trevisan;7,25;5;10;SP;Piracicaba;06/07/2026
 6851;Viação Vale do Ribeira - Cartão Municipal Registro;Viação Vale do Ribeira;3,80;5;10;SP;Registro;01/01/2022
 3647;Viasol - Cartão Rio Claro X Santa Gertrudes Suburbana;Viasol;6,60;5;10;SP;Rio Claro;07/07/2025
