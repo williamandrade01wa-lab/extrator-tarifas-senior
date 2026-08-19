@@ -3009,7 +3009,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8401;Viação Jacareí - Cartão Viação Jacareí;Viação Jacareí;0,01;5;10;SP;Jacareí;01/01/2000
 10124;Viação Jacareí - Cartão Igaratá X Jacareí (via Dom Predo II) (Linha 5104);Viação Jacareí;7,95;5;10;SP;Jacareí;08/06/2026
 15368;Viação Jacareí - Cartão Variável;Viação Jacareí;0,01;5;10;SP;Jacareí;20/09/2024
-19823;Viação Jacareí - Cartão Jacareí e Região;Viação Jacareí;6,10;5;10;SP;Jacareí;12/08/2026
+19823;Viação Jacareí - Cartão Jacareí e Região;Viação Jacareí - Santa Branca;6,10;5;10;SP;Jacareí;12/08/2026
 2384;Viação Jauense - Cartão Jaú X Distrito de Potunduva;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 2385;Viação Jauense - Cartão Jaú;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 7422;Viação M M Souza - (Suburbano) - Cartão Capivari X Rafard (Suburbano);Viação M M Souza - (Suburbano) - PIX;6,00;5;10;SP;Capivari;30/07/2026
