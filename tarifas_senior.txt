@@ -2664,7 +2664,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5075;Princesa dos Campos - Cartão Sete Barras X Registro;Porto de Registro (Princesa dos Campos);7,55;5;10;SP;Registro;07/07/2025
 10141;Prefeitura Municipal de Penápolis - Cartão Municipal Penápolis;Prefeitura Municipal de Penápolis;0,00;5;10;SP;Penápolis;19/05/2025
 16197;Princesa do Norte - Cartão Ourinhos X São Pedro do Turvo;Princesa do Norte;20,80;5;10;SP;Bauru;15/07/2026
-10158;Rápido Campinas (Artesp) - Cartão Jundiaí X Vinhedo (linha 5678);Rápido Campinas (Artesp);8,25;5;10;SP;Valinhos;01/07/2025
+10158;Rápido Campinas (Artesp) - Cartão Jundiaí X Vinhedo (linha 5678);Rápido Campinas (Artesp);8,65;5;10;SP;Valinhos;19/08/2026
 10159;Rápido Campinas (Artesp) - Cartão Vinhedo X Louveira (Santo Antônio Via Capela linha 2.06);Rápido Campinas (Artesp);7,95;5;10;SP;Valinhos;01/07/2025
 10160;Rápido Campinas (Artesp) - Cartão Jundiaí X Louveira (Bairro Santo Antônio linha 9033);Rápido Campinas (Artesp);7,25;5;10;SP;Valinhos;01/07/2025
 10778;Rápido Campinas (Artesp) - Avaré - Cartão Itatinga X Botucatu;Rápido Campinas (Artesp) - Avaré;15,50;5;10;SP;Avaré;07/07/2025
