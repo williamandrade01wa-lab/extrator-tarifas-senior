@@ -625,8 +625,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 529;Expresso Valônia - Cartão Municipal Itajubá;Expresso Valônia;3,90;5;10;MG;Itajubá;23/08/2023
 2948;Fabri Fácil - Cartão Municipal Coronel Fabriciano;Fabri Fácil;5,80;5;10;MG;Coronel Fabriciano;06/07/2026
 15503;Fernando Turismo - Cartão Municipal Matias Barbosa;Fernando Turismo - Eletrônico;4,25;5;10;MG;Matias Barbosa;01/09/2025
-19482;Irmãos Teixeira - Eletrônico - Cartão São José dos Salgados X Divinopolis;Irmãos Teixeira - Eletrônico;6,20;5;10;MG;Divinópolis;22/01/2026
-19483;Irmãos Teixeira - Eletrônico - Cartão São José dos Salgados X Divinopolis;Irmãos Teixeira - Eletrônico;6,20;5;10;MG;Divinópolis;22/01/2026
 1809;Sulminas - Cartão Salto / Juncal / Godoi - Rural;Max Tour (Sulminas);4,00;5;10;MG;Extrema;12/03/2019
 1810;Sulminas - Cartão Municipal Extrema;Max Tour (Sulminas);3,30;5;10;MG;Extrema;12/03/2019
 1074;Valadarense Mobi Card - Cartão Municipal Governador Valadares;Mobi Valadarense;5,31;5;10;MG;Governador Valadares;20/07/2026
@@ -1614,9 +1612,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16191;Coletivos Rainha - Cartão Municipal São Bento do Sul;Coletivos Rainha - Eletrônico;5,30;5;10;SC;São Bento do Sul;16/10/2025
 19486;Coletivos Rainha - Cartão São Bento X Rio Negrinho;Coletivos Rainha - Eletrônico;9,25;5;10;SC;São Bento do Sul;23/01/2026
 15823;Coleurb Imbituba - Cartão Municipal Imbituba;Coleurb - Imbituba;3,00;5;10;SC;Imbituba;24/06/2025
-19572;Viação São José - Cartão Urussanga X Criciúma;Empresa Auto Viação São José;7,00;5;10;SC;Urussanga;01/04/2026
-19574;Viação São José - Cartão Cocal X Criciúma;Empresa Auto Viação São José;4,90;5;10;SC;Urussanga;01/04/2026
-19575;Viação São José - Cartão Cocal X Urussunga;Empresa Auto Viação São José;4,00;5;10;SC;Urussanga;01/04/2026
 8307;Empresa Volkmann - Cartão Blumenau X Testo Central;Empresa Volkmann;6,50;5;10;SC;Pomerode;09/10/2025
 8308;Empresa Volkmann - Cartão Pomerode X Blumenau;Empresa Volkmann;8,05;5;10;SC;Pomerode;23/09/2022
 8309;Empresa Volkmann - Cartão Pomerode X Testo Central;Empresa Volkmann;6,50;5;10;SC;Pomerode;09/10/2025
@@ -2272,6 +2267,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16173;Expresso de Prata - Cartão Bauru X Iacanga;Expresso de Prata - Eletrônico;14,85;5;10;SP;Bauru;15/07/2026
 16180;Expresso de Prata - Cartão Bauru X Jaú;Expresso de Prata - Eletrônico;20,90;5;10;SP;Bauru;15/07/2026
 16198;Expresso de Prata - Cartão Bauru X Piratininga (Rural);Expresso de Prata - Eletrônico;10,35;5;10;SP;Bauru;15/07/2026
+19852;Expresso de Prata - Cartão Bauru X Pederneiras;Expresso de Prata - Eletrônico;15,00;5;10;SP;Bauru;20/08/2026
+19853;Expresso de Prata - Cartão Presidente Alves;Expresso de Prata - Eletrônico;5,00;5;10;SP;Bauru;20/08/2026
 10384;Expresso Fênix - Águas de Lindóia - Cartão Municipal Águas de Lindóia;Expresso Fênix - Águas de Lindóia;4,20;5;10;SP;Águas de Lindoia;08/12/2025
 6167;Expresso Fênix - Cartão Pedreira Urbano;Expresso Fênix - Pedreira;4,50;5;10;SP;Pedreira;01/02/2023
 4118;Expresso Itamarati - Cartão São José do Rio Preto X Guapiacu;Expresso Itamarati;7,95;5;10;SP;São José do Rio Preto;03/07/2025
@@ -2743,6 +2740,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10456;Rápido Luxo Campo Limpo - Cartão Jundiaí X Outlet Premium (Linha 705);Rápido Luxo - Campo Limpo;9,35;5;10;SP;Campo Limpo Paulista;15/07/2026
 15130;Rápido Luxo Campo Limpo - Cartão Botujuru X Jardim Paulista (Linha 208);Rápido Luxo - Campo Limpo;7,95;5;10;SP;Campo Limpo Paulista;15/07/2026
 19558;Rápido Luxo Campo Limpo - Cartão Krupp X Vila Popular (Linha 209);Rápido Luxo - Campo Limpo;8,35;5;10;SP;Campo Limpo Paulista;15/07/2026
+19851;Rápido Luxo Campo Limpo - Cartão Paulista X Jundiaí (Linha 103);Rápido Luxo - Campo Limpo;6,95;10;10;SP;Campo Limpo Paulista;20/08/2026
 10481;Rápido Luxo Sorocaba - Cartão Itu X Sorocaba;Rápido Luxo - Sorocaba;8,40;5;10;SP;Sorocaba;07/01/2026
 10482;Rápido Luxo Sorocaba - Cartão Salto X Sorocaba;Rápido Luxo - Sorocaba;10,45;5;10;SP;Sorocaba;05/02/2025
 10483;Rápido Luxo Sorocaba - Cartão Iperó X Sorocaba;Rápido Luxo - Sorocaba;8,20;5;10;SP;Sorocaba;07/01/2026
@@ -2836,8 +2834,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6252;Transporto - Cartão Porto Ferreira Urbano;Transporto;4,65;5;10;SP;Porto Ferreira;04/08/2025
 472;Transurb Ribeirão Preto - Cartão Ribeirão Preto Municipal;Transurb - Ribeirão Preto;5,00;5;10;SP;Ribeirão Preto;15/02/2022
 9145;Transurb Ribeirão Preto - Cartão Micro-ônibus Ribeirão Preto;Transurb - Ribeirão Preto;1,80;5;10;SP;Ribeirão Preto;06/05/2022
-738;Transurb Bauru - Cartão Bauru - Comum / Municipal;Transurb Bauru;5,75;5;10;SP;Bauru;17/08/2026
-5353;Transurb Bauru - Cartão Bauru Municipal (Múltiplo de 02);Transurb Bauru;11,50;5;10;SP;Bauru;15/05/2025
+738;Transurb Bauru - Cartão Bauru - Comum / Municipal;Transurb Bauru;6,25;5;10;SP;Bauru;20/08/2026
+5353;Transurb Bauru - Cartão Bauru Municipal (Múltiplo de 02);Transurb Bauru;12,50;5;10;SP;Bauru;20/08/2026
 282;Transurb Jundiaí - Cartão Jundiaí Municipal;Transurb Jundiaí;6,15;5;10;SP;Jundiaí;08/07/2025
 155;Transurc Campinas - Municipal Campinas;Transurc Campinas;6,50;3;10;SP;Campinas;02/01/2026
 5358;Transurc Campinas - Integração Campinas;Transurc Campinas;7,00;3;10;SP;Campinas;02/01/2026

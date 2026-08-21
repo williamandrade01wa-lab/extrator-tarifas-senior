@@ -5008,22 +5008,6 @@
         "cidade": "Matias Barbosa"
     },
     {
-        "codigo": "19482",
-        "nome": "Irmãos Teixeira - Eletrônico - Cartão São José dos Salgados X Divinopolis",
-        "fornecedor": "Irmãos Teixeira - Eletrônico",
-        "valor": "6,20",
-        "uf": "MG",
-        "cidade": "Divinópolis"
-    },
-    {
-        "codigo": "19483",
-        "nome": "Irmãos Teixeira - Eletrônico - Cartão São José dos Salgados X Divinopolis",
-        "fornecedor": "Irmãos Teixeira - Eletrônico",
-        "valor": "6,20",
-        "uf": "MG",
-        "cidade": "Divinópolis"
-    },
-    {
         "codigo": "1809",
         "nome": "Sulminas - Cartão Salto / Juncal / Godoi - Rural",
         "fornecedor": "Max Tour (Sulminas)",
@@ -12920,30 +12904,6 @@
         "cidade": "Imbituba"
     },
     {
-        "codigo": "19572",
-        "nome": "Viação São José - Cartão Urussanga X Criciúma",
-        "fornecedor": "Empresa Auto Viação São José",
-        "valor": "7,00",
-        "uf": "SC",
-        "cidade": "Urussanga"
-    },
-    {
-        "codigo": "19574",
-        "nome": "Viação São José - Cartão Cocal X Criciúma",
-        "fornecedor": "Empresa Auto Viação São José",
-        "valor": "4,90",
-        "uf": "SC",
-        "cidade": "Urussanga"
-    },
-    {
-        "codigo": "19575",
-        "nome": "Viação São José - Cartão Cocal X Urussunga",
-        "fornecedor": "Empresa Auto Viação São José",
-        "valor": "4,00",
-        "uf": "SC",
-        "cidade": "Urussanga"
-    },
-    {
         "codigo": "8307",
         "nome": "Empresa Volkmann - Cartão Blumenau X Testo Central",
         "fornecedor": "Empresa Volkmann",
@@ -18184,6 +18144,22 @@
         "cidade": "Bauru"
     },
     {
+        "codigo": "19852",
+        "nome": "Expresso de Prata - Cartão Bauru X Pederneiras",
+        "fornecedor": "Expresso de Prata - Eletrônico",
+        "valor": "15,00",
+        "uf": "SP",
+        "cidade": "Bauru"
+    },
+    {
+        "codigo": "19853",
+        "nome": "Expresso de Prata - Cartão Presidente Alves",
+        "fornecedor": "Expresso de Prata - Eletrônico",
+        "valor": "5,00",
+        "uf": "SP",
+        "cidade": "Bauru"
+    },
+    {
         "codigo": "10384",
         "nome": "Expresso Fênix - Águas de Lindóia - Cartão Municipal Águas de Lindóia",
         "fornecedor": "Expresso Fênix - Águas de Lindóia",
@@ -21952,6 +21928,14 @@
         "cidade": "Campo Limpo Paulista"
     },
     {
+        "codigo": "19851",
+        "nome": "Rápido Luxo Campo Limpo - Cartão Paulista X Jundiaí (Linha 103)",
+        "fornecedor": "Rápido Luxo - Campo Limpo",
+        "valor": "6,95",
+        "uf": "SP",
+        "cidade": "Campo Limpo Paulista"
+    },
+    {
         "codigo": "10481",
         "nome": "Rápido Luxo Sorocaba - Cartão Itu X Sorocaba",
         "fornecedor": "Rápido Luxo - Sorocaba",
@@ -22699,7 +22683,7 @@
         "codigo": "738",
         "nome": "Transurb Bauru - Cartão Bauru - Comum / Municipal",
         "fornecedor": "Transurb Bauru",
-        "valor": "5,75",
+        "valor": "6,25",
         "uf": "SP",
         "cidade": "Bauru"
     },
@@ -22707,7 +22691,7 @@
         "codigo": "5353",
         "nome": "Transurb Bauru - Cartão Bauru Municipal (Múltiplo de 02)",
         "fornecedor": "Transurb Bauru",
-        "valor": "11,50",
+        "valor": "12,50",
         "uf": "SP",
         "cidade": "Bauru"
     },
