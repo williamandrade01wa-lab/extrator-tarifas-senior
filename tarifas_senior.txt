@@ -1261,7 +1261,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15193;Coleurb - Eletrônico - Cartão Municipal Passo Fundo;Coleurb - Eletrônico;6,00;5;10;RS;Passo Fundo;03/11/2025
 15352;Comur - Esteio - Cartão Municipal Esteio;Comur - Esteio;4,00;5;10;RS;Esteio;12/09/2024
 15131;Comur - Cartão Municipal Novo Hamburgo;Comur - Novo Hamburgo;5,20;5;10;RS;Novo Hamburgo;10/06/2024
-16058;CCTU - Cartão Municipal Criciúma;Consórcio CRIBUS;5,75;5;10;SC;Criciúma;28/08/2025
+16058;Cribus - Cartão Municipal Criciúma;Cribus;5,75;5;10;SC;Criciúma;28/08/2025
 2295;CSC Santa Cruz do Sul - Cartão Santa Cruz do Sul;CSC Santa Cruz do Sul;5,80;5;10;RS;Santa Cruz do Sul;08/06/2026
 5423;CTC Bagé - Cartão Bagé Municipal;CTC Bagé;5,50;5;10;RS;Bagé;14/04/2026
 19476;Empresa Vencato - Cartão Porto Alegre X Mariana Pimentel;Empresa Vencato;36,55;5;10;RS;Porto Alegre;16/01/2026
@@ -2402,7 +2402,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19512;Guerino Seiscentos - Cartão Assis X Tarumã;Guerino Seiscentos;7,95;5;10;SP;Tupã;15/07/2026
 19551;Guerino Seiscentos - Cartão Assis X Ourinhos;Guerino Seiscentos;30,25;5;10;SP;Tupã;15/07/2026
 19747;Guerino Seiscentos - Cartão Ouro Verde X Dracena;Guerino Seiscentos;7,95;5;10;SP;Tupã;15/07/2026
-15836;Itacard - Cartão Municipal Itapecerica da Serra;Itacard - Novo Sistema - Pix;5,50;5;10;SP;Itapecerica da Serra;15/01/2026
+15836;Itacard - Cartão Municipal Itapecerica da Serra;Itacard - Novo Sistema - PIX;5,50;5;10;SP;Itapecerica da Serra;15/01/2026
 15360;Produto Itaqua;Itaqua;7,10;5;10;SP;Itaquaquecetuba;07/01/2026
 8713;Jandaia - Cartão Álvares Machado X Presidente Prudente;Jandaia;6,95;5;10;SP;Presidente Prudente;06/07/2026
 8714;Jandaia - Cartão Presidente Bernardes X Emilianópolis;Jandaia;8,35;5;10;SP;Presidente Prudente;06/07/2026
@@ -2679,7 +2679,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19824;Rápido D Oeste - Cartão - Santa Cruz da Esperança X Ribeirão Preto;Rápido D Oeste - Qr code;24,70;5;10;SP;Ribeirão Preto;14/08/2026
 19825;Rápido D Oeste - Cartão - Ribeirão Preto X Santa Cruz da Esperança;Rápido D Oeste - Qr code;28,30;5;10;SP;Ribeirão Preto;14/08/2026
 19826;Rápido D Oeste - Cajuru X Ribeirão Preto;Rápido D Oeste - Qr code;30,00;5;10;SP;Ribeirão Preto;14/08/2026
-19827;Rápido D Oeste - Bebedouro X Ribeirão Preto;Rápido D Oeste - Qr code;38,35;5;10;SP;Ribeirão Preto;14/08/2026
+19827;Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto;Rápido D Oeste - Qr code;42,80;5;10;SP;Ribeirão Preto;21/08/2026
 19828;Rápido D Oeste - Casa Branca X Palmeiras;Rápido D Oeste - Qr code;10,05;5;10;SP;Ribeirão Preto;17/08/2026
 19829;Rápido D Oeste - Casa Branca X São José do Rio Pardo;Rápido D Oeste - Qr code;14,65;5;10;SP;Ribeirão Preto;17/08/2026
 19831;Rápido D Oeste - Itobi X São José do Rio Pardo;Rápido D Oeste - Qr code;8,25;5;10;SP;Ribeirão Preto;17/08/2026
@@ -2687,7 +2687,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19834;Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod);Rápido D Oeste - Qr code;31,70;5;10;SP;Ribeirão Preto;17/08/2026
 19835;Rápido D Oeste - Olimpia X São José Do Rio Preto;Rápido D Oeste - Qr code;22,95;5;10;SP;Ribeirão Preto;17/08/2026
 19837;Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras;Rápido D Oeste - Qr code;11,00;5;10;SP;Ribeirão Preto;17/08/2026
-19838;Rápido D Oeste - Ribeirão Preto X Bebedouro;Rápido D Oeste - Qr code;38,35;5;10;SP;Ribeirão Preto;17/08/2026
+19838;Rápido D Oeste - Cartão Ribeirão Preto X Bebedouro;Rápido D Oeste - Qr code;48,25;5;10;SP;Ribeirão Preto;21/08/2026
 19839;Rápido D Oeste - Severina X Monte Azul Paulista;Rápido D Oeste - Qr code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
 19840;Rápido D Oeste - Ribeirão Preto X São João da Boa Vista;Rápido D Oeste - Qr code;81,90;1;2;SP;Ribeirão Preto;17/08/2026
 19841;Rápido D Oeste - Severinia X Olimpia;Rápido D Oeste - Qr code;6,95;5;10;SP;Ribeirão Preto;17/08/2026

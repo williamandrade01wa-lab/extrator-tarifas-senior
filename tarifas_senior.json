@@ -10097,8 +10097,8 @@
     },
     {
         "codigo": "16058",
-        "nome": "CCTU - Cartão Municipal Criciúma",
-        "fornecedor": "Consórcio CRIBUS",
+        "nome": "Cribus - Cartão Municipal Criciúma",
+        "fornecedor": "Cribus",
         "valor": "5,75",
         "uf": "SC",
         "cidade": "Criciúma"
@@ -19226,7 +19226,7 @@
     {
         "codigo": "15836",
         "nome": "Itacard - Cartão Municipal Itapecerica da Serra",
-        "fornecedor": "Itacard - Novo Sistema - Pix",
+        "fornecedor": "Itacard - Novo Sistema - PIX",
         "valor": "5,50",
         "uf": "SP",
         "cidade": "Itapecerica da Serra"
@@ -21441,9 +21441,9 @@
     },
     {
         "codigo": "19827",
-        "nome": "Rápido D Oeste - Bebedouro X Ribeirão Preto",
+        "nome": "Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto",
         "fornecedor": "Rápido D Oeste - Qr code",
-        "valor": "38,35",
+        "valor": "42,80",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
@@ -21505,9 +21505,9 @@
     },
     {
         "codigo": "19838",
-        "nome": "Rápido D Oeste - Ribeirão Preto X Bebedouro",
+        "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Bebedouro",
         "fornecedor": "Rápido D Oeste - Qr code",
-        "valor": "38,35",
+        "valor": "48,25",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
