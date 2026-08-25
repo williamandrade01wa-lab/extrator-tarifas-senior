@@ -1269,12 +1269,12 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3921;Expresso Assur - Cartão Guaíba Urbano (micro-ônibus);Expresso Assur;5,20;5;10;RS;Guaiba;02/06/2019
 9107;Expresso Azul - Cartão Municipal Lajeado;Expresso Azul;6,00;5;10;RS;Lajeado;20/04/2026
 8397;Expresso Fronteira D Oeste - Cartão Municipal Alegrete;Expresso Fronteira D Oeste;4,80;5;10;RS;Alegrete;06/02/2024
-8629;Expresso São José - Cartão Osório X Quintão;Expresso São José;27,15;5;10;RS;Tramandaí;12/11/2025
-8630;Expresso São José - Cartão Tramandaí X Quintão;Expresso São José;19,25;5;10;RS;Tramandaí;12/11/2025
-8636;Expresso São José - Cartão Tramandai X Balneário Pinhal;Expresso São José;16,00;5;10;RS;Tramandaí;12/11/2025
-8637;Expresso São José - Cartão Cidreira X Balneário Pinhal;Expresso São José;6,85;5;10;RS;Tramandaí;12/11/2025
+8629;Expresso São José - Cartão Osório X Quintão;Expresso São José;29,25;5;10;RS;Tramandaí;24/08/2026
+8630;Expresso São José - Cartão Tramandaí X Quintão;Expresso São José;20,75;5;10;RS;Tramandaí;24/08/2026
+8636;Expresso São José - Cartão Tramandai X Balneário Pinhal;Expresso São José;17,25;5;10;RS;Tramandaí;24/08/2026
+8637;Expresso São José - Cartão Cidreira X Balneário Pinhal;Expresso São José;7,40;5;10;RS;Tramandaí;24/08/2026
 8976;Expresso São José - Cartão Tramandaí X Imbé;Expresso São José;6,70;5;10;RS;Tramandaí;08/06/2026
-8977;Expresso São José - Cartão Cidreira X Quintão;Expresso São José;10,10;5;10;RS;Tramandaí;12/11/2025
+8977;Expresso São José - Cartão Cidreira X Quintão;Expresso São José;10,90;5;10;RS;Tramandaí;24/08/2026
 9649;Expresso São José - Cartão Imbé Municipal;Expresso São José;4,99;5;10;RS;Tramandaí;13/06/2025
 10898;Expresso São José - Cartão Cidreira X Osório;Expresso São José;20,60;5;10;RS;Tramandaí;12/11/2025
 15101;Expresso São José - Cartão Capão da Canoa X Rainha do Mar;Expresso São José;6,70;5;10;RS;Tramandaí;08/06/2026
@@ -1285,7 +1285,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15621;Expresso São José - Cartão Osório X Quintão (Linha E906);Expresso São José;6,70;5;10;RS;Tramandaí;08/06/2026
 16184;Expresso São José - Cartão Tramandaí X Cidreira (Linhas E196, E906 e E907);Expresso São José;13,75;5;10;RS;Tramandaí;08/06/2026
 16185;Expresso São José - Cartão Capão Novo X Xangri-lá (Linhas E196, RT903 e RT905);Expresso São José;6,70;5;10;RS;Tramandaí;08/06/2026
-16186;Expresso São José - Cartão Balneário Pinhal X Quintão (Linhas E196, E906 e E907);Expresso São José;6,50;5;10;RS;Tramandaí;27/11/2025
+16186;Expresso São José - Cartão Balneário Pinhal X Quintão (Linhas E196, E906 e E907);Expresso São José;7,05;5;10;RS;Tramandaí;24/08/2026
 16187;Expresso São José - Cartão Osório X Capão da Canoa (Linhas E196, RT903 e RT905);Expresso São José;19,40;5;10;RS;Tramandaí;08/06/2026
 16237;Expresso São José - Cartão Capão da Canoa X Terra de Areia (Linha E823);Expresso São José;13,25;5;10;RS;Tramandaí;08/06/2026
 16238;Expresso São José - Cartão Capão da Canoa X Capão Novo (Linhas 113A, E113, E196, E823, E908, RT903 e RT905);Expresso São José;6,70;5;10;RS;Tramandaí;08/06/2026
@@ -2444,7 +2444,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8925;Luwasa (Expresso Itamarati) - Cartão Catanduva X Elisiário;Luwasa (Expresso Itamarati);7,25;5;10;SP;São José do Rio Preto;07/07/2025
 8926;Luwasa (Expresso Itamarati) - Cartão Catanduva X Pindorama;Luwasa (Expresso Itamarati);7,25;5;10;SP;São José do Rio Preto;02/07/2026
 8927;Luwasa (Expresso Itamarati) - Cartão Catanduva X São José do Rio Preto;Luwasa (Expresso Itamarati);19,35;5;10;SP;São José do Rio Preto;20/07/2026
-8928;Luwasa (Expresso Itamarati) - Cartão Júlio Mesquita X Marília;Luwasa (Expresso Itamarati);13,35;5;10;SP;São José do Rio Preto;20/07/2026
+8928;Luwasa (Expresso Itamarati) - Cartão Júlio Mesquita X Marília;Luwasa (Expresso Itamarati);13,60;5;10;SP;São José do Rio Preto;24/08/2026
 8929;Luwasa (Expresso Itamarati) - Cartão Catanduva X Urupês;Luwasa (Expresso Itamarati);15,00;5;10;SP;São José do Rio Preto;07/07/2025
 9031;Luwasa (Expresso Itamarati) - Cartão Catiguá X Tabapuã;Luwasa (Expresso Itamarati);5,95;5;10;SP;São José do Rio Preto;07/07/2025
 9037;Luwasa (Expresso Itamarati) - Cartão Catiguá X Catanduva;Luwasa (Expresso Itamarati);6,95;5;10;SP;São José do Rio Preto;20/07/2026
@@ -2521,7 +2521,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2627;Pássaro Marron - Cartão Barra do Una X Boissucanga;Pássaro Marron - Seccionado (Barra do Una - Boissucanga);7,60;5;10;SP;Guarulhos;29/07/2025
 15930;Pássaro Marron - Cartão Barra do Una X Riviera;Pássaro Marron - Seccionado (Barra do Una - Riviera);9,95;5;10;SP;Guarulhos;24/07/2025
 2622;Pássaro Marron - Cartão Bertioga (Riviera) X Barra do Una;Pássaro Marron - Seccionado (Bert - Barra do Una);13,95;5;10;SP;Guarulhos;08/01/2026
-2633;Pássaro Marron - Cartão Bertioga (Riviera) X Boissucanga;Pássaro Marron - Seccionado (Bert - Boissu);18,05;5;10;SP;Guarulhos;29/07/2025
+2633;Pássaro Marron - Cartão Bertioga (Riviera) X Boissucanga;Pássaro Marron - Seccionado (Bert - Boissu);18,90;5;10;SP;Guarulhos;24/08/2026
 6585;Pássaro Marron - Cartão Boraceia X Bertioga;Pássaro Marron - Seccionado (Boraceia - Bert);11,20;5;10;SP;Guarulhos;08/01/2026
 2770;Pássaro Marron - Cartão Cachoeira Paulista X Lorena / São Paulo;Pássaro Marron - Seccionado (Cachoe PTA - Loren);6,45;5;10;SP;Guarulhos;08/01/2026
 2779;Pássaro Marron - Cartão Cachoeira Paulista X São José dos Campos;Pássaro Marron - Seccionado (Cachoe PTA - S.J. dos Campos);47,45;5;10;SP;São Paulo;08/01/2026

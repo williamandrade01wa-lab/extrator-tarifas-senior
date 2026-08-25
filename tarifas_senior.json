@@ -10163,7 +10163,7 @@
         "codigo": "8629",
         "nome": "Expresso São José - Cartão Osório X Quintão",
         "fornecedor": "Expresso São José",
-        "valor": "27,15",
+        "valor": "29,25",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10171,7 +10171,7 @@
         "codigo": "8630",
         "nome": "Expresso São José - Cartão Tramandaí X Quintão",
         "fornecedor": "Expresso São José",
-        "valor": "19,25",
+        "valor": "20,75",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10179,7 +10179,7 @@
         "codigo": "8636",
         "nome": "Expresso São José - Cartão Tramandai X Balneário Pinhal",
         "fornecedor": "Expresso São José",
-        "valor": "16,00",
+        "valor": "17,25",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10187,7 +10187,7 @@
         "codigo": "8637",
         "nome": "Expresso São José - Cartão Cidreira X Balneário Pinhal",
         "fornecedor": "Expresso São José",
-        "valor": "6,85",
+        "valor": "7,40",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10203,7 +10203,7 @@
         "codigo": "8977",
         "nome": "Expresso São José - Cartão Cidreira X Quintão",
         "fornecedor": "Expresso São José",
-        "valor": "10,10",
+        "valor": "10,90",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -10291,7 +10291,7 @@
         "codigo": "16186",
         "nome": "Expresso São José - Cartão Balneário Pinhal X Quintão (Linhas E196, E906 e E907)",
         "fornecedor": "Expresso São José",
-        "valor": "6,50",
+        "valor": "7,05",
         "uf": "RS",
         "cidade": "Tramandaí"
     },
@@ -19563,7 +19563,7 @@
         "codigo": "8928",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Júlio Mesquita X Marília",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "13,35",
+        "valor": "13,60",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },
@@ -20179,7 +20179,7 @@
         "codigo": "2633",
         "nome": "Pássaro Marron - Cartão Bertioga (Riviera) X Boissucanga",
         "fornecedor": "Pássaro Marron - Seccionado (Bert - Boissu)",
-        "valor": "18,05",
+        "valor": "18,90",
         "uf": "SP",
         "cidade": "Guarulhos"
     },
