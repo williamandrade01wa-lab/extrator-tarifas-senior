@@ -7163,7 +7163,7 @@
         "codigo": "5250",
         "nome": "Borborema - Cartão Vitória (Via BR232) X Recife (Via Jaboatão)",
         "fornecedor": "Borborema - Vitória/Recife (via Jaboatão)",
-        "valor": "20,00",
+        "valor": "22,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -14101,7 +14101,7 @@
         "fornecedor": "AESA",
         "valor": "7,25",
         "uf": "SP",
-        "cidade": "Santo André"
+        "cidade": "Santo Paulo"
     },
     {
         "codigo": "15515",
@@ -21418,7 +21418,7 @@
     {
         "codigo": "19824",
         "nome": "Rápido D Oeste - Cartão - Santa Cruz da Esperança X Ribeirão Preto",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "24,70",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21426,7 +21426,7 @@
     {
         "codigo": "19825",
         "nome": "Rápido D Oeste - Cartão - Ribeirão Preto X Santa Cruz da Esperança",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "28,30",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21434,7 +21434,7 @@
     {
         "codigo": "19826",
         "nome": "Rápido D Oeste - Cajuru X Ribeirão Preto",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "30,00",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21442,7 +21442,7 @@
     {
         "codigo": "19827",
         "nome": "Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "42,80",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21450,7 +21450,7 @@
     {
         "codigo": "19828",
         "nome": "Rápido D Oeste - Casa Branca X Palmeiras",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "10,05",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21458,7 +21458,7 @@
     {
         "codigo": "19829",
         "nome": "Rápido D Oeste - Casa Branca X São José do Rio Pardo",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "14,65",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21466,7 +21466,7 @@
     {
         "codigo": "19831",
         "nome": "Rápido D Oeste - Itobi X São José do Rio Pardo",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "8,25",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21474,7 +21474,7 @@
     {
         "codigo": "19832",
         "nome": "Rápido D Oeste - Monte Azul Paulista X Bebedouro",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "8,95",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21482,7 +21482,7 @@
     {
         "codigo": "19834",
         "nome": "Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod)",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "31,70",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21490,7 +21490,7 @@
     {
         "codigo": "19835",
         "nome": "Rápido D Oeste - Olimpia X São José Do Rio Preto",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "22,95",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21498,7 +21498,7 @@
     {
         "codigo": "19837",
         "nome": "Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "11,00",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21506,7 +21506,7 @@
     {
         "codigo": "19838",
         "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Bebedouro",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "48,25",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21514,7 +21514,7 @@
     {
         "codigo": "19839",
         "nome": "Rápido D Oeste - Severina X Monte Azul Paulista",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "8,95",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21522,7 +21522,7 @@
     {
         "codigo": "19840",
         "nome": "Rápido D Oeste - Ribeirão Preto X São João da Boa Vista",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "81,90",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21530,7 +21530,7 @@
     {
         "codigo": "19841",
         "nome": "Rápido D Oeste - Severinia X Olimpia",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "6,95",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21538,7 +21538,7 @@
     {
         "codigo": "19842",
         "nome": "Rápido D Oeste - Colina X Viradouro (Sub)",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "12,90",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21546,7 +21546,7 @@
     {
         "codigo": "19843",
         "nome": "Rápido D Oeste - Jaboticabal X Bebedouro",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "13,30",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
@@ -21554,7 +21554,7 @@
     {
         "codigo": "19844",
         "nome": "Rápido D Oeste - São José do Rio Pardo X Mococa",
-        "fornecedor": "Rápido D Oeste - Qr code",
+        "fornecedor": "Rápido D Oeste - QR Code",
         "valor": "14,35",
         "uf": "SP",
         "cidade": "Ribeirão Preto"

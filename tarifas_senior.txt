@@ -894,7 +894,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5248;Borborema - Cartão Vitória X Jaboatão;Borborema - Vitória X Jaboatão;15,00;5;10;PE;Recife;20/02/2026
 6677;Borborema - Cartão Vitória X Glória de Goitá;Borborema - Vitória/Glória de Goitá;8,00;5;10;PE;Recife;20/02/2026
 9299;Borborema - Cartão Vitória X Recife (Executivo) Linha 808.3;Borborema - Vitória/Recife (Executivo) Linha 808.3;17,00;5;10;PE;Recife;11/03/2025
-5250;Borborema - Cartão Vitória (Via BR232) X Recife (Via Jaboatão);Borborema - Vitória/Recife (via Jaboatão);20,00;5;10;PE;Recife;20/02/2026
+5250;Borborema - Cartão Vitória (Via BR232) X Recife (Via Jaboatão);Borborema - Vitória/Recife (via Jaboatão);22,00;5;10;PE;Recife;25/08/2026
 4776;Coletivos São Cristóvão - Cartão Municipal Garanhuns;Coletivos São Cristóvão;4,70;5;10;PE;Garanhuns;31/12/2025
 9455;Coletivos Viagens - Cartão Agrestina X Caruaru;Coletivos Viagens;8,00;5;10;PE;Caruaru;20/04/2026
 9456;Coletivos Viagens - Cartão Altinho X Caruaru;Coletivos Viagens;12,00;5;10;PE;Caruaru;20/04/2026
@@ -1761,7 +1761,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10478;ABC Transportes - Cartão Tremembé X Pindamonhangaba;ABC Transportes;4,40;5;10;SP;Taubaté;18/10/2023
 10479;ABC Transportes - Cartão Taubaté X Caçapava;ABC Transportes;7,10;5;10;SP;Taubaté;14/04/2026
 10480;ABC Transportes - Cartão Tremembé X Caçapava;ABC Transportes;7,05;5;10;SP;Taubaté;06/02/2025
-164;AESA - Bilhete Único Andreense - Santo André Municipal;AESA;7,25;5;10;SP;Santo André;03/01/2025
+164;AESA - Bilhete Único Andreense - Santo André Municipal;AESA;7,25;5;10;SP;Santo Paulo;03/01/2025
 15515;AETUR Del Rey - Cartão Pec - Municipal Carapicuíba;AETUR DEL REY - NOVO SISTEMA;6,10;5;10;SP;Carapicuíba;05/01/2026
 19449;BB Turismo - Cartão Municipal Barueri;AETUR DEL REY - NOVO SISTEMA;6,10;5;10;SP;Barueri;05/01/2026
 19450;BB Turismo - Cartão Barueri Integração;AETUR DEL REY - NOVO SISTEMA;10,00;5;10;SP;Barueri;05/01/2026
@@ -2676,24 +2676,24 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6717;Rápido D Oeste - Cartão Ribeirão Preto X Jardinópolis;Rápido D Oeste;8,70;5;10;SP;Ribeirão Preto;15/07/2026
 9727;Rápido D Oeste - Cartão Ribeirão Preto X Cravinhos;Rápido D Oeste;8,65;5;10;SP;Ribeirão Preto;15/07/2026
 9901;Rápido D Oeste - Cartão Pontal X Candia;Rápido D Oeste;9,25;5;10;SP;Ribeirão Preto;13/08/2026
-19824;Rápido D Oeste - Cartão - Santa Cruz da Esperança X Ribeirão Preto;Rápido D Oeste - Qr code;24,70;5;10;SP;Ribeirão Preto;14/08/2026
-19825;Rápido D Oeste - Cartão - Ribeirão Preto X Santa Cruz da Esperança;Rápido D Oeste - Qr code;28,30;5;10;SP;Ribeirão Preto;14/08/2026
-19826;Rápido D Oeste - Cajuru X Ribeirão Preto;Rápido D Oeste - Qr code;30,00;5;10;SP;Ribeirão Preto;14/08/2026
-19827;Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto;Rápido D Oeste - Qr code;42,80;5;10;SP;Ribeirão Preto;21/08/2026
-19828;Rápido D Oeste - Casa Branca X Palmeiras;Rápido D Oeste - Qr code;10,05;5;10;SP;Ribeirão Preto;17/08/2026
-19829;Rápido D Oeste - Casa Branca X São José do Rio Pardo;Rápido D Oeste - Qr code;14,65;5;10;SP;Ribeirão Preto;17/08/2026
-19831;Rápido D Oeste - Itobi X São José do Rio Pardo;Rápido D Oeste - Qr code;8,25;5;10;SP;Ribeirão Preto;17/08/2026
-19832;Rápido D Oeste - Monte Azul Paulista X Bebedouro;Rápido D Oeste - Qr code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
-19834;Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod);Rápido D Oeste - Qr code;31,70;5;10;SP;Ribeirão Preto;17/08/2026
-19835;Rápido D Oeste - Olimpia X São José Do Rio Preto;Rápido D Oeste - Qr code;22,95;5;10;SP;Ribeirão Preto;17/08/2026
-19837;Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras;Rápido D Oeste - Qr code;11,00;5;10;SP;Ribeirão Preto;17/08/2026
-19838;Rápido D Oeste - Cartão Ribeirão Preto X Bebedouro;Rápido D Oeste - Qr code;48,25;5;10;SP;Ribeirão Preto;21/08/2026
-19839;Rápido D Oeste - Severina X Monte Azul Paulista;Rápido D Oeste - Qr code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
-19840;Rápido D Oeste - Ribeirão Preto X São João da Boa Vista;Rápido D Oeste - Qr code;81,90;1;2;SP;Ribeirão Preto;17/08/2026
-19841;Rápido D Oeste - Severinia X Olimpia;Rápido D Oeste - Qr code;6,95;5;10;SP;Ribeirão Preto;17/08/2026
-19842;Rápido D Oeste - Colina X Viradouro (Sub);Rápido D Oeste - Qr code;12,90;5;10;SP;Ribeirão Preto;17/08/2026
-19843;Rápido D Oeste - Jaboticabal X Bebedouro;Rápido D Oeste - Qr code;13,30;5;10;SP;Ribeirão Preto;17/08/2026
-19844;Rápido D Oeste - São José do Rio Pardo X Mococa;Rápido D Oeste - Qr code;14,35;5;10;SP;Ribeirão Preto;17/08/2026
+19824;Rápido D Oeste - Cartão - Santa Cruz da Esperança X Ribeirão Preto;Rápido D Oeste - QR Code;24,70;5;10;SP;Ribeirão Preto;14/08/2026
+19825;Rápido D Oeste - Cartão - Ribeirão Preto X Santa Cruz da Esperança;Rápido D Oeste - QR Code;28,30;5;10;SP;Ribeirão Preto;14/08/2026
+19826;Rápido D Oeste - Cajuru X Ribeirão Preto;Rápido D Oeste - QR Code;30,00;5;10;SP;Ribeirão Preto;14/08/2026
+19827;Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto;Rápido D Oeste - QR Code;42,80;5;10;SP;Ribeirão Preto;21/08/2026
+19828;Rápido D Oeste - Casa Branca X Palmeiras;Rápido D Oeste - QR Code;10,05;5;10;SP;Ribeirão Preto;17/08/2026
+19829;Rápido D Oeste - Casa Branca X São José do Rio Pardo;Rápido D Oeste - QR Code;14,65;5;10;SP;Ribeirão Preto;17/08/2026
+19831;Rápido D Oeste - Itobi X São José do Rio Pardo;Rápido D Oeste - QR Code;8,25;5;10;SP;Ribeirão Preto;17/08/2026
+19832;Rápido D Oeste - Monte Azul Paulista X Bebedouro;Rápido D Oeste - QR Code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
+19834;Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod);Rápido D Oeste - QR Code;31,70;5;10;SP;Ribeirão Preto;17/08/2026
+19835;Rápido D Oeste - Olimpia X São José Do Rio Preto;Rápido D Oeste - QR Code;22,95;5;10;SP;Ribeirão Preto;17/08/2026
+19837;Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras;Rápido D Oeste - QR Code;11,00;5;10;SP;Ribeirão Preto;17/08/2026
+19838;Rápido D Oeste - Cartão Ribeirão Preto X Bebedouro;Rápido D Oeste - QR Code;48,25;5;10;SP;Ribeirão Preto;21/08/2026
+19839;Rápido D Oeste - Severina X Monte Azul Paulista;Rápido D Oeste - QR Code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
+19840;Rápido D Oeste - Ribeirão Preto X São João da Boa Vista;Rápido D Oeste - QR Code;81,90;1;2;SP;Ribeirão Preto;17/08/2026
+19841;Rápido D Oeste - Severinia X Olimpia;Rápido D Oeste - QR Code;6,95;5;10;SP;Ribeirão Preto;17/08/2026
+19842;Rápido D Oeste - Colina X Viradouro (Sub);Rápido D Oeste - QR Code;12,90;5;10;SP;Ribeirão Preto;17/08/2026
+19843;Rápido D Oeste - Jaboticabal X Bebedouro;Rápido D Oeste - QR Code;13,30;5;10;SP;Ribeirão Preto;17/08/2026
+19844;Rápido D Oeste - São José do Rio Pardo X Mococa;Rápido D Oeste - QR Code;14,35;5;10;SP;Ribeirão Preto;17/08/2026
 730;Rápido Fênix - Cartão Itatiba X Bragança (nominal);Rápido Fênix;14,90;5;10;SP;Itatiba;18/06/2026
 788;Rápido Fênix - Cartão Itatiba X Jundiaí (nominal);Rápido Fênix;10,10;5;10;SP;Itatiba;22/07/2026
 4149;Rápido Fênix - Cartão Bragança Paulista X São Sebastião (nominal);Rápido Fênix;10,40;5;10;SP;Itatiba;07/07/2025
