@@ -612,9 +612,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 653;Divpass - Cartão Municipal Divinópolis;Divpass - Novo Sistema;5,50;5;10;MG;Divinópolis;30/04/2026
 8579;Empresa Unida - Cartão Chácara X Juiz de Fora;Empresa Unida;11,40;5;10;MG;Juiz de Fora;02/10/2025
 15645;Empresa Unida - Cartão Visconde de Rio Branco X Ubá;Empresa Unida;9,50;5;10;MG;Juiz de Fora;02/10/2025
-19819;Empresa Unida (QR-Code) - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida - QR Code;10,00;5;10;MG;Juiz de Fora;11/08/2026
-19820;Empresa Unida (QR-Code) - Cartão Cataguases X Dona Euzebia;Empresa Unida - QR Code;8,70;5;10;MG;Juiz de Fora;11/08/2026
-19821;Empresa Unida (QR-Code) - Cartão Leopoldina X Cataguases;Empresa Unida - QR Code;14,75;5;10;MG;Juiz de Fora;11/08/2026
+19819;Empresa Unida - QR-Code - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida - QR-Code;10,00;5;10;MG;Juiz de Fora;11/08/2026
+19820;Empresa Unida - QR-Code - Cartão Cataguases X Dona Euzebia;Empresa Unida - QR-Code;8,70;5;10;MG;Juiz de Fora;11/08/2026
+19821;Empresa Unida - QR-Code - Cartão Leopoldina X Cataguases;Empresa Unida - QR-Code;14,75;5;10;MG;Juiz de Fora;11/08/2026
 3828;Enscon - Cartão Municipal João Monlevade;Enscon;3,80;5;10;MG;João Monlevade;16/09/2021
 6897;Enscon - Cartão Lages X Carneirinhos;Enscon;7,70;5;10;MG;João Monlevade;02/10/2025
 6091;Expresso Araguari - Araguari X Uberlândia;Expresso Araguari;18,30;5;10;MG;Uberlândia;30/03/2026
@@ -1711,7 +1711,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4578;Transtusa - Cartão Municipal Joinville (Múltiplo de dois);Transtusa;13,00;5;10;SC;Joinville;02/01/2026
 9415;Transtusa - Cartão Aventureiro X Perine;Transtusa;7,00;5;10;SC;Joinville;14/10/2021
 2274;Transul - Cartão Bela Lages;Transul - PIX;4,90;5;10;SC;Lages;08/01/2026
-6270;Viação Cidade - Cartão Araranguá Intermunicipal;Viação Cidade - Novo Sistema;4,50;5;10;SC;Araranguá;24/08/2022
+6270;Viação Cidade - Cartão Araranguá Intermunicipal;Viação Cidade - Novo Sistema;4,85;5;10;SC;Araranguá;27/08/2026
 5591;Viação Curitibanos - Cartão Ligadinho Curitibanos Urbano;Viação Curitibanos;5,00;5;10;SC;Curitibanos;03/03/2026
 6543;Viação Praiana - Cartão Itajaí X Camboriú;Viação Praiana;8,45;5;10;SC;Itajaí;28/07/2026
 6544;Viação Praiana - Cartão Balneário Camboriú X Porto Belo;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
@@ -2267,7 +2267,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16173;Expresso de Prata - Cartão Bauru X Iacanga;Expresso de Prata - Eletrônico;14,85;5;10;SP;Bauru;15/07/2026
 16180;Expresso de Prata - Cartão Bauru X Jaú;Expresso de Prata - Eletrônico;20,90;5;10;SP;Bauru;15/07/2026
 16198;Expresso de Prata - Cartão Bauru X Piratininga (Rural);Expresso de Prata - Eletrônico;10,35;5;10;SP;Bauru;15/07/2026
-19852;Expresso de Prata - Cartão Bauru X Pederneiras;Expresso de Prata - Eletrônico;15,00;5;10;SP;Bauru;20/08/2026
+19852;Expresso de Prata - Cartão Bauru X Pederneiras;Expresso de Prata - Eletrônico;12,10;5;10;SP;Bauru;26/08/2026
 19853;Expresso de Prata - Cartão Presidente Alves;Expresso de Prata - Eletrônico;5,00;5;10;SP;Bauru;20/08/2026
 10384;Expresso Fênix - Águas de Lindóia - Cartão Municipal Águas de Lindóia;Expresso Fênix - Águas de Lindóia;4,20;5;10;SP;Águas de Lindoia;08/12/2025
 6167;Expresso Fênix - Cartão Pedreira Urbano;Expresso Fênix - Pedreira;4,50;5;10;SP;Pedreira;01/02/2023
@@ -2402,6 +2402,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19512;Guerino Seiscentos - Cartão Assis X Tarumã;Guerino Seiscentos;7,95;5;10;SP;Tupã;15/07/2026
 19551;Guerino Seiscentos - Cartão Assis X Ourinhos;Guerino Seiscentos;30,25;5;10;SP;Tupã;15/07/2026
 19747;Guerino Seiscentos - Cartão Ouro Verde X Dracena;Guerino Seiscentos;7,95;5;10;SP;Tupã;15/07/2026
+19856;Guerino Seiscentos - Cartão Adamantina X Inúbia Paulista;Guerino Seiscentos;9,25;5;10;SP;Tupã;26/08/2026
+19857;Guerino Seiscentos - Cartão Osvaldo Cruz X Inúbia Paulista;Guerino Seiscentos;6,95;5;10;SP;Tupã;26/08/2026
+19858;Guerino Seiscentos - Cartão Osvaldo Cruz X Adamantina;Guerino Seiscentos;11,00;5;10;SP;Tupã;26/08/2026
+19859;Guerino Seiscentos - Cartão Tupã X Bastos;Guerino Seiscentos;10,25;5;10;SP;Tupã;26/08/2026
 15836;Itacard - Cartão Municipal Itapecerica da Serra;Itacard - Novo Sistema - PIX;5,50;5;10;SP;Itapecerica da Serra;15/01/2026
 15360;Produto Itaqua;Itaqua;7,10;5;10;SP;Itaquaquecetuba;07/01/2026
 8713;Jandaia - Cartão Álvares Machado X Presidente Prudente;Jandaia;6,95;5;10;SP;Presidente Prudente;06/07/2026
@@ -2662,8 +2666,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10141;Prefeitura Municipal de Penápolis - Cartão Municipal Penápolis;Prefeitura Municipal de Penápolis;0,00;5;10;SP;Penápolis;19/05/2025
 16197;Princesa do Norte - Cartão Ourinhos X São Pedro do Turvo;Princesa do Norte;20,80;5;10;SP;Bauru;15/07/2026
 10158;Rápido Campinas (Artesp) - Cartão Jundiaí X Vinhedo (linha 5678);Rápido Campinas (Artesp);8,65;5;10;SP;Valinhos;19/08/2026
-10159;Rápido Campinas (Artesp) - Cartão Vinhedo X Louveira (Santo Antônio Via Capela linha 2.06);Rápido Campinas (Artesp);7,95;5;10;SP;Valinhos;01/07/2025
-10160;Rápido Campinas (Artesp) - Cartão Jundiaí X Louveira (Bairro Santo Antônio linha 9033);Rápido Campinas (Artesp);7,25;5;10;SP;Valinhos;01/07/2025
+10159;Rápido Campinas (Artesp) - Cartão Vinhedo X Louveira (Santo Antônio Via Capela linha 2.06);Rápido Campinas (Artesp);8,35;5;10;SP;Valinhos;26/08/2026
+10160;Rápido Campinas (Artesp) - Cartão Jundiaí X Louveira (Bairro Santo Antônio linha 9033);Rápido Campinas (Artesp);7,60;5;10;SP;Valinhos;26/08/2026
 10778;Rápido Campinas (Artesp) - Avaré - Cartão Itatinga X Botucatu;Rápido Campinas (Artesp) - Avaré;15,50;5;10;SP;Avaré;07/07/2025
 10779;Rápido Campinas (Artesp) - Avaré - Cartão Avaré X Itatinga;Rápido Campinas (Artesp) - Avaré;17,00;5;10;SP;Avaré;07/07/2025
 10780;Rápido Campinas (Artesp) - Avaré - Cartão Avaré X São Manuel;Rápido Campinas (Artesp) - Avaré;22,50;5;10;SP;Avaré;07/07/2025
@@ -2676,24 +2680,24 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6717;Rápido D Oeste - Cartão Ribeirão Preto X Jardinópolis;Rápido D Oeste;8,70;5;10;SP;Ribeirão Preto;15/07/2026
 9727;Rápido D Oeste - Cartão Ribeirão Preto X Cravinhos;Rápido D Oeste;8,65;5;10;SP;Ribeirão Preto;15/07/2026
 9901;Rápido D Oeste - Cartão Pontal X Candia;Rápido D Oeste;9,25;5;10;SP;Ribeirão Preto;13/08/2026
-19824;Rápido D Oeste - Cartão - Santa Cruz da Esperança X Ribeirão Preto;Rápido D Oeste - QR Code;24,70;5;10;SP;Ribeirão Preto;14/08/2026
-19825;Rápido D Oeste - Cartão - Ribeirão Preto X Santa Cruz da Esperança;Rápido D Oeste - QR Code;28,30;5;10;SP;Ribeirão Preto;14/08/2026
-19826;Rápido D Oeste - Cajuru X Ribeirão Preto;Rápido D Oeste - QR Code;30,00;5;10;SP;Ribeirão Preto;14/08/2026
-19827;Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto;Rápido D Oeste - QR Code;42,80;5;10;SP;Ribeirão Preto;21/08/2026
-19828;Rápido D Oeste - Casa Branca X Palmeiras;Rápido D Oeste - QR Code;10,05;5;10;SP;Ribeirão Preto;17/08/2026
-19829;Rápido D Oeste - Casa Branca X São José do Rio Pardo;Rápido D Oeste - QR Code;14,65;5;10;SP;Ribeirão Preto;17/08/2026
-19831;Rápido D Oeste - Itobi X São José do Rio Pardo;Rápido D Oeste - QR Code;8,25;5;10;SP;Ribeirão Preto;17/08/2026
-19832;Rápido D Oeste - Monte Azul Paulista X Bebedouro;Rápido D Oeste - QR Code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
-19834;Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod);Rápido D Oeste - QR Code;31,70;5;10;SP;Ribeirão Preto;17/08/2026
-19835;Rápido D Oeste - Olimpia X São José Do Rio Preto;Rápido D Oeste - QR Code;22,95;5;10;SP;Ribeirão Preto;17/08/2026
-19837;Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras;Rápido D Oeste - QR Code;11,00;5;10;SP;Ribeirão Preto;17/08/2026
-19838;Rápido D Oeste - Cartão Ribeirão Preto X Bebedouro;Rápido D Oeste - QR Code;48,25;5;10;SP;Ribeirão Preto;21/08/2026
-19839;Rápido D Oeste - Severina X Monte Azul Paulista;Rápido D Oeste - QR Code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
-19840;Rápido D Oeste - Ribeirão Preto X São João da Boa Vista;Rápido D Oeste - QR Code;81,90;1;2;SP;Ribeirão Preto;17/08/2026
-19841;Rápido D Oeste - Severinia X Olimpia;Rápido D Oeste - QR Code;6,95;5;10;SP;Ribeirão Preto;17/08/2026
-19842;Rápido D Oeste - Colina X Viradouro (Sub);Rápido D Oeste - QR Code;12,90;5;10;SP;Ribeirão Preto;17/08/2026
-19843;Rápido D Oeste - Jaboticabal X Bebedouro;Rápido D Oeste - QR Code;13,30;5;10;SP;Ribeirão Preto;17/08/2026
-19844;Rápido D Oeste - São José do Rio Pardo X Mococa;Rápido D Oeste - QR Code;14,35;5;10;SP;Ribeirão Preto;17/08/2026
+19824;Rápido D Oeste - Cartão - Santa Cruz da Esperança X Ribeirão Preto;Rápido D Oeste - QR-Code;24,70;5;10;SP;Ribeirão Preto;14/08/2026
+19825;Rápido D Oeste - Cartão - Ribeirão Preto X Santa Cruz da Esperança;Rápido D Oeste - QR-Code;28,30;5;10;SP;Ribeirão Preto;14/08/2026
+19826;Rápido D Oeste - Cajuru X Ribeirão Preto;Rápido D Oeste - QR-Code;30,00;5;10;SP;Ribeirão Preto;14/08/2026
+19827;Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto;Rápido D Oeste - QR-Code;42,80;5;10;SP;Ribeirão Preto;21/08/2026
+19828;Rápido D Oeste - Casa Branca X Palmeiras;Rápido D Oeste - QR-Code;10,05;5;10;SP;Ribeirão Preto;17/08/2026
+19829;Rápido D Oeste - Casa Branca X São José do Rio Pardo;Rápido D Oeste - QR-Code;14,65;5;10;SP;Ribeirão Preto;17/08/2026
+19831;Rápido D Oeste - Itobi X São José do Rio Pardo;Rápido D Oeste - QR-Code;8,25;5;10;SP;Ribeirão Preto;17/08/2026
+19832;Rápido D Oeste - Monte Azul Paulista X Bebedouro;Rápido D Oeste - QR-Code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
+19834;Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod);Rápido D Oeste - QR-Code;31,70;5;10;SP;Ribeirão Preto;17/08/2026
+19835;Rápido D Oeste - Olimpia X São José Do Rio Preto;Rápido D Oeste - QR-Code;22,95;5;10;SP;Ribeirão Preto;17/08/2026
+19837;Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras;Rápido D Oeste - QR-Code;11,00;5;10;SP;Ribeirão Preto;17/08/2026
+19838;Rápido D Oeste - Cartão Ribeirão Preto X Bebedouro;Rápido D Oeste - QR-Code;48,25;5;10;SP;Ribeirão Preto;21/08/2026
+19839;Rápido D Oeste - Severina X Monte Azul Paulista;Rápido D Oeste - QR-Code;8,95;5;10;SP;Ribeirão Preto;17/08/2026
+19840;Rápido D Oeste - Ribeirão Preto X São João da Boa Vista;Rápido D Oeste - QR-Code;81,90;1;2;SP;Ribeirão Preto;17/08/2026
+19841;Rápido D Oeste - Severinia X Olimpia;Rápido D Oeste - QR-Code;6,95;5;10;SP;Ribeirão Preto;17/08/2026
+19842;Rápido D Oeste - Colina X Viradouro (Sub);Rápido D Oeste - QR-Code;12,90;5;10;SP;Ribeirão Preto;17/08/2026
+19843;Rápido D Oeste - Jaboticabal X Bebedouro;Rápido D Oeste - QR-Code;13,30;5;10;SP;Ribeirão Preto;17/08/2026
+19844;Rápido D Oeste - São José do Rio Pardo X Mococa;Rápido D Oeste - QR-Code;14,35;5;10;SP;Ribeirão Preto;17/08/2026
 730;Rápido Fênix - Cartão Itatiba X Bragança (nominal);Rápido Fênix;14,90;5;10;SP;Itatiba;18/06/2026
 788;Rápido Fênix - Cartão Itatiba X Jundiaí (nominal);Rápido Fênix;10,10;5;10;SP;Itatiba;22/07/2026
 4149;Rápido Fênix - Cartão Bragança Paulista X São Sebastião (nominal);Rápido Fênix;10,40;5;10;SP;Itatiba;07/07/2025
@@ -2898,7 +2902,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3017;Valle Sul São Paulo - Cartão Registro X Pariquera Açu Rodoviário;Valle Sul São Paulo;9,40;5;10;SP;São Paulo;30/07/2026
 3019;Valle Sul São Paulo - Cartão Registro X São Vicente Rod (com taxa e com seguro);Valle Sul São Paulo;93,15;5;10;SP;São Paulo;07/10/2025
 3021;Valle Sul São Paulo - Cartão São Vicente X Juquiá Rodoviário;Valle Sul São Paulo;78,65;5;10;SP;São Paulo;07/10/2025
-3036;Valle Sul São Paulo - Cartão Miracatu X Registro Suburbano;Valle Sul São Paulo;14,60;5;10;SP;São Paulo;02/09/2025
+3036;Valle Sul São Paulo - Cartão Miracatu X Registro Suburbano;Valle Sul São Paulo;15,35;5;10;SP;São Paulo;26/08/2026
 4604;Valle Sul São Paulo - Cartão Itariri X Peruíbe (Rodoviário);Valle Sul São Paulo;7,95;5;10;SP;São Paulo;07/10/2025
 5950;Valle Sul São Paulo - Cartão São Paulo X Juquiá;Valle Sul São Paulo;78,65;5;10;SP;São Paulo;07/10/2025
 6832;Valle Sul São Paulo - Cartão Registro X Santos;Valle Sul São Paulo;93,15;5;10;SP;São Paulo;07/10/2025
@@ -2934,7 +2938,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10276;Viação Atibaia São Paulo - Cartão Campo Limpo Paulista X Nova Trieste;Viação Atibaia São Paulo;6,95;5;10;SP;Atibaia;17/09/2025
 10420;Viação Botucatu - Cartão Municipal Botucatu;Viação Botucatu;3,55;5;10;SP;Botucatu;09/10/2023
 5432;Viação Bragança - Cartão Águas de Lindóia X Itapira;Viação Bragança;6,50;5;10;SP;Bragança Paulista;09/09/2021
-5433;Viação Bragança - Cartão Atibaia X Bragança Paulista;Viação Bragança;8,30;5;10;SP;Bragança Paulista;07/10/2025
+5433;Viação Bragança - Cartão Atibaia X Bragança Paulista;Viação Bragança;8,65;5;10;SP;Bragança Paulista;26/08/2026
 5435;Viação Bragança - Cartão Bragança X Socorro sub;Viação Bragança;14,70;5;10;SP;Bragança Paulista;12/07/2024
 5439;Viação Bragança - Cartão Circular Bragança X Mairiporã (suburbano);Viação Bragança;8,30;5;10;SP;Bragança Paulista;09/09/2021
 5442;Viação Bragança - Cartão Pedra Bela X Bragança (suburbano);Viação Bragança;8,95;5;10;SP;Bragança Paulista;07/10/2025
