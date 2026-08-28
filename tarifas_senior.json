@@ -7067,7 +7067,7 @@
         "codigo": "9826",
         "nome": "Borborema - Cartão Frexeiras X Frexeiras",
         "fornecedor": "Borborema - Frexeiras/Frexeiras",
-        "valor": "6,00",
+        "valor": "10,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -7099,7 +7099,7 @@
         "codigo": "9822",
         "nome": "Borborema - Cartão Recife (Via BR232) X Vitória (Via BR232)",
         "fornecedor": "Borborema - Recife (Via BR232)/Vitória (Via BR232)",
-        "valor": "13,00",
+        "valor": "22,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -7795,7 +7795,7 @@
         "codigo": "9350",
         "nome": "Melissatur - Cartão Municipal Campo Mourão",
         "fornecedor": "Melissatur",
-        "valor": "4,81",
+        "valor": "5,00",
         "uf": "PR",
         "cidade": "Campo Mourão"
     },
@@ -19147,7 +19147,7 @@
         "codigo": "15649",
         "nome": "Guerino Seiscentos - Cartão Promissão X Lins",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -19499,7 +19499,7 @@
         "codigo": "16050",
         "nome": "Jundiá - Cartão Municipal São Roque",
         "fornecedor": "Jundiá - São Roque - QR-Code",
-        "valor": "8,00",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "São Roque"
     },
@@ -19587,7 +19587,7 @@
         "codigo": "8927",
         "nome": "Luwasa (Expresso Itamarati) - Cartão Catanduva X São José do Rio Preto",
         "fornecedor": "Luwasa (Expresso Itamarati)",
-        "valor": "19,35",
+        "valor": "19,75",
         "uf": "SP",
         "cidade": "São José do Rio Preto"
     },

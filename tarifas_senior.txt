@@ -882,11 +882,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5246;Borborema - Cartão Escada X Recife;Borborema - Escada/Recife;22,00;5;10;PE;Recife;22/07/2026
 9809;Borborema - Cartão Escada X Timboassú;Borborema - Escada/Timboassú;10,00;5;10;PE;Recife;08/08/2026
 9824;Borborema - Cartão Frexeiras X Aripibú;Borborema - Frexeiras/Aripibú;10,00;5;10;PE;Recife;03/10/2024
-9826;Borborema - Cartão Frexeiras X Frexeiras;Borborema - Frexeiras/Frexeiras;6,00;5;10;PE;Recife;20/02/2026
+9826;Borborema - Cartão Frexeiras X Frexeiras;Borborema - Frexeiras/Frexeiras;10,00;5;10;PE;Recife;27/08/2026
 9827;Borborema - Cartão Frexeiras X Gameleira;Borborema - Frexeiras/Gameleira;10,00;5;10;PE;Recife;03/10/2024
 9828;Borborema - Cartão Frexeiras X Ribeirão;Borborema - Frexeiras/Ribeirão;10,00;5;10;PE;Recife;11/03/2025
 9268;Borborema - Cartão Pombos X Recife (Linha 0802);Borborema - Pombos/Recife (Linha 0802);14,00;5;10;PE;Recife;20/02/2026
-9822;Borborema - Cartão Recife (Via BR232) X Vitória (Via BR232);Borborema - Recife (Via BR232)/Vitória (Via BR232);13,00;5;10;PE;Recife;25/03/2026
+9822;Borborema - Cartão Recife (Via BR232) X Vitória (Via BR232);Borborema - Recife (Via BR232)/Vitória (Via BR232);22,00;5;10;PE;Recife;27/08/2026
 8589;Borborema - Cartão Recife X Cabo;Borborema - Recife/Cabo;10,00;5;10;PE;Recife;18/05/2023
 9082;Borborema - Cartão Ribeirão X Cabo;Borborema - Ribeirão/Cabo;25,00;5;10;PE;Recife;28/11/2024
 19443;Borborema - Cartão Ribeirão X Recife (Linha 1123);Borborema - Ribeirão/Recife (Linha 1123);30,00;5;10;PE;Recife;22/12/2025
@@ -973,7 +973,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8158;Expresso Transpen - Cartão Municipal Jaguariaiva;Expresso Transpen;7,20;5;10;PR;Jaguariaíva;11/05/2026
 10712;Guancino - Cartão Francisco Beltrão Urbano;Guancino;5,30;5;10;PR;Francisco Beltrão;03/10/2025
 9050;Imperial Locação e Transporte - Cartão Municipal Araucária;Imperial Locação e Transporte;1,00;5;10;PR;Araucária;13/11/2023
-9350;Melissatur - Cartão Municipal Campo Mourão;Melissatur;4,81;5;10;PR;Campo Mourão;25/04/2022
+9350;Melissatur - Cartão Municipal Campo Mourão;Melissatur;5,00;5;10;PR;Campo Mourão;27/08/2026
 513;Metrocard - Cartão Linhas Metropolitanas Integradas (R$ 5,50);Metrocard;5,90;5;10;PR;Curitiba;18/02/2026
 1301;Metrocard - Cartão Linhas Metropolitanas Integradas (R$6,50);Metrocard;6,50;5;10;PR;Curitiba;15/03/2022
 4263;Metrocard - Cartão Linhas Metropolitanas Integradas / Curitiba;Metrocard;0,01;5;10;PR;Curitiba;01/01/2000
@@ -2392,7 +2392,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9162;Guerino Seiscentos - Cartão Getulina X Lins;Guerino Seiscentos;9,50;5;10;SP;Tupã;15/07/2026
 10284;Guerino Seiscentos - Cartão Getulina X Marília;Guerino Seiscentos;17,75;5;10;SP;Tupã;15/07/2026
 15599;Guerino Seiscentos - Cartão Salto Grande X Ourinhos;Guerino Seiscentos;7,95;5;10;SP;Tupã;04/08/2026
-15649;Guerino Seiscentos - Cartão Promissão X Lins;Guerino Seiscentos;7,95;5;10;SP;Tupã;15/07/2025
+15649;Guerino Seiscentos - Cartão Promissão X Lins;Guerino Seiscentos;8,35;5;10;SP;Tupã;27/08/2026
 15671;Guerino Seiscentos - Cartão Lins X Guaiçara;Guerino Seiscentos;6,20;5;10;SP;Tupã;15/07/2026
 15765;Guerino Seiscentos - Cartão Ribeirão do Sul X Ourinhos;Guerino Seiscentos;10,75;5;10;SP;Tupã;15/07/2026
 16133;Guerino Seiscentos - Cartão Assis X Cândido Mota;Guerino Seiscentos;7,25;5;10;SP;Tupã;15/07/2026
@@ -2436,7 +2436,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 178;JTU Jacareí- Cartão Jacareí Urbano / Jacareí e Região;JTU Jacareí;8,06;5;10;SP;Jacareí;06/05/2026
 15367;JTU Jacareí - Cartão Jacareí Urbano Variável;JTU Jacareí;0,01;5;10;SP;Jacareí;20/09/2024
 16051;Jundiá - Cartão Municipal Mairinque;Jundiá - Mairinque - QR-Code;8,00;5;10;SP;Mairinque;02/07/2026
-16050;Jundiá - Cartão Municipal São Roque;Jundiá - São Roque - QR-Code;8,00;5;10;SP;São Roque;02/07/2026
+16050;Jundiá - Cartão Municipal São Roque;Jundiá - São Roque - QR-Code;9,00;5;10;SP;São Roque;27/08/2026
 5712;Lim MA - Cartão Municipal;Lim MA;4,30;5;10;SP;Mauá;28/12/2021
 10463;Liminar SA;Liminar SA - Documentação Judicial;5,90;5;10;SP;Santo André;22/01/2025
 7624;LimSP - Municipal;LimSP;5,30;5;10;SP;São Paulo;05/01/2026
@@ -2447,7 +2447,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8924;Luwasa (Expresso Itamarati) - Cartão Catanduva X Santa Adélia;Luwasa (Expresso Itamarati);8,65;5;10;SP;São José do Rio Preto;20/07/2026
 8925;Luwasa (Expresso Itamarati) - Cartão Catanduva X Elisiário;Luwasa (Expresso Itamarati);7,25;5;10;SP;São José do Rio Preto;07/07/2025
 8926;Luwasa (Expresso Itamarati) - Cartão Catanduva X Pindorama;Luwasa (Expresso Itamarati);7,25;5;10;SP;São José do Rio Preto;02/07/2026
-8927;Luwasa (Expresso Itamarati) - Cartão Catanduva X São José do Rio Preto;Luwasa (Expresso Itamarati);19,35;5;10;SP;São José do Rio Preto;20/07/2026
+8927;Luwasa (Expresso Itamarati) - Cartão Catanduva X São José do Rio Preto;Luwasa (Expresso Itamarati);19,75;5;10;SP;São José do Rio Preto;27/08/2026
 8928;Luwasa (Expresso Itamarati) - Cartão Júlio Mesquita X Marília;Luwasa (Expresso Itamarati);13,60;5;10;SP;São José do Rio Preto;24/08/2026
 8929;Luwasa (Expresso Itamarati) - Cartão Catanduva X Urupês;Luwasa (Expresso Itamarati);15,00;5;10;SP;São José do Rio Preto;07/07/2025
 9031;Luwasa (Expresso Itamarati) - Cartão Catiguá X Tabapuã;Luwasa (Expresso Itamarati);5,95;5;10;SP;São José do Rio Preto;07/07/2025
@@ -2667,7 +2667,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16197;Princesa do Norte - Cartão Ourinhos X São Pedro do Turvo;Princesa do Norte;20,80;5;10;SP;Bauru;15/07/2026
 10158;Rápido Campinas (Artesp) - Cartão Jundiaí X Vinhedo (linha 5678);Rápido Campinas (Artesp);8,65;5;10;SP;Valinhos;19/08/2026
 10159;Rápido Campinas (Artesp) - Cartão Vinhedo X Louveira (Santo Antônio Via Capela linha 2.06);Rápido Campinas (Artesp);8,35;5;10;SP;Valinhos;26/08/2026
-10160;Rápido Campinas (Artesp) - Cartão Jundiaí X Louveira (Bairro Santo Antônio linha 9033);Rápido Campinas (Artesp);7,60;5;10;SP;Valinhos;26/08/2026
+10160;Rápido Campinas (Artesp) - Cartão Jundiaí X Louveira (Bairro Santo Antônio linha 9033);Rápido Campinas (Artesp);7,60;5;10;SP;Valinhos;27/08/2026
 10778;Rápido Campinas (Artesp) - Avaré - Cartão Itatinga X Botucatu;Rápido Campinas (Artesp) - Avaré;15,50;5;10;SP;Avaré;07/07/2025
 10779;Rápido Campinas (Artesp) - Avaré - Cartão Avaré X Itatinga;Rápido Campinas (Artesp) - Avaré;17,00;5;10;SP;Avaré;07/07/2025
 10780;Rápido Campinas (Artesp) - Avaré - Cartão Avaré X São Manuel;Rápido Campinas (Artesp) - Avaré;22,50;5;10;SP;Avaré;07/07/2025
