@@ -13034,7 +13034,7 @@
     {
         "codigo": "15964",
         "nome": "Expresso Presidente - Intermunicipal - Cartão Poço Grande X Blumenau",
-        "fornecedor": "Expresso Presidente - Intermunicipal",
+        "fornecedor": "Expresso Presidente - Intermunicipal - PIX",
         "valor": "11,10",
         "uf": "SC",
         "cidade": "Gaspar"
@@ -13042,7 +13042,7 @@
     {
         "codigo": "19787",
         "nome": "Expresso Presidente - Intermunicipal - Cartão Ilhota X Blumenau",
-        "fornecedor": "Expresso Presidente - Intermunicipal",
+        "fornecedor": "Expresso Presidente - Intermunicipal - PIX",
         "valor": "13,00",
         "uf": "SC",
         "cidade": "Gaspar"
@@ -13050,7 +13050,7 @@
     {
         "codigo": "19788",
         "nome": "Expresso Presidente - Intermunicipal - Cartão Ilhota X Gaspar",
-        "fornecedor": "Expresso Presidente - Intermunicipal",
+        "fornecedor": "Expresso Presidente - Intermunicipal - PIX",
         "valor": "6,10",
         "uf": "SC",
         "cidade": "Gaspar"
@@ -13058,7 +13058,7 @@
     {
         "codigo": "19789",
         "nome": "Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau",
-        "fornecedor": "Expresso Presidente - Intermunicipal",
+        "fornecedor": "Expresso Presidente - Intermunicipal - PIX",
         "valor": "7,30",
         "uf": "SC",
         "cidade": "Gaspar"
@@ -13066,7 +13066,7 @@
     {
         "codigo": "19798",
         "nome": "Expresso Presidente - Intermunicipal - Cartão Poço Grande X Gaspar",
-        "fornecedor": "Expresso Presidente - Intermunicipal",
+        "fornecedor": "Expresso Presidente - Intermunicipal - PIX",
         "valor": "6,10",
         "uf": "SC",
         "cidade": "Gaspar"
@@ -14190,6 +14190,14 @@
         "valor": "24,40",
         "uf": "SP",
         "cidade": "Barueri"
+    },
+    {
+        "codigo": "19805",
+        "nome": "VUG Bebedouro - Cartão Municipal Bebedouro",
+        "fornecedor": "Alfetur - Papel",
+        "valor": "5,00",
+        "uf": "MG",
+        "cidade": "Alfenas"
     },
     {
         "codigo": "1828",
@@ -25584,16 +25592,8 @@
         "cidade": "Pindamonhangaba"
     },
     {
-        "codigo": "19805",
-        "nome": "VUG Bebedouro - Cartão Municipal Bebedouro",
-        "fornecedor": "Vug - Eletrônico",
-        "valor": "5,00",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
         "codigo": "19806",
-        "nome": "VUG Bebedouro - Cartão Municipal Bebedouro",
+        "nome": "VUG - Cartão Municipal Bebedouro",
         "fornecedor": "VUG Bebedouro - Eletrônico",
         "valor": "5,00",
         "uf": "SP",

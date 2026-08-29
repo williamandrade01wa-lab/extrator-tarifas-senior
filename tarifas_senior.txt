@@ -1628,11 +1628,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19769;Expresso Içarense - Cartão Criciúma X Aurora;Expresso Içarense - Eletrônico;7,95;5;10;SC;Criciúma;29/06/2026
 6893;Expresso Presidente (Timbó) - Cartão Timbó Municipal;Expresso Presidente (Timbó);4,00;5;10;SC;Timbó;01/01/2017
 9469;Expresso Presidente - (Gaspar) - Cartão Municipal Gaspar;Expresso Presidente - (Gaspar);4,80;5;10;SC;Presidente Getúlio;30/12/2022
-15964;Expresso Presidente - Intermunicipal - Cartão Poço Grande X Blumenau;Expresso Presidente - Intermunicipal;11,10;5;10;SC;Gaspar;06/07/2026
-19787;Expresso Presidente - Intermunicipal - Cartão Ilhota X Blumenau;Expresso Presidente - Intermunicipal;13,00;5;10;SC;Gaspar;22/07/2026
-19788;Expresso Presidente - Intermunicipal - Cartão Ilhota X Gaspar;Expresso Presidente - Intermunicipal;6,10;5;10;SC;Gaspar;22/07/2026
-19789;Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau;Expresso Presidente - Intermunicipal;7,30;5;10;SC;Gaspar;23/07/2026
-19798;Expresso Presidente - Intermunicipal - Cartão Poço Grande X Gaspar;Expresso Presidente - Intermunicipal;6,10;5;10;SC;Gaspar;30/07/2026
+15964;Expresso Presidente - Intermunicipal - Cartão Poço Grande X Blumenau;Expresso Presidente - Intermunicipal - PIX;11,10;5;10;SC;Gaspar;06/07/2026
+19787;Expresso Presidente - Intermunicipal - Cartão Ilhota X Blumenau;Expresso Presidente - Intermunicipal - PIX;13,00;5;10;SC;Gaspar;22/07/2026
+19788;Expresso Presidente - Intermunicipal - Cartão Ilhota X Gaspar;Expresso Presidente - Intermunicipal - PIX;6,10;5;10;SC;Gaspar;22/07/2026
+19789;Expresso Presidente - Intermunicipal - Cartão Gaspar X Blumenau;Expresso Presidente - Intermunicipal - PIX;7,30;5;10;SC;Gaspar;23/07/2026
+19798;Expresso Presidente - Intermunicipal - Cartão Poço Grande X Gaspar;Expresso Presidente - Intermunicipal - PIX;6,10;5;10;SC;Gaspar;30/07/2026
 4721;Forquilhinha - Cartão Criciúma X Forquilhinha (via Santa Cruz);Forquilhinha;5,15;5;10;SC;Criciúma;28/07/2023
 9372;Hodierna - Cartão Municipal Concórdia;Hodierna;1,50;5;10;SC;Concórdia;05/05/2025
 5749;Lagunatur - Cartão Laguna Municipal;Lagunatur;6,00;5;10;SC;Laguna;06/01/2025
@@ -1773,6 +1773,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19665;Repasse - BB Turismo - Cartão Barueri Integração (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;18/05/2026
 19739;Repasse - Cartão Municipal Barueri (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;12/06/2026
 19741;Repasse - Cartão Barueri Integração (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;12/06/2026
+19805;VUG Bebedouro - Cartão Municipal Bebedouro;Alfetur - Papel;5,00;5;10;MG;Alfenas;05/08/2026
 1828;AMTU Marilia - Marília Card;AMTU Marilia;5,75;5;10;SP;Marilia;02/05/2024
 816;Andorinha - Cartão Presidente Prudente X Venceslau;Andorinha;17,80;5;10;SP;Presidente Prudente;13/08/2026
 2343;Andorinha - Cartão Santo Anastácio X Presidente Prudente (com pedágio) (ida e volta);Andorinha;10,60;5;10;SP;Presidente Prudente;07/08/2026
@@ -3197,8 +3198,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6033;Vicampe - LARANJAL PTA MUNI (A PARTIR DE 25 CRED.);Vicampe;4,30;5;10;SP;Laranjal Paulista;23/01/2023
 19783;Vipe - Cartão São Caetano do Sul Municipal;VIPE;5,00;5;10;SP;São Caetano do Sul;21/07/2026
 10173;Viva Pinda - Cartão Municipal Pindamonhangaba;Viva Pinda - Novo Sistema;4,50;5;10;SP;Pindamonhangaba;20/09/2023
-19805;VUG Bebedouro - Cartão Municipal Bebedouro;Vug - Eletrônico;5,00;5;10;RS;Porto Alegre;05/08/2026
-19806;VUG Bebedouro - Cartão Municipal Bebedouro;VUG Bebedouro - Eletrônico;5,00;5;10;SP;Bebedouro;05/08/2026
+19806;VUG - Cartão Municipal Bebedouro;VUG Bebedouro - Eletrônico;5,00;5;10;SP;Bebedouro;05/08/2026
 7575;West Side Louveira - Cartão Louveira Urbano (West Side);West Side Louveira;6,00;5;10;SP;Louveira;09/11/2023
 15661;Expresso Miracema - Cartão Municipal Luzimangues;Expresso Miracema;7,50;5;10;TO;Porto Nacional;30/12/2025
 3849;Passaredo Araguaína - Cartão BEM Araguaína Urbano;Passaredo - Araguaína;3,75;5;10;TO;Araguaina;10/03/2019
