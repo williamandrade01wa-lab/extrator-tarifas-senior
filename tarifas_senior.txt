@@ -2949,7 +2949,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6900;Viação Bragança - Cartão Águas de Lindóia X Socorro;Viação Bragança;8,60;5;10;SP;Bragança Paulista;07/10/2025
 9311;Viação Bragança - Cartão Pinhalzinho X Socorro;Viação Bragança;8,60;5;10;SP;Bragança Paulista;07/10/2025
 15212;Viação Bragança - QR-Code - Cartão Bragança Paulista X Pinhalzinho (sem seguro);Viação Bragança - QR-Code - Grupo Vida;17,30;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
-15213;Viação Bragança - QR-Code - Cartão Bragança Paulista X São Paulo (sem seguro);Viação Bragança - QR-Code - Grupo Vida;43,60;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
+15213;Viação Bragança - QR-Code - Cartão Bragança Paulista X São Paulo (sem seguro);Viação Bragança - QR-Code - Grupo Vida;45,35;5;10;SP;Santa Rita do Passa Quatro;31/08/2026
 15214;Viação Bragança - QR-Code - Cartão São Paulo X Bragança Paulista (com seguro);Viação Bragança - QR-Code - Grupo Vida;50,75;5;10;SP;Santa Rita do Passa Quatro;22/08/2024
 15215;Viação Bragança - QR-Code - Cartão Lindóia X Socorro (com seguro);Viação Bragança - QR-Code - Grupo Vida;13,44;5;10;SP;Santa Rita do Passa Quatro;22/08/2024
 15216;Viação Bragança - QR-Code - Cartão Lindóia X Socorro (sem seguro);Viação Bragança - QR-Code - Grupo Vida;9,55;5;10;SP;Santa Rita do Passa Quatro;22/08/2024
@@ -2958,7 +2958,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15219;Viação Bragança - QR-Code - Cartão Pinhalzinho X Socorro (sem seguro);Viação Bragança - QR-Code - Grupo Vida;11,60;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
 15220;Viação Bragança - QR-Code - Cartão Socorro X Pinhalzinho (sem seguro);Viação Bragança - QR-Code - Grupo Vida;11,85;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
 15221;Viação Bragança - QR-Code - Cartão Socorro X Lindóia (sem seguro);Viação Bragança - QR-Code - Grupo Vida;9,85;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
-15222;Viação Bragança - QR-Code - Cartão São Paulo X Bragança Paulista (sem seguro);Viação Bragança - QR-Code - Grupo Vida;48,30;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
+15222;Viação Bragança - QR-Code - Cartão São Paulo X Bragança Paulista (sem seguro);Viação Bragança - QR-Code - Grupo Vida;50,80;5;10;SP;Santa Rita do Passa Quatro;31/08/2026
 15462;Viação Bragança - QR-Code - Cartão São Paulo (Tietê) X Socorro;Viação Bragança - QR-Code - Grupo Vida;73,45;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
 15463;Viação Bragança - QR-Code - Cartão Socorro X São Paulo (Tietê);Viação Bragança - QR-Code - Grupo Vida;65,70;5;10;SP;Santa Rita do Passa Quatro;19/08/2025
 16183;Viação Bragança - QR-Code - Cartão Bragança Paulista X São Paulo (com seguro);Viação Bragança - QR-Code - Grupo Vida;49,60;5;10;SP;Santa Rita do Passa Quatro;14/10/2025
