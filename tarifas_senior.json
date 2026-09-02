@@ -6995,7 +6995,7 @@
         "codigo": "8240",
         "nome": "Borborema - Cartão Bezerros X Gravatá (Linha 0803)",
         "fornecedor": "Borborema - Bezerros/Gravatá (Linha 0803)",
-        "valor": "10,00",
+        "valor": "7,00",
         "uf": "PE",
         "cidade": "Recife"
     },
@@ -7883,7 +7883,7 @@
         "codigo": "9872",
         "nome": "Oceânica Sul - Cartão Lapa X Araucária",
         "fornecedor": "Oceânica Sul (Lapa - Arauc.) - QR-Code",
-        "valor": "8,50",
+        "valor": "8,55",
         "uf": "PR",
         "cidade": "Pontal do Paraná"
     },
@@ -10784,41 +10784,9 @@
         "cidade": "Nova Santa Rita"
     },
     {
-        "codigo": "15170",
-        "nome": "Fátima Transportes - Cartão Mínima Intermunicipal",
-        "fornecedor": "Fátima Transportes - Esteio",
-        "valor": "7,65",
-        "uf": "RS",
-        "cidade": "Esteio"
-    },
-    {
-        "codigo": "15172",
-        "nome": "Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia",
-        "fornecedor": "Fátima Transportes - Esteio",
-        "valor": "9,05",
-        "uf": "RS",
-        "cidade": "Esteio"
-    },
-    {
-        "codigo": "15173",
-        "nome": "Fátima Transportes - Cartão Porto Alegre X Canoas",
-        "fornecedor": "Fátima Transportes - Esteio",
-        "valor": "9,05",
-        "uf": "RS",
-        "cidade": "Esteio"
-    },
-    {
-        "codigo": "15174",
-        "nome": "Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto)",
-        "fornecedor": "Fátima Transportes - Esteio",
-        "valor": "13,95",
-        "uf": "RS",
-        "cidade": "Esteio"
-    },
-    {
         "codigo": "19780",
         "nome": "Fátima Transportes - Cartão Municipal Nova Santa Rita",
-        "fornecedor": "Fátima Transportes - Santa Rita",
+        "fornecedor": "Fátima Transportes - Novo Sistema",
         "valor": "5,26",
         "uf": "RS",
         "cidade": "Esteio"
@@ -10826,7 +10794,7 @@
     {
         "codigo": "19781",
         "nome": "Fátima Transportes - Cartão Santa Rita x Porto Alegre",
-        "fornecedor": "Fátima Transportes - Santa Rita",
+        "fornecedor": "Fátima Transportes - Novo Sistema",
         "valor": "11,45",
         "uf": "RS",
         "cidade": "Esteio"
@@ -10834,7 +10802,7 @@
     {
         "codigo": "19782",
         "nome": "Fátima Transportes - Cartão Santa Rita x Canoas",
-        "fornecedor": "Fátima Transportes - Santa Rita",
+        "fornecedor": "Fátima Transportes - Novo Sistema",
         "valor": "8,00",
         "uf": "RS",
         "cidade": "Esteio"
@@ -13131,7 +13099,7 @@
         "codigo": "5554",
         "nome": "Santa Teresinha Videira e Fraiburgo - Cartão Videira Municipal",
         "fornecedor": "Santa Teresinha Videira e Fraiburgo",
-        "valor": "5,74",
+        "valor": "4,50",
         "uf": "SC",
         "cidade": "Videira"
     },
@@ -14190,14 +14158,6 @@
         "valor": "24,40",
         "uf": "SP",
         "cidade": "Barueri"
-    },
-    {
-        "codigo": "19805",
-        "nome": "VUG Bebedouro - Cartão Municipal Bebedouro",
-        "fornecedor": "Alfetur - Papel",
-        "valor": "5,00",
-        "uf": "MG",
-        "cidade": "Alfenas"
     },
     {
         "codigo": "1828",

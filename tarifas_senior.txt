@@ -873,7 +873,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10458;Bem Fácil Cabo (Setago) - Cartão Bem Fácil;Bem Fácil Cabo (Setago);0,01;5;10;PE;Cabo de Santo Agostinho;10/10/2023
 5243;Borborema - Cartão Escada X Cabo;Borborema;12,00;5;10;PE;Recife;23/02/2026
 16043;Borborema - Ribeirão X Palmeiras (Linha 1101.0);Borborema;12,00;5;10;PE;Recife;27/08/2025
-8240;Borborema - Cartão Bezerros X Gravatá (Linha 0803);Borborema - Bezerros/Gravatá (Linha 0803);10,00;5;10;PE;Recife;06/03/2026
+8240;Borborema - Cartão Bezerros X Gravatá (Linha 0803);Borborema - Bezerros/Gravatá (Linha 0803);7,00;5;10;PE;Recife;01/09/2026
 9823;Borborema - Cartão Bonança X Vitória (Via BR232);Borborema - Bonança/Vitória (Via BR232);10,00;5;10;PE;Recife;20/02/2026
 9808;Borborema - Cartão Escada X Escada;Borborema - Escada/Escada;10,00;5;10;PE;Recife;13/08/2026
 5245;Borborema - Cartão Escada X Fontes dos Carvalhos;Borborema - Escada/Fontes dos Carvalhos;16,00;5;10;PE;Recife;13/08/2026
@@ -984,7 +984,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16002;Oceânica - Guaratuba - Cartão Municipal Guaratuba;Oceânica - Guaratuba;6,10;5;10;PR;Guaratuba;20/08/2025
 16003;Oceânica - Itapoá - Cartão Municipal Itapoá;Oceânica - Itapoá - QR-Code;5,00;5;10;SC;Itapoá;20/08/2025
 16005;Oceânica - Lapa - Cartão Municipal Lapa;Oceânica - Lapa - QR-Code;4,30;5;10;PR;Lapa;20/08/2025
-9872;Oceânica Sul - Cartão Lapa X Araucária;Oceânica Sul (Lapa - Arauc.) - QR-Code;8,50;5;10;PR;Pontal do Paraná;04/03/2026
+9872;Oceânica Sul - Cartão Lapa X Araucária;Oceânica Sul (Lapa - Arauc.) - QR-Code;8,55;5;10;PR;Pontal do Paraná;01/09/2026
 9618;Panamera Oceânica Sul - Cartão Pontal do Paraná Municipal;Panamera - OCEANICA PONTAL Sul;3,25;5;10;PR;Pontal do Paraná;04/08/2025
 2193;Pérola do Oeste - Cartão Pérola do Oeste Urbano;Pérola do Oeste;4,00;5;10;PR;Guarapuava;19/02/2025
 15991;Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque);Piraquara;5,90;5;10;SP;Piraquara;17/06/2026
@@ -1347,13 +1347,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15574;Fátima Transportes - Cartão Taquari x Triunfo (Com Seguro);Fátima Transportes;23,55;5;10;RS;Nova Santa Rita;29/01/2025
 15701;Fátima Transportes - Cartão Triunfo X Canoas;Fátima Transportes;25,45;5;10;RS;Nova Santa Rita;12/06/2026
 19542;Fátima Transportes - Cartão Municipal Triunfo;Fátima Transportes;5,70;5;10;RS;Nova Santa Rita;13/03/2026
-15170;Fátima Transportes - Cartão Mínima Intermunicipal;Fátima Transportes - Esteio;7,65;5;10;RS;Esteio;12/06/2026
-15172;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Esteio;9,05;5;10;RS;Esteio;12/06/2026
-15173;Fátima Transportes - Cartão Porto Alegre X Canoas;Fátima Transportes - Esteio;9,05;5;10;RS;Esteio;25/06/2026
-15174;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto);Fátima Transportes - Esteio;13,95;5;10;RS;Esteio;12/06/2026
-19780;Fátima Transportes - Cartão Municipal Nova Santa Rita;Fátima Transportes - Santa Rita;5,26;5;10;RS;Esteio;17/07/2026
-19781;Fátima Transportes - Cartão Santa Rita x Porto Alegre;Fátima Transportes - Santa Rita;11,45;5;10;RS;Esteio;17/07/2026
-19782;Fátima Transportes - Cartão Santa Rita x Canoas;Fátima Transportes - Santa Rita;8,00;5;10;RS;Esteio;17/07/2026
+19780;Fátima Transportes - Cartão Municipal Nova Santa Rita;Fátima Transportes - Novo Sistema;5,26;5;10;RS;Esteio;17/07/2026
+19781;Fátima Transportes - Cartão Santa Rita x Porto Alegre;Fátima Transportes - Novo Sistema;11,45;5;10;RS;Esteio;17/07/2026
+19782;Fátima Transportes - Cartão Santa Rita x Canoas;Fátima Transportes - Novo Sistema;8,00;5;10;RS;Esteio;17/07/2026
 8185;Gaurama - Cartão Erechim Urbano;Gaurama - Eletrônico;5,50;5;10;RS;Erechim;22/04/2024
 15936;Laranjal - Candiota - Cartão Municipal Candiota;Laranjal - Candiota;6,00;5;10;RS;Candiota;31/07/2025
 5528;Mtu Medianeira - Cartão Ijuí Municipal;MTU Medianeira;6,00;5;10;RS;Ijui;07/07/2025
@@ -1640,7 +1636,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15074;Melissa - Navegantes - Cartão Municipal Navegantes;Melissa - Navegantes;3,85;5;10;SC;Navegantes;17/05/2024
 3843;Piracicabana Blumenau - Cartão Blumenau Urbano;Piracicabana Blumenau;5,50;5;10;SC;Blumenau;31/01/2025
 15070;Riomafra - Cartão Municipal Rio Negro;Riomafra;4,50;5;10;SC;Mafra;14/05/2024
-5554;Santa Teresinha Videira e Fraiburgo - Cartão Videira Municipal;Santa Teresinha Videira e Fraiburgo;5,74;5;10;SC;Videira;03/01/2025
+5554;Santa Teresinha Videira e Fraiburgo - Cartão Videira Municipal;Santa Teresinha Videira e Fraiburgo;4,50;5;10;SC;Videira;01/09/2026
 6237;Santa Teresinha Videira e Fraiburgo - Cartão Fraiburgo Municipal;Santa Teresinha Videira e Fraiburgo;6,50;5;10;SC;Videira;19/08/2025
 8687;Setuf - Cartão Biguaçu (Patamar AC1);Setuf (Biguaçu);6,60;5;10;SC;Florianópolis;19/07/2022
 8688;Setuf - Cartão Biguaçu (Patamar BM1);Setuf (Biguaçu);5,65;5;10;SC;Florianópolis;19/07/2022
@@ -1773,7 +1769,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19665;Repasse - BB Turismo - Cartão Barueri Integração (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;18/05/2026
 19739;Repasse - Cartão Municipal Barueri (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;12/06/2026
 19741;Repasse - Cartão Barueri Integração (Blacklist);AETUR DEL REY - NOVO SISTEMA;24,40;5;10;SP;Barueri;12/06/2026
-19805;VUG Bebedouro - Cartão Municipal Bebedouro;Alfetur - Papel;5,00;5;10;MG;Alfenas;05/08/2026
 1828;AMTU Marilia - Marília Card;AMTU Marilia;5,75;5;10;SP;Marilia;02/05/2024
 816;Andorinha - Cartão Presidente Prudente X Venceslau;Andorinha;17,80;5;10;SP;Presidente Prudente;13/08/2026
 2343;Andorinha - Cartão Santo Anastácio X Presidente Prudente (com pedágio) (ida e volta);Andorinha;10,60;5;10;SP;Presidente Prudente;07/08/2026
