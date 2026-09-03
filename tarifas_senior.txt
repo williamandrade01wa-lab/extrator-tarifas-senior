@@ -1057,7 +1057,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3815;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
 6097;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
 15069;Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu;Viza Transportes - Eletrônico;7,10;5;10;PR;Foz do Iguaçu;20/07/2026
-15423;Bamonte - Cartão Municipal Barra do Piraí;Bamonte;3,60;5;10;RJ;Barra do Piraí;13/11/2024
 15191;Fênix RJ;Fênix RJ;0,01;5;10;RJ;Rio de Janeiro;14/08/2024
 19602;Jaé - Cartão Municipal Rio de Janeiro;Jaé;5,00;3;10;RJ;Rio de Janeiro;23/04/2026
 19603;Jaé - Cartão Ônibus Executivo;Jaé;0,01;3;10;RJ;Rio de Janeiro;23/04/2026
@@ -1350,6 +1349,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19780;Fátima Transportes - Cartão Municipal Nova Santa Rita;Fátima Transportes - Novo Sistema;5,26;5;10;RS;Esteio;17/07/2026
 19781;Fátima Transportes - Cartão Santa Rita x Porto Alegre;Fátima Transportes - Novo Sistema;11,45;5;10;RS;Esteio;17/07/2026
 19782;Fátima Transportes - Cartão Santa Rita x Canoas;Fátima Transportes - Novo Sistema;8,00;5;10;RS;Esteio;17/07/2026
+19872;Fátima Transportes - Cartão Mínima Intermunicipal;Fátima Transportes - Novo Sistema;7,65;5;10;RS;Esteio;02/09/2026
+19873;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia;Fátima Transportes - Novo Sistema;9,05;5;10;RS;Esteio;02/09/2026
+19874;Fátima Transportes - Cartão Porto Alegre X Canoas;Fátima Transportes - Novo Sistema;9,05;5;10;RS;Esteio;02/09/2026
+19875;Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto);Fátima Transportes - Novo Sistema;13,95;5;10;RS;Esteio;02/09/2026
 8185;Gaurama - Cartão Erechim Urbano;Gaurama - Eletrônico;5,50;5;10;RS;Erechim;22/04/2024
 15936;Laranjal - Candiota - Cartão Municipal Candiota;Laranjal - Candiota;6,00;5;10;RS;Candiota;31/07/2025
 5528;Mtu Medianeira - Cartão Ijuí Municipal;MTU Medianeira;6,00;5;10;RS;Ijui;07/07/2025

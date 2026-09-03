@@ -8464,14 +8464,6 @@
         "cidade": "Foz do Iguaçu"
     },
     {
-        "codigo": "15423",
-        "nome": "Bamonte - Cartão Municipal Barra do Piraí",
-        "fornecedor": "Bamonte",
-        "valor": "3,60",
-        "uf": "RJ",
-        "cidade": "Barra do Piraí"
-    },
-    {
         "codigo": "15191",
         "nome": "Fênix RJ",
         "fornecedor": "Fênix RJ",
@@ -10804,6 +10796,38 @@
         "nome": "Fátima Transportes - Cartão Santa Rita x Canoas",
         "fornecedor": "Fátima Transportes - Novo Sistema",
         "valor": "8,00",
+        "uf": "RS",
+        "cidade": "Esteio"
+    },
+    {
+        "codigo": "19872",
+        "nome": "Fátima Transportes - Cartão Mínima Intermunicipal",
+        "fornecedor": "Fátima Transportes - Novo Sistema",
+        "valor": "7,65",
+        "uf": "RS",
+        "cidade": "Esteio"
+    },
+    {
+        "codigo": "19873",
+        "nome": "Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia",
+        "fornecedor": "Fátima Transportes - Novo Sistema",
+        "valor": "9,05",
+        "uf": "RS",
+        "cidade": "Esteio"
+    },
+    {
+        "codigo": "19874",
+        "nome": "Fátima Transportes - Cartão Porto Alegre X Canoas",
+        "fornecedor": "Fátima Transportes - Novo Sistema",
+        "valor": "9,05",
+        "uf": "RS",
+        "cidade": "Esteio"
+    },
+    {
+        "codigo": "19875",
+        "nome": "Fátima Transportes - Cartão Porto Alegre (Esteio) X Sapucaia (semi-direto)",
+        "fornecedor": "Fátima Transportes - Novo Sistema",
+        "valor": "13,95",
         "uf": "RS",
         "cidade": "Esteio"
     },
