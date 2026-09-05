@@ -1028,20 +1028,20 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2267;Viação Apucarana - Cartão Apucarana Municipal;Viação Apucarana - (Novo Sistema);5,20;5;10;PR;Apucarana;15/12/2025
 15865;Viação Campos Gerais - Cartão Municipal Ponta Grossa;Viação Campos Gerais - Novo Sistema;6,00;5;10;PR;Ponta Grossa;13/04/2026
 15999;Viação do Sul - Itaperuçu - Cartão Itaperuçu X Praça 19;Viação do Sul - Itaperuçu;5,90;5;10;SP;Itaperuçu;17/06/2026
-2284;Viação Garcia - Cartão Mandaguari X Maringá;Viação Garcia;7,20;5;10;PR;Londrina;18/06/2026
-2285;Viação Garcia - Cartão Maringá X Nova Esperança;Viação Garcia;9,20;5;10;PR;Londrina;17/06/2026
-2310;Viação Garcia - Cartão Maringá X Iguaraçu - Metropolitano;Viação Garcia;7,25;5;10;PR;Londrina;19/06/2026
-2319;Viação Garcia - Cartão Maringá X Mandaguaçu;Viação Garcia;6,90;5;10;PR;Londrina;17/06/2026
-4160;Viação Garcia - Cartão Paranavaí X Nova Esperança;Viação Garcia;7,10;5;10;PR;Londrina;19/06/2026
-4472;Viação Garcia - Cartão Astorga x Maringá;Viação Garcia;10,65;5;10;PR;Londrina;19/06/2026
-4475;Viação Garcia - Cartão Maringá x Marialva;Viação Garcia;6,50;5;10;PR;Londrina;18/06/2026
+2284;Viação Garcia - Cartão Mandaguari X Maringá;Viação Garcia;7,20;5;10;PR;Maringá;18/06/2026
+2285;Viação Garcia - Cartão Maringá X Nova Esperança;Viação Garcia;9,20;5;10;PR;Maringá;17/06/2026
+2310;Viação Garcia - Cartão Maringá X Iguaraçu - Metropolitano;Viação Garcia;7,25;5;10;PR;Maringá;19/06/2026
+2319;Viação Garcia - Cartão Maringá X Mandaguaçu;Viação Garcia;6,90;5;10;PR;Maringá;17/06/2026
+4160;Viação Garcia - Cartão Paranavaí X Nova Esperança;Viação Garcia;7,10;5;10;PR;Maringá;19/06/2026
+4472;Viação Garcia - Cartão Astorga x Maringá;Viação Garcia;10,65;5;10;PR;Maringá;19/06/2026
+4475;Viação Garcia - Cartão Maringá x Marialva;Viação Garcia;6,50;5;10;PR;Maringá;18/06/2026
 6023;Viação Garcia - Cartão Araponga X Astorga;Viação Garcia - (Arapon - Astor);7,35;5;10;PR;Maringá;19/06/2026
 6025;Viação Garcia - Cartão Londrina X Assai;Viação Garcia - (Lond - Assai);9,55;5;10;PR;Maringá;17/06/2026
 15316;Viação Garcia - Cartão Londrina X Bela Vista do Paraíso;Viação Garcia - (Lond - B. Vista do Par);9,90;5;10;PR;Maringá;19/06/2026
 6026;Viação Garcia - Cartão Londrina X Bela Vista;Viação Garcia - (Lond - B. Vista);9,90;5;10;PR;Maringá;25/06/2026
 6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,90;5;10;PR;Maringá;17/06/2026
 6028;Viação Garcia - Cartão Londrina X Rolandia;Viação Garcia - (Lond - Rolan);6,90;5;10;PR;Maringá;18/06/2026
-6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;7,10;5;10;PR;Londrina;18/06/2026
+6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;7,10;5;10;PR;Maringá;18/06/2026
 6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;7,50;5;10;PR;Maringá;19/06/2026
 15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;10,15;5;10;PR;Curitiba;02/04/2026
 15889;Viação Graciosa - Cartão Curitiba X Morretes;Viação Graciosa - QR-Code;39,98;5;10;PR;Curitiba;02/04/2026
@@ -2517,7 +2517,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8880;Pássaro Marron - Cartão Aparecida X Cruzeiro;Pássaro Marron - Seccionado (Ap X Cruz);21,00;5;10;SP;Guarulhos;08/01/2026
 19444;Pássaro Marron - Cartão Aparecida X Moreira César;Pássaro Marron - Seccionado (Ap. - Moreira C.);12,10;5;10;SP;São Paulo;08/01/2026
 15910;Pássaro Marron - Cartão Areias X Arapei;Pássaro Marron - Seccionado (Areias - Arapei);19,30;5;10;SP;Guarulhos;08/01/2026
-3889;Pássaro Marron - Cartão Areias X São José do Barreiro (Rod) / São Paulo;Pássaro Marron - Seccionado (Areias - S. J. do Barreiro);8,15;5;10;SP;;08/01/2026
+3889;Pássaro Marron - Cartão Areias X São José do Barreiro (Rod) / São Paulo;Pássaro Marron - Seccionado (Areias - S. J. do Barreiro);8,15;5;10;SP;Guarulhos;08/01/2026
 9065;Pássaro Marron - Cartão Areias X Bananal;Pássaro Marron - Seccionado (Areias X Bananal);26,75;5;10;SP;Guarulhos;08/01/2026
 9804;Pássaro Marron - Cartão Areias X Cruzeiro;Pássaro Marron - Seccionado (Areias X Cruz);15,55;5;10;SP;Guarulhos;08/01/2026
 9805;Pássaro Marron - Cartão Bananal X Guaratinguetá;Pássaro Marron - Seccionado (Bananal - Guara);57,20;5;10;SP;Guarulhos;08/01/2026
@@ -2527,13 +2527,13 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2633;Pássaro Marron - Cartão Bertioga (Riviera) X Boissucanga;Pássaro Marron - Seccionado (Bert - Boissu);18,90;5;10;SP;Guarulhos;24/08/2026
 6585;Pássaro Marron - Cartão Boraceia X Bertioga;Pássaro Marron - Seccionado (Boraceia - Bert);11,20;5;10;SP;Guarulhos;08/01/2026
 2770;Pássaro Marron - Cartão Cachoeira Paulista X Lorena / São Paulo;Pássaro Marron - Seccionado (Cachoe PTA - Loren);6,45;5;10;SP;Guarulhos;08/01/2026
-2779;Pássaro Marron - Cartão Cachoeira Paulista X São José dos Campos;Pássaro Marron - Seccionado (Cachoe PTA - S.J. dos Campos);47,45;5;10;SP;São Paulo;08/01/2026
-2771;Pássaro Marron - Cartão Cachoeira Paulista X Silveiras / São Paulo;Pássaro Marron - Seccionado (Cachoe PTA - Silv);8,15;5;10;SP;;08/01/2026
-2775;Pássaro Marron - Cartão Cachoeira Paulista X Taubaté / São Paulo;Pássaro Marron - Seccionado (Cachoe PTA - Taub);33,65;5;10;SP;;08/01/2026
+2779;Pássaro Marron - Cartão Cachoeira Paulista X São José dos Campos;Pássaro Marron - Seccionado (Cachoe PTA - S.J. dos Campos);47,45;5;10;SP;Guarulhos;08/01/2026
+2771;Pássaro Marron - Cartão Cachoeira Paulista X Silveiras / São Paulo;Pássaro Marron - Seccionado (Cachoe PTA - Silv);8,15;5;10;SP;Guarulhos;08/01/2026
+2775;Pássaro Marron - Cartão Cachoeira Paulista X Taubaté / São Paulo;Pássaro Marron - Seccionado (Cachoe PTA - Taub);33,65;5;10;SP;Guarulhos;08/01/2026
 2765;Pássaro Marron - Cartão Caçapava X Taubaté;Pássaro Marron - Seccionado (Caç - Taub);8,15;5;10;SP;Guarulhos;08/01/2026
 2643;Pássaro Marron - Cartão Cacapava X Caraguatatuba;Pássaro Marron - Seccionado (Caçap - Caragua);52,60;5;10;SP;Guarulhos;08/01/2026
-2649;Pássaro Marron - Cartão Caçapava X Jambeiro / São Paulo;Pássaro Marron - Seccionado (Caçap - Jamb);6,60;5;10;SP;;26/01/2020
-2762;Pássaro Marron - Cartão Caçapava X São José dos Campos / São Paulo;Pássaro Marron - Seccionado (Caçap - S. J. dos Campos);8,15;5;10;SP;;08/01/2026
+2649;Pássaro Marron - Cartão Caçapava X Jambeiro / São Paulo;Pássaro Marron - Seccionado (Caçap - Jamb);6,60;5;10;SP;Guarulhos;26/01/2020
+2762;Pássaro Marron - Cartão Caçapava X São José dos Campos / São Paulo;Pássaro Marron - Seccionado (Caçap - S. J. dos Campos);8,15;5;10;SP;Guarulhos;08/01/2026
 2785;Pássaro Marron - Cartão Campos do Jordão X São Bento do Sapucaí;Pássaro Marron - Seccionado (Camp. do Jordão - S. B. do Sapucaí);19,30;5;10;SP;Guarulhos;08/01/2026
 2788;Pássaro Marron - Cartão Campos do Jordão X Taubaté;Pássaro Marron - Seccionado (Campos dos Jordão - Taub);19,55;5;10;SP;Guarulhos;08/01/2026
 9703;Pássaro Marron - Seccionado (Campos Jord. - Sto.Ant.Pinhal) - Cartão Campos do Jordão X Santo Antonio do Pinhal;Pássaro Marron - Seccionado (Campos Jord. - Sto.Ant.Pinhal);8,15;5;10;SP;Guarulhos;08/01/2026
@@ -2567,7 +2567,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2972;Pássaro Marron - Cartão Lorena X Guarantiguetá;Pássaro Marron - Seccionado (Loren - Guarat);8,15;5;10;SP;Guarulhos;08/01/2026
 2973;Pássaro Marron - Cartão Lorena X Piquete;Pássaro Marron - Seccionado (Loren - Piquet);6,55;5;10;SP;Guarulhos;08/01/2026
 1735;Pássaro Marrom - Lorena X São José dos Campos;Pássaro Marron - Seccionado (Loren - S. J. Campos);44,65;5;10;SP;Guarulhos;19/05/2026
-2974;Pássaro Marron - Cartão Lorena X Taubaté;Pássaro Marron - Seccionado (Loren - Taub);26,90;5;10;SP;;26/05/2026
+2974;Pássaro Marron - Cartão Lorena X Taubaté;Pássaro Marron - Seccionado (Loren - Taub);26,90;5;10;SP;Guarulhos;26/05/2026
 5967;Pássaro Marrom - Cartão Lorena X Aparecida;Pássaro Marron - Seccionado (Loren X Ap);10,05;5;10;SP;Guarulhos;08/01/2026
 2971;Pássaro Marron - Cartão Lorena X Roseira;Pássaro Marron - Seccionado (Loren X Roseira);13,60;5;10;SP;Guarulhos;08/01/2026
 6018;Pássaro Marron - Cartão Paraibuna X S.J. dos Campos;Pássaro Marron - Seccionado (Parai - S.J.dos Campos);14,95;5;10;SP;Guarulhos;08/01/2026

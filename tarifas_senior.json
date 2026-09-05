@@ -8237,7 +8237,7 @@
         "fornecedor": "Viação Garcia",
         "valor": "7,20",
         "uf": "PR",
-        "cidade": "Londrina"
+        "cidade": "Maringá"
     },
     {
         "codigo": "2285",
@@ -8245,7 +8245,7 @@
         "fornecedor": "Viação Garcia",
         "valor": "9,20",
         "uf": "PR",
-        "cidade": "Londrina"
+        "cidade": "Maringá"
     },
     {
         "codigo": "2310",
@@ -8253,7 +8253,7 @@
         "fornecedor": "Viação Garcia",
         "valor": "7,25",
         "uf": "PR",
-        "cidade": "Londrina"
+        "cidade": "Maringá"
     },
     {
         "codigo": "2319",
@@ -8261,7 +8261,7 @@
         "fornecedor": "Viação Garcia",
         "valor": "6,90",
         "uf": "PR",
-        "cidade": "Londrina"
+        "cidade": "Maringá"
     },
     {
         "codigo": "4160",
@@ -8269,7 +8269,7 @@
         "fornecedor": "Viação Garcia",
         "valor": "7,10",
         "uf": "PR",
-        "cidade": "Londrina"
+        "cidade": "Maringá"
     },
     {
         "codigo": "4472",
@@ -8277,7 +8277,7 @@
         "fornecedor": "Viação Garcia",
         "valor": "10,65",
         "uf": "PR",
-        "cidade": "Londrina"
+        "cidade": "Maringá"
     },
     {
         "codigo": "4475",
@@ -8285,7 +8285,7 @@
         "fornecedor": "Viação Garcia",
         "valor": "6,50",
         "uf": "PR",
-        "cidade": "Londrina"
+        "cidade": "Maringá"
     },
     {
         "codigo": "6023",
@@ -8341,7 +8341,7 @@
         "fornecedor": "Viação Garcia - Apucarana Mandaguari",
         "valor": "7,10",
         "uf": "PR",
-        "cidade": "Londrina"
+        "cidade": "Maringá"
     },
     {
         "codigo": "6021",
@@ -20149,7 +20149,7 @@
         "fornecedor": "Pássaro Marron - Seccionado (Areias - S. J. do Barreiro)",
         "valor": "8,15",
         "uf": "SP",
-        "cidade": ""
+        "cidade": "Guarulhos"
     },
     {
         "codigo": "9065",
@@ -20229,7 +20229,7 @@
         "fornecedor": "Pássaro Marron - Seccionado (Cachoe PTA - S.J. dos Campos)",
         "valor": "47,45",
         "uf": "SP",
-        "cidade": "São Paulo"
+        "cidade": "Guarulhos"
     },
     {
         "codigo": "2771",
@@ -20237,7 +20237,7 @@
         "fornecedor": "Pássaro Marron - Seccionado (Cachoe PTA - Silv)",
         "valor": "8,15",
         "uf": "SP",
-        "cidade": ""
+        "cidade": "Guarulhos"
     },
     {
         "codigo": "2775",
@@ -20245,7 +20245,7 @@
         "fornecedor": "Pássaro Marron - Seccionado (Cachoe PTA - Taub)",
         "valor": "33,65",
         "uf": "SP",
-        "cidade": ""
+        "cidade": "Guarulhos"
     },
     {
         "codigo": "2765",
@@ -20269,7 +20269,7 @@
         "fornecedor": "Pássaro Marron - Seccionado (Caçap - Jamb)",
         "valor": "6,60",
         "uf": "SP",
-        "cidade": ""
+        "cidade": "Guarulhos"
     },
     {
         "codigo": "2762",
@@ -20277,7 +20277,7 @@
         "fornecedor": "Pássaro Marron - Seccionado (Caçap - S. J. dos Campos)",
         "valor": "8,15",
         "uf": "SP",
-        "cidade": ""
+        "cidade": "Guarulhos"
     },
     {
         "codigo": "2785",
@@ -20549,7 +20549,7 @@
         "fornecedor": "Pássaro Marron - Seccionado (Loren - Taub)",
         "valor": "26,90",
         "uf": "SP",
-        "cidade": ""
+        "cidade": "Guarulhos"
     },
     {
         "codigo": "5967",
