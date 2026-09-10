@@ -6403,7 +6403,7 @@
         "codigo": "5348",
         "nome": "Viação São Geraldo - Cartão Uberaba X Delta",
         "fornecedor": "Viação São Geraldo",
-        "valor": "12,50",
+        "valor": "13,50",
         "uf": "MG",
         "cidade": "Uberaba"
     },
@@ -6470,22 +6470,6 @@
         "valor": "4,50",
         "uf": "MG",
         "cidade": "Teófilo Otoni"
-    },
-    {
-        "codigo": "10694",
-        "nome": "Vinscol - Cartão Municipal Sabará",
-        "fornecedor": "Vinscol",
-        "valor": "5,40",
-        "uf": "MG",
-        "cidade": "Sabará"
-    },
-    {
-        "codigo": "10695",
-        "nome": "Vinscol - Cartão Sabará X Ravena",
-        "fornecedor": "Vinscol",
-        "valor": "6,35",
-        "uf": "MG",
-        "cidade": "Sabará"
     },
     {
         "codigo": "8166",
@@ -12763,7 +12747,7 @@
         "codigo": "8174",
         "nome": "Auto Viação Rainha - Cartão Indaial X Blumenau",
         "fornecedor": "Auto Viação Rainha",
-        "valor": "8,50",
+        "valor": "9,45",
         "uf": "SC",
         "cidade": "Indaial"
     },
@@ -13779,7 +13763,7 @@
         "codigo": "10668",
         "nome": "Viação Praiana - Cartão Itapema X Itajaí",
         "fornecedor": "Viação Praiana",
-        "valor": "9,90",
+        "valor": "10,60",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -13956,46 +13940,6 @@
         "nome": "ABC Caçapava - Integração",
         "fornecedor": "ABC Caçapava",
         "valor": "1,45",
-        "uf": "SP",
-        "cidade": "Caçapava"
-    },
-    {
-        "codigo": "19811",
-        "nome": "Teste",
-        "fornecedor": "ABC Caçapava",
-        "valor": "7,00",
-        "uf": "SP",
-        "cidade": "Caçapava"
-    },
-    {
-        "codigo": "19822",
-        "nome": "Viação Jacareí - Cartão Jacareí e Região",
-        "fornecedor": "ABC Caçapava",
-        "valor": "6,10",
-        "uf": "SP",
-        "cidade": "Caçapava"
-    },
-    {
-        "codigo": "19830",
-        "nome": "Rápido D Oeste - Itobi X São José do Rio Pardo",
-        "fornecedor": "ABC Caçapava",
-        "valor": "8,25",
-        "uf": "SP",
-        "cidade": "Caçapava"
-    },
-    {
-        "codigo": "19833",
-        "nome": "Rápido D Oeste - Morro Agudo X Ribeirão Preto (Rod)",
-        "fornecedor": "ABC Caçapava",
-        "valor": "31,70",
-        "uf": "SP",
-        "cidade": "Caçapava"
-    },
-    {
-        "codigo": "19836",
-        "nome": "Rápido D Oeste - Porto Ferreira X Santa Cruz das Palmeiras",
-        "fornecedor": "ABC Caçapava",
-        "valor": "11,00",
         "uf": "SP",
         "cidade": "Caçapava"
     },
@@ -17760,6 +17704,126 @@
         "cidade": "Mairiporã"
     },
     {
+        "codigo": "19824",
+        "nome": "Rápido D Oeste - Cartão Santa Cruz da Esperança X Ribeirão Preto",
+        "fornecedor": "Disponível",
+        "valor": "24,70",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19825",
+        "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Santa Cruz da Esperança",
+        "fornecedor": "Disponível",
+        "valor": "28,30",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19826",
+        "nome": "Rápido D Oeste - Cartão Cajuru X Ribeirão Preto",
+        "fornecedor": "Disponível",
+        "valor": "31,55",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19827",
+        "nome": "Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto",
+        "fornecedor": "Disponível",
+        "valor": "42,80",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19828",
+        "nome": "Rápido D Oeste - Cartão Casa Branca X Santa Cruz das Palmeiras",
+        "fornecedor": "Disponível",
+        "valor": "11,25",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19829",
+        "nome": "Rápido D Oeste - Cartão Casa Branca X São José do Rio Pardo",
+        "fornecedor": "Disponível",
+        "valor": "15,90",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19831",
+        "nome": "Rápido D Oeste - Cartão Itobi X São José do Rio Pardo",
+        "fornecedor": "Disponível",
+        "valor": "9,15",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19832",
+        "nome": "Rápido D Oeste - Cartão Monte Azul Paulista X Bebedouro",
+        "fornecedor": "Disponível",
+        "valor": "10,05",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19835",
+        "nome": "Rápido D Oeste - Cartão Olimpia X São José Do Rio Preto",
+        "fornecedor": "Disponível",
+        "valor": "25,20",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19837",
+        "nome": "Rápido D Oeste - Cartão Porto Ferreira X Santa Cruz das Palmeiras",
+        "fornecedor": "Disponível",
+        "valor": "12,20",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19838",
+        "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Bebedouro",
+        "fornecedor": "Disponível",
+        "valor": "48,25",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19839",
+        "nome": "Rápido D Oeste - Cartão Severinia X Monte Azul Paulista",
+        "fornecedor": "Disponível",
+        "valor": "10,05",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19840",
+        "nome": "Rápido D Oeste - Cartão Ribeirão Preto X São João da Boa Vista",
+        "fornecedor": "Disponível",
+        "valor": "94,00",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19841",
+        "nome": "Rápido D Oeste - Cartão Severinia X Olimpia",
+        "fornecedor": "Disponível",
+        "valor": "7,90",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19844",
+        "nome": "Rápido D Oeste - Cartão São José do Rio Pardo X Mococa",
+        "fornecedor": "Disponível",
+        "valor": "17,55",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
         "codigo": "1016",
         "nome": "Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Centro)",
         "fornecedor": "Empresa Cruz",
@@ -21440,122 +21504,42 @@
         "cidade": "Ribeirão Preto"
     },
     {
-        "codigo": "19824",
+        "codigo": "19879",
+        "nome": "Rápido D Oeste - Cartão Bebedouro X Barretos",
+        "fornecedor": "Rápido D Oeste - QR-Code",
+        "valor": "24,65",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19880",
+        "nome": "Rápido D Oeste - Cartão Bebedouro X Olímpia",
+        "fornecedor": "Rápido D Oeste - QR-Code",
+        "valor": "27,25",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19881",
+        "nome": "Rápido D Oeste - Cartão Pitangueiras X Bebedouro",
+        "fornecedor": "Rápido D Oeste - QR-Code",
+        "valor": "14,20",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19882",
+        "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Cajuru",
+        "fornecedor": "Rápido D Oeste - QR-Code",
+        "valor": "35,15",
+        "uf": "SP",
+        "cidade": "Ribeirão Preto"
+    },
+    {
+        "codigo": "19883",
         "nome": "Rápido D Oeste - Cartão Santa Cruz da Esperança X Ribeirão Preto",
         "fornecedor": "Rápido D Oeste - QR-Code",
         "valor": "24,70",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19825",
-        "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Santa Cruz da Esperança",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "28,30",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19826",
-        "nome": "Rápido D Oeste - Cartão Cajuru X Ribeirão Preto",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "31,55",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19827",
-        "nome": "Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "42,80",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19828",
-        "nome": "Rápido D Oeste - Cartão Casa Branca X Santa Cruz das Palmeiras",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "11,25",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19829",
-        "nome": "Rápido D Oeste - Cartão Casa Branca X São José do Rio Pardo",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "15,90",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19831",
-        "nome": "Rápido D Oeste - Cartão Itobi X São José do Rio Pardo",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "9,15",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19832",
-        "nome": "Rápido D Oeste - Cartão Monte Azul Paulista X Bebedouro",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "10,05",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19835",
-        "nome": "Rápido D Oeste - Cartão Olimpia X São José Do Rio Preto",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "25,20",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19837",
-        "nome": "Rápido D Oeste - Cartão Porto Ferreira X Santa Cruz das Palmeiras",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "12,20",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19838",
-        "nome": "Rápido D Oeste - Cartão Ribeirão Preto X Bebedouro",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "48,25",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19839",
-        "nome": "Rápido D Oeste - Cartão Severinia X Monte Azul Paulista",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "10,05",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19840",
-        "nome": "Rápido D Oeste - Cartão Ribeirão Preto X São João da Boa Vista",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "94,00",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19841",
-        "nome": "Rápido D Oeste - Cartão Severinia X Olimpia",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "7,90",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
-    },
-    {
-        "codigo": "19844",
-        "nome": "Rápido D Oeste - Cartão São José do Rio Pardo X Mococa",
-        "fornecedor": "Rápido D Oeste - QR-Code",
-        "valor": "17,55",
         "uf": "SP",
         "cidade": "Ribeirão Preto"
     },
