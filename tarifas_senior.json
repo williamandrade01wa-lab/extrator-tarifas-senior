@@ -12752,6 +12752,22 @@
         "cidade": "Indaial"
     },
     {
+        "codigo": "19812",
+        "nome": "Teste 2",
+        "fornecedor": "Bompani",
+        "valor": "9,75",
+        "uf": "SC",
+        "cidade": "Luiz Alves"
+    },
+    {
+        "codigo": "19884",
+        "nome": "Bompani - Cartão Belchior X Blumenau",
+        "fornecedor": "Bompani",
+        "valor": "9,75",
+        "uf": "SC",
+        "cidade": "Luiz Alves"
+    },
+    {
         "codigo": "8958",
         "nome": "Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia)",
         "fornecedor": "Canarinho (Guaramirim)",
@@ -24049,7 +24065,7 @@
     },
     {
         "codigo": "19823",
-        "nome": "Viação Jacareí - Cartão Jacareí e Região",
+        "nome": "Viação Jacareí - Cartão Municipal Santa Branca",
         "fornecedor": "Viação Jacareí - Santa Branca",
         "valor": "6,10",
         "uf": "SP",

@@ -1593,6 +1593,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2273;Viação Chapecó - Cartão Municipal Chapecó;Auto Viação Chapecó;5,00;5;10;SC;Chapecó;08/09/2025
 19436;Auto Viação Pinhalzinhho - Cartão Municipal Pinhalzinho;Auto Viação Pinhalzinho;4,54;5;10;SC;Pinhalzinho;18/12/2025
 8174;Auto Viação Rainha - Cartão Indaial X Blumenau;Auto Viação Rainha;9,45;5;10;SC;Indaial;09/09/2026
+19812;Teste 2;Bompani;9,75;5;10;SC;Luiz Alves;10/09/2026
+19884;Bompani - Cartão Belchior X Blumenau;Bompani;9,75;5;10;SC;Luiz Alves;10/09/2026
 8958;Canarinho (Guaramirim) - Cartão Jaraguá X Schroeder (via Santa Luzia);Canarinho (Guaramirim);7,75;5;10;SC;Jaraguá do Sul;27/07/2026
 8959;Canarinho (Guaramirim) - Cartão Guaramirim;Canarinho (Guaramirim);6,35;5;10;SC;Jaraguá do Sul;27/07/2026
 19617;Canarinho (Guaramirim) - Cartão Jaraguá do Sul X Guaramirim;Canarinho (Guaramirim);6,35;5;10;SC;Jaraguá do Sul;28/07/2026
@@ -3005,7 +3007,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8401;Viação Jacareí - Cartão Viação Jacareí;Viação Jacareí;0,01;5;10;SP;Jacareí;01/01/2000
 10124;Viação Jacareí - Cartão Igaratá X Jacareí (via Dom Predo II) (Linha 5104);Viação Jacareí;7,95;5;10;SP;Jacareí;08/06/2026
 15368;Viação Jacareí - Cartão Variável;Viação Jacareí;0,01;5;10;SP;Jacareí;20/09/2024
-19823;Viação Jacareí - Cartão Jacareí e Região;Viação Jacareí - Santa Branca;6,10;5;10;SP;Jacareí;12/08/2026
+19823;Viação Jacareí - Cartão Municipal Santa Branca;Viação Jacareí - Santa Branca;6,10;5;10;SP;Jacareí;12/08/2026
 2384;Viação Jauense - Cartão Jaú X Distrito de Potunduva;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 2385;Viação Jauense - Cartão Jaú;Viação Jauense;5,00;5;10;SP;Jaú;02/12/2025
 7422;Viação M M Souza - (Suburbano) - Cartão Capivari X Rafard (Suburbano);Viação M M Souza - (Suburbano) - PIX;6,00;5;10;SP;Capivari;30/07/2026
