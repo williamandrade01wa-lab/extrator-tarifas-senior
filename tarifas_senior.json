@@ -1379,7 +1379,7 @@
         "codigo": "10312",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Girassol X Taguatinga",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
-        "valor": "6,75",
+        "valor": "7,65",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -1411,7 +1411,7 @@
         "codigo": "10316",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Novo Gama X Brasília",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
-        "valor": "7,85",
+        "valor": "8,75",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -5691,7 +5691,7 @@
         "codigo": "8585",
         "nome": "Transur - Cartão Juiz de Fora X Santos Dumont (Roletinha)",
         "fornecedor": "Transur - Eletrônico",
-        "valor": "17,85",
+        "valor": "19,05",
         "uf": "MG",
         "cidade": "Juíz de Fora"
     },
@@ -5699,7 +5699,7 @@
         "codigo": "8586",
         "nome": "Transur - Cartão Ewbank da Camara X Juiz de Fora",
         "fornecedor": "Transur - Eletrônico",
-        "valor": "12,20",
+        "valor": "13,00",
         "uf": "MG",
         "cidade": "Juíz de Fora"
     },
@@ -5763,7 +5763,7 @@
         "codigo": "3814",
         "nome": "Univale - Cartão Ipatinga X Ipaba",
         "fornecedor": "Univale",
-        "valor": "7,90",
+        "valor": "8,45",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5771,7 +5771,7 @@
         "codigo": "3818",
         "nome": "Univale - Cartão Ipatinga X Paraíso",
         "fornecedor": "Univale",
-        "valor": "8,20",
+        "valor": "8,75",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5779,7 +5779,7 @@
         "codigo": "3819",
         "nome": "Univale - Cartão Ipatinga X Coronel Fabriciano",
         "fornecedor": "Univale",
-        "valor": "7,05",
+        "valor": "7,55",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5787,7 +5787,7 @@
         "codigo": "3820",
         "nome": "Univale - Cartão Santa Cruz X Ipatinga",
         "fornecedor": "Univale",
-        "valor": "9,20",
+        "valor": "9,80",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5795,7 +5795,7 @@
         "codigo": "3821",
         "nome": "Univale - Cartão Ipatinga X Distrito Industrial",
         "fornecedor": "Univale",
-        "valor": "5,40",
+        "valor": "5,75",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5803,7 +5803,7 @@
         "codigo": "3822",
         "nome": "Univale - Cartão Ipatinga X Amaro Lanari",
         "fornecedor": "Univale",
-        "valor": "5,55",
+        "valor": "5,90",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5811,7 +5811,7 @@
         "codigo": "3823",
         "nome": "Univale - Cartão Ipatinga X Timóteo",
         "fornecedor": "Univale",
-        "valor": "12,25",
+        "valor": "13,10",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5819,7 +5819,7 @@
         "codigo": "4013",
         "nome": "Univale - Cartão Ipatinga X Águas Claras",
         "fornecedor": "Univale",
-        "valor": "5,55",
+        "valor": "5,90",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5827,7 +5827,7 @@
         "codigo": "4268",
         "nome": "Univale - Cartão Ipatinga X São João do Oriente",
         "fornecedor": "Univale",
-        "valor": "24,20",
+        "valor": "25,85",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5835,7 +5835,7 @@
         "codigo": "4727",
         "nome": "Univale - Cartão Acesita X Coronel Fabriciano",
         "fornecedor": "Univale",
-        "valor": "5,40",
+        "valor": "5,75",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5843,7 +5843,7 @@
         "codigo": "4733",
         "nome": "Univale - Cartão Acesita X Santa Cruz",
         "fornecedor": "Univale",
-        "valor": "6,45",
+        "valor": "6,85",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5851,7 +5851,7 @@
         "codigo": "4738",
         "nome": "Univale - Cartão Coronel Fabriciano X Cariru",
         "fornecedor": "Univale",
-        "valor": "7,65",
+        "valor": "8,20",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5859,7 +5859,7 @@
         "codigo": "4740",
         "nome": "Univale - Cartão Coronel Fabriciano X Macuco",
         "fornecedor": "Univale",
-        "valor": "5,55",
+        "valor": "5,90",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5867,7 +5867,7 @@
         "codigo": "4744",
         "nome": "Univale - Cartão Coronel Fabriciano X Timóteo",
         "fornecedor": "Univale",
-        "valor": "6,45",
+        "valor": "6,85",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5875,7 +5875,7 @@
         "codigo": "4747",
         "nome": "Univale - Cartão Ipatinga X Cidade Nova",
         "fornecedor": "Univale",
-        "valor": "5,40",
+        "valor": "5,75",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5883,7 +5883,7 @@
         "codigo": "5673",
         "nome": "Univale - Cartão Bom Jardim X Coronel Fabriciano",
         "fornecedor": "Univale",
-        "valor": "8,30",
+        "valor": "8,85",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5891,7 +5891,7 @@
         "codigo": "6117",
         "nome": "Univale - Cartão Ipatinga X Iapu",
         "fornecedor": "Univale",
-        "valor": "14,20",
+        "valor": "15,15",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5899,7 +5899,7 @@
         "codigo": "6171",
         "nome": "Univale - Cartão Caladinho X Acesita",
         "fornecedor": "Univale",
-        "valor": "6,10",
+        "valor": "6,50",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5907,7 +5907,7 @@
         "codigo": "6259",
         "nome": "Univale - Cartão Coronel Fabriciano X Cachoeira do Vale",
         "fornecedor": "Univale",
-        "valor": "5,40",
+        "valor": "5,75",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5915,7 +5915,7 @@
         "codigo": "8163",
         "nome": "Univale - Cartão Ipatinga X Industrial",
         "fornecedor": "Univale",
-        "valor": "5,40",
+        "valor": "5,75",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -5923,7 +5923,7 @@
         "codigo": "8369",
         "nome": "Univale - Cartão Coronel Fabriciano X Cariru (Doap)",
         "fornecedor": "Univale",
-        "valor": "7,65",
+        "valor": "8,20",
         "uf": "MG",
         "cidade": "Coronel Fabriciano"
     },
@@ -12750,14 +12750,6 @@
         "valor": "9,45",
         "uf": "SC",
         "cidade": "Indaial"
-    },
-    {
-        "codigo": "19812",
-        "nome": "Teste 2",
-        "fornecedor": "Bompani",
-        "valor": "9,75",
-        "uf": "SC",
-        "cidade": "Luiz Alves"
     },
     {
         "codigo": "19884",
@@ -21339,7 +21331,7 @@
         "codigo": "4010",
         "nome": "Princesa dos Campos - Cartão Registro X Pariquera",
         "fornecedor": "Porto de Registro (Princesa dos Campos)",
-        "valor": "8,00",
+        "valor": "8,50",
         "uf": "SP",
         "cidade": "Registro"
     },
@@ -21355,7 +21347,7 @@
         "codigo": "5062",
         "nome": "Princesa dos Campos - Cartão Jacupiranga X Registro",
         "fornecedor": "Porto de Registro (Princesa dos Campos)",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Registro"
     },
@@ -21363,7 +21355,7 @@
         "codigo": "5069",
         "nome": "Princesa dos Campos - Cartão Ponte Moreira X Cajati",
         "fornecedor": "Porto de Registro (Princesa dos Campos)",
-        "valor": "9,35",
+        "valor": "9,75",
         "uf": "SP",
         "cidade": "Registro"
     },
@@ -21379,7 +21371,7 @@
         "codigo": "5075",
         "nome": "Princesa dos Campos - Cartão Sete Barras X Registro",
         "fornecedor": "Porto de Registro (Princesa dos Campos)",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Registro"
     },
