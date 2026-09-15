@@ -166,7 +166,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15733;Catedral - Cartão Gama X Jardim Ingá;Catedral - Eletrônico;6,10;5;10;DF;Brasília;26/02/2026
 15734;Catedral - Cartão Taguatinga X Jardim Ingá;Catedral - Eletrônico;10,65;5;10;DF;Brasília;26/02/2026
 15738;Catedral - Cartão Jardim Ingá X Lago Sul;Catedral - Eletrônico;9,30;5;10;DF;Brasília;26/02/2026
-15432;Rota do Sol - Cartão Lago Azul X Brasília;Rota do Sol - Eletrônico;11,00;5;11;DF;Brasília;21/05/2026
 10308;Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas;Taguatur - Águas Lindas de Goiás;11,45;5;10;DF;Brasília;26/02/2026
 10309;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga;Taguatur - Águas Lindas de Goiás;7,65;5;10;DF;Brasília;30/06/2026
 10310;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Ceilândia;Taguatur - Águas Lindas de Goiás;5,85;5;10;DF;Brasília;30/06/2026
