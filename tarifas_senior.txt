@@ -201,7 +201,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,20;5;10;DF;Brasília;24/02/2026
 15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Viação Planaltina;7,60;5;10;DF;Brasília;24/02/2026
 15095;Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina;Viação Planaltina;8,20;5;10;DF;Brasília;24/02/2026
-19792;Viação Planaltina - Cartão Formosa X Brasília;Viação Planaltina;20,00;5;10;DF;Brasília;28/07/2026
+19792;Viação Planaltina - Cartão Formosa X Brasília;Viação Planaltina;25,00;5;10;DF;Brasília;15/09/2026
 10362;CCI - QR-Code - Cartão Setiba X Vila Velha;CCI - QR-Code - Passepay;15,75;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
 10363;CCI - QR-Code - Cartão Setiba X Guarapari;CCI - QR-Code - Passepay;4,70;5;10;ES;Cachoeiro de Itapemirim;16/09/2024
 10364;CCI - QR-Code - Cartão Ipiranga X Dom Bosco;CCI - QR-Code - Passepay;16,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
@@ -616,7 +616,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19821;Empresa Unida - QR-Code - Cartão Leopoldina X Cataguases;Empresa Unida - QR-Code;14,75;5;10;MG;Juiz de Fora;11/08/2026
 3828;Enscon - Cartão Municipal João Monlevade;Enscon;3,80;5;10;MG;João Monlevade;16/09/2021
 6897;Enscon - Cartão Lages X Carneirinhos;Enscon;7,70;5;10;MG;João Monlevade;02/10/2025
-6091;Expresso Araguari - Araguari X Uberlândia;Expresso Araguari;18,30;5;10;MG;Uberlândia;30/03/2026
+6091;Expresso Araguari - Araguari X Uberlândia;Expresso Araguari;19,60;5;10;MG;Uberlândia;15/09/2026
 15914;Expresso Paracatu - Cartão Municipal Paracatu;Expresso Planalto - Paracatu;3,15;5;10;MG;Paracatu;24/07/2025
 16064;Expresso Planalto - Cartão Municipal Unaí;Expresso Planalto - Unaí - Novo Sistema;3,10;5;10;MG;Unaí;02/09/2025
 15925;Expresso Três Fronteiras - Cartão Municipal Nanuque;Expresso Três Fronteiras;4,50;5;10;MG;Nanuque;01/12/2025
@@ -648,6 +648,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10339;Paraibuna (QR-Code) - Cartão Cataguases X Miraí;Paraibuna - QR-Code;16,00;5;10;MG;Juiz de Fora;04/09/2024
 10899;Paraibuna (QR-Code) - Cartão Leopoldina X Laranjal;Paraibuna - QR-Code;14,80;5;10;MG;Juiz de Fora;03/02/2025
 19803;Paraibuna (QR-Code) - Cartão Cataguases X Muriaé;Paraibuna - QR-Code;35,65;5;10;MG;Juiz de Fora;30/07/2026
+19811;Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Direto);Paraibuna - QR-Code;14,60;5;10;MG;Juiz de Fora;15/09/2026
 10486;Rápido Luxo Sorocaba - Cartão Iperó X Boituva;Rápido Luxo - Sorocaba;4,85;5;10;SP;Sorocaba;07/01/2026
 1046;Santa Edwiges - Cartão Santa Edwiges;Santa Edwiges;0,01;5;10;MG;Betim;01/01/2000
 6825;Santa Edwiges - Cartão Municipal Betim;Santa Edwiges;6,25;5;10;MG;Betim;02/01/2026
@@ -664,10 +665,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19598;Santafé - (QR-Code) - Cartão Pessegueiro (Via Moeda) X Belo Horizonte;Santafé - QR-Code;6,75;5;10;MG;Belo Horizonte;22/04/2026
 5179;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 2);São Jorge Autobus;8,70;5;10;MG;Ponte Nova;01/10/2025
 5180;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 1);São Jorge Autobus;2,50;5;10;MG;Ponte Nova;01/12/2021
-4876;Setelagoano - Cartão Belo Horizonte X Sete Lagoas;Setelagoano;31,25;5;10;MG;Sete Lagoas;10/09/2025
-4900;Setelagoano - Cartão Prudente de Morais X Sete Lagoas;Setelagoano;5,40;5;10;MG;Sete Lagoas;17/03/2026
-4914;Setelagoano - Cartão Terminal Lontrinha X Terminal Sete Lagoas;Setelagoano;6,00;5;10;MG;Sete Lagoas;08/09/2025
-6053;Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa);Setelagoano;38,80;5;10;MG;Sete Lagoas;10/09/2025
+4876;Setelagoano - Cartão Belo Horizonte X Sete Lagoas;Setelagoano;33,30;5;10;MG;Sete Lagoas;15/09/2026
+4900;Setelagoano - Cartão Prudente de Morais X Sete Lagoas;Setelagoano;5,75;5;10;MG;Sete Lagoas;15/09/2026
+4914;Setelagoano - Cartão Terminal Lontrinha X Terminal Sete Lagoas;Setelagoano;6,40;5;10;MG;Sete Lagoas;15/09/2026
+6053;Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa);Setelagoano;41,18;5;10;MG;Sete Lagoas;15/09/2026
 15922;Stilo Fretamento - Cartão Municipal Mateus Leme;Stilo Fretamento;0,01;5;10;MG;Belo Horizonte;24/07/2025
 5094;Sudoestino - Cartão Passos X Itaú de Minas;Sudoestino;6,80;5;10;MG;Passos;10/09/2025
 15364;Sudoestino - Cartão São João Batista da Glória X Passos;Sudoestino;7,55;5;10;MG;Passos;10/09/2025
@@ -1713,7 +1714,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6543;Viação Praiana - Cartão Itajaí X Camboriú;Viação Praiana;8,45;5;10;SC;Itajaí;28/07/2026
 6544;Viação Praiana - Cartão Balneário Camboriú X Porto Belo;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
 6545;Viação Praiana - Cartão Porto Belo X Itajaí;Viação Praiana;11,10;5;10;SC;Itajaí;28/07/2026
-6546;Viação Praiana - Cartão Porto Belo X Itapema;Viação Praiana;4,50;5;10;SC;Itajaí;13/03/2026
+6546;Viação Praiana - Cartão Porto Belo X Itapema;Viação Praiana;4,80;5;10;SC;Itajaí;15/09/2026
 6547;Viação Praiana - Cartão Balneário Camboriú X Meia Praia;Viação Praiana;7,60;5;10;SC;Itajaí;20/04/2026
 6548;Viação Praiana - Cartão Itapema X Itajaí (via Lojas Moellmann);Viação Praiana;7,65;5;10;SC;Itajaí;14/04/2022
 6549;Viação Praiana - Cartão Itapema X Balneário Camboriú;Viação Praiana;7,60;5;10;SC;Itajaí;04/03/2026

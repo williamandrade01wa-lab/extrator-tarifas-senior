@@ -1619,7 +1619,7 @@
         "codigo": "19792",
         "nome": "Viação Planaltina - Cartão Formosa X Brasília",
         "fornecedor": "Viação Planaltina",
-        "valor": "20,00",
+        "valor": "25,00",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -4939,7 +4939,7 @@
         "codigo": "6091",
         "nome": "Expresso Araguari - Araguari X Uberlândia",
         "fornecedor": "Expresso Araguari",
-        "valor": "18,30",
+        "valor": "19,60",
         "uf": "MG",
         "cidade": "Uberlândia"
     },
@@ -5192,6 +5192,14 @@
         "cidade": "Juiz de Fora"
     },
     {
+        "codigo": "19811",
+        "nome": "Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Direto)",
+        "fornecedor": "Paraibuna - QR-Code",
+        "valor": "14,60",
+        "uf": "MG",
+        "cidade": "Juiz de Fora"
+    },
+    {
         "codigo": "10486",
         "nome": "Rápido Luxo Sorocaba - Cartão Iperó X Boituva",
         "fornecedor": "Rápido Luxo - Sorocaba",
@@ -5323,7 +5331,7 @@
         "codigo": "4876",
         "nome": "Setelagoano - Cartão Belo Horizonte X Sete Lagoas",
         "fornecedor": "Setelagoano",
-        "valor": "31,25",
+        "valor": "33,30",
         "uf": "MG",
         "cidade": "Sete Lagoas"
     },
@@ -5331,7 +5339,7 @@
         "codigo": "4900",
         "nome": "Setelagoano - Cartão Prudente de Morais X Sete Lagoas",
         "fornecedor": "Setelagoano",
-        "valor": "5,40",
+        "valor": "5,75",
         "uf": "MG",
         "cidade": "Sete Lagoas"
     },
@@ -5339,7 +5347,7 @@
         "codigo": "4914",
         "nome": "Setelagoano - Cartão Terminal Lontrinha X Terminal Sete Lagoas",
         "fornecedor": "Setelagoano",
-        "valor": "6,00",
+        "valor": "6,40",
         "uf": "MG",
         "cidade": "Sete Lagoas"
     },
@@ -5347,7 +5355,7 @@
         "codigo": "6053",
         "nome": "Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa)",
         "fornecedor": "Setelagoano",
-        "valor": "38,80",
+        "valor": "41,18",
         "uf": "MG",
         "cidade": "Sete Lagoas"
     },
@@ -13715,7 +13723,7 @@
         "codigo": "6546",
         "nome": "Viação Praiana - Cartão Porto Belo X Itapema",
         "fornecedor": "Viação Praiana",
-        "valor": "4,50",
+        "valor": "4,80",
         "uf": "SC",
         "cidade": "Itajaí"
     },
