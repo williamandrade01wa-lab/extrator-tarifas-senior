@@ -197,6 +197,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15431;UTB - Eletrônico - Cartão Cidade Ocidental X Brasília (Linha 8250);UTB - Eletrônico;8,20;5;10;DF;Brasília;27/02/2026
 16221;UTB - Eletrônico - Cartão Águas Lindas X Brazlândia;UTB - Eletrônico;6,15;5;10;DF;Brasília;26/02/2026
 19591;UTB - Eletrônico - Cartão Águas Lindas X Circular (Semiurbano);UTB - Eletrônico;4,75;5;10;DF;Brasília;16/04/2026
+19824;UTB - Cartão Lago Azul X Brasília;UTB - Eletrônico;11,00;5;10;DF;Brasília;17/09/2026
 15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;Viação Planaltina;11,60;5;10;DF;Brasília;24/02/2026
 15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,20;5;10;DF;Brasília;24/02/2026
 15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Viação Planaltina;7,60;5;10;DF;Brasília;24/02/2026
@@ -1039,6 +1040,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6026;Viação Garcia - Cartão Londrina X Bela Vista;Viação Garcia - (Lond - B. Vista);9,90;5;10;PR;Maringá;25/06/2026
 6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,90;5;10;PR;Maringá;17/06/2026
 6028;Viação Garcia - Cartão Londrina X Rolandia;Viação Garcia - (Lond - Rolan);6,90;5;10;PR;Maringá;18/06/2026
+5021;Viação Garcia - Cartão Londrina X Sertanópolis;Viação Garcia - (Lond - Sert.);9,75;5;10;PR;Londrina;19/02/2026
 6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;7,10;5;10;PR;Maringá;18/06/2026
 6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;7,50;5;10;PR;Maringá;19/06/2026
 15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;10,15;5;10;PR;Curitiba;02/04/2026
@@ -1369,7 +1371,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5885;Ozelame - Desvio X Rizo;Ozelame;9,25;5;10;RS;Caxias do Sul;06/07/2026
 5886;Ozelame - Farroupilha X Olaria;Ozelame;9,25;5;10;RS;Caxias do Sul;06/07/2026
 8891;Ozelame - Cartão Ozelame;Ozelame;0,01;5;10;RS;Caxias do Sul;01/01/2000
-10840;Ozelame - Cartão Bento X Caxias (semi-direto);Ozelame;24,30;5;10;RS;Caxias do Sul;06/07/2026
+10840;Ozelame - Cartão Bento X Caxias (semi-direto);Ozelame;24,40;5;10;RS;Caxias do Sul;17/09/2026
 19786;Ozelame - Cartão Caxias do Sul X Farroupilha (seletivo) (linha 122.1 / 123.0);Ozelame;13,40;5;10;RS;Caxias do Sul;22/07/2026
 3132;Panambiense - Cartão Panambi Intermunicipal;Panambiense;7,45;5;10;RS;Panambi;27/04/2026
 3133;Panambiense - Cartão Panambi Municipal;Panambiense;6,82;5;10;RS;Panambi;12/06/2025
@@ -2213,7 +2215,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2346;Dersa - Cartão Balsa Santos X Guarujá / São Paulo;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
 6598;Dersa - Cartão Balsa - Santos X Vicente de Carvalho;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
 9056;Dinatur - Cartão Mairiporã Municipal;Dinatur;6,00;5;10;SP;Mairiporã;11/03/2026
-19824;Rápido D Oeste - Cartão Santa Cruz da Esperança X Ribeirão Preto;Disponível;24,70;5;10;SP;Ribeirão Preto;14/08/2026
 19825;Rápido D Oeste - Cartão Ribeirão Preto X Santa Cruz da Esperança;Disponível;28,30;5;10;SP;Ribeirão Preto;14/08/2026
 19826;Rápido D Oeste - Cartão Cajuru X Ribeirão Preto;Disponível;31,55;5;10;SP;Ribeirão Preto;03/09/2026
 19827;Rápido D Oeste - Cartão Bebedouro X Ribeirão Preto;Disponível;42,80;5;10;SP;Ribeirão Preto;21/08/2026

@@ -1584,6 +1584,14 @@
         "cidade": "Brasília"
     },
     {
+        "codigo": "19824",
+        "nome": "UTB - Cartão Lago Azul X Brasília",
+        "fornecedor": "UTB - Eletrônico",
+        "valor": "11,00",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
         "codigo": "15092",
         "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília",
         "fornecedor": "Viação Planaltina",
@@ -8320,6 +8328,14 @@
         "cidade": "Maringá"
     },
     {
+        "codigo": "5021",
+        "nome": "Viação Garcia - Cartão Londrina X Sertanópolis",
+        "fornecedor": "Viação Garcia - (Lond - Sert.)",
+        "valor": "9,75",
+        "uf": "PR",
+        "cidade": "Londrina"
+    },
+    {
         "codigo": "6022",
         "nome": "Viação Garcia - Cartão Apucarana X Mandaguari",
         "fornecedor": "Viação Garcia - Apucarana Mandaguari",
@@ -10963,7 +10979,7 @@
         "codigo": "10840",
         "nome": "Ozelame - Cartão Bento X Caxias (semi-direto)",
         "fornecedor": "Ozelame",
-        "valor": "24,30",
+        "valor": "24,40",
         "uf": "RS",
         "cidade": "Caxias do Sul"
     },
@@ -17710,14 +17726,6 @@
         "valor": "6,00",
         "uf": "SP",
         "cidade": "Mairiporã"
-    },
-    {
-        "codigo": "19824",
-        "nome": "Rápido D Oeste - Cartão Santa Cruz da Esperança X Ribeirão Preto",
-        "fornecedor": "Disponível",
-        "valor": "24,70",
-        "uf": "SP",
-        "cidade": "Ribeirão Preto"
     },
     {
         "codigo": "19825",
