@@ -4907,7 +4907,7 @@
         "codigo": "19819",
         "nome": "Empresa Unida - QR-Code - Cartão Astolfo Dutra X Cataguases (Semiurbano)",
         "fornecedor": "Empresa Unida - QR-Code",
-        "valor": "10,00",
+        "valor": "10,70",
         "uf": "MG",
         "cidade": "Juiz de Fora"
     },
@@ -10894,14 +10894,6 @@
         "valor": "6,00",
         "uf": "RS",
         "cidade": "Ijui"
-    },
-    {
-        "codigo": "5330",
-        "nome": "Nossa senhora das Graças - Cartão Cachoeira do Sul Urbano",
-        "fornecedor": "Nossa Senhora das Graças",
-        "valor": "5,70",
-        "uf": "RS",
-        "cidade": "Cachoeira do Sul"
     },
     {
         "codigo": "5793",

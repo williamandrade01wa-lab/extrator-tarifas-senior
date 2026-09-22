@@ -612,7 +612,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 653;Divpass - Cartão Municipal Divinópolis;Divpass - Novo Sistema;5,50;5;10;MG;Divinópolis;30/04/2026
 8579;Empresa Unida - Cartão Chácara X Juiz de Fora;Empresa Unida;11,40;5;10;MG;Juiz de Fora;02/10/2025
 15645;Empresa Unida - Cartão Visconde de Rio Branco X Ubá;Empresa Unida;9,50;5;10;MG;Juiz de Fora;02/10/2025
-19819;Empresa Unida - QR-Code - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida - QR-Code;10,00;5;10;MG;Juiz de Fora;11/08/2026
+19819;Empresa Unida - QR-Code - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida - QR-Code;10,70;5;10;MG;Juiz de Fora;21/09/2026
 19820;Empresa Unida - QR-Code - Cartão Cataguases X Dona Euzebia;Empresa Unida - QR-Code;8,70;5;10;MG;Juiz de Fora;11/08/2026
 19821;Empresa Unida - QR-Code - Cartão Leopoldina X Cataguases;Empresa Unida - QR-Code;14,75;5;10;MG;Juiz de Fora;11/08/2026
 19885;Empresa Unida - QR-Code - Cartão Astolfo Dutra X Cataguases (convencional);Empresa Unida - QR-Code;13,30;5;10;MG;Juiz de Fora;18/09/2026
@@ -1361,7 +1361,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8185;Gaurama - Cartão Erechim Urbano;Gaurama - Eletrônico;5,50;5;10;RS;Erechim;22/04/2024
 15936;Laranjal - Candiota - Cartão Municipal Candiota;Laranjal - Candiota;6,00;5;10;RS;Candiota;31/07/2025
 5528;Mtu Medianeira - Cartão Ijuí Municipal;MTU Medianeira;6,00;5;10;RS;Ijui;07/07/2025
-5330;Nossa senhora das Graças - Cartão Cachoeira do Sul Urbano;Nossa Senhora das Graças;5,70;5;10;RS;Cachoeira do Sul;24/06/2025
 5793;Nossa Senhora de Fátima - Cruz Alta Municipal;Nossa Senhora de Fátima;3,60;5;10;RS;Cruz Alta;26/03/2019
 1311;Ozelame - Cartão Caxias do Sul X Farroupilha / Porto Alegre e Região;Ozelame;9,55;5;10;RS;Caxias do Sul;06/07/2026
 4701;Ozelame - Cartão Bento X Forqueta;Ozelame;13,65;5;10;RS;Caxias do Sul;06/07/2026
