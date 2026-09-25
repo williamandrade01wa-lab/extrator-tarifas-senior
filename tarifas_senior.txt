@@ -1405,6 +1405,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10451;Tri Porto Alegre - Cartão Integração com trem (sem desconto);TRI Porto Alegre;10,30;5;10;RS;Porto Alegre;24/02/2026
 10452;Tri Porto Alegre - Cartão Integração com trem (com desconto);TRI Porto Alegre;9,27;5;10;RS;Porto Alegre;26/02/2026
 19655;Tri Porto Alegre - Cartão Tri;TRI Porto Alegre;0,01;5;10;RS;Porto Alegre;14/05/2026
+16094;Unesul - Cartão Capão da Canoa X Porto Alegre (semi-direto) (com seguro);Unesul - Eletrônico;71,25;5;10;RS;Porto Alegre;09/09/2025
 10519;Valesul Porto Alegre - Cartão TEU / Porto Alegre e Região;Valesul - Porto Alegre;0,01;5;10;RS;Cachoeirinha;18/10/2023
 10520;Valesul Porto Alegre - 40/41 Barca - Travessia Poa – Guaíba (Catsul - 00038);Valesul - Porto Alegre;16,90;5;10;RS;Cachoeirinha;13/04/2026
 10521;Valesul Porto Alegre - 503 Canoas – Poa (Via) Cachoeirinha (Vicasa - 00003);Valesul - Porto Alegre;10,80;5;10;RS;Cachoeirinha;15/07/2026
@@ -2970,8 +2971,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9016;Viação Itaqueri - Cartão Cerquilho X Piracicaba (com seguro);Viação Itaqueri - QR-Code;31,10;5;10;SP;Piracicaba;28/07/2026
 9017;Viação Itaqueri - Cartão Cerquilho X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;28,75;5;10;SP;Piracicaba;28/07/2026
 9018;Viação Itaqueri - Cartão Cerquilho X Tatuí (sem seguro);Viação Itaqueri - QR-Code;13,20;5;10;SP;Piracicaba;28/07/2026
-9019;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (com seguro);Viação Itaqueri - QR-Code;16,90;5;10;SP;Piracicaba;28/07/2026
-9020;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;15,60;5;10;SP;Piracicaba;28/07/2026
+9019;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (com seguro);Viação Itaqueri - QR-Code;17,30;5;10;SP;Piracicaba;24/09/2026
+9020;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;16,60;5;10;SP;Piracicaba;24/09/2026
 9021;Viação Itaqueri - Cartão Piracicaba X São Pedro (com seguro);Viação Itaqueri - QR-Code;22,55;5;10;SP;Piracicaba;13/08/2026
 9022;Viação Itaqueri - Cartão Piracicaba X São Pedro (sem seguro);Viação Itaqueri - QR-Code;21,25;5;10;SP;Piracicaba;13/08/2026
 9023;Viação Itaqueri - Cartão Piracicaba X Sítio Novo;Viação Itaqueri - QR-Code;12,05;5;10;SP;Piracicaba;07/07/2025
@@ -2986,8 +2987,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10305;Viação Itaqueri - Cartão Estrada D Oeste X Tatuí (sem seguro);Viação Itaqueri - QR-Code;6,25;5;10;SP;Piracicaba;28/07/2026
 10690;Viação Itaqueri - Cartão Cerquilho X Tatuí (com seguro);Viação Itaqueri - QR-Code;14,50;5;10;SP;Piracicaba;28/07/2026
 10691;Viação Itaqueri - Cartão Tatuí X Cerquilho (com seguro);Viação Itaqueri - QR-Code;14,70;5;10;SP;Piracicaba;28/07/2026
-15348;Viação Itaqueri - Cartão Artemis X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;7,95;5;10;SP;Piracicaba;28/07/2026
-15349;Viação Itaqueri - Cartão Águas de São Pedro X Artemis (sem seguro);Viação Itaqueri - QR-Code;8,60;5;10;SP;Piracicaba;07/07/2025
+15348;Viação Itaqueri - Cartão Artemis X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;9,60;5;10;SP;Piracicaba;24/09/2026
+15349;Viação Itaqueri - Cartão Águas de São Pedro X Artemis (sem seguro);Viação Itaqueri - QR-Code;10,30;5;10;SP;Piracicaba;24/09/2026
 15475;Viação Itaqueri - Cartão Piracicaba X Cerquilho (sem seguro);Viação Itaqueri - QR-Code;27,75;5;10;SP;Piracicaba;28/07/2026
 7439;Viação Itupeva - Cartão Itupeva Urbano;Viação Itupeva;4,50;5;10;SP;Itupeva;28/11/2022
 16279;Viação Itupeva - Mococa - Eletrônico - Cartão Municipal Mococa;Viação Itupeva - Mococa - Eletrônico;3,00;5;10;SP;;26/11/2025

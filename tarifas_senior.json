@@ -11248,6 +11248,14 @@
         "cidade": "Porto Alegre"
     },
     {
+        "codigo": "16094",
+        "nome": "Unesul - Cartão Capão da Canoa X Porto Alegre (semi-direto) (com seguro)",
+        "fornecedor": "Unesul - Eletrônico",
+        "valor": "71,25",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
         "codigo": "10519",
         "nome": "Valesul Porto Alegre - Cartão TEU / Porto Alegre e Região",
         "fornecedor": "Valesul - Porto Alegre",
@@ -23771,7 +23779,7 @@
         "codigo": "9019",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (com seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "16,90",
+        "valor": "17,30",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23779,7 +23787,7 @@
         "codigo": "9020",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "15,60",
+        "valor": "16,60",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23899,7 +23907,7 @@
         "codigo": "15348",
         "nome": "Viação Itaqueri - Cartão Artemis X Águas de São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "7,95",
+        "valor": "9,60",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23907,7 +23915,7 @@
         "codigo": "15349",
         "nome": "Viação Itaqueri - Cartão Águas de São Pedro X Artemis (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "8,60",
+        "valor": "10,30",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
