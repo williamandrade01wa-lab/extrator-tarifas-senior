@@ -642,7 +642,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15161;Nova Esperança - Cartão Alfredo Vasconcelos X Barbacena;Nova Esperança;5,40;5;10;MG;Barbacena;03/10/2025
 15622;Nova Esperança - Cartão Campolide X Barbacena;Nova Esperança;5,40;5;10;MG;Barbacena;18/09/2025
 9937;Paraibuna (QR-Code) - Cartão Belmiro Braga X Park Sul;Paraibuna - QR-Code;11,45;5;10;MG;Juiz de Fora;04/09/2024
-9938;Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Executivo);Paraibuna - QR-Code;10,20;5;10;MG;Juiz de Fora;14/08/2026
+9938;Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Executivo);Paraibuna - QR-Code;10,90;5;10;MG;Juiz de Fora;25/09/2026
 9939;Paraibuna (QR-Code) - Cartão Juiz de Fora X Belmiro Braga;Paraibuna - QR-Code;15,95;5;10;MG;Juiz de Fora;04/09/2024
 9940;Paraibuna (QR-Code) - Cartão Juiz de Fora X Cataguases;Paraibuna - QR-Code;68,90;5;10;MG;Juiz de Fora;04/09/2024
 9941;Paraibuna (QR-Code) - Cartão Juiz de Fora X Park Sul;Paraibuna - QR-Code;3,75;5;10;MG;Juiz de Fora;28/12/2022
@@ -2921,6 +2921,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16066;Valle Sul São Paulo - Cartão São Paulo X Cajati;Valle Sul São Paulo;96,80;5;10;SP;São Paulo;03/09/2025
 19429;Valle Sul São Paulo - Cartão Iguape X Miracatu;Valle Sul São Paulo;30,90;5;10;SP;São Paulo;11/12/2025
 19536;Valle Sul São Paulo - Cartão Cananéia X Pariquera-Açu;Valle Sul São Paulo;21,20;5;10;SP;São Paulo;03/03/2026
+19895;Valle Sul São Paulo - Cartão Registro X Ilha Comprida;Valle Sul São Paulo;44,70;5;10;SP;São Paulo;25/09/2026
 9706;VB Transportes - Cartão Circular Rio Claro X Itirapina;VB Transportes;12,75;5;10;SP;Campinas;07/07/2025
 9707;VB Transportes - Cartão Limeira X Cosmópolis;VB Transportes;8,95;5;10;SP;Campinas;07/07/2025
 9708;VB Transportes - Cartão Limeira X Iracemápolis;VB Transportes;7,25;5;10;SP;Campinas;07/07/2025
@@ -3175,6 +3176,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19622;Viação Santa Cruz (QR-Code) - Cartão Careaçu X São Sebastião da Bela Vista;Viação Santa Cruz - QR-Code;10,85;5;10;SP;Mogi Mirim;28/04/2026
 19674;Viação Santa Cruz (QR-Code) - Cartão Alfenas X Campos Gerais;Viação Santa Cruz - QR-Code;22,30;5;10;SP;Mogi Mirim;20/05/2026
 19675;Viação Santa Cruz (QR-Code) - Cartão Campos Gerais X Alfenas;Viação Santa Cruz - QR-Code;19,95;5;10;SP;Mogi Mirim;20/05/2026
+19836;Viação Santa Cruz (QR-Code) - Cartão Cambuquira X São Paulo;Viação Santa Cruz - QR-Code;210,00;5;10;SP;Mogi Mirim;25/09/2026
 15720;Viação São Bento - Cartão Ribeirão Preto X Brodowski;Viação São Bento - Novo Sistema;9,35;5;10;SP;Ribeirão Preto;17/07/2026
 15721;Viação São Bento - Cartão Ribeirão Preto X Serra Azul;Viação São Bento - Novo Sistema;9,35;5;10;SP;Ribeirão Preto;17/07/2026
 15722;Viação São Bento - Cartão Sertãozinho X Barrinha;Viação São Bento - Novo Sistema;9,25;5;10;SP;Ribeirão Preto;17/07/2026

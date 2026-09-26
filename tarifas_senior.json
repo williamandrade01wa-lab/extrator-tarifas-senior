@@ -5147,7 +5147,7 @@
         "codigo": "9938",
         "nome": "Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Executivo)",
         "fornecedor": "Paraibuna - QR-Code",
-        "valor": "10,20",
+        "valor": "10,90",
         "uf": "MG",
         "cidade": "Juiz de Fora"
     },
@@ -23376,6 +23376,14 @@
         "cidade": "São Paulo"
     },
     {
+        "codigo": "19895",
+        "nome": "Valle Sul São Paulo - Cartão Registro X Ilha Comprida",
+        "fornecedor": "Valle Sul São Paulo",
+        "valor": "44,70",
+        "uf": "SP",
+        "cidade": "São Paulo"
+    },
+    {
         "codigo": "9706",
         "nome": "VB Transportes - Cartão Circular Rio Claro X Itirapina",
         "fornecedor": "VB Transportes",
@@ -25404,6 +25412,14 @@
         "nome": "Viação Santa Cruz (QR-Code) - Cartão Campos Gerais X Alfenas",
         "fornecedor": "Viação Santa Cruz - QR-Code",
         "valor": "19,95",
+        "uf": "SP",
+        "cidade": "Mogi Mirim"
+    },
+    {
+        "codigo": "19836",
+        "nome": "Viação Santa Cruz (QR-Code) - Cartão Cambuquira X São Paulo",
+        "fornecedor": "Viação Santa Cruz - QR-Code",
+        "valor": "210,00",
         "uf": "SP",
         "cidade": "Mogi Mirim"
     },
