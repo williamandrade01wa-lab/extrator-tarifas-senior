@@ -2587,7 +2587,7 @@
         "codigo": "19755",
         "nome": "AVSL - Cartão Conselheiro Lafaiete X Lagoa Grande (com taxa) (nominal) (venc. 90 dias)",
         "fornecedor": "Auto Viação São Luiz - QR-Code",
-        "valor": "36,40",
+        "valor": "38,75",
         "uf": "MG",
         "cidade": "Congonhas"
     },
@@ -2595,7 +2595,7 @@
         "codigo": "19756",
         "nome": "AVSL - Cartão Belo Horizonte X Conselheiro Lafaiete (com taxa) (nominal) (venc. 90 dias)",
         "fornecedor": "Auto Viação São Luiz - QR-Code",
-        "valor": "63,55",
+        "valor": "67,55",
         "uf": "MG",
         "cidade": "Congonhas"
     },
@@ -2603,7 +2603,7 @@
         "codigo": "19757",
         "nome": "AVSL - Cartão Conselheiro Lafaiete X Belo Horizonte (com taxa) (nominal) (venc. 90 dias)",
         "fornecedor": "Auto Viação São Luiz - QR-Code",
-        "valor": "56,60",
+        "valor": "60,15",
         "uf": "MG",
         "cidade": "Congonhas"
     },
@@ -13827,7 +13827,7 @@
         "codigo": "9650",
         "nome": "Viação Praiana - Cartão Porto Belo x Tijucas",
         "fornecedor": "Viação Praiana",
-        "valor": "7,60",
+        "valor": "8,10",
         "uf": "SC",
         "cidade": "Itajaí"
     },
@@ -14766,14 +14766,6 @@
         "valor": "9,00",
         "uf": "SP",
         "cidade": "São Bernardo do Campo"
-    },
-    {
-        "codigo": "15832",
-        "nome": "Repasse Bem Osasco - Cartão Municipal Osasco (Blacklist)",
-        "fornecedor": "Bem - Osasco - Novo Sistema",
-        "valor": "8,70",
-        "uf": "SP",
-        "cidade": "Osasco"
     },
     {
         "codigo": "19448",
@@ -19803,7 +19795,7 @@
         "codigo": "3000",
         "nome": "Manoel Rodrigues - Cartão Santa Cruz do Rio Pardo X Bauru",
         "fornecedor": "Manoel Rodrigues",
-        "valor": "27,80",
+        "valor": "29,20",
         "uf": "SP",
         "cidade": "Avaré"
     },
@@ -19915,7 +19907,7 @@
         "codigo": "9835",
         "nome": "Manoel Rodrigues - Cartão Espírito Santo do Turvo X Bauru",
         "fornecedor": "Manoel Rodrigues",
-        "valor": "20,95",
+        "valor": "22,00",
         "uf": "SP",
         "cidade": "Avaré"
     },

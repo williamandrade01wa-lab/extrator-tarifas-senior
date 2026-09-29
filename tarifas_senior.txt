@@ -322,9 +322,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19752;AVSL - Cartão Entre Rios X Congonhas (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;21,55;5;10;MG;Congonhas;16/06/2026
 19753;AVSL - Cartão Entre Rios X Congonhas (sem taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;21,55;5;10;MG;Congonhas;16/06/2026
 19754;AVSL - Cartão Lagoa Grande X Conselheiro Lafaiete (sem taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;33,30;5;10;MG;Congonhas;16/06/2026
-19755;AVSL - Cartão Conselheiro Lafaiete X Lagoa Grande (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;36,40;5;10;MG;Congonhas;16/06/2026
-19756;AVSL - Cartão Belo Horizonte X Conselheiro Lafaiete (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;63,55;5;10;MG;Congonhas;16/06/2026
-19757;AVSL - Cartão Conselheiro Lafaiete X Belo Horizonte (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;56,60;5;10;MG;Congonhas;16/06/2026
+19755;AVSL - Cartão Conselheiro Lafaiete X Lagoa Grande (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;38,75;5;10;MG;Congonhas;28/09/2026
+19756;AVSL - Cartão Belo Horizonte X Conselheiro Lafaiete (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;67,55;5;10;MG;Congonhas;28/09/2026
+19757;AVSL - Cartão Conselheiro Lafaiete X Belo Horizonte (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;60,15;5;10;MG;Congonhas;28/09/2026
 19758;AVSL - Cartão Congonhas X Ribeirão do Eixo (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;13,05;5;10;MG;Congonhas;16/06/2026
 19759;AVSL - Cartão Ribeirão do Eixo X Congonhas (sem taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;12,45;5;10;MG;Congonhas;16/06/2026
 19760;AVSL - Cartão Belo Horizonte X Água Limpa (com taxa) (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;27,72;5;10;MG;Congonhas;16/06/2026
@@ -1727,7 +1727,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6548;Viação Praiana - Cartão Itapema X Itajaí (via Lojas Moellmann);Viação Praiana;7,65;5;10;SC;Itajaí;14/04/2022
 6549;Viação Praiana - Cartão Itapema X Balneário Camboriú;Viação Praiana;7,60;5;10;SC;Itajaí;04/03/2026
 6552;Viação Praiana - Cartão Camboriú X Balneário Camboriú;Viação Praiana;7,90;5;10;SC;Itajaí;04/03/2026
-9650;Viação Praiana - Cartão Porto Belo x Tijucas;Viação Praiana;7,60;5;10;SC;Itajaí;28/05/2026
+9650;Viação Praiana - Cartão Porto Belo x Tijucas;Viação Praiana;8,10;5;10;SC;Itajaí;28/09/2026
 10668;Viação Praiana - Cartão Itapema X Itajaí;Viação Praiana;10,60;5;10;SC;Itajaí;09/09/2026
 15647;Viação Praiana - Cartão Itajaí X Balneário Camboriú (Bem Bom);Viação Praiana;8,00;5;10;SC;Itajaí;19/03/2025
 19613;Viação Praiana - Cartão Itajaí X Itajaí;Viação Praiana;7,90;5;10;SC;Itajaí;27/04/2026
@@ -1845,7 +1845,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19568;Repasse Bem Cajamar - Cartão Municipal Cajamar (Blacklist);Bem - Cajamar - Novo Sistema;7,65;5;10;SP;São Bernardo do Campo;27/03/2026
 19527;Bem Franco da Rocha - Cartão Municipal Franco da Rocha;Bem - Franco da Rocha - Novo Sistema;6,00;5;10;SP;São Bernardo do Campo;23/02/2026
 19528;Repasse Bem Franco da Rocha - Cartão Municipal Franco da Rocha (Blacklist);Bem - Franco da Rocha - Novo Sistema;9,00;5;10;SP;São Bernardo do Campo;24/02/2026
-15832;Repasse Bem Osasco - Cartão Municipal Osasco (Blacklist);Bem - Osasco - Novo Sistema;8,70;5;10;SP;Osasco;24/06/2025
 19448;Bem Osasco - Cartão Municipal Osasco;Bem - Osasco - Novo Sistema;6,10;5;10;SP;Osasco;05/01/2026
 19453;Repasse Bem Osasco - Cartão Municipal Osasco (Blacklist);Bem - Osasco - Novo Sistema;9,15;5;10;SP;Osasco;06/01/2026
 15779;Bem Santana de Parnaíba - Cartão Municipal Santana de Parnaíba;Bem - Santana de Parnaíba - Novo Sistema;4,50;5;10;SP;São Bernardo do Campo;23/06/2025
@@ -2474,7 +2473,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2989;Manoel Rodrigues - Cartão Avaré X Itaí;Manoel Rodrigues;11,55;5;10;SP;Avaré;03/10/2025
 2991;Manoel Rodrigues - Cartão Fartura X Taquarituba;Manoel Rodrigues;8,95;5;10;SP;Avaré;07/01/2026
 2998;Manoel Rodrigues - Cartão Itaí X Taquarituba;Manoel Rodrigues;8,40;5;10;SP;Avaré;03/10/2025
-3000;Manoel Rodrigues - Cartão Santa Cruz do Rio Pardo X Bauru;Manoel Rodrigues;27,80;5;10;SP;Avaré;03/10/2025
+3000;Manoel Rodrigues - Cartão Santa Cruz do Rio Pardo X Bauru;Manoel Rodrigues;29,20;5;10;SP;Avaré;28/09/2026
 3002;Manoel Rodrigues - Cartão Santa Cruz do Rio Pardo X Ourinhos (Sub);Manoel Rodrigues;27,80;5;10;SP;Avaré;03/10/2025
 4574;Manoel Rodrigues - Cartão Ipaussu X Ourinhos (Sub);Manoel Rodrigues;8,95;5;10;SP;Avaré;03/10/2025
 4575;Manoel Rodrigues - Cartão Ipaussu X Ourinhos (Conv);Manoel Rodrigues;18,86;5;10;SP;Avaré;03/10/2025
@@ -2488,7 +2487,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6824;Manoel Rodrigues - Cartão Ourinhos X Chavantes;Manoel Rodrigues;7,55;5;10;SP;Avaré;03/10/2025
 8720;Manoel Rodrigues - Cartão Manduri X Avaré;Manoel Rodrigues;16,75;5;10;SP;Avaré;03/10/2025
 8721;Manoel Rodrigues - Cartão Santa Bárbara X Avaré;Manoel Rodrigues;16,75;5;10;SP;Avaré;03/10/2025
-9835;Manoel Rodrigues - Cartão Espírito Santo do Turvo X Bauru;Manoel Rodrigues;20,95;5;10;SP;Avaré;03/10/2025
+9835;Manoel Rodrigues - Cartão Espírito Santo do Turvo X Bauru;Manoel Rodrigues;22,00;5;10;SP;Avaré;28/09/2026
 10016;Manoel Rodrigues - Cartão Manduri X Piraju;Manoel Rodrigues;7,95;5;10;SP;Avaré;03/10/2025
 19890;Manoel Rodrigues - Cartão Bauru X Entrada de Paulistânia;Manoel Rodrigues;17,40;5;10;SP;Avaré;23/09/2026
 2077;Metrópolis - Cartão Jaguariúna;Metrópolis - (Jaguariúna);5,27;5;10;SP;Jaguariúna;21/04/2020
