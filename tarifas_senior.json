@@ -6336,6 +6336,14 @@
         "cidade": "Itauna"
     },
     {
+        "codigo": "19896",
+        "nome": "Viação Itaúna (QR-Code) - Cartão Itaúna X Itatiaiuçu",
+        "fornecedor": "Viação Itaúna - QR-Code",
+        "valor": "11,00",
+        "uf": "MG",
+        "cidade": "Itauna"
+    },
+    {
         "codigo": "19484",
         "nome": "Viação Oliveira - Eletrônico - Cartão Governador Valadares X Era Nova",
         "fornecedor": "Viação Oliveira - Eletrônico",
@@ -10888,14 +10896,6 @@
         "cidade": "Erechim"
     },
     {
-        "codigo": "15936",
-        "nome": "Laranjal - Candiota - Cartão Municipal Candiota",
-        "fornecedor": "Laranjal - Candiota",
-        "valor": "6,00",
-        "uf": "RS",
-        "cidade": "Candiota"
-    },
-    {
         "codigo": "5528",
         "nome": "Mtu Medianeira - Cartão Ijuí Municipal",
         "fornecedor": "MTU Medianeira",
@@ -11189,7 +11189,7 @@
         "fornecedor": "Transporte Coletivo Santo Antônio - Monte Belo",
         "valor": "8,50",
         "uf": "SP",
-        "cidade": ""
+        "cidade": "Monte Belo"
     },
     {
         "codigo": "15998",
@@ -13073,8 +13073,8 @@
     },
     {
         "codigo": "9469",
-        "nome": "Expresso Presidente - (Gaspar) - Cartão Municipal Gaspar",
-        "fornecedor": "Expresso Presidente - (Gaspar)",
+        "nome": "Expresso Presidente - Gaspar - Cartão Municipal Gaspar",
+        "fornecedor": "Expresso Presidente - Gaspar",
         "valor": "4,80",
         "uf": "SC",
         "cidade": "Presidente Getúlio"
