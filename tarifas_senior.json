@@ -5384,22 +5384,6 @@
         "cidade": "Belo Horizonte"
     },
     {
-        "codigo": "5094",
-        "nome": "Sudoestino - Cartão Passos X Itaú de Minas",
-        "fornecedor": "Sudoestino",
-        "valor": "6,80",
-        "uf": "MG",
-        "cidade": "Passos"
-    },
-    {
-        "codigo": "15364",
-        "nome": "Sudoestino - Cartão São João Batista da Glória X Passos",
-        "fornecedor": "Sudoestino",
-        "valor": "7,55",
-        "uf": "MG",
-        "cidade": "Passos"
-    },
-    {
         "codigo": "19473",
         "nome": "SV Transportes - Cartão Municipal Itabirito",
         "fornecedor": "SV Transportes - Novo Sistema",
@@ -18576,14 +18560,6 @@
         "cidade": "Ilhabela"
     },
     {
-        "codigo": "19561",
-        "nome": "Futura Transportes - Cartão Municipal Pederneiras",
-        "fornecedor": "Futura Transportes",
-        "valor": "2,00",
-        "uf": "SP",
-        "cidade": "Pederneiras"
-    },
-    {
         "codigo": "6861",
         "nome": "Grecco Transportadora - Cartão Municipal Lençóis Paulista",
         "fornecedor": "Grecco",
@@ -23275,7 +23251,7 @@
         "codigo": "8322",
         "nome": "Valle Sul São Paulo - Cartão Registro X Ilha Comprida",
         "fornecedor": "Valle Sul São Paulo",
-        "valor": "42,70",
+        "valor": "44,70",
         "uf": "SP",
         "cidade": "São Paulo"
     },
@@ -23364,14 +23340,6 @@
         "nome": "Valle Sul São Paulo - Cartão Cananéia X Pariquera-Açu",
         "fornecedor": "Valle Sul São Paulo",
         "valor": "21,20",
-        "uf": "SP",
-        "cidade": "São Paulo"
-    },
-    {
-        "codigo": "19895",
-        "nome": "Valle Sul São Paulo - Cartão Registro X Ilha Comprida",
-        "fornecedor": "Valle Sul São Paulo",
-        "valor": "44,70",
         "uf": "SP",
         "cidade": "São Paulo"
     },

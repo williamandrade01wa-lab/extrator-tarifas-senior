@@ -672,8 +672,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4914;Setelagoano - Cartão Terminal Lontrinha X Terminal Sete Lagoas;Setelagoano;6,40;5;10;MG;Sete Lagoas;15/09/2026
 6053;Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa);Setelagoano;41,18;5;10;MG;Sete Lagoas;15/09/2026
 15922;Stilo Fretamento - Cartão Municipal Mateus Leme;Stilo Fretamento;0,01;5;10;MG;Belo Horizonte;24/07/2025
-5094;Sudoestino - Cartão Passos X Itaú de Minas;Sudoestino;6,80;5;10;MG;Passos;10/09/2025
-15364;Sudoestino - Cartão São João Batista da Glória X Passos;Sudoestino;7,55;5;10;MG;Passos;10/09/2025
 19473;SV Transportes - Cartão Municipal Itabirito;SV Transportes - Novo Sistema;3,00;5;10;MG;Itabirito;16/01/2026
 8415;TAP Transportes Além Paraíba - Cartão Municipal Além Paraíba;TAP Transportes Além Paraíba;4,50;5;10;MG;Além Paraíba;04/06/2024
 8416;TAP Transportes Além Paraíba - Transportes Além Paraíba - Cartão Fernando Lobo X São Geraldo;TAP Transportes Além Paraíba;4,50;5;10;MG;Além Paraíba;13/03/2025
@@ -2321,7 +2319,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9331;Expresso Redenção - Cartão Taubaté X Natividade da Serra;Expresso Redenção - (Novo Sistema);15,00;5;10;SP;Taubaté;05/01/2026
 9332;Expresso Redenção - Cartão Taubaté X Redenção;Expresso Redenção - (Novo Sistema);9,20;5;10;SP;Taubaté;05/01/2026
 5453;Fênix Ilhabela - Cartão Ilhabela Municipal;Fênix Ilhabela;4,80;5;10;SP;Ilhabela;04/02/2026
-19561;Futura Transportes - Cartão Municipal Pederneiras;Futura Transportes;2,00;5;10;SP;Pederneiras;25/03/2026
 6861;Grecco Transportadora - Cartão Municipal Lençóis Paulista;Grecco;2,00;5;10;SP;Lençóis Paulista;22/06/2022
 10026;Grupo Tuga (São José do Rio Pardo) - Cartão Municipal São José do Rio Pardo;Grupo Tuga (São José do Rio Pardo);3,00;5;10;SP;São José do Rio Pardo;14/08/2025
 182;Guarupas - Cartão Guarulhos - Municipal / Guarulhos;Guarupass;6,20;5;10;SP;Guarulhos;30/12/2022
@@ -2908,7 +2905,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5950;Valle Sul São Paulo - Cartão São Paulo X Juquiá;Valle Sul São Paulo;78,65;5;10;SP;São Paulo;07/10/2025
 6832;Valle Sul São Paulo - Cartão Registro X Santos;Valle Sul São Paulo;93,15;5;10;SP;São Paulo;07/10/2025
 6860;Valle Sul São Paulo - Cartão São Paulo X Miracatu;Valle Sul São Paulo;59,85;5;10;SP;São Paulo;07/10/2025
-8322;Valle Sul São Paulo - Cartão Registro X Ilha Comprida;Valle Sul São Paulo;42,70;5;10;SP;São Paulo;07/10/2025
+8322;Valle Sul São Paulo - Cartão Registro X Ilha Comprida;Valle Sul São Paulo;44,70;5;10;SP;São Paulo;30/09/2026
 8348;Valle Sul São Paulo - Cartão Registro X Jacupiranga;Valle Sul São Paulo;9,15;5;10;SP;São Paulo;07/10/2025
 8373;Valle Sul São Paulo - Cartão Registro X Ponte Moreira;Valle Sul São Paulo;5,95;5;10;SP;São Paulo;07/10/2025
 10700;Valle Sul São Paulo - Cartão Pariquera-Açu X Eldorado;Valle Sul São Paulo;18,95;5;10;SP;São Paulo;22/08/2025
@@ -2920,7 +2917,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16066;Valle Sul São Paulo - Cartão São Paulo X Cajati;Valle Sul São Paulo;96,80;5;10;SP;São Paulo;03/09/2025
 19429;Valle Sul São Paulo - Cartão Iguape X Miracatu;Valle Sul São Paulo;30,90;5;10;SP;São Paulo;11/12/2025
 19536;Valle Sul São Paulo - Cartão Cananéia X Pariquera-Açu;Valle Sul São Paulo;21,20;5;10;SP;São Paulo;03/03/2026
-19895;Valle Sul São Paulo - Cartão Registro X Ilha Comprida;Valle Sul São Paulo;44,70;5;10;SP;São Paulo;25/09/2026
 9706;VB Transportes - Cartão Circular Rio Claro X Itirapina;VB Transportes;12,75;5;10;SP;Campinas;07/07/2025
 9707;VB Transportes - Cartão Limeira X Cosmópolis;VB Transportes;8,95;5;10;SP;Campinas;07/07/2025
 9708;VB Transportes - Cartão Limeira X Iracemápolis;VB Transportes;7,25;5;10;SP;Campinas;07/07/2025
