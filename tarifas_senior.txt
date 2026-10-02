@@ -987,7 +987,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16002;Oceânica - Guaratuba - Cartão Municipal Guaratuba;Oceânica - Guaratuba;6,10;5;10;PR;Guaratuba;20/08/2025
 16003;Oceânica - Itapoá - Cartão Municipal Itapoá;Oceânica - Itapoá - QR-Code;5,00;5;10;SC;Itapoá;20/08/2025
 16005;Oceânica - Lapa - Cartão Municipal Lapa;Oceânica - Lapa - QR-Code;4,30;5;10;PR;Lapa;20/08/2025
-9872;Oceânica Sul - Cartão Lapa X Araucária;Oceânica Sul (Lapa - Arauc.) - QR-Code;8,55;5;10;PR;Pontal do Paraná;01/09/2026
+9872;Oceânica Sul - Cartão Lapa X Araucária;Oceânica Sul (Lapa - Arauc.) - QR-Code;8,95;5;10;PR;Pontal do Paraná;01/10/2026
 9618;Panamera Oceânica Sul - Cartão Pontal do Paraná Municipal;Panamera - OCEANICA PONTAL Sul;3,25;5;10;PR;Pontal do Paraná;04/08/2025
 2193;Pérola do Oeste - Cartão Pérola do Oeste Urbano;Pérola do Oeste;4,00;5;10;PR;Guarapuava;19/02/2025
 15991;Piraquara - Cartão Piraquara X Santos Andrade (via Terminal São Roque);Piraquara;5,90;5;10;SP;Piraquara;17/06/2026
@@ -2919,7 +2919,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19536;Valle Sul São Paulo - Cartão Cananéia X Pariquera-Açu;Valle Sul São Paulo;21,20;5;10;SP;São Paulo;03/03/2026
 9706;VB Transportes - Cartão Circular Rio Claro X Itirapina;VB Transportes;12,75;5;10;SP;Campinas;07/07/2025
 9707;VB Transportes - Cartão Limeira X Cosmópolis;VB Transportes;8,95;5;10;SP;Campinas;07/07/2025
-9708;VB Transportes - Cartão Limeira X Iracemápolis;VB Transportes;7,25;5;10;SP;Campinas;07/07/2025
+9708;VB Transportes - Cartão Limeira X Iracemápolis;VB Transportes;7,60;5;10;SP;Campinas;01/10/2026
 9709;VB Transportes - Cartão Elias Fausto X Indaiatuba;VB Transportes;9,00;5;10;SP;Campinas;13/08/2026
 9710;VB Transportes - Cartão Capivari X Elias Fausto;VB Transportes;7,95;5;10;SP;Campinas;13/08/2026
 9711;VB Transportes - Cartão Indaiatuba X Cardeal;VB Transportes;7,55;5;10;SP;Campinas;07/07/2025
