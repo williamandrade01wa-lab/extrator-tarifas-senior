@@ -2888,6 +2888,14 @@
         "cidade": "Belo Horizonte"
     },
     {
+        "codigo": "19897",
+        "nome": "Buse (QR-Code) - Cartão São Francisco de Paula X Oliveira",
+        "fornecedor": "Buse - QR-Code - Saritur",
+        "valor": "11,30",
+        "uf": "MG",
+        "cidade": "Belo Horizonte"
+    },
+    {
         "codigo": "2634",
         "nome": "Buse - Varginha - Cartão Urbano Varginha",
         "fornecedor": "Buse - Varginha",
@@ -5216,6 +5224,14 @@
         "cidade": "Juiz de Fora"
     },
     {
+        "codigo": "19439",
+        "nome": "Prefeitura de Formiga - Municipal Formiga",
+        "fornecedor": "Prefeitura de Formiga",
+        "valor": "5,00",
+        "uf": "MG",
+        "cidade": "Formiga"
+    },
+    {
         "codigo": "10486",
         "nome": "Rápido Luxo Sorocaba - Cartão Iperó X Boituva",
         "fornecedor": "Rápido Luxo - Sorocaba",
@@ -6478,6 +6494,14 @@
         "valor": "4,50",
         "uf": "MG",
         "cidade": "Teófilo Otoni"
+    },
+    {
+        "codigo": "10694",
+        "nome": "Vinscol - Cartão Municipal Sabará",
+        "fornecedor": "Vinscol",
+        "valor": "5,40",
+        "uf": "MG",
+        "cidade": "Sabará"
     },
     {
         "codigo": "8166",

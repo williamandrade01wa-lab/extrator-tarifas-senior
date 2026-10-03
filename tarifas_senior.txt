@@ -360,6 +360,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16259;Buse (QR-Code) - Cartão Santa Rita do Sapucaí X Itajubá;Buse - QR-Code - Saritur;24,85;5;10;MG;Belo Horizonte;17/11/2025
 19508;Buse (QR-Code) - Cartão Pouso Alegre X Borda da Mata;Buse - QR-Code - Saritur;13,95;5;10;MG;Belo Horizonte;12/02/2026
 19509;Buse (QR-Code) - Cartão Borda da Mata X Pouso Alegre;Buse - QR-Code - Saritur;12,90;5;10;MG;Belo Horizonte;12/02/2026
+19897;Buse (QR-Code) - Cartão São Francisco de Paula X Oliveira;Buse - QR-Code - Saritur;11,30;5;10;MG;Belo Horizonte;02/10/2026
 2634;Buse - Varginha - Cartão Urbano Varginha;Buse - Varginha;5,00;5;10;MG;Varginha;17/03/2023
 6256;CAF Transportes e Utilidades Eireli - Cartão Municipal Araguari;CAF Transportes;4,30;5;10;MG;Araguarí;16/08/2022
 8276;Caf Transportes Passos - Cartão Municipal Passos;Caf Transportes Passos;3,90;5;10;MG;Passos;08/07/2022
@@ -651,6 +652,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10899;Paraibuna (QR-Code) - Cartão Leopoldina X Laranjal;Paraibuna - QR-Code;14,80;5;10;MG;Juiz de Fora;03/02/2025
 19803;Paraibuna (QR-Code) - Cartão Cataguases X Muriaé;Paraibuna - QR-Code;35,65;5;10;MG;Juiz de Fora;30/07/2026
 19811;Paraibuna (QR-Code) - Cartão Cataguases X Leopoldina (Direto);Paraibuna - QR-Code;14,60;5;10;MG;Juiz de Fora;15/09/2026
+19439;Prefeitura de Formiga - Municipal Formiga;Prefeitura de Formiga;5,00;5;10;MG;Formiga;02/10/2026
 10486;Rápido Luxo Sorocaba - Cartão Iperó X Boituva;Rápido Luxo - Sorocaba;4,85;5;10;SP;Sorocaba;07/01/2026
 1046;Santa Edwiges - Cartão Santa Edwiges;Santa Edwiges;0,01;5;10;MG;Betim;01/01/2000
 6825;Santa Edwiges - Cartão Municipal Betim;Santa Edwiges;6,25;5;10;MG;Betim;02/01/2026
@@ -809,6 +811,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4642;Viação União - Cartão Municipal Viçosa;Viação União;3,00;5;10;MG;Viçosa;08/09/2025
 8664;Viação União Manhuaçu - Cartão Municipal Manhuaçu;Viação União - (Manhuaçu);4,00;5;10;MG;Manhuaçu;08/07/2022
 15195;Viação Vale do Mucury - Cartão Municipal Teófilo Otoni;Viação Vale do Mucury - Novo Sistema;4,50;5;10;MG;Teófilo Otoni;21/05/2026
+10694;Vinscol - Cartão Municipal Sabará;Vinscol;5,40;5;10;MG;Sabará;08/11/2023
 8166;Andorinha (Corumbá - Sistema Novo) - Cartão Corumbá X Ladário;Andorinha - Corumbá;7,00;5;10;MS;Corumbá;23/04/2026
 5466;Cidade Corumbá - Cartão Municipal Corumbá;Cidade Corumbá;3,70;5;10;MS;Corumbá;15/03/2019
 3953;Consórcio Guaicurus - Cartão Municipal Campo Grande;Consórcio Guaicurus;4,95;5;10;MS;Campo Grande;24/01/2025
