@@ -3112,7 +3112,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10679;Viação Santa Cruz (QR-Code) - Cartão Mogi Mirim X Itapira (sem seguro);Viação Santa Cruz - QR-Code;10,25;5;10;SP;Mogi Mirim;10/11/2025
 10680;Viação Santa Cruz (QR-Code) - Cartão Itapira X Mogi Mirim (sem seguro);Viação Santa Cruz - QR-Code;9,60;5;10;SP;Mogi Mirim;10/11/2025
 10681;Viação Santa Cruz (QR-Code) - Cartão Campinas X Itapira (sem seguro);Viação Santa Cruz - QR-Code;37,00;5;10;SP;Mogi Mirim;10/11/2025
-10682;Viação Santa Cruz (QR-Code) - Cartão Mogi Guaçu X Mogi Mirim (sem seguro);Viação Santa Cruz - QR-Code;7,40;5;10;SP;Mogi Mirim;15/07/2025
+10682;Viação Santa Cruz (QR-Code) - Cartão Mogi Guaçu X Mogi Mirim (sem seguro);Viação Santa Cruz - QR-Code;7,95;5;10;SP;Mogi Mirim;05/10/2026
 10683;Viação Santa Cruz (QR-Code) - Cartão Mogi Mirim X Mogi Guaçu (sem seguro);Viação Santa Cruz - QR-Code;7,25;5;10;SP;Mogi Mirim;15/07/2025
 10684;Viação Santa Cruz (QR-Code) - Cartão Mogi Mirim X Espírito Santo do Pinhal;Viação Santa Cruz - QR-Code;23,90;5;10;SP;Mogi Mirim;10/11/2025
 10685;Viação Santa Cruz (QR-Code) - Cartão Espírito Santo do Pinhal X Mogi Mirim (sem seguro);Viação Santa Cruz - QR-Code;21,35;5;10;SP;Mogi Mirim;10/11/2025
