@@ -5360,26 +5360,10 @@
         "cidade": "Ponte Nova"
     },
     {
-        "codigo": "4876",
-        "nome": "Setelagoano - Cartão Belo Horizonte X Sete Lagoas",
-        "fornecedor": "Setelagoano",
-        "valor": "33,30",
-        "uf": "MG",
-        "cidade": "Sete Lagoas"
-    },
-    {
         "codigo": "4900",
         "nome": "Setelagoano - Cartão Prudente de Morais X Sete Lagoas",
         "fornecedor": "Setelagoano",
         "valor": "5,75",
-        "uf": "MG",
-        "cidade": "Sete Lagoas"
-    },
-    {
-        "codigo": "4914",
-        "nome": "Setelagoano - Cartão Terminal Lontrinha X Terminal Sete Lagoas",
-        "fornecedor": "Setelagoano",
-        "valor": "6,40",
         "uf": "MG",
         "cidade": "Sete Lagoas"
     },
@@ -5398,6 +5382,22 @@
         "valor": "0,01",
         "uf": "MG",
         "cidade": "Belo Horizonte"
+    },
+    {
+        "codigo": "19898",
+        "nome": "Sudoestino - Cartão Passos X Itaú de Minas",
+        "fornecedor": "Sudoestino - Novo Sistema",
+        "valor": "7,25",
+        "uf": "MG",
+        "cidade": "Passos"
+    },
+    {
+        "codigo": "19899",
+        "nome": "Sudoestino - Cartão São João Batista da Glória X Passos",
+        "fornecedor": "Sudoestino - Novo Sistema",
+        "valor": "8,05",
+        "uf": "MG",
+        "cidade": "Passos"
     },
     {
         "codigo": "19473",
@@ -6694,14 +6694,6 @@
         "valor": "5,80",
         "uf": "PA",
         "cidade": "Paragominas"
-    },
-    {
-        "codigo": "8581",
-        "nome": "VTM Integração - Cartão Municipal Marabá",
-        "fornecedor": "VTM Integração",
-        "valor": "4,00",
-        "uf": "PA",
-        "cidade": "Marabá"
     },
     {
         "codigo": "8522",
@@ -11083,7 +11075,7 @@
         "codigo": "10834",
         "nome": "Riomafra - Cartão Municipal Mafra",
         "fornecedor": "Riomafra",
-        "valor": "4,50",
+        "valor": "5,00",
         "uf": "SC",
         "cidade": "Mafra"
     },
@@ -13179,7 +13171,7 @@
         "codigo": "15070",
         "nome": "Riomafra - Cartão Municipal Rio Negro",
         "fornecedor": "Riomafra",
-        "valor": "4,50",
+        "valor": "5,00",
         "uf": "SC",
         "cidade": "Mafra"
     },

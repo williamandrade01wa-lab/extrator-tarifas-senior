@@ -669,11 +669,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19598;Santafé - (QR-Code) - Cartão Pessegueiro (Via Moeda) X Belo Horizonte;Santafé - QR-Code;6,75;5;10;MG;Belo Horizonte;22/04/2026
 5179;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 2);São Jorge Autobus;8,70;5;10;MG;Ponte Nova;01/10/2025
 5180;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 1);São Jorge Autobus;2,50;5;10;MG;Ponte Nova;01/12/2021
-4876;Setelagoano - Cartão Belo Horizonte X Sete Lagoas;Setelagoano;33,30;5;10;MG;Sete Lagoas;15/09/2026
 4900;Setelagoano - Cartão Prudente de Morais X Sete Lagoas;Setelagoano;5,75;5;10;MG;Sete Lagoas;15/09/2026
-4914;Setelagoano - Cartão Terminal Lontrinha X Terminal Sete Lagoas;Setelagoano;6,40;5;10;MG;Sete Lagoas;15/09/2026
 6053;Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa);Setelagoano;41,18;5;10;MG;Sete Lagoas;15/09/2026
 15922;Stilo Fretamento - Cartão Municipal Mateus Leme;Stilo Fretamento;0,01;5;10;MG;Belo Horizonte;24/07/2025
+19898;Sudoestino - Cartão Passos X Itaú de Minas;Sudoestino - Novo Sistema;7,25;5;10;MG;Passos;06/10/2026
+19899;Sudoestino - Cartão São João Batista da Glória X Passos;Sudoestino - Novo Sistema;8,05;5;10;MG;Passos;06/10/2026
 19473;SV Transportes - Cartão Municipal Itabirito;SV Transportes - Novo Sistema;3,00;5;10;MG;Itabirito;16/01/2026
 8415;TAP Transportes Além Paraíba - Cartão Municipal Além Paraíba;TAP Transportes Além Paraíba;4,50;5;10;MG;Além Paraíba;04/06/2024
 8416;TAP Transportes Além Paraíba - Transportes Além Paraíba - Cartão Fernando Lobo X São Geraldo;TAP Transportes Além Paraíba;4,50;5;10;MG;Além Paraíba;13/03/2025
@@ -836,7 +836,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10329;Startec - Cartão Municipal Santarém;Startec;4,80;5;10;PA;Santarém;09/01/2026
 10334;Startec - Cartão Intermunicipal Alter do chão;Startec;5,90;5;10;PA;Santarém;09/01/2026
 15615;Transportes Caliman - Cartão Municipal Paragominas;Transportes Caliman - Novo Sistema;5,80;5;10;PA;Paragominas;06/02/2026
-8581;VTM Integração - Cartão Municipal Marabá;VTM Integração;4,00;5;10;PA;Marabá;16/11/2022
 8522;AETC (Sintur) Cabedelo - Cartão AETC (Sintur) - Cabedelo;AETC (Sintur) - Cabedelo;0,01;5;10;PB;João Pessoa;01/01/2000
 1271;AETC (Sintur) Cabedelo - Cartão Cabedelo X João Pessoa;AETC (Sintur) Cabedelo;5,65;5;10;PB;João Pessoa;13/02/2026
 2958;AETC (Sintur) Cabedelo - Cartão Municipal João Pessoa;AETC (Sintur) Cabedelo;5,45;5;10;PB;João Pessoa;13/02/2026
@@ -1384,7 +1383,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19619;Prati - Capão do Leão - Cartão Pelotas X Capão do Leão;Prati - Capão do Leão;8,00;5;10;RS;Pelotas;06/07/2026
 19620;Prati - Capão do Leão - Cartão Pelotas X Jardim América;Prati - Capão do Leão;6,50;5;10;RS;Pelotas;06/07/2026
 19621;Prati - Pelotas - Cartão Municipal Pelotas;Prati - Pelotas;6,25;5;10;RS;Pelotas;28/04/2026
-10834;Riomafra - Cartão Municipal Mafra;Riomafra;4,50;5;10;SC;Mafra;29/01/2024
+10834;Riomafra - Cartão Municipal Mafra;Riomafra;5,00;5;10;SC;Mafra;06/10/2026
 2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;5,00;5;10;RS;São Borja;12/06/2026
 6122;Stadtbus Teutônia - Cartão Teuto Municipal;Stadtbus Teutônia;5,00;5;10;RS;Teutônia;04/01/2023
 4714;Stadtbus Venâncio Aires - Cartão Santa Cruz X Venâncio Aires Intermunicipal;Stadtbus Venâncio Aires;11,90;5;10;RS;Santa Cruz do Sul;20/04/2026
@@ -1646,7 +1645,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19616;Lagunatur - Itapiruba X Laguna;Lagunatur;9,50;5;10;SC;Laguna;28/04/2026
 15074;Melissa - Navegantes - Cartão Municipal Navegantes;Melissa - Navegantes;3,85;5;10;SC;Navegantes;17/05/2024
 3843;Piracicabana Blumenau - Cartão Blumenau Urbano;Piracicabana Blumenau;5,50;5;10;SC;Blumenau;31/01/2025
-15070;Riomafra - Cartão Municipal Rio Negro;Riomafra;4,50;5;10;SC;Mafra;14/05/2024
+15070;Riomafra - Cartão Municipal Rio Negro;Riomafra;5,00;5;10;SC;Mafra;06/10/2026
 5554;Santa Teresinha Videira e Fraiburgo - Cartão Videira Municipal;Santa Teresinha Videira e Fraiburgo;4,50;5;10;SC;Videira;01/09/2026
 6237;Santa Teresinha Videira e Fraiburgo - Cartão Fraiburgo Municipal;Santa Teresinha Videira e Fraiburgo;6,50;5;10;SC;Videira;19/08/2025
 8687;Setuf - Cartão Biguaçu (Patamar AC1);Setuf (Biguaçu);6,60;5;10;SC;Florianópolis;19/07/2022
