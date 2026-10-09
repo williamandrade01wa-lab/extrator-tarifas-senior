@@ -1046,7 +1046,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6026;Viação Garcia - Cartão Londrina X Bela Vista;Viação Garcia - (Lond - B. Vista);9,90;5;10;PR;Maringá;25/06/2026
 6001;Viação Garcia - Cartão Jataizinho x Londrina;Viação Garcia - (Lond - Jataiz);6,90;5;10;PR;Maringá;17/06/2026
 6028;Viação Garcia - Cartão Londrina X Rolandia;Viação Garcia - (Lond - Rolan);6,90;5;10;PR;Maringá;18/06/2026
-5021;Viação Garcia - Cartão Londrina X Sertanópolis;Viação Garcia - (Lond - Sert.);9,75;5;10;PR;Londrina;19/02/2026
+5021;Viação Garcia - Cartão Londrina X Sertanópolis;Viação Garcia - (Lond - Sert.);10,25;5;10;PR;Londrina;08/10/2026
 6022;Viação Garcia - Cartão Apucarana X Mandaguari;Viação Garcia - Apucarana Mandaguari;7,10;5;10;PR;Maringá;18/06/2026
 6021;Viação Garcia - Cartão Apucarana X Rolandia;Viação Garcia - Apucarana Rolandia;7,50;5;10;PR;Maringá;19/06/2026
 15869;Viação Graciosa - Cartão Litoral;Viação Graciosa - QR-Code;10,15;5;10;PR;Curitiba;02/04/2026
@@ -2291,7 +2291,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4122;Expresso Itamarati - Cartão Poloni X São José do Rio Preto;Expresso Itamarati;14,20;5;10;SP;São José do Rio Preto;03/07/2025
 4123;Expresso Itamarati - Cartão São José do Rio Preto X Votuporanga;Expresso Itamarati;23,60;5;10;SP;São José do Rio Preto;03/07/2025
 4124;Expresso Itamarati - Cartão Cedral X São José do Rio Preto;Expresso Itamarati;7,25;5;10;SP;São José do Rio Preto;03/07/2025
-5614;Expresso Itamarati - Cartão Nova Granada X São José do Rio Preto;Expresso Itamarati;12,65;5;10;SP;São José do Rio Preto;03/07/2025
+5614;Expresso Itamarati - Cartão Nova Granada X São José do Rio Preto;Expresso Itamarati;13,20;5;10;SP;São José do Rio Preto;08/10/2026
 5615;Expresso Itamarati - Cartão Uchoa X São José do Rio Preto;Expresso Itamarati;10,25;5;10;SP;São José do Rio Preto;03/07/2025
 5617;Expresso Itamarati - Cartão Potirendaba X São José do Rio Preto;Expresso Itamarati;10,25;5;10;SP;São José do Rio Preto;03/07/2025
 5620;Expresso Itamarati - Cartão Mirassol X São José do Rio Preto;Expresso Itamarati;7,60;5;10;SP;São José do Rio Preto;27/07/2026
