@@ -1,13 +1,5 @@
 [
     {
-        "codigo": "2336",
-        "nome": "RBTrans - Cartão Municipal Rio Branco",
-        "fornecedor": "RBTrans",
-        "valor": "3,50",
-        "uf": "AC",
-        "cidade": "Rio Branco"
-    },
-    {
         "codigo": "15196",
         "nome": "Bem Mobilidade - Cartão Rio Largo X Via Mata do Rolo",
         "fornecedor": "Bem Mobilidade (Transpal)",
@@ -19803,7 +19795,7 @@
         "codigo": "4574",
         "nome": "Manoel Rodrigues - Cartão Ipaussu X Ourinhos (Sub)",
         "fornecedor": "Manoel Rodrigues",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Avaré"
     },
@@ -19859,7 +19851,7 @@
         "codigo": "6685",
         "nome": "Manoel Rodrigues - Cartão Canitar x Ourinhos",
         "fornecedor": "Manoel Rodrigues",
-        "valor": "6,60",
+        "valor": "6,95",
         "uf": "SP",
         "cidade": "Avaré"
     },

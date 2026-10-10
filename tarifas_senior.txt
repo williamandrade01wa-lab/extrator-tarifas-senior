@@ -1,5 +1,4 @@
 Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data Tarifa
-2336;RBTrans - Cartão Municipal Rio Branco;RBTrans;3,50;5;10;AC;Rio Branco;26/10/2021
 15196;Bem Mobilidade - Cartão Rio Largo X Via Mata do Rolo;Bem Mobilidade (Transpal);6,90;5;10;AL;Maceió;07/01/2025
 15197;Bem Mobilidade - Cartão Aeroporto X Ponta Verde;Bem Mobilidade (Transpal);6,90;5;10;AL;Maceió;07/01/2025
 15198;Bem Mobilidade - Cartão Cruzeiro do Sul;Bem Mobilidade (Transpal);5,90;5;10;AL;Maceió;07/01/2025
@@ -2474,14 +2473,14 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2998;Manoel Rodrigues - Cartão Itaí X Taquarituba;Manoel Rodrigues;8,40;5;10;SP;Avaré;03/10/2025
 3000;Manoel Rodrigues - Cartão Santa Cruz do Rio Pardo X Bauru;Manoel Rodrigues;29,20;5;10;SP;Avaré;28/09/2026
 3002;Manoel Rodrigues - Cartão Santa Cruz do Rio Pardo X Ourinhos (Sub);Manoel Rodrigues;27,80;5;10;SP;Avaré;03/10/2025
-4574;Manoel Rodrigues - Cartão Ipaussu X Ourinhos (Sub);Manoel Rodrigues;8,95;5;10;SP;Avaré;03/10/2025
+4574;Manoel Rodrigues - Cartão Ipaussu X Ourinhos (Sub);Manoel Rodrigues;9,35;5;10;SP;Avaré;09/10/2026
 4575;Manoel Rodrigues - Cartão Ipaussu X Ourinhos (Conv);Manoel Rodrigues;18,86;5;10;SP;Avaré;03/10/2025
 6232;Manoel Rodrigues - Cartão Santa Cruz do Rio Pardo X Chavantes;Manoel Rodrigues;8,95;5;10;SP;Avaré;03/10/2025
 6292;Manoel Rodrigues - Cartão Santa Cruz do Rio Pardo X Ipaussu;Manoel Rodrigues;7,25;5;10;SP;Avaré;03/10/2025
 6584;Manoel Rodrigues - Cartão Ipaussu X Chavantes;Manoel Rodrigues;5,95;5;10;SP;Avaré;03/10/2025
 6664;Manoel Rodrigues - Cartão Paranapanema X Avaré;Manoel Rodrigues;22,00;5;10;SP;Avaré;03/10/2025
 6683;Manoel Rodrigues - Cartão Canitar x Chavantes;Manoel Rodrigues;5,95;5;10;SP;Avaré;03/10/2025
-6685;Manoel Rodrigues - Cartão Canitar x Ourinhos;Manoel Rodrigues;6,60;5;10;SP;Avaré;03/10/2025
+6685;Manoel Rodrigues - Cartão Canitar x Ourinhos;Manoel Rodrigues;6,95;5;10;SP;Avaré;09/10/2026
 6811;Manoel Rodrigues - Cartão Avaré X Taquarituba;Manoel Rodrigues;17,65;5;10;SP;Avaré;07/01/2026
 6824;Manoel Rodrigues - Cartão Ourinhos X Chavantes;Manoel Rodrigues;7,55;5;10;SP;Avaré;03/10/2025
 8720;Manoel Rodrigues - Cartão Manduri X Avaré;Manoel Rodrigues;16,75;5;10;SP;Avaré;03/10/2025
