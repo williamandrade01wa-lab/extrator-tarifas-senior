@@ -1867,7 +1867,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6772;BR Mobilidade - Jardim Rádio Clube X Cons. Nébias (Linha 944);BR Mobilidade;6,00;5;10;SP;São Vicente;09/01/2026
 6773;BR Mobilidade - Bertioga Riviera São Lourenço X Guarujá Terminal Ferry Boat;BR Mobilidade;15,70;5;10;SP;São Vicente;09/01/2026
 6774;BR Mobilidade - Bertioga Riviera São Lourenço X Guarujá Terminal Ferry Boat;BR Mobilidade;15,70;5;10;SP;São Vicente;09/01/2026
-6775;BR Mobilidade - Guarujá (Ferry Boat) X Bertioga (Riviera De São Lourenço) (Linha 930);BR Mobilidade;12,85;5;10;SP;São Vicente;09/01/2026
+6775;BR Mobilidade - Guarujá (Ferry Boat) X Bertioga (Riviera De São Lourenço) (Linha 930);BR Mobilidade;13,25;5;10;SP;São Vicente;13/10/2026
 6776;BR Mobilidade - Cota 200 X Ponta da Praia (Linha 936);BR Mobilidade;6,80;5;10;SP;São Vicente;09/01/2026
 6777;BR Mobilidade - Mongaguá X Itanhaém S05;BR Mobilidade;11,00;5;10;SP;São Vicente;09/01/2026
 6781;BR Mobilidade - Monguagá Loty X São Vicente (Itararé) S08;BR Mobilidade;6,50;5;10;SP;São Vicente;21/01/2025
