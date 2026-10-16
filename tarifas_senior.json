@@ -6488,14 +6488,6 @@
         "cidade": "Teófilo Otoni"
     },
     {
-        "codigo": "10694",
-        "nome": "Vinscol - Cartão Municipal Sabará",
-        "fornecedor": "Vinscol",
-        "valor": "5,40",
-        "uf": "MG",
-        "cidade": "Sabará"
-    },
-    {
         "codigo": "8166",
         "nome": "Andorinha (Corumbá - Sistema Novo) - Cartão Corumbá X Ladário",
         "fornecedor": "Andorinha - Corumbá",
@@ -14398,6 +14390,14 @@
         "valor": "3,70",
         "uf": "SP",
         "cidade": "Presidente Prudente"
+    },
+    {
+        "codigo": "16049",
+        "nome": "Araçoiaba da Serra - Cartão Municipal de Araçoiaba da Serra",
+        "fornecedor": "Araçoiaba da Serra - Novo Sistema - PIX",
+        "valor": "4,20",
+        "uf": "SP",
+        "cidade": "Araçoiaba da Serra"
     },
     {
         "codigo": "16037",
@@ -25808,17 +25808,17 @@
         "cidade": "Barueri"
     },
     {
-        "codigo": "15692",
-        "nome": "Pluxee - Cartão Cultura Pass Novo",
-        "fornecedor": "Pluxee Cultura Pass - Novo",
+        "codigo": "4657",
+        "nome": "Pluxee - Cartão Cultura Pass",
+        "fornecedor": "Pluxee Cultura Pass",
         "valor": "0,01",
         "uf": "SP",
         "cidade": "Barueri"
     },
     {
-        "codigo": "4657",
-        "nome": "Pluxee - Cartão Cultura Pass",
-        "fornecedor": "Sodexo Cultura Pass",
+        "codigo": "15692",
+        "nome": "Pluxee - Cartão Cultura Pass Novo",
+        "fornecedor": "Pluxee Cultura Pass - Novo",
         "valor": "0,01",
         "uf": "SP",
         "cidade": "Barueri"

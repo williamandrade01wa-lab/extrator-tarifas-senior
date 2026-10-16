@@ -810,7 +810,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 4642;Viação União - Cartão Municipal Viçosa;Viação União;3,00;5;10;MG;Viçosa;08/09/2025
 8664;Viação União Manhuaçu - Cartão Municipal Manhuaçu;Viação União - (Manhuaçu);4,00;5;10;MG;Manhuaçu;08/07/2022
 15195;Viação Vale do Mucury - Cartão Municipal Teófilo Otoni;Viação Vale do Mucury - Novo Sistema;4,50;5;10;MG;Teófilo Otoni;21/05/2026
-10694;Vinscol - Cartão Municipal Sabará;Vinscol;5,40;5;10;MG;Sabará;08/11/2023
 8166;Andorinha (Corumbá - Sistema Novo) - Cartão Corumbá X Ladário;Andorinha - Corumbá;7,00;5;10;MS;Corumbá;23/04/2026
 5466;Cidade Corumbá - Cartão Municipal Corumbá;Cidade Corumbá;3,70;5;10;MS;Corumbá;15/03/2019
 3953;Consórcio Guaicurus - Cartão Municipal Campo Grande;Consórcio Guaicurus;4,95;5;10;MS;Campo Grande;24/01/2025
@@ -1799,6 +1798,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6301;Andorinha - Cartão Presidente Venceslau X Piquerobi;Andorinha;7,95;5;10;SP;Presidente Prudente;15/07/2026
 10287;Andorinha - Cartão Caiuá X Presidente Venceslau;Andorinha;7,95;5;10;SP;Presidente Prudente;15/07/2026
 856;Andorinha - Cartão Andorinha Urbano;Andorinha (Corumbá) (Sistema Novo);3,70;5;10;SP;Presidente Prudente;22/02/2018
+16049;Araçoiaba da Serra - Cartão Municipal de Araçoiaba da Serra;Araçoiaba da Serra - Novo Sistema - PIX;4,20;5;10;SP;Araçoiaba da Serra;15/10/2026
 16037;AS Service - Municipal São Manuel;AS Transportes;1,00;5;10;SP;São Manuel;26/08/2025
 15264;Associação dos Mestres - Cartão Santos X Guarujá;Associação dos Mestres - Travessia Catraia;3,00;5;10;SP;Guarujá;02/04/2025
 10361;Auto Viação Campestre - Cartão Urbano Cosmópolis;Auto Viação Campestre - Eletrônico;5,40;5;10;SP;Cosmópolis;20/09/2023
@@ -3203,27 +3203,27 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3849;Passaredo Araguaína - Cartão BEM Araguaína Urbano;Passaredo - Araguaína;3,75;5;10;TO;Araguaina;10/03/2019
 15713;Sou - Palmas - Cartão Municipal Palmas;Sou - Palmas;4,85;5;10;TO;Palmas;09/05/2025
 7024;Tocantinese - Palmas X Paraíso;Tocantinense Transportes;27,00;5;10;TO;Palmas;19/12/2024
-15691;Pluxee - Cartão Combustível Novo;Pluxee Combustível - Novo;0,01;3;10;SP;Barueri;02/05/2025
-15654;Pluxee Multibenefícios - Mobilidade;Pluxee Multibenefícios - Mobilidade;0,01;3;10;SP;Barueri;28/03/2025
-15687;Pluxee Multibenefícios Elo - Mobilidade;Pluxee Multibenefícios Elo - Mobilidade;0,01;3;10;SP;Barueri;02/05/2025
+15691;Pluxee - Cartão Combustível Novo;Pluxee Combustível - Novo;0,01;3;7;SP;Barueri;02/05/2025
+15654;Pluxee Multibenefícios - Mobilidade;Pluxee Multibenefícios - Mobilidade;0,01;3;7;SP;Barueri;28/03/2025
+15687;Pluxee Multibenefícios Elo - Mobilidade;Pluxee Multibenefícios Elo - Mobilidade;0,01;3;7;SP;Barueri;02/05/2025
 2258;Crédito em Conta - Vale Transporte;Benefício Fácil;0,01;2;10;SP;São Paulo;01/01/2000
-15690;Pluxee - Cartão Alimentação Novo;Pluxee Alimentação - Novo;0,01;3;10;SP;Barueri;02/05/2025
-15651;Pluxee Multibenefícios - Alimentação;Pluxee Multibenefícios - Alimentação;0,01;3;10;SP;Barueri;25/03/2025
-15664;Pluxee Multibenefícios Elo - Alimentação;Pluxee Multibenefícios Elo - Alimentação;0,01;3;10;SP;Barueri;22/04/2025
-15652;Pluxee Multibenefícios - Refeição;Pluxee Multibenefícios - Refeição;0,01;3;10;SP;Barueri;25/03/2025
-15665;Pluxee Multibenefícios Elo - Refeição;Pluxee Multibenefícios Elo - Refeição;0,01;3;10;SP;Barueri;22/04/2025
-15695;Pluxee - Cartão Refeição Novo;Pluxee Refeição - Novo;0,01;3;10;SP;Barueri;02/05/2025
-5152;Sodexo - Cartão Brinquedo Pass;Pluxee Brinquedo Pass;0,01;6;10;SP;Barueri;20/02/2017
+15690;Pluxee - Cartão Alimentação Novo;Pluxee Alimentação - Novo;0,01;3;7;SP;Barueri;02/05/2025
+15651;Pluxee Multibenefícios - Alimentação;Pluxee Multibenefícios - Alimentação;0,01;3;7;SP;Barueri;25/03/2025
+15664;Pluxee Multibenefícios Elo - Alimentação;Pluxee Multibenefícios Elo - Alimentação;0,01;3;7;SP;Barueri;22/04/2025
+15652;Pluxee Multibenefícios - Refeição;Pluxee Multibenefícios - Refeição;0,01;3;7;SP;Barueri;25/03/2025
+15665;Pluxee Multibenefícios Elo - Refeição;Pluxee Multibenefícios Elo - Refeição;0,01;3;7;SP;Barueri;22/04/2025
+15695;Pluxee - Cartão Refeição Novo;Pluxee Refeição - Novo;0,01;3;7;SP;Barueri;02/05/2025
+5152;Sodexo - Cartão Brinquedo Pass;Pluxee Brinquedo Pass;0,01;6;7;SP;Barueri;20/02/2017
 15693;Sodexo - Cartão Gift Pass Novo;Pluxee Gift Pass - Novo;0,01;3;10;SP;Barueri;02/05/2025
-15683;Pluxee Multibenefícios - Educação;Pluxee Multibenefícios - Educação;0,01;3;10;SP;Barueri;02/05/2025
-15685;Pluxee Multibenefícios - Gift;Pluxee Multibenefícios - Gift;0,01;3;10;SP;Barueri;02/05/2025
-15684;Pluxee Multibenefícios - Home Office;Pluxee Multibenefícios - Home Office;0,01;3;10;SP;Barueri;02/05/2025
-15682;Pluxee Multibenefícios - Saúde & Bem-estar;Pluxee Multibenefícios - Saúde & Bem-estar;0,01;3;10;SP;Barueri;02/05/2025
-15688;Pluxee Multibenefícios Elo - Educação;Pluxee Multibenefícios Elo - Educação;0,01;3;10;SP;Barueri;02/05/2025
-15666;Pluxee Multibenefícios Elo - Gift;Pluxee Multibenefícios Elo - Gift;0,01;3;10;SP;Barueri;22/04/2025
-15689;Pluxee Multibenefícios Elo - Home Office;Pluxee Multibenefícios Elo - Home Office;0,01;3;10;SP;Barueri;02/05/2025
-15686;Pluxee Multibenefícios Elo - Saúde & Bem-estar;Pluxee Multibenefícios Elo - Saúde & Bem-estar;0,01;3;10;SP;Barueri;02/05/2025
-4658;Pluxee - Cartão Premium Pass;Pluxee Premiação e Incentivo;0,01;6;10;SP;Barueri;10/02/2017
+15683;Pluxee Multibenefícios - Educação;Pluxee Multibenefícios - Educação;0,01;3;7;SP;Barueri;02/05/2025
+15685;Pluxee Multibenefícios - Gift;Pluxee Multibenefícios - Gift;0,01;3;7;SP;Barueri;02/05/2025
+15684;Pluxee Multibenefícios - Home Office;Pluxee Multibenefícios - Home Office;0,01;3;7;SP;Barueri;02/05/2025
+15682;Pluxee Multibenefícios - Saúde & Bem-estar;Pluxee Multibenefícios - Saúde & Bem-estar;0,01;3;7;SP;Barueri;02/05/2025
+15688;Pluxee Multibenefícios Elo - Educação;Pluxee Multibenefícios Elo - Educação;0,01;3;7;SP;Barueri;02/05/2025
+15666;Pluxee Multibenefícios Elo - Gift;Pluxee Multibenefícios Elo - Gift;0,01;3;7;SP;Barueri;22/04/2025
+15689;Pluxee Multibenefícios Elo - Home Office;Pluxee Multibenefícios Elo - Home Office;0,01;3;7;SP;Barueri;02/05/2025
+15686;Pluxee Multibenefícios Elo - Saúde & Bem-estar;Pluxee Multibenefícios Elo - Saúde & Bem-estar;0,01;3;7;SP;Barueri;02/05/2025
+4658;Pluxee - Cartão Premium Pass;Pluxee Premiação e Incentivo;0,01;6;7;SP;Barueri;10/02/2017
 15694;Pluxee - Cartão Premium Pass Novo;Pluxee Premiação e Incentivo - Novo;0,01;3;10;SP;Barueri;02/05/2025
+4657;Pluxee - Cartão Cultura Pass;Pluxee Cultura Pass;0,01;6;7;SP;Barueri;10/02/2017
 15692;Pluxee - Cartão Cultura Pass Novo;Pluxee Cultura Pass - Novo;0,01;3;10;SP;Barueri;02/05/2025
-4657;Pluxee - Cartão Cultura Pass;Sodexo Cultura Pass;0,01;6;10;SP;Barueri;10/02/2017
