@@ -12072,6 +12072,14 @@
         "cidade": "Cachoeirinha"
     },
     {
+        "codigo": "19902",
+        "nome": "Valesul Porto Alegre - 24 Teubus – Transbus Sob Demanda (Transbus)",
+        "fornecedor": "Valesul - Porto Alegre",
+        "valor": "7,30",
+        "uf": "RS",
+        "cidade": "Cachoeirinha"
+    },
+    {
         "codigo": "10568",
         "nome": "Valesul Porto Alegre - 33 Capão Da Canoa – Capão Novo (Cs Turismo / Rota Litoral - 00037)",
         "fornecedor": "ValeSul Porto Alegre",
