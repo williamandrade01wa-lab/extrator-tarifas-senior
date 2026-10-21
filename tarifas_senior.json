@@ -2353,32 +2353,32 @@
     },
     {
         "codigo": "15581",
-        "nome": "CT Expresso - Cartão Luziânia X Brasília",
-        "fornecedor": "CT Expresso",
+        "nome": "Conecta Via Sul - Cartão Luziânia X Brasília",
+        "fornecedor": "Conecta Via Sul",
         "valor": "10,95",
         "uf": "GO",
         "cidade": "Luziânia"
     },
     {
         "codigo": "15582",
-        "nome": "CT Expresso - Cartão Luziânia X Taguatinga",
-        "fornecedor": "CT Expresso",
+        "nome": "Conecta Via Sul - Cartão Luziânia X Taguatinga",
+        "fornecedor": "Conecta Via Sul",
         "valor": "12,30",
         "uf": "GO",
         "cidade": "Luziânia"
     },
     {
         "codigo": "15583",
-        "nome": "CT Expresso - Cartão Luziânia X Gama",
-        "fornecedor": "CT Expresso",
+        "nome": "Conecta Via Sul - Cartão Luziânia X Gama",
+        "fornecedor": "Conecta Via Sul",
         "valor": "8,15",
         "uf": "GO",
         "cidade": "Luziânia"
     },
     {
         "codigo": "15584",
-        "nome": "CT Expresso - Cartão Luziânia X BRT (Santa Maria)",
-        "fornecedor": "CT Expresso",
+        "nome": "Conecta Via Sul - Cartão Luziânia X BRT (Santa Maria)",
+        "fornecedor": "Conecta Via Sul",
         "valor": "10,95",
         "uf": "GO",
         "cidade": "Luziânia"

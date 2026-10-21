@@ -293,10 +293,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15795;Viação São Roque - Cartão Colatina X Triunfo;Viação São Roque - QR-Code - ES;19,00;5;10;ES;Colatina;08/01/2026
 4016;Araguarina - Cartão Goiânia X Anápolis;Araguarina;14,70;5;10;GO;Goiânia;08/07/2025
 4906;Araguarina - Cartão Goiânia X Inhumas;Araguarina;12,45;5;10;GO;Goiânia;08/07/2025
-15581;CT Expresso - Cartão Luziânia X Brasília;CT Expresso;10,95;5;10;GO;Luziânia;11/03/2026
-15582;CT Expresso - Cartão Luziânia X Taguatinga;CT Expresso;12,30;5;10;GO;Luziânia;11/03/2026
-15583;CT Expresso - Cartão Luziânia X Gama;CT Expresso;8,15;5;10;GO;Luziânia;11/03/2026
-15584;CT Expresso - Cartão Luziânia X BRT (Santa Maria);CT Expresso;10,95;5;10;GO;Luziânia;08/05/2026
+15581;Conecta Via Sul - Cartão Luziânia X Brasília;Conecta Via Sul;10,95;5;10;GO;Luziânia;11/03/2026
+15582;Conecta Via Sul - Cartão Luziânia X Taguatinga;Conecta Via Sul;12,30;5;10;GO;Luziânia;11/03/2026
+15583;Conecta Via Sul - Cartão Luziânia X Gama;Conecta Via Sul;8,15;5;10;GO;Luziânia;11/03/2026
+15584;Conecta Via Sul - Cartão Luziânia X BRT (Santa Maria);Conecta Via Sul;10,95;5;10;GO;Luziânia;08/05/2026
 9807;Passe Livre SIT - Cartão Passe Livre SIT;Passe Livre SIT;180,00;5;10;GO;Goiania;23/09/2022
 1340;SITPASS - Cartão Municipal Goiânia;Sitpass;4,30;3;10;GO;Goiânia;19/04/2019
 5533;Transduarte Passaredo - Cartão Municipal Catalão;Transduarte;5,00;5;10;GO;Catalão;13/01/2023
