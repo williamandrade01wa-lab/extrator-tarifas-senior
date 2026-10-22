@@ -1566,10 +1566,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19713;Viação Ouro e Prata - Cartão Torres X Morro Alto (sem seguro);Viação Ouro e Prata - QR-Code;38,80;5;10;RS;Porto Alegre;22/05/2026
 19714;Viação Ouro e Prata - Cartão Torres X Porto Alegre (sem seguro);Viação Ouro e Prata - QR-Code;99,10;5;10;RS;Porto Alegre;22/05/2026
 19715;Viação Ouro e Prata - Cartão Tramandaí X Osório (sem seguro);Viação Ouro e Prata - QR-Code;8,35;5;10;RS;Porto Alegre;22/05/2026
-19716;Viação Ouro e Prata - Cartão Tramandaí X Porto Alegre (semidireto) (sem seguro);Viação Ouro e Prata - QR-Code;59,95;5;10;RS;Porto Alegre;22/05/2026
+19716;Viação Ouro e Prata - Cartão Tramandaí X Porto Alegre (semidireto) (sem seguro);Viação Ouro e Prata - QR-Code;64,85;5;10;RS;Porto Alegre;21/10/2026
 19717;Viação Ouro e Prata - Cartão Tramandaí X Torres (sem seguro);Viação Ouro e Prata - QR-Code;46,35;5;10;RS;Porto Alegre;22/05/2026
 19718;Viação Ouro e Prata - Cartão Xangri-lá X Arroio Teixeira (sem seguro);Viação Ouro e Prata - QR-Code;10,55;5;10;RS;Porto Alegre;22/05/2026
 19719;Viação Ouro e Prata - Cartão Xangri-lá X Curumim (com seguro);Viação Ouro e Prata - QR-Code;13,15;5;10;RS;Porto Alegre;22/05/2026
+19908;Viação Ouro e Prata - Cartão Porto Alegre X Tramandaí (semidireto) (sem seguro);Viação Ouro e Prata - QR-Code;64,80;5;10;RS;Porto Alegre;21/10/2026
 15868;Viação Santa Clara - Campo Bom - Cartão Municipal Campo Bom;Viação Santa Clara - Campo Bom;3,90;5;10;RS;Campo Bom;01/07/2025
 2275;Viação Santo Antônio - Cartão Bento Gonçalves - Vino;Viação Santo Antônio;7,90;5;10;RS;Bento Gonçalves;03/06/2025
 9218;Viação Tiaraju - Cartão Santo Ângelo Urbano;Viação Tiaraju;5,00;5;10;RS;Santo Ângelo;02/01/2024
@@ -2910,7 +2911,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8322;Valle Sul São Paulo - Cartão Registro X Ilha Comprida;Valle Sul São Paulo;44,70;5;10;SP;São Paulo;30/09/2026
 8348;Valle Sul São Paulo - Cartão Registro X Jacupiranga;Valle Sul São Paulo;9,15;5;10;SP;São Paulo;07/10/2025
 8373;Valle Sul São Paulo - Cartão Registro X Ponte Moreira;Valle Sul São Paulo;5,95;5;10;SP;São Paulo;07/10/2025
-10700;Valle Sul São Paulo - Cartão Pariquera-Açu X Eldorado;Valle Sul São Paulo;18,95;5;10;SP;São Paulo;22/08/2025
+10700;Valle Sul São Paulo - Cartão Pariquera-Açu X Eldorado;Valle Sul São Paulo;19,80;5;10;SP;São Paulo;21/10/2026
 10701;Valle Sul São Paulo - Cartão Pariquera-Açu X Jacupiranga;Valle Sul São Paulo;6,90;5;10;SP;São Paulo;22/08/2025
 10801;Valle Sul São Paulo - Cartão Registro X Eldorado;Valle Sul São Paulo;20,95;5;10;SP;São Paulo;07/10/2025
 15029;Valle Sul São Paulo - Cartão Juquiá X Registro (rodovirário);Valle Sul São Paulo;13,45;5;10;SP;São Paulo;26/09/2025
