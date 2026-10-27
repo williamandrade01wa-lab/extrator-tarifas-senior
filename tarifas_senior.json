@@ -99,7 +99,7 @@
         "codigo": "19600",
         "nome": "Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro",
         "fornecedor": "Atlântico Transportes - Juazeiro - Distrito - PIX",
-        "valor": "5,25",
+        "valor": "4,25",
         "uf": "BA",
         "cidade": "Juazeiro"
     },
@@ -18283,7 +18283,7 @@
         "codigo": "6167",
         "nome": "Expresso Fênix - Cartão Pedreira Urbano",
         "fornecedor": "Expresso Fênix - Pedreira",
-        "valor": "4,50",
+        "valor": "2,00",
         "uf": "SP",
         "cidade": "Pedreira"
     },
@@ -19251,7 +19251,7 @@
         "codigo": "15649",
         "nome": "Guerino Seiscentos - Cartão Promissão X Lins",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "8,35",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -23755,7 +23755,7 @@
         "codigo": "9017",
         "nome": "Viação Itaqueri - Cartão Cerquilho X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "28,75",
+        "valor": "29,35",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23779,7 +23779,7 @@
         "codigo": "9020",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "16,60",
+        "valor": "16,00",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23803,7 +23803,7 @@
         "codigo": "9023",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Sítio Novo",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "12,05",
+        "valor": "12,70",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23811,7 +23811,7 @@
         "codigo": "9024",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Tietê (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "23,50",
+        "valor": "24,15",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23835,7 +23835,7 @@
         "codigo": "9027",
         "nome": "Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "20,00",
+        "valor": "15,30",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23843,7 +23843,7 @@
         "codigo": "9028",
         "nome": "Viação Itaqueri - Cartão Sítio Novo X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "10,70",
+        "valor": "11,30",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23859,7 +23859,7 @@
         "codigo": "9030",
         "nome": "Viação Itaqueri - Cartão Tietê X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "22,55",
+        "valor": "23,20",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23899,7 +23899,7 @@
         "codigo": "15348",
         "nome": "Viação Itaqueri - Cartão Artemis X Águas de São Pedro (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "9,60",
+        "valor": "8,30",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23907,7 +23907,7 @@
         "codigo": "15349",
         "nome": "Viação Itaqueri - Cartão Águas de São Pedro X Artemis (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "10,30",
+        "valor": "9,00",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
@@ -23915,7 +23915,7 @@
         "codigo": "15475",
         "nome": "Viação Itaqueri - Cartão Piracicaba X Cerquilho (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "27,75",
+        "valor": "28,35",
         "uf": "SP",
         "cidade": "Piracicaba"
     },

@@ -11,7 +11,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 381;Setap Macapá Intermunicipal - Cartão Intermunicipal Macapá;Setap - Intermunicipal;4,00;5;10;AP;Macapá;16/08/2023
 2583;Alagoinhas - Cartão Urbano Alagoinhas;Alagoinhas;4,60;5;10;BA;Alagoinhas;12/02/2026
 8600;Atlântico Transportes (Itabuna) - Cartão Municipal Itabuna;Atlântico Transportes - Itabuna;4,30;5;10;BA;Itabuna;01/10/2025
-19600;Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro;Atlântico Transportes - Juazeiro - Distrito - PIX;5,25;5;10;BA;Juazeiro;23/04/2026
+19600;Atlântico Transportes - Juazeiro - Cartão Distrito Juazeiro;Atlântico Transportes - Juazeiro - Distrito - PIX;4,25;5;10;BA;Juazeiro;26/10/2026
 19601;Atlântico Transportes - Juazeiro - Cartão Interestadual Juazeiro;Atlântico Transportes - Juazeiro - Interestadual - PIX;5,00;5;10;BA;Juazeiro;23/04/2026
 19519;Atlântico Transportes - Juazeiro - Cartão Municipal Juazeiro;Atlântico Transportes - Juazeiro - PIX;4,25;5;10;BA;Juazeiro;23/04/2026
 7449;Atlântico Transportes (Paulo Afonso) - Cartão Municipal Paulo Afonso;Atlântico Transportes - Paulo Afonso;4,00;5;10;BA;Paulo Afonso;01/05/2021
@@ -2284,7 +2284,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19852;Expresso de Prata - Cartão Bauru X Pederneiras;Expresso de Prata - Eletrônico;12,10;5;10;SP;Bauru;26/08/2026
 19853;Expresso de Prata - Cartão Presidente Alves X Bauru;Expresso de Prata - Eletrônico;18,55;5;10;SP;Bauru;23/09/2026
 10384;Expresso Fênix - Águas de Lindóia - Cartão Municipal Águas de Lindóia;Expresso Fênix - Águas de Lindóia;4,20;5;10;SP;Águas de Lindoia;08/12/2025
-6167;Expresso Fênix - Cartão Pedreira Urbano;Expresso Fênix - Pedreira;4,50;5;10;SP;Pedreira;01/02/2023
+6167;Expresso Fênix - Cartão Pedreira Urbano;Expresso Fênix - Pedreira;2,00;5;10;SP;Pedreira;26/10/2026
 4118;Expresso Itamarati - Cartão São José do Rio Preto X Guapiacu;Expresso Itamarati;7,95;5;10;SP;São José do Rio Preto;03/07/2025
 4119;Expresso Itamarati - Cartão Bálsamo X São José do Rio Preto;Expresso Itamarati;8,95;5;10;SP;São José do Rio Preto;03/07/2025
 4120;Expresso Itamarati - Cartão Monte Aprazível X São José do Rio Preto;Expresso Itamarati;10,25;5;10;SP;São José do Rio Preto;03/07/2025
@@ -2405,7 +2405,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9162;Guerino Seiscentos - Cartão Getulina X Lins;Guerino Seiscentos;9,50;5;10;SP;Tupã;15/07/2026
 10284;Guerino Seiscentos - Cartão Getulina X Marília;Guerino Seiscentos;17,75;5;10;SP;Tupã;15/07/2026
 15599;Guerino Seiscentos - Cartão Salto Grande X Ourinhos;Guerino Seiscentos;7,95;5;10;SP;Tupã;04/08/2026
-15649;Guerino Seiscentos - Cartão Promissão X Lins;Guerino Seiscentos;8,35;5;10;SP;Tupã;27/08/2026
+15649;Guerino Seiscentos - Cartão Promissão X Lins;Guerino Seiscentos;7,95;5;10;SP;Tupã;26/10/2026
 15671;Guerino Seiscentos - Cartão Lins X Guaiçara;Guerino Seiscentos;6,20;5;10;SP;Tupã;15/07/2026
 15765;Guerino Seiscentos - Cartão Ribeirão do Sul X Ourinhos;Guerino Seiscentos;10,75;5;10;SP;Tupã;15/07/2026
 16133;Guerino Seiscentos - Cartão Assis X Cândido Mota;Guerino Seiscentos;7,25;5;10;SP;Tupã;15/07/2026
@@ -2968,27 +2968,27 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9014;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;14,95;5;10;SP;Piracicaba;28/07/2026
 9015;Viação Itaqueri - Cartão Águas de São Pedro X São Pedro (sem seguro);Viação Itaqueri - QR-Code;6,95;5;10;SP;Piracicaba;28/07/2026
 9016;Viação Itaqueri - Cartão Cerquilho X Piracicaba (com seguro);Viação Itaqueri - QR-Code;31,10;5;10;SP;Piracicaba;28/07/2026
-9017;Viação Itaqueri - Cartão Cerquilho X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;28,75;5;10;SP;Piracicaba;28/07/2026
+9017;Viação Itaqueri - Cartão Cerquilho X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;29,35;5;10;SP;Piracicaba;26/10/2026
 9018;Viação Itaqueri - Cartão Cerquilho X Tatuí (sem seguro);Viação Itaqueri - QR-Code;13,20;5;10;SP;Piracicaba;28/07/2026
 9019;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (com seguro);Viação Itaqueri - QR-Code;17,30;5;10;SP;Piracicaba;24/09/2026
-9020;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;16,60;5;10;SP;Piracicaba;24/09/2026
+9020;Viação Itaqueri - Cartão Piracicaba X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;16,00;5;10;SP;Piracicaba;26/10/2026
 9021;Viação Itaqueri - Cartão Piracicaba X São Pedro (com seguro);Viação Itaqueri - QR-Code;22,55;5;10;SP;Piracicaba;13/08/2026
 9022;Viação Itaqueri - Cartão Piracicaba X São Pedro (sem seguro);Viação Itaqueri - QR-Code;21,25;5;10;SP;Piracicaba;13/08/2026
-9023;Viação Itaqueri - Cartão Piracicaba X Sítio Novo;Viação Itaqueri - QR-Code;12,05;5;10;SP;Piracicaba;07/07/2025
-9024;Viação Itaqueri - Cartão Piracicaba X Tietê (sem seguro);Viação Itaqueri - QR-Code;23,50;5;10;SP;Piracicaba;28/07/2026
+9023;Viação Itaqueri - Cartão Piracicaba X Sítio Novo;Viação Itaqueri - QR-Code;12,70;5;10;SP;Piracicaba;26/10/2026
+9024;Viação Itaqueri - Cartão Piracicaba X Tietê (sem seguro);Viação Itaqueri - QR-Code;24,15;5;10;SP;Piracicaba;26/10/2026
 9025;Viação Itaqueri - Cartão São Pedro X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;6,90;5;10;SP;Piracicaba;28/07/2026
 9026;Viação Itaqueri - Cartão São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;21,30;5;10;SP;Piracicaba;13/08/2026
-9027;Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;20,00;5;10;SP;Piracicaba;13/08/2026
-9028;Viação Itaqueri - Cartão Sítio Novo X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;10,70;5;10;SP;Piracicaba;07/07/2025
+9027;Viação Itaqueri - Cartão São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;15,30;5;10;SP;Piracicaba;26/10/2026
+9028;Viação Itaqueri - Cartão Sítio Novo X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;11,30;5;10;SP;Piracicaba;26/10/2026
 9029;Viação Itaqueri - Cartão Tatuí X Cerquilho (sem seguro);Viação Itaqueri - QR-Code;13,40;5;10;SP;Piracicaba;28/07/2026
-9030;Viação Itaqueri - Cartão Tietê X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;22,55;5;10;SP;Piracicaba;28/07/2026
+9030;Viação Itaqueri - Cartão Tietê X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;23,20;5;10;SP;Piracicaba;26/10/2026
 10304;Viação Itaqueri - Cartão Tatuí X Estrada D Oeste (sem seguro);Viação Itaqueri - QR-Code;8,15;5;10;SP;Piracicaba;28/07/2026
 10305;Viação Itaqueri - Cartão Estrada D Oeste X Tatuí (sem seguro);Viação Itaqueri - QR-Code;6,25;5;10;SP;Piracicaba;28/07/2026
 10690;Viação Itaqueri - Cartão Cerquilho X Tatuí (com seguro);Viação Itaqueri - QR-Code;14,50;5;10;SP;Piracicaba;28/07/2026
 10691;Viação Itaqueri - Cartão Tatuí X Cerquilho (com seguro);Viação Itaqueri - QR-Code;14,70;5;10;SP;Piracicaba;28/07/2026
-15348;Viação Itaqueri - Cartão Artemis X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;9,60;5;10;SP;Piracicaba;24/09/2026
-15349;Viação Itaqueri - Cartão Águas de São Pedro X Artemis (sem seguro);Viação Itaqueri - QR-Code;10,30;5;10;SP;Piracicaba;24/09/2026
-15475;Viação Itaqueri - Cartão Piracicaba X Cerquilho (sem seguro);Viação Itaqueri - QR-Code;27,75;5;10;SP;Piracicaba;28/07/2026
+15348;Viação Itaqueri - Cartão Artemis X Águas de São Pedro (sem seguro);Viação Itaqueri - QR-Code;8,30;5;10;SP;Piracicaba;26/10/2026
+15349;Viação Itaqueri - Cartão Águas de São Pedro X Artemis (sem seguro);Viação Itaqueri - QR-Code;9,00;5;10;SP;Piracicaba;26/10/2026
+15475;Viação Itaqueri - Cartão Piracicaba X Cerquilho (sem seguro);Viação Itaqueri - QR-Code;28,35;5;10;SP;Piracicaba;26/10/2026
 7439;Viação Itupeva - Cartão Itupeva Urbano;Viação Itupeva;4,50;5;10;SP;Itupeva;28/11/2022
 16279;Viação Itupeva - Mococa - Eletrônico - Cartão Municipal Mococa;Viação Itupeva - Mococa - Eletrônico;3,00;5;10;SP;;26/11/2025
 2173;Viação Jacareí - Cartão São José dos Campos X Jacareí (Estrada Velha) (Linha 5116);Viação Jacareí;6,80;5;10;SP;Jacareí;07/01/2026
