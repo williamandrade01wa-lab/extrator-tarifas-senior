@@ -165,6 +165,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15733;Catedral - Cartão Gama X Jardim Ingá;Catedral - Eletrônico;6,10;5;10;DF;Brasília;26/02/2026
 15734;Catedral - Cartão Taguatinga X Jardim Ingá;Catedral - Eletrônico;10,65;5;10;DF;Brasília;26/02/2026
 15738;Catedral - Cartão Jardim Ingá X Lago Sul;Catedral - Eletrônico;9,30;5;10;DF;Brasília;26/02/2026
+15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;Planaltina;11,60;5;10;DF;Brasília;24/02/2026
+15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Planaltina;6,20;5;10;DF;Brasília;24/02/2026
+15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Planaltina;7,60;5;10;DF;Brasília;24/02/2026
+15095;Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina;Planaltina;8,20;5;10;DF;Brasília;24/02/2026
+19792;Viação Planaltina - Cartão Formosa X Brasília;Planaltina;25,00;5;10;DF;Brasília;15/09/2026
 10308;Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas;Taguatur - Águas Lindas de Goiás;11,45;5;10;DF;Brasília;26/02/2026
 10309;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Taguatinga;Taguatur - Águas Lindas de Goiás;7,65;5;10;DF;Brasília;30/06/2026
 10310;Taguatur Águas Lindas de Goiás - Cartão Águas Lindas X Ceilândia;Taguatur - Águas Lindas de Goiás;5,85;5;10;DF;Brasília;30/06/2026
@@ -197,11 +202,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 16221;UTB - Eletrônico - Cartão Águas Lindas X Brazlândia;UTB - Eletrônico;6,15;5;10;DF;Brasília;26/02/2026
 19591;UTB - Eletrônico - Cartão Águas Lindas X Circular (Semiurbano);UTB - Eletrônico;4,75;5;10;DF;Brasília;16/04/2026
 19824;UTB - Cartão Lago Azul X Brasília;UTB - Eletrônico;11,00;5;10;DF;Brasília;17/09/2026
-15092;Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília;Viação Planaltina;11,60;5;10;DF;Brasília;24/02/2026
-15093;Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina;Viação Planaltina;6,20;5;10;DF;Brasília;24/02/2026
-15094;Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho;Viação Planaltina;7,60;5;10;DF;Brasília;24/02/2026
-15095;Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina;Viação Planaltina;8,20;5;10;DF;Brasília;24/02/2026
-19792;Viação Planaltina - Cartão Formosa X Brasília;Viação Planaltina;25,00;5;10;DF;Brasília;15/09/2026
 10362;CCI - QR-Code - Cartão Setiba X Vila Velha;CCI - QR-Code - Passepay;15,75;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
 10363;CCI - QR-Code - Cartão Setiba X Guarapari;CCI - QR-Code - Passepay;4,70;5;10;ES;Cachoeiro de Itapemirim;16/09/2024
 10364;CCI - QR-Code - Cartão Ipiranga X Dom Bosco;CCI - QR-Code - Passepay;16,80;5;10;ES;Cachoeiro de Itapemirim;09/01/2025
@@ -612,6 +612,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 653;Divpass - Cartão Municipal Divinópolis;Divpass - Novo Sistema;5,50;5;10;MG;Divinópolis;30/04/2026
 8579;Empresa Unida - Cartão Chácara X Juiz de Fora;Empresa Unida;11,40;5;10;MG;Juiz de Fora;02/10/2025
 15645;Empresa Unida - Cartão Visconde de Rio Branco X Ubá;Empresa Unida;9,50;5;10;MG;Juiz de Fora;02/10/2025
+16039;Empresa Unida - QR-Code - Cartão Barbacena X Rio Pomba;Empresa Unida - QR-Code;48,84;5;10;MG;Juiz de Fora;27/10/2026
 19819;Empresa Unida - QR-Code - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida - QR-Code;10,70;5;10;MG;Juiz de Fora;21/09/2026
 19820;Empresa Unida - QR-Code - Cartão Cataguases X Dona Euzebia;Empresa Unida - QR-Code;8,70;5;10;MG;Juiz de Fora;11/08/2026
 19821;Empresa Unida - QR-Code - Cartão Leopoldina X Cataguases;Empresa Unida - QR-Code;14,75;5;10;MG;Juiz de Fora;11/08/2026
@@ -831,8 +832,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 392;Setransbel - Cartão Municipal Belém do Pará;Setransbel;4,60;3;10;PA;Belém;14/04/2025
 5251;Setransbel - Cartão Mosqueiro X São Brás;Setransbel;4,60;3;10;PA;Belém;11/03/2026
 15490;Sim - Cartão Municipal Castanhal;Sim;4,65;5;10;PA;Castanhal;10/06/2026
-10329;Startec - Cartão Municipal Santarém;Startec;4,80;5;10;PA;Santarém;09/01/2026
-10334;Startec - Cartão Intermunicipal Alter do chão;Startec;5,90;5;10;PA;Santarém;09/01/2026
+10329;Startec - Cartão Municipal Santarém;Startec - Novo Sistema;4,80;5;10;PA;Santarém;09/01/2026
+10334;Startec - Cartão Intermunicipal Alter do chão;Startec - Novo Sistema;5,90;5;10;PA;Santarém;09/01/2026
 15615;Transportes Caliman - Cartão Municipal Paragominas;Transportes Caliman - Novo Sistema;5,80;5;10;PA;Paragominas;06/02/2026
 8522;AETC (Sintur) Cabedelo - Cartão AETC (Sintur) - Cabedelo;AETC (Sintur) - Cabedelo;0,01;5;10;PB;João Pessoa;01/01/2000
 1271;AETC (Sintur) Cabedelo - Cartão Cabedelo X João Pessoa;AETC (Sintur) Cabedelo;5,65;5;10;PB;João Pessoa;13/02/2026

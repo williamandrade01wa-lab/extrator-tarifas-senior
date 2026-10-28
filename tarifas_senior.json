@@ -1328,6 +1328,46 @@
         "cidade": "Brasília"
     },
     {
+        "codigo": "15092",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília",
+        "fornecedor": "Planaltina",
+        "valor": "11,60",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15093",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina",
+        "fornecedor": "Planaltina",
+        "valor": "6,20",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15094",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho",
+        "fornecedor": "Planaltina",
+        "valor": "7,60",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "15095",
+        "nome": "Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina",
+        "fornecedor": "Planaltina",
+        "valor": "8,20",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
+        "codigo": "19792",
+        "nome": "Viação Planaltina - Cartão Formosa X Brasília",
+        "fornecedor": "Planaltina",
+        "valor": "25,00",
+        "uf": "DF",
+        "cidade": "Brasília"
+    },
+    {
         "codigo": "10308",
         "nome": "Taguatur Águas Lindas de Goiás - Cartão Brasília x Águas Lindas",
         "fornecedor": "Taguatur - Águas Lindas de Goiás",
@@ -1580,46 +1620,6 @@
         "nome": "UTB - Cartão Lago Azul X Brasília",
         "fornecedor": "UTB - Eletrônico",
         "valor": "11,00",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15092",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Brasília",
-        "fornecedor": "Viação Planaltina",
-        "valor": "11,60",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15093",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Planaltina",
-        "fornecedor": "Viação Planaltina",
-        "valor": "6,20",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15094",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Planaltina X Sobradinho",
-        "fornecedor": "Viação Planaltina",
-        "valor": "7,60",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "15095",
-        "nome": "Viação Planaltina (Eletrônico) - Cartão Formosa X Planaltina",
-        "fornecedor": "Viação Planaltina",
-        "valor": "8,20",
-        "uf": "DF",
-        "cidade": "Brasília"
-    },
-    {
-        "codigo": "19792",
-        "nome": "Viação Planaltina - Cartão Formosa X Brasília",
-        "fornecedor": "Viação Planaltina",
-        "valor": "25,00",
         "uf": "DF",
         "cidade": "Brasília"
     },
@@ -4904,6 +4904,14 @@
         "cidade": "Juiz de Fora"
     },
     {
+        "codigo": "16039",
+        "nome": "Empresa Unida - QR-Code - Cartão Barbacena X Rio Pomba",
+        "fornecedor": "Empresa Unida - QR-Code",
+        "valor": "48,84",
+        "uf": "MG",
+        "cidade": "Juiz de Fora"
+    },
+    {
         "codigo": "19819",
         "nome": "Empresa Unida - QR-Code - Cartão Astolfo Dutra X Cataguases (Semiurbano)",
         "fornecedor": "Empresa Unida - QR-Code",
@@ -6658,7 +6666,7 @@
     {
         "codigo": "10329",
         "nome": "Startec - Cartão Municipal Santarém",
-        "fornecedor": "Startec",
+        "fornecedor": "Startec - Novo Sistema",
         "valor": "4,80",
         "uf": "PA",
         "cidade": "Santarém"
@@ -6666,7 +6674,7 @@
     {
         "codigo": "10334",
         "nome": "Startec - Cartão Intermunicipal Alter do chão",
-        "fornecedor": "Startec",
+        "fornecedor": "Startec - Novo Sistema",
         "valor": "5,90",
         "uf": "PA",
         "cidade": "Santarém"
