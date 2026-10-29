@@ -6208,14 +6208,6 @@
         "cidade": "Itauna"
     },
     {
-        "codigo": "10280",
-        "nome": "Viação Itaúna (QR-Code) - Cartão Itaúna X Mateus Leme",
-        "fornecedor": "Viação Itaúna - QR-Code",
-        "valor": "13,55",
-        "uf": "MG",
-        "cidade": "Itauna"
-    },
-    {
         "codigo": "10281",
         "nome": "Viação Itaúna (QR-Code) - Cartão Itaúna X Pinheiros",
         "fornecedor": "Viação Itaúna - QR-Code",
@@ -22956,14 +22948,6 @@
         "nome": "Utile Urbano - Cartão Municipal Cruzeiro",
         "fornecedor": "Utile - Cruzeiro",
         "valor": "4,50",
-        "uf": "SP",
-        "cidade": "Cruzeiro"
-    },
-    {
-        "codigo": "8377",
-        "nome": "Utile Urbano - Cartão Municipal Lorena",
-        "fornecedor": "Utile Urbano",
-        "valor": "5,50",
         "uf": "SP",
         "cidade": "Cruzeiro"
     },

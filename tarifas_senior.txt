@@ -775,7 +775,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10277;Viação Itaúna (QR-Code) - Cartão Azurita X Mateus Leme;Viação Itaúna - QR-Code;5,75;5;10;MG;Itauna;18/09/2026
 10278;Viação Itaúna (QR-Code) - Cartão Itaúna X Azurita;Viação Itaúna - QR-Code;10,15;5;10;MG;Itauna;18/09/2026
 10279;Viação Itaúna (QR-Code) - Cartão Itaúna X Juatuba;Viação Itaúna - QR-Code;20,30;5;10;MG;Itauna;18/09/2026
-10280;Viação Itaúna (QR-Code) - Cartão Itaúna X Mateus Leme;Viação Itaúna - QR-Code;13,55;5;10;MG;Itauna;18/09/2026
 10281;Viação Itaúna (QR-Code) - Cartão Itaúna X Pinheiros;Viação Itaúna - QR-Code;15,90;5;10;MG;Itauna;18/09/2026
 10282;Viação Itaúna (QR-Code) - Cartão Juatuba X Belo Horizonte;Viação Itaúna - QR-Code;29,20;5;10;MG;Itauna;18/09/2026
 10283;Viação Itaúna (QR-Code) - Cartão Juatuba X Betim;Viação Itaúna - QR-Code;11,50;5;10;MG;Itauna;18/09/2026
@@ -2869,7 +2868,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15818;Ultra - QR-Code - Cartão São Vicente X São Paulo (sem seguro);Ultra - QR-Code;43,65;5;10;SP;São Paulo;10/09/2025
 200;Urbes Sorocaba - Cartão Sorocaba Municipal;Urbes Sorocaba;7,10;5;10;SP;Sorocaba;29/01/2026
 19735;Utile Urbano - Cartão Municipal Cruzeiro;Utile - Cruzeiro;4,50;5;10;SP;Cruzeiro;08/06/2026
-8377;Utile Urbano - Cartão Municipal Lorena;Utile Urbano;5,50;5;10;SP;Cruzeiro;09/04/2025
 8378;Utile Urbano - Cartão Municipal Piquete;Utile Urbano;4,50;5;10;SP;Cruzeiro;31/12/2025
 10118;Vale CO;Vale CO;5,30;5;5;SP;São Paulo;05/01/2026
 10119;Vale CT;Vale CO;5,40;5;5;SP;São Paulo;05/01/2026
