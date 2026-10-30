@@ -1,4 +1,5 @@
 Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data Tarifa
+2336;RBTrans - Cartão Municipal Rio Branco;RBTrans;3,50;5;10;MA;MARANHÃO;26/10/2021
 15196;Bem Mobilidade - Cartão Rio Largo X Via Mata do Rolo;Bem Mobilidade (Transpal);6,90;5;10;AL;Maceió;07/01/2025
 15197;Bem Mobilidade - Cartão Aeroporto X Ponta Verde;Bem Mobilidade (Transpal);6,90;5;10;AL;Maceió;07/01/2025
 15198;Bem Mobilidade - Cartão Cruzeiro do Sul;Bem Mobilidade (Transpal);5,90;5;10;AL;Maceió;07/01/2025
@@ -1968,8 +1969,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 265;Circular Santa Luzia - Cartão Circular Santa Luzia (Rio Petrans);Circular Santa Luzia;6,50;5;10;SP;São José do Rio Preto;02/01/2024
 15863;City - Barretos - Cartão Municipal Barretos;City - Barretos;4,10;5;10;SP;Barretos;30/06/2025
 8527;City Transporte - Cartão Bertioga Municipal;City - Bertioga;5,50;5;10;SP;Bertioga;12/08/2026
+6751;City Transporte - Cartão Guarujá Municipal;City - Guarujá;5,30;5;10;SP;Guarujá;18/02/2026
 15494;City - Votorantim - Cartão Municipal Votorantim;City - Votorantim;5,00;5;10;SP;Votorantim;07/07/2025
-6751;City Transporte - Cartão Guarujá Municipal;City Transporte;5,30;5;10;SP;Guarujá;18/02/2026
 8313;Condor Tur - Cartão Monte Alto Municipal;Condor Tur;3,00;5;10;SP;São Paulo;14/07/2020
 289;Consórcio 123 - Cartão São José dos Campos Municipal;Consórcio 123;6,30;5;10;SP;São José dos Campos;30/01/2026
 15365;Consórcio 123 - Variável;Consórcio 123;0,01;5;10;SP;São José dos Campos;20/09/2024
@@ -2131,10 +2132,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9210;Consórcio Bus Mais - Cartão Americana X Campinas Seccionado (Linha 633);Consórcio Bus Mais;15,30;5;10;SP;Campinas;06/01/2026
 10149;Consórcio Bus Mais - Cartão Santa Barbára do Oeste X Americana Seccionado (Linha 633);Consórcio Bus Mais;6,95;5;10;SP;Campinas;06/01/2026
 10653;Consórcio Bus Mais - Cartão Santa Bárbara D Oeste X Campinas (Linha 633);Consórcio Bus Mais;22,70;5;10;SP;Campinas;06/01/2026
-15449;Cristalense - Cartão Restinga X Franca;Cristalense - Eletrônico;6,95;5;10;SP;Franca;21/10/2025
-15450;Cristalense - Cartão Itirapuã X Franca;Cristalense - Eletrônico;7,95;5;10;SP;Franca;25/09/2025
+15449;Cristalense - Cartão Restinga X Franca;Cristalense - Eletrônico;7,25;5;10;SP;Franca;29/10/2026
+15450;Cristalense - Cartão Itirapuã X Franca;Cristalense - Eletrônico;8,35;5;10;SP;Franca;29/10/2026
 15451;Cristalense - Cartão Franca X Patrocínio Paulista;Cristalense - Eletrônico;7,60;5;10;SP;Franca;27/11/2024
-16212;Cristalense - Cartão Franca X São José da Bela Vista;Cristalense - Eletrônico;8,95;5;10;SP;Franca;23/10/2025
+16212;Cristalense - Cartão Franca X São José da Bela Vista;Cristalense - Eletrônico;9,35;5;10;SP;Franca;29/10/2026
 7446;Danúbio Azul Cartão - Cartão Municipal Ibiúna;Danúbio Azul - Eletrônico;5,90;5;10;SP;são paulo;29/10/2025
 15223;Danúbio Azul - QR-Code - Cartão Barra Funda X Ibiúna (com seguro);Danúbio Azul - QR-Code - Grupo Vida;48,60;5;10;SP;Santa Rita do Passa Quatro;22/08/2024
 15224;Danúbio Azul - QR-Code - Cartão Barra Funda X Ibiúna (sem seguro);Danúbio Azul - QR-Code - Grupo Vida;46,20;5;10;SP;Santa Rita do Passa Quatro;06/11/2025
@@ -2964,7 +2965,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2153;Viação Calvip - Cartão Cerquilho X Tietê;Viação Calvip;5,80;5;10;SP;Laranjal paulista;05/01/2026
 19532;Viação Cidade das Artes - Cartão Municipal Embu das Artes;Viação Cidade das Artes - PIX;5,80;5;15;SP;Embu das Artes;26/02/2026
 9013;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (com seguro);Viação Itaqueri - QR-Code;16,25;5;10;SP;Piracicaba;28/07/2026
-9014;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;14,95;5;10;SP;Piracicaba;28/07/2026
+9014;Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;15,30;5;10;SP;Piracicaba;29/10/2026
 9015;Viação Itaqueri - Cartão Águas de São Pedro X São Pedro (sem seguro);Viação Itaqueri - QR-Code;6,95;5;10;SP;Piracicaba;28/07/2026
 9016;Viação Itaqueri - Cartão Cerquilho X Piracicaba (com seguro);Viação Itaqueri - QR-Code;31,10;5;10;SP;Piracicaba;28/07/2026
 9017;Viação Itaqueri - Cartão Cerquilho X Piracicaba (sem seguro);Viação Itaqueri - QR-Code;29,35;5;10;SP;Piracicaba;26/10/2026

@@ -1,5 +1,13 @@
 [
     {
+        "codigo": "2336",
+        "nome": "RBTrans - Cartão Municipal Rio Branco",
+        "fornecedor": "RBTrans",
+        "valor": "3,50",
+        "uf": "MA",
+        "cidade": "MARANHÃO"
+    },
+    {
         "codigo": "15196",
         "nome": "Bem Mobilidade - Cartão Rio Largo X Via Mata do Rolo",
         "fornecedor": "Bem Mobilidade (Transpal)",
@@ -15752,20 +15760,20 @@
         "cidade": "Bertioga"
     },
     {
+        "codigo": "6751",
+        "nome": "City Transporte - Cartão Guarujá Municipal",
+        "fornecedor": "City - Guarujá",
+        "valor": "5,30",
+        "uf": "SP",
+        "cidade": "Guarujá"
+    },
+    {
         "codigo": "15494",
         "nome": "City - Votorantim - Cartão Municipal Votorantim",
         "fornecedor": "City - Votorantim",
         "valor": "5,00",
         "uf": "SP",
         "cidade": "Votorantim"
-    },
-    {
-        "codigo": "6751",
-        "nome": "City Transporte - Cartão Guarujá Municipal",
-        "fornecedor": "City Transporte",
-        "valor": "5,30",
-        "uf": "SP",
-        "cidade": "Guarujá"
     },
     {
         "codigo": "8313",
@@ -17059,7 +17067,7 @@
         "codigo": "15449",
         "nome": "Cristalense - Cartão Restinga X Franca",
         "fornecedor": "Cristalense - Eletrônico",
-        "valor": "6,95",
+        "valor": "7,25",
         "uf": "SP",
         "cidade": "Franca"
     },
@@ -17067,7 +17075,7 @@
         "codigo": "15450",
         "nome": "Cristalense - Cartão Itirapuã X Franca",
         "fornecedor": "Cristalense - Eletrônico",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Franca"
     },
@@ -17083,7 +17091,7 @@
         "codigo": "16212",
         "nome": "Cristalense - Cartão Franca X São José da Bela Vista",
         "fornecedor": "Cristalense - Eletrônico",
-        "valor": "8,95",
+        "valor": "9,35",
         "uf": "SP",
         "cidade": "Franca"
     },
@@ -23723,7 +23731,7 @@
         "codigo": "9014",
         "nome": "Viação Itaqueri - Cartão Águas de São Pedro X Piracicaba (sem seguro)",
         "fornecedor": "Viação Itaqueri - QR-Code",
-        "valor": "14,95",
+        "valor": "15,30",
         "uf": "SP",
         "cidade": "Piracicaba"
     },
