@@ -1062,7 +1062,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3815;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
 6097;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
 15069;Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu;Viza Transportes - Eletrônico;7,10;5;10;PR;Foz do Iguaçu;20/07/2026
-16060;Bamonte - Cartão Municipal Barra do Piraí;Bamonte - Novo Sistema;3,60;5;10;RJ;Barra do Piraí;23/09/2026
 15191;Fênix RJ;Fênix RJ;0,01;5;10;RJ;Rio de Janeiro;14/08/2024
 19602;Jaé - Cartão Municipal Rio de Janeiro;Jaé;5,00;3;10;RJ;Rio de Janeiro;23/04/2026
 19603;Jaé - Cartão Ônibus Executivo;Jaé;0,01;3;10;RJ;Rio de Janeiro;23/04/2026
