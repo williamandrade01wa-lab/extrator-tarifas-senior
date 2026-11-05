@@ -1028,7 +1028,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 2266;TUA Transporte Urbano Arapongas - Cartão TUA Arapongas Municipal;TUA Transporte Urbano Arapongas;5,00;5;10;PR;Arapongas;02/01/2026
 315;Urbs Curitiba - Cartão Urbs / Curitiba;URBS Curitiba;6,00;5;10;PR;Curitiba;02/03/2023
 1087;Valesim - Cartão Cascavel - Centro / Curitiba;Valesim;4,65;5;10;PR;Cascavel;08/09/2023
-19816;VCG - Cartão Municipal Ponta Grossa;VCG - Novo Sistema;6,00;5;10;PR;Ponta Grossa;11/08/2026
+19816;VCG - Cartão Municipal Ponta Grossa;VCG - (Cartão Usuário);6,00;5;10;PR;Ponta Grossa;11/08/2026
 2267;Viação Apucarana - Cartão Apucarana Municipal;Viação Apucarana - (Novo Sistema);5,20;5;10;PR;Apucarana;15/12/2025
 15865;Viação Campos Gerais - Cartão Municipal Ponta Grossa;Viação Campos Gerais - Novo Sistema;6,00;5;10;PR;Ponta Grossa;13/04/2026
 15999;Viação do Sul - Itaperuçu - Cartão Itaperuçu X Praça 19;Viação do Sul - Itaperuçu;5,90;5;10;SP;Itaperuçu;17/06/2026
@@ -2321,7 +2321,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5631;Expresso Itamarati - Cartão Votuporanga Municipal;Expresso Itamarati - (Votuporanga);4,00;5;10;SP;Votuporanga;28/05/2026
 9331;Expresso Redenção - Cartão Taubaté X Natividade da Serra;Expresso Redenção - (Novo Sistema);15,00;5;10;SP;Taubaté;05/01/2026
 9332;Expresso Redenção - Cartão Taubaté X Redenção;Expresso Redenção - (Novo Sistema);9,20;5;10;SP;Taubaté;05/01/2026
-5453;Fênix Ilhabela - Cartão Ilhabela Municipal;Fênix Ilhabela;4,80;5;10;SP;Ilhabela;04/02/2026
+5453;Fênix Ilhabela - Cartão Ilhabela Municipal;Fênix Ilhabela;2,50;5;10;SP;Ilhabela;04/11/2026
 6861;Grecco Transportadora - Cartão Municipal Lençóis Paulista;Grecco;2,00;5;10;SP;Lençóis Paulista;22/06/2022
 10026;Grupo Tuga (São José do Rio Pardo) - Cartão Municipal São José do Rio Pardo;Grupo Tuga (São José do Rio Pardo);3,00;5;10;SP;São José do Rio Pardo;14/08/2025
 182;Guarupas - Cartão Guarulhos - Municipal / Guarulhos;Guarupass;6,20;5;10;SP;Guarulhos;30/12/2022

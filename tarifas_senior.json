@@ -8234,7 +8234,7 @@
     {
         "codigo": "19816",
         "nome": "VCG - Cartão Municipal Ponta Grossa",
-        "fornecedor": "VCG - Novo Sistema",
+        "fornecedor": "VCG - (Cartão Usuário)",
         "valor": "6,00",
         "uf": "PR",
         "cidade": "Ponta Grossa"
@@ -18579,7 +18579,7 @@
         "codigo": "5453",
         "nome": "Fênix Ilhabela - Cartão Ilhabela Municipal",
         "fornecedor": "Fênix Ilhabela",
-        "valor": "4,80",
+        "valor": "2,50",
         "uf": "SP",
         "cidade": "Ilhabela"
     },
