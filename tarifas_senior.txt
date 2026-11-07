@@ -332,7 +332,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19762;AVSL - Cartão Lagoa Grande X Congonhas (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;27,60;5;10;MG;Congonhas;22/10/2026
 19763;AVSL - Cartão Congonhas X Lagoa Grande (nominal) (venc. 90 dias);Auto Viação São Luiz - QR-Code;28,20;5;10;MG;Congonhas;22/10/2026
 1035;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;5,50;5;10;MG;Ipatinga;01/07/2026
-2614;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Timóteo;Autotrans (Buse) - Ipatinga/Timóteo;5,00;5;10;MG;Ipatinga;08/04/2025
+2614;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Timóteo;Autotrans (Buse) - Ipatinga/Timóteo;5,50;5;10;MG;Ipatinga;06/11/2026
 3808;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Belo Oriente;Autotrans (Buse) - Ipatinga/Timóteo;20,30;5;10;MG;Ipatinga;13/03/2026
 3809;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Ipatinga X Cachoeira Escura;Autotrans (Buse) - Ipatinga/Timóteo;14,75;5;10;MG;Ipatinga;13/03/2026
 9661;Autotrans - Ipatinga/Timóteo (Buse) - Cartão Mesquita X Ipatinga;Autotrans (Buse) - Ipatinga/Timóteo;17,60;5;10;MG;Ipatinga;05/01/2026
@@ -760,14 +760,11 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10812;Via Ouro Coletivos - Cartão Via Ouro Coletivos;Via Ouro Coletivos;0,01;5;10;MG;Nova Lima;24/01/2024
 19545;Via Ouro Coletivos - Cartão Jardim Canadá X Santa Rita;Via Ouro Coletivos;2,00;5;10;MG;Nova Lima;16/03/2026
 15916;Viação Avanti - Cartão Municipal Três Pontas;Viação Avanti;3,50;5;10;MG;Três Pontas;24/07/2025
-10469;Viação Braulino Intermunicipal - Cartão Carmo do Cajuru X Divinópolis;Viação Braulino - Intermunicipal;6,25;5;10;MG;Divinópolis;03/10/2025
+10469;Viação Braulino Intermunicipal - Cartão Carmo do Cajuru X Divinópolis;Viação Braulino - Intermunicipal;6,65;5;10;MG;Divinópolis;06/11/2026
 10470;Viação Braulino Intermunicipal - Cartão Nova Serrana X Perdigão;Viação Braulino - Intermunicipal;6,75;5;10;MG;Divinópolis;03/10/2025
 9725;Viação Cambuí - Cartão Córrego do Bom Jesus X Cambuí;Viação Cambuí Turismo - Novo Sistema;5,40;5;10;MG;Cambuí;17/10/2025
 10803;Viação Cambuí - Cartão Extrema X Bragança;Viação Cambuí Turismo - Novo Sistema;8,00;5;10;MG;Cambuí;09/03/2026
 10804;Viação Cambuí - Cartão Bragança X Extrema;Viação Cambuí Turismo - Novo Sistema;7,50;5;10;MG;Cambuí;09/03/2026
-15354;Viação Cambuí - Cartão Pouso Alegre X Cambuí;Viação Cambuí Turismo - Novo Sistema;29,00;5;10;MG;Cambuí;17/10/2025
-15355;Viação Cambuí - Cartão Cambuí X Pouso Alegre;Viação Cambuí Turismo - Novo Sistema;29,00;5;10;MG;Cambuí;17/10/2025
-19515;Viação Cambuí - Cartão Cambuí X Extrema;Viação Cambuí Turismo - Novo Sistema;27,20;5;10;MG;Cambuí;13/02/2026
 10199;Viação Itaúna (QR-Code) - Cartão Itaúna X Belo Horizonte;Viação Itaúna - QR-Code;49,50;5;10;MG;Itauna;18/09/2026
 10200;Viação Itaúna (QR-Code) - Cartão Francelino X Mateus Leme;Viação Itaúna - QR-Code;11,20;5;10;MG;Itauna;18/09/2026
 10201;Viação Itaúna (QR-Code) - Cartão Itaúna X Barragem;Viação Itaúna - QR-Code;5,75;5;10;MG;Itauna;18/09/2026
@@ -864,7 +861,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10919;Viação São José - QR-Code - Cartão Sapé X Guarabira;Viação São José - QR-Code;11,80;5;10;PB;Campina Grande;24/02/2026
 10920;Viação São José - QR-Code - Cartão Nova Floresta X Cuité;Viação São José - QR-Code;4,70;5;10;PB;Campina Grande;24/02/2026
 10921;Viação São José - QR-Code - Cartão Cuité X Nova Floresta;Viação São José - QR-Code;4,70;5;10;PB;Campina Grande;24/02/2026
-15915;Viação Sonho Dourado - Cartão Municipal Santa Rita;Viação Sonho Dourado;5,00;5;10;PB;Santa Rita;24/07/2025
+15915;Viação Sonho Dourado - Cartão Municipal Santa Rita;Viação Sonho Dourado;6,00;5;10;PB;Santa Rita;06/11/2026
 3954;AETPC - Cartão Municipal Caruaru;AETPC;5,00;5;10;PE;Caruaru;12/06/2026
 19562;AETPC - Cartão Caruaru;AETPC;0,01;5;10;PE;Caruaru;25/03/2026
 8131;Atlântico Transportes (Petrolina) - Cartão Urbano Petrolina;Atlântico Transportes - Petrolina;5,00;5;10;PE;Petrolina;06/02/2023
@@ -1598,7 +1595,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19628;Alvorada - Cartão Pescaria Brava X Tubarão;Alvorada - Eletrônico;10,09;5;10;SC;Laguna;06/05/2026
 19629;Alvorada - Cartão Capivari de Baixo X Pescaria Brava;Alvorada - Eletrônico;6,83;5;10;SC;Laguna;06/05/2026
 5935;Atalaia Transportes - Itajaí - Cartão Sim Municipal;Atalaia Transportes - Itajaí;4,30;5;10;SC;Itajaí;27/02/2024
-2273;Viação Chapecó - Cartão Municipal Chapecó;Auto Viação Chapecó;5,00;5;10;SC;Chapecó;08/09/2025
+2273;Viação Chapecó - Cartão Municipal Chapecó;Auto Viação Chapecó;5,50;5;10;SC;Chapecó;06/11/2026
 19436;Auto Viação Pinhalzinhho - Cartão Municipal Pinhalzinho;Auto Viação Pinhalzinho;4,54;5;10;SC;Pinhalzinho;18/12/2025
 8174;Auto Viação Rainha - Cartão Indaial X Blumenau;Auto Viação Rainha;9,45;5;10;SC;Indaial;09/09/2026
 19884;Bompani - Cartão Belchior X Blumenau;Bompani;9,75;5;10;SC;Luiz Alves;10/09/2026
@@ -2670,7 +2667,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 6998;Pevê Tur - Cartão Ubarana X Mendonça;Pevê Tur;12,10;5;10;SP;São José do Rio Preto;16/07/2026
 8901;Pevê Tur - Cartão São José do Rio Petro X Bady Bassit;Pevê Tur;8,35;5;10;SP;São José do Rio Preto;15/07/2026
 15389;Pira Mobilidade - Cartão Municipal Piracicaba;Pira Mobilidade;6,58;5;10;SP;Piracicaba;20/06/2025
-2324;Princesa dos Campos - Cartão Cajati X Registro;Porto de Registro (Princesa dos Campos);13,35;5;10;SP;Registro;07/07/2025
+2324;Princesa dos Campos - Cartão Cajati X Registro;Porto de Registro (Princesa dos Campos);13,90;5;10;SP;Registro;06/11/2026
 4010;Princesa dos Campos - Cartão Registro X Pariquera;Porto de Registro (Princesa dos Campos);8,50;5;10;SP;Registro;11/09/2026
 4158;Princesa dos Campos - Cartão Jacupiranga X Cajati;Porto de Registro (Princesa dos Campos);6,70;5;10;SP;Registro;29/07/2024
 5062;Princesa dos Campos - Cartão Jacupiranga X Registro;Porto de Registro (Princesa dos Campos);9,35;5;10;SP;Registro;11/09/2026
@@ -2803,7 +2800,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 8615;Sou - Mogi - Cartão Mogi Guaçu X Estiva Gerbi;Sou - Mogi;7,93;5;10;SP;Mogi Guaçu;22/07/2026
 9083;Sou - Mogi Guaçu - Cartão Municipal Mogi Guaçu;Sou - Mogi;5,30;5;10;SP;Mogi Guaçu;19/10/2021
 5505;Sou - Peruíbe - Cartão Municipal Peruíbe;Sou - Peruíbe;4,75;5;10;SP;Peruibe;10/06/2026
-10419;Sou Presidente Prudente - Cartão Presidente Prudente Municipal;Sou - Presidente Prudente;5,00;5;10;SP;Presidente Prudente;09/10/2023
+10419;Sou Presidente Prudente - Cartão Presidente Prudente Municipal;Sou - Presidente Prudente;6,00;5;10;SP;Presidente Prudente;06/11/2026
 10768;Sou Rio Claro - Cartão Municipal Rio Claro;Sou - Rio Claro;4,90;5;10;SP;Rio Claro;20/12/2023
 10651;Sou São Vicente - Cartão Municipal São Vicente;Sou - São Vicente;4,95;5;10;SP;São Vicente;13/01/2025
 8881;Sou Sebastião - Cartão Topolândia X Canto Mar (01);Sou - Sebastião;2,95;5;10;SP;São Sebastião;17/06/2025
@@ -2867,7 +2864,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15817;Ultra - QR-Code - Cartão São Vicente X São Paulo (com seguro);Ultra - QR-Code;45,95;5;10;SP;São Paulo;10/09/2025
 15818;Ultra - QR-Code - Cartão São Vicente X São Paulo (sem seguro);Ultra - QR-Code;43,65;5;10;SP;São Paulo;10/09/2025
 200;Urbes Sorocaba - Cartão Sorocaba Municipal;Urbes Sorocaba;7,10;5;10;SP;Sorocaba;29/01/2026
-19735;Utile Urbano - Cartão Municipal Cruzeiro;Utile - Cruzeiro;4,50;5;10;SP;Cruzeiro;08/06/2026
+19735;Utile - Cartão Municipal Cruzeiro;Utile - Novo Sistema;4,50;5;10;SP;Cruzeiro;08/06/2026
+19918;Utile - Cartão Municipal Lorena;Utile - Novo Sistema;5,50;5;10;SP;Cruzeiro;06/11/2026
 8378;Utile Urbano - Cartão Municipal Piquete;Utile Urbano;4,50;5;10;SP;Cruzeiro;31/12/2025
 10118;Vale CO;Vale CO;5,30;5;5;SP;São Paulo;05/01/2026
 10119;Vale CT;Vale CO;5,40;5;5;SP;São Paulo;05/01/2026

@@ -2667,7 +2667,7 @@
         "codigo": "2614",
         "nome": "Autotrans - Ipatinga/Timóteo (Buse) - Cartão Municipal Timóteo",
         "fornecedor": "Autotrans (Buse) - Ipatinga/Timóteo",
-        "valor": "5,00",
+        "valor": "5,50",
         "uf": "MG",
         "cidade": "Ipatinga"
     },
@@ -6091,7 +6091,7 @@
         "codigo": "10469",
         "nome": "Viação Braulino Intermunicipal - Cartão Carmo do Cajuru X Divinópolis",
         "fornecedor": "Viação Braulino - Intermunicipal",
-        "valor": "6,25",
+        "valor": "6,65",
         "uf": "MG",
         "cidade": "Divinópolis"
     },
@@ -6124,30 +6124,6 @@
         "nome": "Viação Cambuí - Cartão Bragança X Extrema",
         "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
         "valor": "7,50",
-        "uf": "MG",
-        "cidade": "Cambuí"
-    },
-    {
-        "codigo": "15354",
-        "nome": "Viação Cambuí - Cartão Pouso Alegre X Cambuí",
-        "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
-        "valor": "29,00",
-        "uf": "MG",
-        "cidade": "Cambuí"
-    },
-    {
-        "codigo": "15355",
-        "nome": "Viação Cambuí - Cartão Cambuí X Pouso Alegre",
-        "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
-        "valor": "29,00",
-        "uf": "MG",
-        "cidade": "Cambuí"
-    },
-    {
-        "codigo": "19515",
-        "nome": "Viação Cambuí - Cartão Cambuí X Extrema",
-        "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
-        "valor": "27,20",
         "uf": "MG",
         "cidade": "Cambuí"
     },
@@ -6923,7 +6899,7 @@
         "codigo": "15915",
         "nome": "Viação Sonho Dourado - Cartão Municipal Santa Rita",
         "fornecedor": "Viação Sonho Dourado",
-        "valor": "5,00",
+        "valor": "6,00",
         "uf": "PB",
         "cidade": "Santa Rita"
     },
@@ -12795,7 +12771,7 @@
         "codigo": "2273",
         "nome": "Viação Chapecó - Cartão Municipal Chapecó",
         "fornecedor": "Auto Viação Chapecó",
-        "valor": "5,00",
+        "valor": "5,50",
         "uf": "SC",
         "cidade": "Chapecó"
     },
@@ -21371,7 +21347,7 @@
         "codigo": "2324",
         "nome": "Princesa dos Campos - Cartão Cajati X Registro",
         "fornecedor": "Porto de Registro (Princesa dos Campos)",
-        "valor": "13,35",
+        "valor": "13,90",
         "uf": "SP",
         "cidade": "Registro"
     },
@@ -22435,7 +22411,7 @@
         "codigo": "10419",
         "nome": "Sou Presidente Prudente - Cartão Presidente Prudente Municipal",
         "fornecedor": "Sou - Presidente Prudente",
-        "valor": "5,00",
+        "valor": "6,00",
         "uf": "SP",
         "cidade": "Presidente Prudente"
     },
@@ -22945,9 +22921,17 @@
     },
     {
         "codigo": "19735",
-        "nome": "Utile Urbano - Cartão Municipal Cruzeiro",
-        "fornecedor": "Utile - Cruzeiro",
+        "nome": "Utile - Cartão Municipal Cruzeiro",
+        "fornecedor": "Utile - Novo Sistema",
         "valor": "4,50",
+        "uf": "SP",
+        "cidade": "Cruzeiro"
+    },
+    {
+        "codigo": "19918",
+        "nome": "Utile - Cartão Municipal Lorena",
+        "fornecedor": "Utile - Novo Sistema",
+        "valor": "5,50",
         "uf": "SP",
         "cidade": "Cruzeiro"
     },
