@@ -5747,7 +5747,7 @@
         "codigo": "674",
         "nome": "Turi - Pará de Minas - Cartão Municipal Pará de Minas",
         "fornecedor": "Turi - Pará de Minas",
-        "valor": "4,80",
+        "valor": "5,50",
         "uf": "MG",
         "cidade": "Pará de Minas"
     },
@@ -11227,7 +11227,7 @@
         "codigo": "10520",
         "nome": "Valesul Porto Alegre - 40/41 Barca - Travessia Poa – Guaíba (Catsul - 00038)",
         "fornecedor": "Valesul - Porto Alegre",
-        "valor": "16,90",
+        "valor": "19,15",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -12228,14 +12228,6 @@
         "nome": "Viação Montenegro VIMSA - Vendinha Polo",
         "fornecedor": "Viação Montenegro VIMSA",
         "valor": "7,80",
-        "uf": "RS",
-        "cidade": "Montenegro"
-    },
-    {
-        "codigo": "4502",
-        "nome": "Viação Montenegro VIMSA - Estância Velha Circular",
-        "fornecedor": "Viação Montenegro VIMSA",
-        "valor": "3,50",
         "uf": "RS",
         "cidade": "Montenegro"
     },
@@ -22235,6 +22227,14 @@
         "codigo": "8410",
         "nome": "Rápido Sumaré Vinhedo - Cartão Urbano Vinhedo",
         "fornecedor": "Rápido Sumaré - Vinhedo",
+        "valor": "6,00",
+        "uf": "SP",
+        "cidade": "Vinhedo"
+    },
+    {
+        "codigo": "19919",
+        "nome": "Rápido Sumaré Vinhedo",
+        "fornecedor": "Rápido Sumaré - Vinhedo (Coleta)",
         "valor": "6,00",
         "uf": "SP",
         "cidade": "Vinhedo"
