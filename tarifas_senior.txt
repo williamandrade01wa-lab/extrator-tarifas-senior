@@ -1444,7 +1444,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10569;Valesul Porto Alegre - 218 Alvorada Urbana (Val – 00002);Valesul - Porto Alegre;4,70;5;10;RS;Cachoeirinha;18/10/2023
 10570;Valesul Porto Alegre - 612 Poa – Santa Rita - Executivo (Semi - Direto) (Rio Guaíba - 00007);Valesul - Porto Alegre;15,10;5;10;RS;Cachoeirinha;08/06/2026
 10571;Valesul Porto Alegre - 614 Poa – Eldorado Do Sul (Semi-Direto/Executivo) (Rio Guaíba - 00007);Valesul - Porto Alegre;11,25;5;10;RS;Cachoeirinha;08/06/2026
-10572;Valesul Porto Alegre - 942 Integração Canoas (Vicasa)– B20 (Trensurb – 00042);Valesul - Porto Alegre;12,50;5;10;RS;Cachoeirinha;08/06/2026
+10572;Valesul Porto Alegre - 942 Integração Canoas (Vicasa)– B20 (Trensurb – 00042);Valesul - Porto Alegre;11,39;5;10;RS;Cachoeirinha;11/11/2026
 10573;Valesul Porto Alegre - 615 Poa – Ulbra Guaíba (Rio Guaíba - 00007);Valesul - Porto Alegre;10,20;5;10;RS;Cachoeirinha;18/10/2023
 10574;Valesul Porto Alegre - 941 Unitária – B01 (Trensurb – 00042);Valesul - Porto Alegre;5,00;5;10;RS;Cachoeirinha;04/07/2025
 10575;Valesul Porto Alegre - 618 Poa – Florida / Colina (Rio Guaíba - 00007);Valesul - Porto Alegre;13,50;5;10;RS;Cachoeirinha;08/06/2026
