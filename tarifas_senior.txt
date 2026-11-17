@@ -1378,7 +1378,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19619;Prati - Capão do Leão - Cartão Pelotas X Capão do Leão;Prati - Capão do Leão;8,00;5;10;RS;Pelotas;06/07/2026
 19620;Prati - Capão do Leão - Cartão Pelotas X Jardim América;Prati - Capão do Leão;6,50;5;10;RS;Pelotas;06/07/2026
 19621;Prati - Pelotas - Cartão Municipal Pelotas;Prati - Pelotas;6,25;5;10;RS;Pelotas;28/04/2026
-10834;Riomafra - Cartão Municipal Mafra;Riomafra;5,00;5;10;SC;Mafra;06/10/2026
 2520;Santa Ignes - Cartão Municipal São Borja;Santa Ignes;5,00;5;10;RS;São Borja;12/06/2026
 6122;Stadtbus Teutônia - Cartão Teuto Municipal;Stadtbus Teutônia;5,00;5;10;RS;Teutônia;04/01/2023
 4714;Stadtbus Venâncio Aires - Cartão Santa Cruz X Venâncio Aires Intermunicipal;Stadtbus Venâncio Aires;11,90;5;10;RS;Santa Cruz do Sul;20/04/2026
@@ -1641,7 +1640,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19616;Lagunatur - Itapiruba X Laguna;Lagunatur;9,50;5;10;SC;Laguna;28/04/2026
 15074;Melissa - Navegantes - Cartão Municipal Navegantes;Melissa - Navegantes;3,85;5;10;SC;Navegantes;17/05/2024
 3843;Piracicabana Blumenau - Cartão Blumenau Urbano;Piracicabana Blumenau;5,50;5;10;SC;Blumenau;31/01/2025
-15070;Riomafra - Cartão Municipal Rio Negro;Riomafra;5,00;5;10;SC;Mafra;06/10/2026
 5554;Santa Teresinha Videira e Fraiburgo - Cartão Videira Municipal;Santa Teresinha Videira e Fraiburgo;4,50;5;10;SC;Videira;01/09/2026
 6237;Santa Teresinha Videira e Fraiburgo - Cartão Fraiburgo Municipal;Santa Teresinha Videira e Fraiburgo;6,50;5;10;SC;Videira;19/08/2025
 8687;Setuf - Cartão Biguaçu (Patamar AC1);Setuf (Biguaçu);6,60;5;10;SC;Florianópolis;19/07/2022
@@ -1758,6 +1756,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10478;ABC Transportes - Cartão Tremembé X Pindamonhangaba;ABC Transportes;4,40;5;10;SP;Taubaté;18/10/2023
 10479;ABC Transportes - Cartão Taubaté X Caçapava;ABC Transportes;7,10;5;10;SP;Taubaté;14/04/2026
 10480;ABC Transportes - Cartão Tremembé X Caçapava;ABC Transportes;7,05;5;10;SP;Taubaté;06/02/2025
+1811;Dersa - Cartão Dersa Balsa - Bilhete Inteligente;Acquavias;1,55;5;10;SP;Santos;01/07/2018
+2322;Dersa - Cartão Balsa - Santos X São Vicente;Acquavias;1,55;5;10;SP;Santos;01/07/2018
+2346;Dersa - Cartão Balsa Santos X Guarujá / São Paulo;Acquavias;1,55;5;10;SP;Santos;01/07/2018
+6598;Dersa - Cartão Balsa - Santos X Vicente de Carvalho;Acquavias;1,55;5;10;SP;Santos;01/07/2018
 164;AESA - Bilhete Único Andreense - Santo André Municipal;AESA;7,25;5;10;SP;Santo Paulo;03/01/2025
 15515;AETUR Del Rey - Cartão Pec - Municipal Carapicuíba;AETUR DEL REY - NOVO SISTEMA;6,10;5;10;SP;Carapicuíba;05/01/2026
 19449;BB Turismo - Cartão Municipal Barueri;AETUR DEL REY - NOVO SISTEMA;6,10;5;10;SP;Barueri;05/01/2026
@@ -2225,10 +2227,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15329;Danúbio Azul - QR-Code - Cartão Vargem Grande Paulista X São Paulo (Barra Funda) (com seguro);Danúbio Azul - QR-Code - Grupo Vida;25,69;5;10;SP;Santa Rita do Passa Quatro;28/08/2024
 15398;Danúbio Azul - QR-Code - Cartão Monte Azul Paulista X Bebedouro (sem seguro);Danúbio Azul - QR-Code - Grupo Vida;9,15;5;10;SP;Santa Rita do Passa Quatro;18/10/2024
 16234;Danúbio Azul - QR-Code - Cartão Leme X Pirassununga (sem seguro);Danúbio Azul - QR-Code - Grupo Vida;9,60;5;10;SP;Santa Rita do Passa Quatro;05/11/2025
-1811;Dersa - Cartão Dersa Balsa - Bilhete Inteligente;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
-2322;Dersa - Cartão Balsa - Santos X São Vicente;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
-2346;Dersa - Cartão Balsa Santos X Guarujá / São Paulo;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
-6598;Dersa - Cartão Balsa - Santos X Vicente de Carvalho;Dersa - Bilhete Inteligente;1,55;5;10;SP;Santos;01/07/2018
 9056;Dinatur - Cartão Mairiporã Municipal;Dinatur;6,00;5;10;SP;Mairiporã;11/03/2026
 1016;Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Centro);Empresa Cruz;8,35;5;10;SP;Araraquara;20/07/2026
 1886;Empresa Cruz - Cartão Araraquara X Américo Brasiliense (Sentido Bairro);Empresa Cruz;7,25;5;10;SP;Araraquara;20/07/2026

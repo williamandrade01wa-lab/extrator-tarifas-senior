@@ -11032,14 +11032,6 @@
         "cidade": "Pelotas"
     },
     {
-        "codigo": "10834",
-        "nome": "Riomafra - Cartão Municipal Mafra",
-        "fornecedor": "Riomafra",
-        "valor": "5,00",
-        "uf": "SC",
-        "cidade": "Mafra"
-    },
-    {
         "codigo": "2520",
         "nome": "Santa Ignes - Cartão Municipal São Borja",
         "fornecedor": "Santa Ignes",
@@ -13136,14 +13128,6 @@
         "cidade": "Blumenau"
     },
     {
-        "codigo": "15070",
-        "nome": "Riomafra - Cartão Municipal Rio Negro",
-        "fornecedor": "Riomafra",
-        "valor": "5,00",
-        "uf": "SC",
-        "cidade": "Mafra"
-    },
-    {
         "codigo": "5554",
         "nome": "Santa Teresinha Videira e Fraiburgo - Cartão Videira Municipal",
         "fornecedor": "Santa Teresinha Videira e Fraiburgo",
@@ -14070,6 +14054,38 @@
         "valor": "7,05",
         "uf": "SP",
         "cidade": "Taubaté"
+    },
+    {
+        "codigo": "1811",
+        "nome": "Dersa - Cartão Dersa Balsa - Bilhete Inteligente",
+        "fornecedor": "Acquavias",
+        "valor": "1,55",
+        "uf": "SP",
+        "cidade": "Santos"
+    },
+    {
+        "codigo": "2322",
+        "nome": "Dersa - Cartão Balsa - Santos X São Vicente",
+        "fornecedor": "Acquavias",
+        "valor": "1,55",
+        "uf": "SP",
+        "cidade": "Santos"
+    },
+    {
+        "codigo": "2346",
+        "nome": "Dersa - Cartão Balsa Santos X Guarujá / São Paulo",
+        "fornecedor": "Acquavias",
+        "valor": "1,55",
+        "uf": "SP",
+        "cidade": "Santos"
+    },
+    {
+        "codigo": "6598",
+        "nome": "Dersa - Cartão Balsa - Santos X Vicente de Carvalho",
+        "fornecedor": "Acquavias",
+        "valor": "1,55",
+        "uf": "SP",
+        "cidade": "Santos"
     },
     {
         "codigo": "164",
@@ -17806,38 +17822,6 @@
         "valor": "9,60",
         "uf": "SP",
         "cidade": "Santa Rita do Passa Quatro"
-    },
-    {
-        "codigo": "1811",
-        "nome": "Dersa - Cartão Dersa Balsa - Bilhete Inteligente",
-        "fornecedor": "Dersa - Bilhete Inteligente",
-        "valor": "1,55",
-        "uf": "SP",
-        "cidade": "Santos"
-    },
-    {
-        "codigo": "2322",
-        "nome": "Dersa - Cartão Balsa - Santos X São Vicente",
-        "fornecedor": "Dersa - Bilhete Inteligente",
-        "valor": "1,55",
-        "uf": "SP",
-        "cidade": "Santos"
-    },
-    {
-        "codigo": "2346",
-        "nome": "Dersa - Cartão Balsa Santos X Guarujá / São Paulo",
-        "fornecedor": "Dersa - Bilhete Inteligente",
-        "valor": "1,55",
-        "uf": "SP",
-        "cidade": "Santos"
-    },
-    {
-        "codigo": "6598",
-        "nome": "Dersa - Cartão Balsa - Santos X Vicente de Carvalho",
-        "fornecedor": "Dersa - Bilhete Inteligente",
-        "valor": "1,55",
-        "uf": "SP",
-        "cidade": "Santos"
     },
     {
         "codigo": "9056",
