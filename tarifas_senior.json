@@ -5384,6 +5384,14 @@
         "cidade": "Sete Lagoas"
     },
     {
+        "codigo": "19923",
+        "nome": "Setelagoano - Cartão Sete Lagoas X Belo Horizonte (com taxa)",
+        "fornecedor": "Setelagoano",
+        "valor": "37,85",
+        "uf": "MG",
+        "cidade": "Sete Lagoas"
+    },
+    {
         "codigo": "15922",
         "nome": "Stilo Fretamento - Cartão Municipal Mateus Leme",
         "fornecedor": "Stilo Fretamento",
@@ -6124,6 +6132,30 @@
         "nome": "Viação Cambuí - Cartão Bragança X Extrema",
         "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
         "valor": "7,50",
+        "uf": "MG",
+        "cidade": "Cambuí"
+    },
+    {
+        "codigo": "19924",
+        "nome": "Viação Cambuí - Cartão Cambuí X Córrego do Bom Jesus",
+        "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
+        "valor": "5,75",
+        "uf": "MG",
+        "cidade": "Cambuí"
+    },
+    {
+        "codigo": "19925",
+        "nome": "Viação Cambuí - Cartão Itapeva X Extrema",
+        "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
+        "valor": "7,45",
+        "uf": "MG",
+        "cidade": "Cambuí"
+    },
+    {
+        "codigo": "19926",
+        "nome": "Viação Cambuí - Cartão Extrema X Itapeva",
+        "fornecedor": "Viação Cambuí Turismo - Novo Sistema",
+        "valor": "7,45",
         "uf": "MG",
         "cidade": "Cambuí"
     },
@@ -11200,14 +11232,6 @@
         "cidade": "Porto Alegre"
     },
     {
-        "codigo": "16094",
-        "nome": "Unesul - Cartão Capão da Canoa X Porto Alegre (semi-direto) (com seguro)",
-        "fornecedor": "Unesul - Eletrônico",
-        "valor": "71,25",
-        "uf": "RS",
-        "cidade": "Porto Alegre"
-    },
-    {
         "codigo": "10519",
         "nome": "Valesul Porto Alegre - Cartão TEU / Porto Alegre e Região",
         "fornecedor": "Valesul - Porto Alegre",
@@ -11820,14 +11844,6 @@
         "nome": "Valesul Porto Alegre - 515 Seletivo Canoas Urbana (Sogal – 00008)",
         "fornecedor": "Valesul - Porto Alegre",
         "valor": "5,30",
-        "uf": "RS",
-        "cidade": "Cachoeirinha"
-    },
-    {
-        "codigo": "10614",
-        "nome": "Valesul Porto Alegre - 511 Canoas Urbana (Sogal – 00008)",
-        "fornecedor": "Valesul - Porto Alegre",
-        "valor": "4,80",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },
@@ -12532,6 +12548,14 @@
         "nome": "Viação Ouro e Prata - Cartão Porto Alegre X Tramandaí (semidireto) (sem seguro)",
         "fornecedor": "Viação Ouro e Prata - QR-Code",
         "valor": "64,80",
+        "uf": "RS",
+        "cidade": "Porto Alegre"
+    },
+    {
+        "codigo": "19927",
+        "nome": "Viação Ouro e Prata - Cartão Mariluz X Osório (semi-direto) (sem seguro)",
+        "fornecedor": "Viação Ouro e Prata - QR-Code",
+        "valor": "15,35",
         "uf": "RS",
         "cidade": "Porto Alegre"
     },

@@ -672,6 +672,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5180;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 1);São Jorge Autobus;2,50;5;10;MG;Ponte Nova;01/12/2021
 4900;Setelagoano - Cartão Prudente de Morais X Sete Lagoas;Setelagoano;5,75;5;10;MG;Sete Lagoas;15/09/2026
 6053;Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa);Setelagoano;42,63;5;10;MG;Sete Lagoas;07/10/2026
+19923;Setelagoano - Cartão Sete Lagoas X Belo Horizonte (com taxa);Setelagoano;37,85;5;10;MG;Sete Lagoas;17/11/2026
 15922;Stilo Fretamento - Cartão Municipal Mateus Leme;Stilo Fretamento;0,01;5;10;MG;Belo Horizonte;24/07/2025
 19898;Sudoestino - Cartão Passos X Itaú de Minas;Sudoestino - Novo Sistema;7,25;5;10;MG;Passos;06/10/2026
 19899;Sudoestino - Cartão São João Batista da Glória X Passos;Sudoestino - Novo Sistema;8,05;5;10;MG;Passos;06/10/2026
@@ -765,6 +766,9 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9725;Viação Cambuí - Cartão Córrego do Bom Jesus X Cambuí;Viação Cambuí Turismo - Novo Sistema;5,40;5;10;MG;Cambuí;17/10/2025
 10803;Viação Cambuí - Cartão Extrema X Bragança;Viação Cambuí Turismo - Novo Sistema;8,00;5;10;MG;Cambuí;09/03/2026
 10804;Viação Cambuí - Cartão Bragança X Extrema;Viação Cambuí Turismo - Novo Sistema;7,50;5;10;MG;Cambuí;09/03/2026
+19924;Viação Cambuí - Cartão Cambuí X Córrego do Bom Jesus;Viação Cambuí Turismo - Novo Sistema;5,75;5;10;MG;Cambuí;17/11/2026
+19925;Viação Cambuí - Cartão Itapeva X Extrema;Viação Cambuí Turismo - Novo Sistema;7,45;5;10;MG;Cambuí;17/11/2026
+19926;Viação Cambuí - Cartão Extrema X Itapeva;Viação Cambuí Turismo - Novo Sistema;7,45;5;10;MG;Cambuí;17/11/2026
 10199;Viação Itaúna (QR-Code) - Cartão Itaúna X Belo Horizonte;Viação Itaúna - QR-Code;49,50;5;10;MG;Itauna;18/09/2026
 10200;Viação Itaúna (QR-Code) - Cartão Francelino X Mateus Leme;Viação Itaúna - QR-Code;11,20;5;10;MG;Itauna;18/09/2026
 10201;Viação Itaúna (QR-Code) - Cartão Itaúna X Barragem;Viação Itaúna - QR-Code;5,75;5;10;MG;Itauna;18/09/2026
@@ -1399,7 +1403,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10451;Tri Porto Alegre - Cartão Integração com trem (sem desconto);TRI Porto Alegre;10,30;5;10;RS;Porto Alegre;24/02/2026
 10452;Tri Porto Alegre - Cartão Integração com trem (com desconto);TRI Porto Alegre;9,27;5;10;RS;Porto Alegre;26/02/2026
 19655;Tri Porto Alegre - Cartão Tri;TRI Porto Alegre;0,01;5;10;RS;Porto Alegre;14/05/2026
-16094;Unesul - Cartão Capão da Canoa X Porto Alegre (semi-direto) (com seguro);Unesul - Eletrônico;71,25;5;10;RS;Porto Alegre;09/09/2025
 10519;Valesul Porto Alegre - Cartão TEU / Porto Alegre e Região;Valesul - Porto Alegre;0,01;5;10;RS;Cachoeirinha;18/10/2023
 10520;Valesul Porto Alegre - 40/41 Barca - Travessia Poa – Guaíba (Catsul - 00038);Valesul - Porto Alegre;19,15;5;10;RS;Cachoeirinha;10/11/2026
 10521;Valesul Porto Alegre - 503 Canoas – Poa (Via) Cachoeirinha (Vicasa - 00003);Valesul - Porto Alegre;10,80;5;10;RS;Cachoeirinha;15/07/2026
@@ -1477,7 +1480,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10611;Valesul Porto Alegre - 282 Gravataí Micro Municipal (Sogil – 00001);Valesul - Porto Alegre;10,00;5;10;RS;Cachoeirinha;02/01/2025
 10612;Valesul Porto Alegre - 270 Gravataí Municipal (Sogil – 00001);Valesul - Porto Alegre;8,50;5;10;RS;Cachoeirinha;12/05/2026
 10613;Valesul Porto Alegre - 515 Seletivo Canoas Urbana (Sogal – 00008);Valesul - Porto Alegre;5,30;5;10;RS;Cachoeirinha;18/10/2023
-10614;Valesul Porto Alegre - 511 Canoas Urbana (Sogal – 00008);Valesul - Porto Alegre;4,80;5;10;RS;Cachoeirinha;18/10/2023
 10615;Valesul Porto Alegre - 257 Seletivo Viamão – Poa (Viamão / Vialeste - 00012);Valesul - Porto Alegre;18,50;5;10;RS;Cachoeirinha;08/06/2026
 10616;Valesul Porto Alegre - 902 Poa – Novo Hamburgo (Central – 00022);Valesul - Porto Alegre;9,05;5;10;RS;Cachoeirinha;08/06/2026
 10617;Valesul Porto Alegre - 907 Novo Hamburgo – Esteio / Sapucaia (Central – 00022);Valesul - Porto Alegre;7,65;5;10;RS;Cachoeirinha;08/06/2026
@@ -1566,6 +1568,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19718;Viação Ouro e Prata - Cartão Xangri-lá X Arroio Teixeira (sem seguro);Viação Ouro e Prata - QR-Code;10,55;5;10;RS;Porto Alegre;22/05/2026
 19719;Viação Ouro e Prata - Cartão Xangri-lá X Curumim (com seguro);Viação Ouro e Prata - QR-Code;13,15;5;10;RS;Porto Alegre;22/05/2026
 19908;Viação Ouro e Prata - Cartão Porto Alegre X Tramandaí (semidireto) (sem seguro);Viação Ouro e Prata - QR-Code;64,80;5;10;RS;Porto Alegre;21/10/2026
+19927;Viação Ouro e Prata - Cartão Mariluz X Osório (semi-direto) (sem seguro);Viação Ouro e Prata - QR-Code;15,35;5;10;RS;Porto Alegre;18/11/2026
 15868;Viação Santa Clara - Campo Bom - Cartão Municipal Campo Bom;Viação Santa Clara - Campo Bom;3,90;5;10;RS;Campo Bom;01/07/2025
 2275;Viação Santo Antônio - Cartão Bento Gonçalves - Vino;Viação Santo Antônio;7,90;5;10;RS;Bento Gonçalves;03/06/2025
 9218;Viação Tiaraju - Cartão Santo Ângelo Urbano;Viação Tiaraju;5,00;5;10;RS;Santo Ângelo;02/01/2024
