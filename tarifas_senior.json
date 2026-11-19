@@ -8512,6 +8512,14 @@
         "cidade": "Foz do Iguaçu"
     },
     {
+        "codigo": "16060",
+        "nome": "Bamonte - Cartão Municipal Barra do Piraí",
+        "fornecedor": "Bamonte - Novo Sistema",
+        "valor": "3,60",
+        "uf": "RJ",
+        "cidade": "Barra do Piraí"
+    },
+    {
         "codigo": "15191",
         "nome": "Fênix RJ",
         "fornecedor": "Fênix RJ",
@@ -14081,7 +14089,7 @@
     },
     {
         "codigo": "1811",
-        "nome": "Dersa - Cartão Dersa Balsa - Bilhete Inteligente",
+        "nome": "Acquavias - Cartão Bilhete Inteligente",
         "fornecedor": "Acquavias",
         "valor": "1,55",
         "uf": "SP",
@@ -14089,7 +14097,7 @@
     },
     {
         "codigo": "2322",
-        "nome": "Dersa - Cartão Balsa - Santos X São Vicente",
+        "nome": "Acquavias - Cartão Balsa - Santos X São Vicente",
         "fornecedor": "Acquavias",
         "valor": "1,55",
         "uf": "SP",
@@ -14097,7 +14105,7 @@
     },
     {
         "codigo": "2346",
-        "nome": "Dersa - Cartão Balsa Santos X Guarujá / São Paulo",
+        "nome": "Acquavias - Cartão Balsa Santos X Guarujá / São Paulo",
         "fornecedor": "Acquavias",
         "valor": "1,55",
         "uf": "SP",
@@ -14105,7 +14113,7 @@
     },
     {
         "codigo": "6598",
-        "nome": "Dersa - Cartão Balsa - Santos X Vicente de Carvalho",
+        "nome": "Acquavias - Cartão Balsa - Santos X Vicente de Carvalho",
         "fornecedor": "Acquavias",
         "valor": "1,55",
         "uf": "SP",
@@ -19332,6 +19340,14 @@
         "nome": "Guerino Seiscentos - Cartão Tupã X Bastos",
         "fornecedor": "Guerino Seiscentos",
         "valor": "10,25",
+        "uf": "SP",
+        "cidade": "Tupã"
+    },
+    {
+        "codigo": "19932",
+        "nome": "Guerino Seiscentos - Cartão Assis X Presidente Prudente",
+        "fornecedor": "Guerino Seiscentos",
+        "valor": "44,00",
         "uf": "SP",
         "cidade": "Tupã"
     },

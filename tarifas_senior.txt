@@ -1063,6 +1063,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3815;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
 6097;Vinsa Benedito Aleixo - Cartão TB Fácil -Telêmaco Borba (Cartão Vt Urbano);Vinsa Benedito Aleixo;6,00;5;10;PR;Telêmaco Borba;06/01/2025
 15069;Viza Transportes - Cartão Santa Terezinha X Foz do Iguaçu;Viza Transportes - Eletrônico;7,10;5;10;PR;Foz do Iguaçu;20/07/2026
+16060;Bamonte - Cartão Municipal Barra do Piraí;Bamonte - Novo Sistema;3,60;5;10;RJ;Barra do Piraí;23/09/2026
 15191;Fênix RJ;Fênix RJ;0,01;5;10;RJ;Rio de Janeiro;14/08/2024
 19602;Jaé - Cartão Municipal Rio de Janeiro;Jaé;5,00;3;10;RJ;Rio de Janeiro;23/04/2026
 19603;Jaé - Cartão Ônibus Executivo;Jaé;0,01;3;10;RJ;Rio de Janeiro;23/04/2026
@@ -1759,10 +1760,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10478;ABC Transportes - Cartão Tremembé X Pindamonhangaba;ABC Transportes;4,40;5;10;SP;Taubaté;18/10/2023
 10479;ABC Transportes - Cartão Taubaté X Caçapava;ABC Transportes;7,10;5;10;SP;Taubaté;14/04/2026
 10480;ABC Transportes - Cartão Tremembé X Caçapava;ABC Transportes;7,05;5;10;SP;Taubaté;06/02/2025
-1811;Dersa - Cartão Dersa Balsa - Bilhete Inteligente;Acquavias;1,55;5;10;SP;Santos;01/07/2018
-2322;Dersa - Cartão Balsa - Santos X São Vicente;Acquavias;1,55;5;10;SP;Santos;01/07/2018
-2346;Dersa - Cartão Balsa Santos X Guarujá / São Paulo;Acquavias;1,55;5;10;SP;Santos;01/07/2018
-6598;Dersa - Cartão Balsa - Santos X Vicente de Carvalho;Acquavias;1,55;5;10;SP;Santos;01/07/2018
+1811;Acquavias - Cartão Bilhete Inteligente;Acquavias;1,55;5;10;SP;Santos;01/07/2018
+2322;Acquavias - Cartão Balsa - Santos X São Vicente;Acquavias;1,55;5;10;SP;Santos;01/07/2018
+2346;Acquavias - Cartão Balsa Santos X Guarujá / São Paulo;Acquavias;1,55;5;10;SP;Santos;01/07/2018
+6598;Acquavias - Cartão Balsa - Santos X Vicente de Carvalho;Acquavias;1,55;5;10;SP;Santos;01/07/2018
 164;AESA - Bilhete Único Andreense - Santo André Municipal;AESA;7,25;5;10;SP;Santo Paulo;03/01/2025
 15515;AETUR Del Rey - Cartão Pec - Municipal Carapicuíba;AETUR DEL REY - NOVO SISTEMA;6,10;5;10;SP;Carapicuíba;05/01/2026
 19449;BB Turismo - Cartão Municipal Barueri;AETUR DEL REY - NOVO SISTEMA;6,10;5;10;SP;Barueri;05/01/2026
@@ -2416,6 +2417,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19857;Guerino Seiscentos - Cartão Osvaldo Cruz X Inúbia Paulista;Guerino Seiscentos;6,95;5;10;SP;Tupã;26/08/2026
 19858;Guerino Seiscentos - Cartão Osvaldo Cruz X Adamantina;Guerino Seiscentos;11,00;5;10;SP;Tupã;26/08/2026
 19859;Guerino Seiscentos - Cartão Tupã X Bastos;Guerino Seiscentos;10,25;5;10;SP;Tupã;26/08/2026
+19932;Guerino Seiscentos - Cartão Assis X Presidente Prudente;Guerino Seiscentos;44,00;5;10;SP;Tupã;18/11/2026
 15836;Itacard - Cartão Municipal Itapecerica da Serra;Itacard - Novo Sistema - PIX;5,50;5;10;SP;Itapecerica da Serra;15/01/2026
 15360;Produto Itaqua;Itaqua;7,10;5;10;SP;Itaquaquecetuba;07/01/2026
 8713;Jandaia - Cartão Álvares Machado X Presidente Prudente;Jandaia;6,95;5;10;SP;Presidente Prudente;06/07/2026
