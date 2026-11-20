@@ -5379,7 +5379,7 @@
         "codigo": "6053",
         "nome": "Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa)",
         "fornecedor": "Setelagoano",
-        "valor": "42,63",
+        "valor": "42,08",
         "uf": "MG",
         "cidade": "Sete Lagoas"
     },
@@ -5387,7 +5387,7 @@
         "codigo": "19923",
         "nome": "Setelagoano - Cartão Sete Lagoas X Belo Horizonte (com taxa)",
         "fornecedor": "Setelagoano",
-        "valor": "37,85",
+        "valor": "37,30",
         "uf": "MG",
         "cidade": "Sete Lagoas"
     },
@@ -7523,7 +7523,7 @@
         "codigo": "9045",
         "nome": "Rodotur Turismo - Cartão Igarassu X Ponta de Pedra",
         "fornecedor": "Rodotur Turismo - Novo Sistema",
-        "valor": "13,00",
+        "valor": "15,00",
         "uf": "PE",
         "cidade": "Olinda"
     },
@@ -12068,6 +12068,14 @@
         "nome": "Valesul Porto Alegre - 24 Teubus – Transbus Sob Demanda (Transbus)",
         "fornecedor": "Valesul - Porto Alegre",
         "valor": "7,30",
+        "uf": "RS",
+        "cidade": "Cachoeirinha"
+    },
+    {
+        "codigo": "19933",
+        "nome": "Valesul Porto Alegre - 44 Urbana Estância Velha (Expresso Presidente Getúlio)",
+        "fornecedor": "Valesul - Porto Alegre",
+        "valor": "3,50",
         "uf": "RS",
         "cidade": "Cachoeirinha"
     },

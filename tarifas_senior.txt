@@ -671,8 +671,8 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5179;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 2);São Jorge Autobus;8,70;5;10;MG;Ponte Nova;01/10/2025
 5180;São Jorge Autobus - Cartão Municipal Ponte Nova (Tarifa 1);São Jorge Autobus;2,50;5;10;MG;Ponte Nova;01/12/2021
 4900;Setelagoano - Cartão Prudente de Morais X Sete Lagoas;Setelagoano;5,75;5;10;MG;Sete Lagoas;15/09/2026
-6053;Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa);Setelagoano;42,63;5;10;MG;Sete Lagoas;07/10/2026
-19923;Setelagoano - Cartão Sete Lagoas X Belo Horizonte (com taxa);Setelagoano;37,85;5;10;MG;Sete Lagoas;17/11/2026
+6053;Setelagoano - Cartão Belo Horizonte X Sete Lagoas (com taxa);Setelagoano;42,08;5;10;MG;Sete Lagoas;19/11/2026
+19923;Setelagoano - Cartão Sete Lagoas X Belo Horizonte (com taxa);Setelagoano;37,30;5;10;MG;Sete Lagoas;19/11/2026
 15922;Stilo Fretamento - Cartão Municipal Mateus Leme;Stilo Fretamento;0,01;5;10;MG;Belo Horizonte;24/07/2025
 19898;Sudoestino - Cartão Passos X Itaú de Minas;Sudoestino - Novo Sistema;7,25;5;10;MG;Passos;06/10/2026
 19899;Sudoestino - Cartão São João Batista da Glória X Passos;Sudoestino - Novo Sistema;8,05;5;10;MG;Passos;06/10/2026
@@ -939,7 +939,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5416;Rodotur Turismo - Cartão Goiana X Igarassu;Rodotur Turismo - Novo Sistema;9,50;5;10;PE;Olinda;17/07/2026
 5417;Rodotur Turismo - Cartão Goiana X Paulista;Rodotur Turismo - Novo Sistema;13,50;5;10;PE;Olinda;17/07/2026
 5418;Rodotur Turismo - Cartão Goiana X Recife;Rodotur Turismo - Novo Sistema;18,00;5;10;PE;Olinda;17/07/2026
-9045;Rodotur Turismo - Cartão Igarassu X Ponta de Pedra;Rodotur Turismo - Novo Sistema;13,00;5;10;PE;Olinda;17/07/2026
+9045;Rodotur Turismo - Cartão Igarassu X Ponta de Pedra;Rodotur Turismo - Novo Sistema;15,00;5;10;PE;Olinda;19/11/2026
 9273;Rodotur Turismo - Cartão Goiana X Itaquitinga;Rodotur Turismo - Novo Sistema;6,00;5;10;PE;Olinda;07/12/2023
 9753;Rodotur Turismo - Cartão Abreu e Lima X Goiana;Rodotur Turismo - Novo Sistema;11,00;5;10;PE;Olinda;17/07/2026
 10885;Rodotur Turismo - Cartão Goiana X Goiana;Rodotur Turismo - Novo Sistema;4,50;5;10;PE;Olinda;17/07/2026
@@ -1508,6 +1508,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19647;Valesul Porto Alegre - 319 Poa – Santo Antônio (Sogil RS-030);Valesul - Porto Alegre;34,45;5;10;RS;Cachoeirinha;08/06/2026
 19648;Valesul Porto Alegre - 343 Poa – Santo Antônio (semidireto) (Sogil RS-030);Valesul - Porto Alegre;40,05;5;10;RS;Cachoeirinha;08/06/2026
 19902;Valesul Porto Alegre - 24 Teubus – Transbus Sob Demanda (Transbus);Valesul - Porto Alegre;7,30;5;10;RS;Cachoeirinha;19/10/2026
+19933;Valesul Porto Alegre - 44 Urbana Estância Velha (Expresso Presidente Getúlio);Valesul - Porto Alegre;3,50;5;10;RS;Cachoeirinha;19/11/2026
 10568;Valesul Porto Alegre - 33 Capão Da Canoa – Capão Novo (Cs Turismo / Rota Litoral - 00037);ValeSul Porto Alegre;5,00;5;10;RS;Cachoeirinha;18/10/2023
 10815;Valesul Porto Alegre - 805 Lombas / Centro de Viamão (Viamão / Vialeste - 00012);ValeSul Porto Alegre;8,80;5;10;RS;Cachoeirinha;29/01/2024
 2245;Viação Montenegro VIMSA - Cartão Estância Velha X Novo Hamburgo;Viação Montenegro VIMSA;6,65;5;10;RS;Montenegro;15/06/2026
