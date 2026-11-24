@@ -902,7 +902,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5250;Borborema - Cartão Vitória (Via BR232) X Recife (Via Jaboatão);Borborema - Vitória/Recife (via Jaboatão);22,00;5;10;PE;Recife;25/08/2026
 4776;Coletivos São Cristóvão - Cartão Municipal Garanhuns;Coletivos São Cristóvão;4,70;5;10;PE;Garanhuns;31/12/2025
 9455;Coletivos Viagens - Cartão Agrestina X Caruaru;Coletivos Viagens;8,00;5;10;PE;Caruaru;20/04/2026
-9456;Coletivos Viagens - Cartão Altinho X Caruaru;Coletivos Viagens;12,00;5;10;PE;Caruaru;20/04/2026
+9456;Coletivos Viagens - Cartão Altinho X Caruaru;Coletivos Viagens;14,00;5;10;PE;Caruaru;23/11/2026
 9457;Coletivos Viagens - Cartão Caruaru X Riacho das Almas;Coletivos Viagens;8,00;5;10;PE;Caruaru;20/04/2026
 9458;Coletivos Viagens - Cartão Caruaru X São Joaquim do Monte;Coletivos Viagens;17,00;5;10;PE;Caruaru;20/04/2026
 9459;Coletivos Viagens - Cartão Palmares X Água Preta;Coletivos Viagens;6,00;5;10;PE;Caruaru;20/04/2026
@@ -2507,7 +2507,10 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10395;Mov Itu - Cartão Itu X Mairinque (Linha 6226);Mov Itu;6,25;5;10;SP;Itú;07/01/2026
 10396;Mov Itu - Cartão Itu X Cabreúva;Mov Itu;5,15;5;10;SP;Itú;03/10/2023
 10397;Mov Itu - Cartão Salto X Sorocaba (Linha 6208);Mov Itu;10,90;5;10;SP;Itú;07/01/2026
+7575;West Side Louveira - Cartão Louveira Urbano (West Side);Mov Louveira;6,00;5;10;SP;Louveira;09/11/2023
 9323;Mov Paulínia - Cartão Municipal Paulínia;Mov Paulínia;1,00;5;10;SP;Paulínia;17/02/2022
+8410;Rápido Sumaré Vinhedo - Cartão Urbano Vinhedo;Mov Vinhedo;6,00;5;10;SP;Vinhedo;03/01/2025
+19919;Rápido Sumaré Vinhedo;Mov Vinhedo (Coleta);6,00;5;10;SP;Vinhedo;10/11/2026
 805;Nossa Senhora de Fátima Auto Ônibus - Cartão Bragança Paulista X Tuiuti (Linhas 210 e 215);Nossa Senhora de Fátima Auto Ônibus;8,60;5;10;SP;Bragança Paulista;07/07/2025
 806;Nossa Senhora de Fátima Auto Ônibus - Cartão Bragança Paulista X Vargem (Linha 208);Nossa Senhora de Fátima Auto Ônibus;9,25;5;10;SP;Bragança Paulista;07/07/2025
 2856;Nossa Senhora de Fátima Auto Ônibus - Cartão Bragança Paulista X Vargem (Bairro Guaraiuva linha 206);Nossa Senhora de Fátima Auto Ônibus;9,25;5;10;SP;Bragança Paulista;07/07/2025
@@ -2781,8 +2784,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 3363;Rápido Luxo Campinas Monte Mor - Cartão Urbano Monte Mor;Rápido Luxo Campinas - Monte Mor;6,00;5;10;SP;Monte Mor;21/10/2025
 5131;Rápido Sumaré São João da Boa Vista - Cartão São João da Boa Vista Municipal;Rápido Sumaré (Novo Sistema) - São João da Boa Vista;5,40;5;10;SP;São João da Boa Vista;12/02/2026
 10692;Rápido Sumaré Nova Odessa - Urbano Nova Odessa;Rápido Sumaré - Nova Odessa;3,00;5;10;SP;Sumaré;30/10/2023
-8410;Rápido Sumaré Vinhedo - Cartão Urbano Vinhedo;Rápido Sumaré - Vinhedo;6,00;5;10;SP;Vinhedo;03/01/2025
-19919;Rápido Sumaré Vinhedo;Rápido Sumaré - Vinhedo (Coleta);6,00;5;10;SP;Vinhedo;10/11/2026
 1857;Ribe Transportes - Cartão Ribefácil - Ribeirão Preto X Jardinópolis;Ribe Transportes;8,70;5;10;SP;Ribeirão Preto;15/07/2026
 9399;Riocard (Semove) - Riocard Intermunicipal Barcas;Riocard (Semove);4,70;3;7;RJ;Rio de Janeiro;15/04/2025
 8995;Rodoviário e Turismo - Cartão Guaratinguetá X Cunha;Rodoviário e Turismo - QR-Code;19,23;5;10;SP;Guaratinguetá;06/01/2026
@@ -3201,7 +3202,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 19783;Vipe - Cartão São Caetano do Sul Municipal;VIPE;5,00;5;10;SP;São Caetano do Sul;21/07/2026
 10173;Viva Pinda - Cartão Municipal Pindamonhangaba;Viva Pinda - Novo Sistema;4,50;5;10;SP;Pindamonhangaba;20/09/2023
 19806;VUG - Cartão Municipal Bebedouro;VUG Bebedouro - Eletrônico;5,00;5;10;SP;Bebedouro;05/08/2026
-7575;West Side Louveira - Cartão Louveira Urbano (West Side);West Side Louveira;6,00;5;10;SP;Louveira;09/11/2023
 15661;Expresso Miracema - Cartão Municipal Luzimangues;Expresso Miracema;7,50;5;10;TO;Porto Nacional;30/12/2025
 3849;Passaredo Araguaína - Cartão BEM Araguaína Urbano;Passaredo - Araguaína;3,75;5;10;TO;Araguaina;10/03/2019
 15713;Sou - Palmas - Cartão Municipal Palmas;Sou - Palmas;4,85;5;10;TO;Palmas;09/05/2025
