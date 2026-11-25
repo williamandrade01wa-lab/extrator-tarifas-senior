@@ -2432,6 +2432,14 @@
         "cidade": "Anápolis"
     },
     {
+        "codigo": "19936",
+        "nome": "Urban - Cartão Municipal Anápolis",
+        "fornecedor": "Urban - Novo Sistema",
+        "valor": "5,25",
+        "uf": "GO",
+        "cidade": "Anápolis"
+    },
+    {
         "codigo": "15924",
         "nome": "Viação Itapetinga - Rio Verde - Novo Sistema - Cartão Municipal Rio Verde",
         "fornecedor": "Viação Itapetinga - Rio Verde - Novo Sistema",

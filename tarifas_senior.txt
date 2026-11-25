@@ -303,6 +303,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 5533;Transduarte Passaredo - Cartão Municipal Catalão;Transduarte;5,00;5;10;GO;Catalão;13/01/2023
 9933;Translocave - Cartão Municipal Jataí;Translocave - Jataí;4,30;5;10;GO;Jataí;26/12/2022
 284;Urban - Cartão Municipal Anápolis;Urban;5,25;5;10;GO;Anápolis;05/12/2024
+19936;Urban - Cartão Municipal Anápolis;Urban - Novo Sistema;5,25;5;10;GO;Anápolis;24/11/2026
 15924;Viação Itapetinga - Rio Verde - Novo Sistema - Cartão Municipal Rio Verde;Viação Itapetinga - Rio Verde - Novo Sistema;2,00;5;10;GO;Rio Verde;13/02/2026
 5773;Ratrans Imperatriz - Cartão Urbano Imperatriz;Ratrans;4,75;5;10;MA;Imperatriz;12/03/2024
 10851;SBA Maranhão - Cartão SBA Maranhão;Sba Maranhão - Novo Sistema;0,01;5;10;MA;São Luis;15/02/2024
