@@ -2424,14 +2424,6 @@
         "cidade": "Jataí"
     },
     {
-        "codigo": "284",
-        "nome": "Urban - Cartão Municipal Anápolis",
-        "fornecedor": "Urban",
-        "valor": "5,25",
-        "uf": "GO",
-        "cidade": "Anápolis"
-    },
-    {
         "codigo": "19936",
         "nome": "Urban - Cartão Municipal Anápolis",
         "fornecedor": "Urban - Novo Sistema",
@@ -4907,7 +4899,7 @@
         "codigo": "8579",
         "nome": "Empresa Unida - Cartão Chácara X Juiz de Fora",
         "fornecedor": "Empresa Unida",
-        "valor": "11,40",
+        "valor": "12,15",
         "uf": "MG",
         "cidade": "Juiz de Fora"
     },
@@ -4915,7 +4907,7 @@
         "codigo": "15645",
         "nome": "Empresa Unida - Cartão Visconde de Rio Branco X Ubá",
         "fornecedor": "Empresa Unida",
-        "valor": "9,50",
+        "valor": "12,15",
         "uf": "MG",
         "cidade": "Juiz de Fora"
     },
@@ -4923,7 +4915,7 @@
         "codigo": "16039",
         "nome": "Empresa Unida - QR-Code - Cartão Barbacena X Rio Pomba",
         "fornecedor": "Empresa Unida - QR-Code",
-        "valor": "48,84",
+        "valor": "51,50",
         "uf": "MG",
         "cidade": "Juiz de Fora"
     },
@@ -4939,7 +4931,7 @@
         "codigo": "19820",
         "nome": "Empresa Unida - QR-Code - Cartão Cataguases X Dona Euzebia",
         "fornecedor": "Empresa Unida - QR-Code",
-        "valor": "8,70",
+        "valor": "10,00",
         "uf": "MG",
         "cidade": "Juiz de Fora"
     },
@@ -4947,7 +4939,7 @@
         "codigo": "19821",
         "nome": "Empresa Unida - QR-Code - Cartão Leopoldina X Cataguases",
         "fornecedor": "Empresa Unida - QR-Code",
-        "valor": "14,75",
+        "valor": "15,75",
         "uf": "MG",
         "cidade": "Juiz de Fora"
     },
@@ -7227,7 +7219,7 @@
         "codigo": "9455",
         "nome": "Coletivos Viagens - Cartão Agrestina X Caruaru",
         "fornecedor": "Coletivos Viagens",
-        "valor": "8,00",
+        "valor": "9,00",
         "uf": "PE",
         "cidade": "Caruaru"
     },
@@ -7243,7 +7235,7 @@
         "codigo": "9457",
         "nome": "Coletivos Viagens - Cartão Caruaru X Riacho das Almas",
         "fornecedor": "Coletivos Viagens",
-        "valor": "8,00",
+        "valor": "9,00",
         "uf": "PE",
         "cidade": "Caruaru"
     },
@@ -7251,7 +7243,7 @@
         "codigo": "9458",
         "nome": "Coletivos Viagens - Cartão Caruaru X São Joaquim do Monte",
         "fornecedor": "Coletivos Viagens",
-        "valor": "17,00",
+        "valor": "20,00",
         "uf": "PE",
         "cidade": "Caruaru"
     },
@@ -7267,7 +7259,7 @@
         "codigo": "10909",
         "nome": "Coletivos Viagens - Cartão J.Nabuco X N.Palmares",
         "fornecedor": "Coletivos Viagens",
-        "valor": "5,00",
+        "valor": "6,00",
         "uf": "PE",
         "cidade": "Caruaru"
     },
@@ -7275,7 +7267,7 @@
         "codigo": "15495",
         "nome": "Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329)",
         "fornecedor": "Coletivos Viagens",
-        "valor": "19,00",
+        "valor": "22,00",
         "uf": "PE",
         "cidade": "Caruaru"
     },
@@ -7291,7 +7283,7 @@
         "codigo": "19804",
         "nome": "Coletivos Viagens - Cartão Caruaru X Bezerros (Linha 1339)",
         "fornecedor": "Coletivos Viagens",
-        "valor": "7,00",
+        "valor": "11,00",
         "uf": "PE",
         "cidade": "Caruaru"
     },
@@ -9947,7 +9939,7 @@
         "codigo": "8960",
         "nome": "Bento Transportes (Farroupilha) - Cartão Farroupilha X Carlos Barbosa",
         "fornecedor": "Bento Transportes - Farroupilha",
-        "valor": "8,50",
+        "valor": "9,25",
         "uf": "RS",
         "cidade": "Farroupilha"
     },
@@ -19251,7 +19243,7 @@
         "codigo": "15649",
         "nome": "Guerino Seiscentos - Cartão Promissão X Lins",
         "fornecedor": "Guerino Seiscentos",
-        "valor": "7,95",
+        "valor": "8,35",
         "uf": "SP",
         "cidade": "Tupã"
     },
@@ -20011,7 +20003,7 @@
         "codigo": "10390",
         "nome": "Mov Itu - Cartão Indaiatuba X Salto (Linha 221)",
         "fornecedor": "Mov Itu",
-        "valor": "7,55",
+        "valor": "7,95",
         "uf": "SP",
         "cidade": "Itú"
     },
@@ -20027,7 +20019,7 @@
         "codigo": "10392",
         "nome": "Mov Itu - Cartão Itu (Road Shopping) X Itu (Terminal Cidade Nova) (Linha 6225)",
         "fornecedor": "Mov Itu",
-        "valor": "6,25",
+        "valor": "6,15",
         "uf": "SP",
         "cidade": "Itú"
     },
@@ -20051,7 +20043,7 @@
         "codigo": "10395",
         "nome": "Mov Itu - Cartão Itu X Mairinque (Linha 6226)",
         "fornecedor": "Mov Itu",
-        "valor": "6,25",
+        "valor": "6,15",
         "uf": "SP",
         "cidade": "Itú"
     },
@@ -20067,7 +20059,7 @@
         "codigo": "10397",
         "nome": "Mov Itu - Cartão Salto X Sorocaba (Linha 6208)",
         "fornecedor": "Mov Itu",
-        "valor": "10,90",
+        "valor": "11,00",
         "uf": "SP",
         "cidade": "Itú"
     },

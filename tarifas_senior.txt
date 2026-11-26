@@ -302,7 +302,6 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 1340;SITPASS - Cartão Municipal Goiânia;Sitpass;4,30;3;10;GO;Goiânia;19/04/2019
 5533;Transduarte Passaredo - Cartão Municipal Catalão;Transduarte;5,00;5;10;GO;Catalão;13/01/2023
 9933;Translocave - Cartão Municipal Jataí;Translocave - Jataí;4,30;5;10;GO;Jataí;26/12/2022
-284;Urban - Cartão Municipal Anápolis;Urban;5,25;5;10;GO;Anápolis;05/12/2024
 19936;Urban - Cartão Municipal Anápolis;Urban - Novo Sistema;5,25;5;10;GO;Anápolis;24/11/2026
 15924;Viação Itapetinga - Rio Verde - Novo Sistema - Cartão Municipal Rio Verde;Viação Itapetinga - Rio Verde - Novo Sistema;2,00;5;10;GO;Rio Verde;13/02/2026
 5773;Ratrans Imperatriz - Cartão Urbano Imperatriz;Ratrans;4,75;5;10;MA;Imperatriz;12/03/2024
@@ -612,12 +611,12 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 15182;Sintram - Cartão Ótimo (Linhas Metropolitanas);Consórcio Ótimo (Sintram);12,20;5;10;MG;Belo Horizonte;05/03/2025
 7257;Cooperseltta - Cartão Municipal Sete Lagoas;Cooperseltta;5,45;5;10;MG;Sete Lagoas;02/03/2026
 653;Divpass - Cartão Municipal Divinópolis;Divpass - Novo Sistema;5,50;5;10;MG;Divinópolis;30/04/2026
-8579;Empresa Unida - Cartão Chácara X Juiz de Fora;Empresa Unida;11,40;5;10;MG;Juiz de Fora;02/10/2025
-15645;Empresa Unida - Cartão Visconde de Rio Branco X Ubá;Empresa Unida;9,50;5;10;MG;Juiz de Fora;02/10/2025
-16039;Empresa Unida - QR-Code - Cartão Barbacena X Rio Pomba;Empresa Unida - QR-Code;48,84;5;10;MG;Juiz de Fora;27/10/2026
+8579;Empresa Unida - Cartão Chácara X Juiz de Fora;Empresa Unida;12,15;5;10;MG;Juiz de Fora;26/11/2026
+15645;Empresa Unida - Cartão Visconde de Rio Branco X Ubá;Empresa Unida;12,15;5;10;MG;Juiz de Fora;26/11/2026
+16039;Empresa Unida - QR-Code - Cartão Barbacena X Rio Pomba;Empresa Unida - QR-Code;51,50;5;10;MG;Juiz de Fora;26/11/2026
 19819;Empresa Unida - QR-Code - Cartão Astolfo Dutra X Cataguases (Semiurbano);Empresa Unida - QR-Code;10,70;5;10;MG;Juiz de Fora;21/09/2026
-19820;Empresa Unida - QR-Code - Cartão Cataguases X Dona Euzebia;Empresa Unida - QR-Code;8,70;5;10;MG;Juiz de Fora;11/08/2026
-19821;Empresa Unida - QR-Code - Cartão Leopoldina X Cataguases;Empresa Unida - QR-Code;14,75;5;10;MG;Juiz de Fora;11/08/2026
+19820;Empresa Unida - QR-Code - Cartão Cataguases X Dona Euzebia;Empresa Unida - QR-Code;10,00;5;10;MG;Juiz de Fora;26/11/2026
+19821;Empresa Unida - QR-Code - Cartão Leopoldina X Cataguases;Empresa Unida - QR-Code;15,75;5;10;MG;Juiz de Fora;26/11/2026
 19885;Empresa Unida - QR-Code - Cartão Astolfo Dutra X Cataguases (convencional);Empresa Unida - QR-Code;13,30;5;10;MG;Juiz de Fora;18/09/2026
 3828;Enscon - Cartão Municipal João Monlevade;Enscon;3,80;5;10;MG;João Monlevade;16/09/2021
 6897;Enscon - Cartão Lages X Carneirinhos;Enscon;7,70;5;10;MG;João Monlevade;02/10/2025
@@ -902,15 +901,15 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9299;Borborema - Cartão Vitória X Recife (Executivo) Linha 808.3;Borborema - Vitória/Recife (Executivo) Linha 808.3;17,00;5;10;PE;Recife;11/03/2025
 5250;Borborema - Cartão Vitória (Via BR232) X Recife (Via Jaboatão);Borborema - Vitória/Recife (via Jaboatão);22,00;5;10;PE;Recife;25/08/2026
 4776;Coletivos São Cristóvão - Cartão Municipal Garanhuns;Coletivos São Cristóvão;4,70;5;10;PE;Garanhuns;31/12/2025
-9455;Coletivos Viagens - Cartão Agrestina X Caruaru;Coletivos Viagens;8,00;5;10;PE;Caruaru;20/04/2026
+9455;Coletivos Viagens - Cartão Agrestina X Caruaru;Coletivos Viagens;9,00;5;10;PE;Caruaru;26/11/2026
 9456;Coletivos Viagens - Cartão Altinho X Caruaru;Coletivos Viagens;14,00;5;10;PE;Caruaru;23/11/2026
-9457;Coletivos Viagens - Cartão Caruaru X Riacho das Almas;Coletivos Viagens;8,00;5;10;PE;Caruaru;20/04/2026
-9458;Coletivos Viagens - Cartão Caruaru X São Joaquim do Monte;Coletivos Viagens;17,00;5;10;PE;Caruaru;20/04/2026
+9457;Coletivos Viagens - Cartão Caruaru X Riacho das Almas;Coletivos Viagens;9,00;5;10;PE;Caruaru;26/11/2026
+9458;Coletivos Viagens - Cartão Caruaru X São Joaquim do Monte;Coletivos Viagens;20,00;5;10;PE;Caruaru;26/11/2026
 9459;Coletivos Viagens - Cartão Palmares X Água Preta;Coletivos Viagens;6,00;5;10;PE;Caruaru;20/04/2026
-10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;5,00;5;10;PE;Caruaru;25/05/2026
-15495;Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329);Coletivos Viagens;19,00;5;10;PE;Caruaru;20/04/2026
+10909;Coletivos Viagens - Cartão J.Nabuco X N.Palmares;Coletivos Viagens;6,00;5;10;PE;Caruaru;26/11/2026
+15495;Coletivos Viagens - Cartão Barreiros X Palmares (Linha 1329);Coletivos Viagens;22,00;5;10;PE;Caruaru;26/11/2026
 19730;Coletivos Viagens - Cartão São Caetano X Caruaru;Coletivos Viagens;6,00;5;10;PE;Caruaru;02/06/2026
-19804;Coletivos Viagens - Cartão Caruaru X Bezerros (Linha 1339);Coletivos Viagens;7,00;5;10;PE;Caruaru;04/08/2026
+19804;Coletivos Viagens - Cartão Caruaru X Bezerros (Linha 1339);Coletivos Viagens;11,00;5;10;PE;Caruaru;26/11/2026
 6686;Expresso 1002 - Cartão Paudalho X Recife;Expresso 1002;16,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
 7670;Expresso 1002 - Cartão Carpina X Lagoa do Carro;Expresso 1002;5,50;5;10;PE;Jaboatão dos Guararapes;17/07/2026
 8226;Expresso 1002 - Cartão Surubim X Toritama;Expresso 1002;14,00;5;10;PE;Jaboatão dos Guararapes;17/07/2026
@@ -1242,7 +1241,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10175;Atu Santa Maria - Cartão Integração Santa Maria;Atu Santa Maria;5,00;5;10;RS;Santa Maria;09/03/2026
 2300;Auto Viação Vale do Sol - Cartão Santa Cruz X Vera Cruz;Auto Viação Vale do Sol;7,80;5;10;RS;Santa Cruz do Sul;13/04/2026
 6580;Bento Transportes (Farroupilha) - Cartão Urbano Farroupilha;Bento Transportes - Farroupilha;6,00;5;10;RS;Farroupilha;23/02/2026
-8960;Bento Transportes (Farroupilha) - Cartão Farroupilha X Carlos Barbosa;Bento Transportes - Farroupilha;8,50;5;10;RS;Farroupilha;05/11/2025
+8960;Bento Transportes (Farroupilha) - Cartão Farroupilha X Carlos Barbosa;Bento Transportes - Farroupilha;9,25;5;10;RS;Farroupilha;26/11/2026
 8961;Bento Transportes (Farroupilha) - Cartão Nova Sardenha X Carlos Barbosa;Bento Transportes - Farroupilha;8,50;5;10;RS;Farroupilha;05/11/2025
 15556;Caiense - Cartão Municipal São Sebastião do Caí;Caiense;5,25;5;10;RS;São Sebastião do Caí;14/01/2025
 2837;Caxiense - Cartão Caxias do Sul X Flores da Cunha / Porto Alegre e Região;Caxiense;9,25;5;10;RS;Porto Alegre;18/06/2026
@@ -2405,7 +2404,7 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 9162;Guerino Seiscentos - Cartão Getulina X Lins;Guerino Seiscentos;9,50;5;10;SP;Tupã;15/07/2026
 10284;Guerino Seiscentos - Cartão Getulina X Marília;Guerino Seiscentos;17,75;5;10;SP;Tupã;15/07/2026
 15599;Guerino Seiscentos - Cartão Salto Grande X Ourinhos;Guerino Seiscentos;7,95;5;10;SP;Tupã;04/08/2026
-15649;Guerino Seiscentos - Cartão Promissão X Lins;Guerino Seiscentos;7,95;5;10;SP;Tupã;26/10/2026
+15649;Guerino Seiscentos - Cartão Promissão X Lins;Guerino Seiscentos;8,35;5;10;SP;Tupã;26/11/2026
 15671;Guerino Seiscentos - Cartão Lins X Guaiçara;Guerino Seiscentos;6,20;5;10;SP;Tupã;15/07/2026
 15765;Guerino Seiscentos - Cartão Ribeirão do Sul X Ourinhos;Guerino Seiscentos;10,75;5;10;SP;Tupã;15/07/2026
 16133;Guerino Seiscentos - Cartão Assis X Cândido Mota;Guerino Seiscentos;7,25;5;10;SP;Tupã;15/07/2026
@@ -2500,14 +2499,14 @@ Cod.;Nome;Fornecedor;Valor Unit.;Prazo recarga;Prazo cartão novo;UF;Cidade;Data 
 10771;Mov - Avaré - Cartão Municipal Avaré;Mov - Avaré;4,30;5;10;SP;Avaré;26/12/2023
 10153;Mov Boituva - Cartão Municipal Boituva;Mov - Boituva;4,00;5;10;SP;Boituva;05/05/2025
 19481;Mov - Franca - Cartão Municipal Franca;Mov - Franca;4,00;5;10;SP;Franca;02/04/2026
-10390;Mov Itu - Cartão Indaiatuba X Salto (Linha 221);Mov Itu;7,55;5;10;SP;Itú;03/07/2025
+10390;Mov Itu - Cartão Indaiatuba X Salto (Linha 221);Mov Itu;7,95;5;10;SP;Itú;26/11/2026
 10391;Mov Itu - Cartão Porto Feliz X Itu (Linha 6222);Mov Itu;6,75;5;10;SP;Itú;07/01/2026
-10392;Mov Itu - Cartão Itu (Road Shopping) X Itu (Terminal Cidade Nova) (Linha 6225);Mov Itu;6,25;5;10;SP;Itú;07/01/2026
+10392;Mov Itu - Cartão Itu (Road Shopping) X Itu (Terminal Cidade Nova) (Linha 6225);Mov Itu;6,15;5;10;SP;Itú;26/11/2026
 10393;Mov Itu - Cartão Salto X Itu (Linha 6206);Mov Itu;5,40;5;10;SP;Itú;07/01/2026
 10394;Mov Itu - Cartão Municipal Itu;Mov Itu;5,15;5;10;SP;Itú;03/10/2023
-10395;Mov Itu - Cartão Itu X Mairinque (Linha 6226);Mov Itu;6,25;5;10;SP;Itú;07/01/2026
+10395;Mov Itu - Cartão Itu X Mairinque (Linha 6226);Mov Itu;6,15;5;10;SP;Itú;26/11/2026
 10396;Mov Itu - Cartão Itu X Cabreúva;Mov Itu;5,15;5;10;SP;Itú;03/10/2023
-10397;Mov Itu - Cartão Salto X Sorocaba (Linha 6208);Mov Itu;10,90;5;10;SP;Itú;07/01/2026
+10397;Mov Itu - Cartão Salto X Sorocaba (Linha 6208);Mov Itu;11,00;5;10;SP;Itú;26/11/2026
 7575;West Side Louveira - Cartão Louveira Urbano (West Side);Mov Louveira;6,00;5;10;SP;Louveira;09/11/2023
 9323;Mov Paulínia - Cartão Municipal Paulínia;Mov Paulínia;1,00;5;10;SP;Paulínia;17/02/2022
 8410;Rápido Sumaré Vinhedo - Cartão Urbano Vinhedo;Mov Vinhedo;6,00;5;10;SP;Vinhedo;03/01/2025
