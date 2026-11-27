@@ -2424,6 +2424,14 @@
         "cidade": "Jataí"
     },
     {
+        "codigo": "284",
+        "nome": "Urban - Cartão Municipal Anápolis",
+        "fornecedor": "Urban",
+        "valor": "5,25",
+        "uf": "GO",
+        "cidade": "Anápolis"
+    },
+    {
         "codigo": "19936",
         "nome": "Urban - Cartão Municipal Anápolis",
         "fornecedor": "Urban - Novo Sistema",
